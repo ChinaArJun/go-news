@@ -1,4 +1,34 @@
 # go-news-set-2020-06-18
+## go语言中文网(每日资讯)-2020-06-18
+一、Go语言中文网
+
+1. [部署一个 Go 应用的正确姿势](https://mp.weixin.qq.com/s/tbEiLDL11YPUKVaAfUbOmQ)
+
+2. [Go 每日一库之 twirp：又一个 RPC 框架](https://mp.weixin.qq.com/s/yJcLDCX8q1TN6qOeXwpWAw)
+
+3. [煎鱼 Go Gin 系列六：编写一个简单的文件日志](https://mp.weixin.qq.com/s/Gsfh0oATR0nHdxW_ARywdA)
+
+4. [2020重学Go系列：36. 图解：通俗易懂解释反射三大定律](https://mp.weixin.qq.com/s/j4rEWaUd6pm7YAacGSXf3Q)
+
+
+二、亚军进化史
+
+1. [Go技术日报（2020-06-17）](https://studygolang.com/topics/11719)
+
+三、GoUpUp
+
+1. [Go 每日一库之 fyne](https://mp.weixin.qq.com/s/pM0vQri9j4_qD1fLsvsf5g)
+
+四、 网管叨bi叨
+
+1. [七张图了解Kubernetes内部的架构](https://mp.weixin.qq.com/s/zhdl-usExsCButh9RHp8Zw)
+
+五、 小米云技术
+
+1. [小米Redis的K8s容器化部署实践](https://mp.weixin.qq.com/s/WrUU3C-C8TBgJfGuOv3qGQ)
+
+
+# go-news-set-2020-06-18
 ## gocn_news-2020-06-18
 - 1.说说 Go 语言里的空接口 https://mp.weixin.qq.com/s/33yi5qzq1r07s0dGRwjoEg
 
