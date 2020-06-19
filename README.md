@@ -1,3 +1,16 @@
+# go-news-set-2020-06-19
+## gocn_news-2020-06-19
+- 1.Go 算法模板 https://github.com/greyireland/algorithm-pattern
+
+- 2.七天用 Go 写个 docker(连载) https://learnku.com/articles/42072
+
+- 3.手撸一个高性能 goroutine 池 https://xie.infoq.cn/article/f9e05237b395fc35970b40fbb
+
+- 4.七天用 Go 从零实现 ORM 框架 https://geektutu.com/post/geeorm.html
+
+- 5.快速反向代理 https://github.com/fatedier/frp
+
+
 # go-news-set-2020-06-18
 ## go语言中文网(每日资讯)-2020-06-18
 一、Go语言中文网
