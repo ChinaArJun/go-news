@@ -1,3 +1,49 @@
+# go-news-set-2020-06-20
+## gocn_news-2020-06-20
+- 1.通过内存分配来学习 go 中的机制 https://juejin.im/post/5eec0ae251882565c236bf4b
+
+- 2.暗黑破坏神 2 开源实现，基于 Go 开发引擎 https://github.com/OpenDiablo2/OpenDiablo2
+
+- 3.Go 使用 GroupCache 作为分布式缓存 https://www.mailgun.com/blog/golangs-superior-cache-solution-memcached-redis/
+
+- 4.使用 Go 和 VSCodium 开发 GTK 应用 https://lupyuen.github.io/pinetime-rust-mynewt/articles/gotk3
+
+- 5.GORM 2.0 Release Note (Draft) https://github.com/go-gorm/gorm/wiki/GORM-V2-Release-Note-Draft-CN
+
+
+# go-news-set-2020-06-19
+## go语言中文网(每日资讯)-2020-06-19
+一、Go语言中文网
+
+1. [微服务架构下 Go 包的代码组织实践](https://mp.weixin.qq.com/s/fNh9A2gyR1gb7mMTH-BdlQ)
+
+2. [漫画：一个程序员写多门语言不会记串么？](https://mp.weixin.qq.com/s/3lBcne1BM3I1JyZBGV0MLA)
+
+3. [Go 每日一库之 casbin：权限管理](https://mp.weixin.qq.com/s/3osxSJvqB-xJA3U5dRvpeQ)
+
+4. [七张图了解Kubernetes内部的架构](https://mp.weixin.qq.com/s/3sGQvicSOegHibW0I5ctBA)
+
+5. [煎鱼 Go Gin 系列七：优雅的重启服务](https://mp.weixin.qq.com/s/MUN8kY3CiKwtRG_Yo22WWQ)
+
+二、亚军进化史
+
+1. [Go技术日报（2020-06-18）](https://studygolang.com/topics/11728)
+
+三、GoUpUp
+
+1. [使用 fyne 编写一个计算器程序](https://mp.weixin.qq.com/s/RioXW78zyUfhCXjKjf_dXw)
+
+四、鸟窝
+
+1. [本地运行Go泛型代码](https://colobu.com/2020/06/18/run-local-go-generic-files/)
+
+五、 Go 夜读
+
+1. [【下周二预告】第 93 期 Seata Go 分布式事务框架的介绍与实战](https://mp.weixin.qq.com/s/U5Lbr0Esz1BxV1-u8fCpzw)
+
+六、老叶茶馆
+
+1. [Linux有哪些常用的MySQL性能瓶颈分析工具](https://mp.weixin.qq.com/s/WPYsMVcfvyB1YcKGqbY-1A)
 # go-news-set-2020-06-19
 ## gocn_news-2020-06-19
 - 1.Go 算法模板 https://github.com/greyireland/algorithm-pattern
