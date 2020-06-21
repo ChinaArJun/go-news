@@ -1,4 +1,32 @@
 # go-news-set-2020-06-21
+## go语言中文网(每日资讯)-2020-06-21
+一、Go语言中文网
+
+1. [Go语言爱好者周刊：第 48 期](https://mp.weixin.qq.com/s/9trBoRVfZJHDeosmyXKK1g)
+
+2. [Golang 定时器底层实现深度剖析](https://mp.weixin.qq.com/s/GWeuwifl8Iyew5MD62txYg)
+
+3. [煎鱼 Go Gin 系列九：将Golang应用部署到Docker](https://mp.weixin.qq.com/s/51c_VqELxEWbgq1bCwWfog)
+
+4. [Go 刷 LeetCode 系列：经典（2）拓扑排序](https://mp.weixin.qq.com/s/NWDi-LvRAvwhmhw_QItepQ)
+
+
+二、亚军进化史
+
+1. [Go技术日报（2020-06-20）](https://studygolang.com/topics/11736)
+
+三、分布式实验室
+
+1. [Prometheus 踩坑集锦](https://mp.weixin.qq.com/s/7lDC26iwxZUEO-lrHrP1qw)
+
+四、高可用架构
+
+1. [Go 新版泛型使用：80余行代码构建一个哈希表](https://mp.weixin.qq.com/s/HR0_GRoaWY6Md_3ff-pSNQ)
+
+五、云原生技术爱好者社区
+
+1. [如何使用 Ingress-nginx 进行前后端分离？](https://mp.weixin.qq.com/s/fR_9xJgciPhGIQe_s4p_ww)
+# go-news-set-2020-06-21
 ## gocn_news-2020-06-21
 - 1.在双核 RISC-V 上玩转 Go 调度器 https://embeddedgo.github.io/2020/06/21/playing_with_go_schedulers_on_a_dual-core_risc-v.html
 
