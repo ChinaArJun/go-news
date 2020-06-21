@@ -1,3 +1,16 @@
+# go-news-set-2020-06-21
+## gocn_news-2020-06-21
+- 1.在双核 RISC-V 上玩转 Go 调度器 https://embeddedgo.github.io/2020/06/21/playing_with_go_schedulers_on_a_dual-core_risc-v.html
+
+- 2.Kubernetes 服务部署最佳实践: 如何提高服务可用性 https://gocn.vip/topics/10589
+
+- 3.Prometheus 踩坑集锦 https://mp.weixin.qq.com/s/7lDC26iwxZUEO-lrHrP1qw
+
+- 4.TiDB 异构数据库复制最佳实践 https://gocn.vip/topics/10586
+
+- 5.Golang 熔断器 https://blog.lpflpf.cn/passages/circuit-breaker/
+
+
 # go-news-set-2020-06-20
 ## go语言中文网(每日资讯)-2020-06-20
 一、Go语言中文网
