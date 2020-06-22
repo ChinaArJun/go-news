@@ -1,3 +1,15 @@
+# go-news-set-2020-06-22
+## gocn_news-2020-06-22
+- 1.一个非侵入的 Go 事务管理库——工作原理 https://segmentfault.com/a/1190000022988368
+
+- 2.用 golang 实现的 GameBoy Color 模拟器 https://github.com/Akatsuki-py/Worldwide
+
+- 3.Go Make or New 详解 https://levelup.gitconnected.com/go-make-or-new-bc19f5a57bf9
+
+- 4.斗鱼 Juno 监控中心的设计与实现 https://gocn.vip/topics/10596
+
+- 5.Go 实现的 HTTP 中间件库 negroni github.com/urfave/negroni
+
 # go-news-set-2020-06-21
 ## go语言中文网(每日资讯)-2020-06-21
 一、Go语言中文网
