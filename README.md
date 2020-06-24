@@ -1,3 +1,130 @@
+# go-news-set-2020-06-24
+## go语言中文网(每日资讯)-2020-06-24
+一、Go语言中文网
+
+1. [解读 pkg.go.dev 的设计和实现：设计篇](https://mp.weixin.qq.com/s/LA3KB9Rd7kRLyc3lgSGOGQ)
+
+2. [带着问题学习微服务应用编排与管理](https://mp.weixin.qq.com/s/zNUc3lr8QFjYNgKXd9y2uw)
+
+3. [为什么容器内存占用居高不下，频频 OOM（续）](https://mp.weixin.qq.com/s/A8LyFQkeBqQSsPYKbRPelw)
+
+4. [Go 每日一库之 negroni](https://mp.weixin.qq.com/s/TwkIgdcdkhPZt0W_w9N-fg)
+
+5. [Go 刷 LeetCode 系列：动态规划（10）编辑距离](https://mp.weixin.qq.com/s/5YoYklsJAnkPdR1aA4m0KA)
+
+二、亚军进化史
+
+1. [Go技术日报（2020-06-23）](https://studygolang.com/topics/11752)
+
+三、GoUpUp
+
+1. [Go 每日一库之 cli](https://mp.weixin.qq.com/s/GQOFK125D4WB6DqIlv19_w)
+
+四、互联网技术窝
+
+1. [为什么Go语言不允许循环引入?](https://mp.weixin.qq.com/s/tPUwuoMjz7bF1i84IBJjdQ)
+
+五、分布式实验室
+
+1. [云原生计算基金会宣布Harbor项目正式毕业 ](https://mp.weixin.qq.com/s/iz9_uDOebHrMTzvfX_lSUA)
+# go-news-set-2020-06-24
+## gopherDaily-2020-06-24
+- 1.基于Go新泛型方案的错误处理实验 - https://deedlefake.com/experimenting-with-error-handling-via-generics-in-go.html
+- 2.首个中国原创项目Harbor从CNCF毕业 - https://mp.weixin.qq.com/s/-cKRF9WKEtF1mDMiiLE0Hg
+- 3.Go实现的状态机框架 - https://venilnoronha.io/a-simple-state-machine-framework-in-go
+- 4.使用Linux内核和Raspberry Pi学习操作系统开发 - https://s-matyukevich.github.io/raspberry-pi-os/
+- 5.go-envconfig: 一个通过结构体类型标记绑定方式读取环境变量的配置库 - https://github.com/sethvargo/go-envconfig
+
+# go-news-set-2020-06-24
+## gocn_news-2020-06-24
+- 1.Gitea 1.12.0 and 1.12.1 are released https://blog.gitea.io/2020/06/gitea-1.12.0-and-1.12.1-are-released/
+
+- 2.CNCF 宣布首个中国原创项目 Harbor 毕业 https://mp.weixin.qq.com/s/-cKRF9WKEtF1mDMiiLE0Hg
+
+- 3.抽丝剥茧—Go 哈希 Map 的鬼魅神功 https://mp.weixin.qq.com/s/EPq2cAR587h4P--Jj65fBw
+
+- 4.Golang 定时器底层实现深度剖析 https://gocn.vip/topics/10587
+
+- 5.Golang 技巧之默认值的设置 https://mp.weixin.qq.com/s/juvg95GFhuhK92s1XLDLnw
+
+
+# go-news-set-2020-06-23
+## go语言中文网(每日资讯)-2020-06-23
+一、Go语言中文网
+
+1. [Go 字符串中的潜在问题](https://mp.weixin.qq.com/s/AKPi9lEv78MYCIYMbrojvA)
+
+2. [部署一套完整的Kubernetes高可用集群（上）](https://mp.weixin.qq.com/s/pmc1ZRm3PxOAIrmPdVXggw)
+
+3. [煎鱼 Go Gin 系列十一：Cron定时任务](https://mp.weixin.qq.com/s/UgS1rbHk61OqslKvjOdi3g)
+
+4. [Go 刷 LeetCode 系列：动态规划（9）不同路径 II](https://mp.weixin.qq.com/s/Lc0jQxRtKYwhX8ZTX3stKA)
+
+二、亚军进化史
+
+1. [Go技术日报（2020-06-22）](https://studygolang.com/topics/11746)
+
+三、阿里技术
+
+1. [7 个建议让 Code Review 高效又高质](https://mp.weixin.qq.com/s/AejIOMNxsI_Ru5G0W8AeTg)
+
+四、轩脉刃的刀光剑影
+
+1. [chromedp入门](https://mp.weixin.qq.com/s/bfofMeKnqPOtG_CN1HCrXQ)
+
+五、polarisxu
+
+1. [苹果宣布 Mac 放弃 x86 转向 ARM：看看你要补充学习知识吗？](https://mp.weixin.qq.com/s/V6MJRPfKK3m1rNMn9hUvjw)
+# go-news-set-2020-06-23
+## gocn_news-2020-06-23
+- 1.使用 go-room 来实现边缘设备数据存储的版本管理 https://medium.com/adonmo-tech/go-room-5c1d4f46a77e
+
+- 2.用测试来驱动学习 Go2 泛型
+
+- 3.在采用 K8s 之前您必须了解的 5 件事情 https://mp.weixin.qq.com/s/mKAEzQHAmNVv4DfYQQ5iug
+
+- 4.Serverless 的初心、现状和未来 https://gocn.vip/topics/10604
+
+- 5.基于 webrtc 传输,实现 grpc 通信 https://github.com/jsmouret/grpc-over-webrtc
+
+
+# go-news-set-2020-06-22
+## go语言中文网(每日资讯)-2020-06-22
+一、Go语言中文网
+
+1. [如何科学选择一门编程语言？理性选择，我依然选 Go](https://mp.weixin.qq.com/s/v9kHuRC6GcmCJgd6A68Wlw)
+
+2. [Go 语言源码阅读有感：no copy 机制](https://mp.weixin.qq.com/s/io12hy7xjaAMS5tZ_-aCOA)
+
+3. [为什么 Kafka 这么快？](https://mp.weixin.qq.com/s/BzAfQU68aDvXgvwTeJzRUQ)
+
+4. [煎鱼 Go Gin 系列十：定制 GORM Callbacks](https://mp.weixin.qq.com/s/03Jy6HkTjUo7Di_j-ZLl9A)
+
+5. [Go 刷 LeetCode 系列：经典（3） 设计推特](https://mp.weixin.qq.com/s/IdyBiJq0oVDop7p_kAkmWw)
+
+二、亚军进化史
+
+1. [Go技术日报（2020-06-21）](https://studygolang.com/topics/11742)
+
+三、煎鱼
+
+1. [为什么容器内存占用居高不下，频频 OOM（续）](https://eddycjy.com/posts/why-container-memory-exceed2/)
+
+四、GoUpUp
+
+1. [Go 每日一库之 negroni](https://mp.weixin.qq.com/s/D4BrWswzxev8phZ9FcBBzg)
+
+五、polarisxu
+
+1. [万字长文解读 pkg.go.dev 的设计和实现](https://mp.weixin.qq.com/s/btX53JVCgfOfxDy2ynQa_A)
+
+六、 MoeLove
+
+1. [K8S 生态周报| CoreDNS 发布 v1.7.0](https://mp.weixin.qq.com/s/FVm0dfB5rZP8xaD3q8sLsw)
+
+七、云原生技术爱好者社区
+
+1. [flannel跨主网络通信方案（UDP、VXLAN、HOST-GW）详解 ](https://mp.weixin.qq.com/s/hgVAjl0q9y0osgNfYIO4ng)
 # go-news-set-2020-06-22
 ## gocn_news-2020-06-22
 - 1.一个非侵入的 Go 事务管理库——工作原理 https://segmentfault.com/a/1190000022988368
