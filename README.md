@@ -1,4 +1,37 @@
 # go-news-set-2020-06-25
+## go语言中文网(每日资讯)-2020-06-25
+一、Go语言中文网
+
+1. [2020年开发者生态报告：很多人计划迁移到 Go](https://mp.weixin.qq.com/s/_H83Dc4d9QsgS9JIeEqyTw)
+
+2. [本地搭建一个 pkg.go.dev：遇到的问题和解决](https://mp.weixin.qq.com/s/3eB-RkVHh7b19l3es5IVGw)
+
+3. [Go工具之generate](https://mp.weixin.qq.com/s/vz-Qpt9c5WhyynpBrJLmGA)
+
+4. [煎鱼 Go Gin 系列十二：优化配置结构及实现图片上传](https://mp.weixin.qq.com/s/rCSNnL4UAiM_m7wOAl0SaA)
+
+5. [​部署一套完整的Kubernetes高可用集群（下）](https://mp.weixin.qq.com/s/HAHOR8vtzeIpzGelO32ocw)
+
+二、亚军进化史
+
+1. [Go技术日报（2020-06-24）](https://studygolang.com/topics/11757)
+
+三、aoho求索
+
+1. [抖音、腾讯、阿里、美团春招服务端开发岗位硬核面试（完结）](https://mp.weixin.qq.com/s/7WTezh5FuuJ72I8KcV_yLQ)
+
+四、刘超的通俗云计算
+
+1. [一篇文章搞定大规模容器平台生产落地十大实践](https://mp.weixin.qq.com/s/Cv4i5bxseMEwx1C_Annqig)
+
+五、Go 夜读
+
+1. [《TalkGo 读书会》第二期『Google SRE 运维解密』启动 ](https://mp.weixin.qq.com/s/N-6ZAi4ayfGOHTGPqpAOqw)
+
+六、阿里巴巴云原生
+
+1. [阿里高级技术专家：如何结构化地思考、做事、成长？（文末赠书）](https://mp.weixin.qq.com/s/KdmULPIwZU7LxqE_DhMgNA)
+# go-news-set-2020-06-25
 ## gocn_news-2020-06-25
 - 1.如何做压测 dbq vs sqlx vs gorm https://medium.com/@rocketlaunchr.cloud/how-to-benchmark-dbq-vs-sqlx-vs-gorm-e814caacecb5
 
