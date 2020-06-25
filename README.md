@@ -1,3 +1,11 @@
+# go-news-set-2020-06-25
+## gopherDaily-2020-06-25
+- 1.Go在Arm平台实践：为什么结构体字段对齐很重要 - https://billglover.me/2020/06/19/go-on-arm-why-struct-field-alignment-matters/
+- 2.Go代码安全扫描工具 - https://github.com/securego/gosec
+- 3.Sharingan: didi出品的流量录制回放工具 - https://github.com/didi/sharingan
+- 4.fgprof: 兼容go 原生profiler的profiler，支持非cpu时间采样 - https://github.com/felixge/fgprof
+- 5.用于格式化common lisp代码的Go库 - https://github.com/Ragnaroek/format
+
 # go-news-set-2020-06-24
 ## go语言中文网(每日资讯)-2020-06-24
 一、Go语言中文网
