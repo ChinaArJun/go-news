@@ -1,3 +1,12 @@
+# go-news-set-2020-06-26
+## gopherDaily-2020-06-26
+- 1.使用Go新泛型实现Java Stream - https://snake-ci.com/blog/go2go-stream/
+- 2.用115行Go代码实现SNI代理 - https://www.agwa.name/blog/post/writing_an_sni_proxy_in_go
+- 3.Go源码可视化 - https://github.com/guywhataguy/SourceCodeVisualizer
+- 4.CDN是如何生成证书的 - https://fly.io/blog/how-cdns-generate-certificates/
+- 5.twitter blog: 将搜索索引延迟减少到一秒钟 - https://blog.twitter.com/engineering/en_us/topics/infrastructure/2020/reducing-search-indexing-latency-to-one-second.html
+- 6.使用纯Go创建pdf表格 - https://unidoc.io/news/creating-tables-using-pure-go
+
 # go-news-set-2020-06-25
 ## go语言中文网(每日资讯)-2020-06-25
 一、Go语言中文网
