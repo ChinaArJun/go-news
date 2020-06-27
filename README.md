@@ -1,3 +1,55 @@
+# go-news-set-2020-06-27
+## gopherDaily-2020-06-27
+- 1.php通过ffi与go互操作 - https://spiralscout.com/blog/how-to-use-php-ffi-in-programming
+- 2.2020年关于unikernel的介绍 - https://blog.container-solutions.com/all-about-unikernels-part-2-mirageos-and-rumprun
+- 3.gopkgs: 自定义go包的导入路径 - https://github.com/razonyang/gopkgs
+- 4.drago: wireguard网络配置工具 - https://github.com/seashell/drago
+- 5.Azure发布Service Operator for Kubernetes - https://cloudblogs.microsoft.com/opensource/2020/06/25/announcing-azure-service-operator-kubernetes/
+- 6.使用iPad工作 - https://www.notion.so/Working-on-iPad-ccefea4f9e06455da169c97b3fe054c1
+- 7.xbox架构揭秘 - https://www.copetti.org/projects/consoles/xbox/
+
+# go-news-set-2020-06-26
+## go语言中文网(每日资讯)-2020-06-26
+一、Go语言中文网
+
+1. [为什么你写的代码总是有 Bug？用它来保证 Go 代码质量](https://mp.weixin.qq.com/s/zY-P8tquCuVQxhLX3iu6_Q)
+
+2. [Go 开源的 pkgsite，据说是应届生代码水平？](https://mp.weixin.qq.com/s/gfAlkVW-vhdVJVkdWaX9hg)
+
+3. [Go 的 Debug 工具 delve 介绍](https://mp.weixin.qq.com/s/0w7PgGBkiR6g4aQmBZBY7Q)
+
+4. [Go 每日一库之 cli：命令行程序库](https://mp.weixin.qq.com/s/7uM4lRdJDxjYcaoIxrgKnQ)
+
+5. [煎鱼 Go Gin 系列十三：优化应用结构和实现Redis缓存](https://mp.weixin.qq.com/s/gRIZz_3opvBDT6hnzrgGoA)
+
+二、亚军进化史
+
+1. [Go技术日报（2020-06-25）](https://studygolang.com/topics/11759)
+
+三、polarisxu
+
+1. [面试题：如何更新 Go Module 项目的依赖 — 解决问题的方法很重要](https://mp.weixin.qq.com/s/F8_qzvLxi2uVEbVWTZpd9w)
+
+四、golang小白成长记
+
+1. [golang面试题：对已经关闭的的chan进行读写，会怎么样？为什么？](https://mp.weixin.qq.com/s/qm-8pvHBVRmLQQ4_DHc1Tw)
+
+五、felix021
+
+1. [踩坑记#2：Go服务锁死](https://mp.weixin.qq.com/s/v7B2TQDQ5zDcE2qHeao1gA)
+# go-news-set-2020-06-26
+## gocn_news-2020-06-26
+- 1.简单高效的 Go Worker 池实现 https://medium.com/@in.live.in/goworkers-a-simple-efficient-worker-pool-implementation-cfda05813adb
+
+- 2.Golang 限流器实现 https://blog.lpflpf.cn/passages/time-limiter
+
+- 3.Gox 语言中用代码绘图显示在图形界面中并让它实现自动旋转效果-GX39 https://www.jianshu.com/p/30c7b847e36d
+
+- 4.一个用于从环境变量解析结构标记的类库 https://github.com/sethvargo/go-envconfig
+
+- 5.一个自定义 Go 包的 import path 的命令行工具 https://github.com/razonyang/gopkgs
+
+
 # go-news-set-2020-06-26
 ## gopherDaily-2020-06-26
 - 1.使用Go新泛型实现Java Stream - https://snake-ci.com/blog/go2go-stream/
