@@ -1,3 +1,59 @@
+# go-news-set-2020-06-28
+## gopherDaily-2020-06-28
+- 1.构建一个高性能json parser by Dave Cheney - https://dave.cheney.net/high-performance-json.html
+- 2.beego v2路线图 - https://github.com/astaxie/beego/issues/4035
+- 3.Go编程中常见的3个问题 - https://medium.com/higher-order-functions/golang-three-common-programming-problems-3ef8baf006af
+- 4.gonum数值计算包入门 - https://www.gonum.org/post/intro_to_gonum/
+- 5.goarrange: 根据godoc约定规则实现的Go源码布局工具, 常量排在第一位，其次是变量，函数和类型及其关联的常量，变量，函数和方法，强制按字母序布局 - https://github.com/jdeflander/goarrange
+- 6.trubka: 用于kafka管理的命令行工具 - https://github.com/xitonix/trubka
+- 7.基于Markdown格式的电子书生成工具大比拼：gohugo、mdbook和peach - https://tonybai.com/2020/06/27/gohugo-vs-mdbook-vs-peach
+
+# go-news-set-2020-06-27
+## go语言中文网(每日资讯)-2020-06-27
+一、Go语言中文网
+
+1. [受 express.js 启发，用 20 行代码写出更清晰易用的 Go 中间件 API](https://mp.weixin.qq.com/s/YYbnN0cOtv4YoxBW6Ol_8g)
+
+2. [Go 技巧之函数默认值的设置](https://mp.weixin.qq.com/s/762CaQrH9oBJ-tRFfT3X2w)
+
+3. [Go 每日一库之 chromedp 入门](https://mp.weixin.qq.com/s/kGq2TZWyFPkgw8XyHtetmA)
+
+4. [煎鱼 Go Gin 系列十四：实现导出、导入 Excel](https://mp.weixin.qq.com/s/olllj0jCXE5CJML0XPO5NA)
+
+5. [Go 刷 LeetCode 系列：字符串（5）添加与搜索单词 - 数据结构设计](https://mp.weixin.qq.com/s/HnxGVO4enWHxxJSR41I_aA)
+
+二、亚军进化史
+
+1. [Go技术日报（2020-06-26）](https://studygolang.com/topics/11762)
+
+三、polarisxu
+
+1. [面试题：如何更新 Go Module 项目的依赖 — 解决问题的方法很重要](https://mp.weixin.qq.com/s/F8_qzvLxi2uVEbVWTZpd9w)
+
+四、新亮笔记
+
+1. [重构业务系统，我是这样做的](https://mp.weixin.qq.com/s/v8R_esetYlRvf-mhVLQ0Rw)
+
+五、GoUpUp
+
+1. [Go 每日一库之 cron](https://mp.weixin.qq.com/s/Ak7RBv1NuS-VBeDNo8_fww)
+
+六、wecatch
+
+1. [架构的设计模式：层次架构](https://mp.weixin.qq.com/s/AkorucTdk7U6PqB-VbBAhw)
+# go-news-set-2020-06-27
+## gocn_news-2020-06-27
+- 1.Golang bytes.buffer 详解 https://juejin.im/post/5ef3108af265da22a77c3a5c
+
+- 2.面向服务治理的 Golang 微服务框架 https://github.com/douyu/jupiter
+
+- 3.GORM 源码解读 https://segmentfault.com/a/1190000022987438
+
+- 4.连续文件同步 https://github.com/syncthing/syncthing
+
+- 5.用 pprof 找出程序性能瓶颈 https://learnku.com/articles/45711
+
+
 # go-news-set-2020-06-27
 ## gopherDaily-2020-06-27
 - 1.php通过ffi与go互操作 - https://spiralscout.com/blog/how-to-use-php-ffi-in-programming
