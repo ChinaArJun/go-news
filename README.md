@@ -1,3 +1,45 @@
+# go-news-set-2020-06-30
+## gocn_news-2020-06-30
+- 1.Go：数据库连接池 https://mp.weixin.qq.com/s/auERzyGcuY0C2bvAisy2fQ
+
+- 2.走进 Golang 之 Channel 的数据结构 https://juejin.im/post/5efa9510e51d45349e2545f6
+
+- 3.原生 Go（golang）图形界面系统（2D 和 3D），基于 GoKi 树框架 https://github.com/goki/gi
+
+- 4.百度开源项目 BFE 成为 CNCF 沙箱项目 https://mp.weixin.qq.com/s/AnopPvBlxzL62fpSJBM6Cg
+
+- 5.基于 Chaos Mesh® 和 Argo 打造分布式测试平台 https://mp.weixin.qq.com/s/yhF0XZfpYP8goIikU3yeJw
+
+
+# go-news-set-2020-06-29
+## go语言中文网(每日资讯)-2020-06-29
+一、Go语言中文网
+
+1. [技术掌舵人齐聚Gdevops北京站，解读数据库、智慧运维、Fintech转型精要](https://mp.weixin.qq.com/s/3Ri1rDA1Hm2k0GV9WLbfPQ)
+
+2. [在 Golang 中使用 -w 和 -s 标志](https://mp.weixin.qq.com/s/D2wch7mRZj9qnhKyWWD-ZQ)
+
+3. [Go：数据库连接池](https://mp.weixin.qq.com/s/auERzyGcuY0C2bvAisy2fQ)
+
+4. [Go 每日一库之 cron](https://mp.weixin.qq.com/s/T6ApncfoLXZtIyHhhiHepA)
+
+5. [煎鱼 Go Gin 系列十六：在图片上绘制文字](https://mp.weixin.qq.com/s/JHXd4GTrQYbDFwMec2NEmA)
+
+二、亚军进化史
+
+1. [Go技术日报（2020-06-28）](https://studygolang.com/topics/11775)
+
+三、Go夜读
+
+1. [【本周四预告】第 94 期斗鱼微服务框架 Jupiter 的诞生历程](https://mp.weixin.qq.com/s/9TTAla_mQ2JBLmP1CwzFRg)
+
+四、polarisxu
+
+1. [Go 语言 Web 框架 Echo 系列教程](https://mp.weixin.qq.com/s/7Lrqve5fi2fDmjCcdb5kFQ)
+
+五、架构之美
+
+1. [分布式柔性事务之最大努力通知事务详解](https://mp.weixin.qq.com/s/jDZ2HtkqiXRf9DKxNuDpGw)
 # go-news-set-2020-06-29
 ## gocn_news-2020-06-29
 - 1.Golang 网络编程    http://www.cnblogs.com/ZhuChangwu/p/13198872.html
