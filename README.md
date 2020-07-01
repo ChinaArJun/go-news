@@ -1,3 +1,49 @@
+# go-news-set-2020-07-01
+## gocn_news-2020-07-01
+- 1.Go build 设计草案https://go.googlesource.com/proposal/+/master/design/draft-gobuild.md
+
+- 2.Go+ 发布 weekly release: v0.6.50 https://mp.weixin.qq.com/s/BkVEuPGDPxYd1xQ_2YrHxQ
+
+- 3.Go HTTP 重用底层 TCP 连接需要注意的关键点 https://gocn.vip/topics/10626
+
+- 4.为什么需要 context 包 https://github.com/webtao520/golang_project/tree/master/%!E(MISSING)4%!B(MISSING)8%!B(MISSING)A%!E(MISSING)4%!B(MISSING)B%E4%!B(MISSING)9%E9%!C(MISSING)%E8%!A(MISSING)6%!c(MISSING)ontext%!E(MISSING)5%!C(MISSING)%!
+(MISSING)
+- 5.Go 编程指南电子书 https://www.digitalocean.com/community/books/how-to-code-in-go-ebook
+
+
+# go-news-set-2020-06-30
+## go语言中文网(每日资讯)-2020-06-30
+一、Go语言中文网
+
+1. [让腾讯、字节跳动放弃 Python 的 Go 微服务，凭什么？](https://mp.weixin.qq.com/s/UKx8HwsUO3QaCaebSLF3nQ)
+
+2. [小米大佬走进Golang之Channel的数据结构](https://mp.weixin.qq.com/s/TzNDqocj2I3wxVjWx3uTvg)
+
+3. [煎鱼 Go Gin 系列十七：用Nginx部署Go应用](https://mp.weixin.qq.com/s/b64e2giuHwNzxFuNZ8ufPA)
+
+4. [基于Markdown格式的电子书生成工具大比拼：gohugo、mdbook和peach](https://mp.weixin.qq.com/s/ZSUC70ASEEEEXdF4Z4WG7A)
+
+5. [Go 刷 LeetCode 系列：经典（4） 实现跳表](https://mp.weixin.qq.com/s/9IJRJcRz5WiCUqxScYkVrQ)
+
+二、亚军进化史
+
+1. [Go技术日报（2020-06-29）](https://studygolang.com/topics/11779)
+
+三、阿里巴巴中间件
+
+1. [饿了么4年 + 阿里2年：研发路上的一些总结与思考](https://mp.weixin.qq.com/s/xEUuWedz0QXeXx9pcJlu4w)
+
+四、polarisxu
+
+1. [Go 语言 Web 框架 Echo 系列：基础篇—搭建 Echo 开发环境](https://mp.weixin.qq.com/s/DuEGITdOYHYOXk-v-u2V5A)
+
+五、HHF技术博客
+
+1. [限流器系列(1) -- Leaky Bucket 漏斗桶](https://mp.weixin.qq.com/s/5cUZO2ZXuWPc1ukJCAn_zQ)
+
+六、 wecatch
+
+1. [架构的设计模式：事件驱动](https://mp.weixin.qq.com/s/3QQXn-t_HZpZBgCbaaAjmw)
 # go-news-set-2020-06-30
 ## gocn_news-2020-06-30
 - 1.Go：数据库连接池 https://mp.weixin.qq.com/s/auERzyGcuY0C2bvAisy2fQ
