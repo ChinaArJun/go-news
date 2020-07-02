@@ -1,3 +1,45 @@
+# go-news-set-2020-07-02
+## gocn_news-2020-07-02
+- 1.它来了它终于来了- Beego 1.12.2 https://gocn.vip/topics/10638
+
+- 2.go 调试利器-delve https://mp.weixin.qq.com/s/S1Vsm3xHjrSYtMZVTSrOvw
+
+- 3.Go 开发中，如何有效控制 Goroutine 的并发数量 https://tech.ctrip.com/uncategorized/4571/
+
+- 4.聊聊 canal-go 的 SimpleCanalConnector https://segmentfault.com/a/1190000023070174
+
+- 5.gopls v0.4.2 改进对 cgo 的支持 https://github.com/golang/tools/releases/tag/gopls%!F(MISSING)v0.4.2
+
+
+# go-news-set-2020-07-01
+## go语言中文网(每日资讯)-2020-07-01
+一、Go语言中文网
+
+1. [理解 Docker 很好的教程：用 Go 从头实现一个迷你 Docker — Gocker](https://mp.weixin.qq.com/s/P9bVFtXeduZ8Lv-0vFaXAg)
+
+2. [推荐两本国人在 GitHub 开源的图书](https://mp.weixin.qq.com/s/o_5tzX_V7qbuChEwtnH_ng)
+
+3. [Golang 交叉编译如何做？](https://mp.weixin.qq.com/s/MKsiedW6Dgdw29fxyLoZFQ)
+
+4. [图解Knative核心组件Serving基础设计](https://mp.weixin.qq.com/s/DaQsvvGVwuHGrRO5GZL-8g)
+
+5. [Go 刷 LeetCode 系列：经典（5)设计哈希集合](https://mp.weixin.qq.com/s/_Eqdilg7PhJSMt8KJsdqdA)
+
+二、亚军进化史
+
+1. [Go技术日报（2020-06-30）](https://studygolang.com/topics/11786)
+
+三、 一艘慢船
+
+1. [Go 编程: routine, 这个压箱底的库可以推荐一下了](https://mp.weixin.qq.com/s/W2kAUzmeERWQVSZXZ5TUSQ)
+
+四、polarisxu
+
+1. [专为 Gopher 准备的 Markdown 教程](https://mp.weixin.qq.com/s/8wz4U2DakVsU4tMoO-ultA)
+
+五、图解源码
+
+1. [kubernetes中的锁机制设计与实现](https://mp.weixin.qq.com/s/OkusIaObYPhqguTUAlEvLQ)
 # go-news-set-2020-07-01
 ## gocn_news-2020-07-01
 - 1.Go build 设计草案https://go.googlesource.com/proposal/+/master/design/draft-gobuild.md
