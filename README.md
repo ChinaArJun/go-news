@@ -222,3 +222,17 @@
 1. [(Mysql)对数据库设计时设计标识字段引用的一些思考](https://mp.weixin.qq.com/s/maCxGhOUCGJjhZlzDC7pHg)
 
 
+ gocn_news-2020-11-03
+# go-news-set-2020-11-03
+## gocn_news-2020-11-03
+- 1.go-zero 是如何追踪你的请求链路？ https://gocn.vip/topics/11185
+
+- 2.Go 语言反射（reflect）及应用 https://www.cnblogs.com/l1ng14/p/13921985.html
+
+- 3.Dubbo-go 源码笔记（一）Server 端开启服务过程 https://gocn.vip/topics/11187
+
+- 4.Go 的自定义静态分析 https://rauljordan.com/2020/11/01/custom-static-analysis-in-go-part-1.html
+
+- 5.Go mocking 技巧 https://dmv.myhatchpad.com/insight/mocking-techniques-for-go/
+
+
