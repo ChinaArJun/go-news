@@ -56,3 +56,17 @@
 <li><section style="margin-top: 5px; margin-bottom: 5px; line-height: 26px; text-align: left; color: rgb(1,1,1); font-weight: 500; font-size: 15px; font-family: 'Helvetica Neue', Helvetica, 'Segoe UI', Arial, freesans, sans-serif;">归档地址：https://github.com/Han-Ya-Jun/gocn_news_set</section></li><li><section style="margin-top: 5px; margin-bottom: 5px; line-height: 26px; text-align: left; color: rgb(1,1,1); font-weight: 500; font-size: 15px; font-family: 'Helvetica Neue', Helvetica, 'Segoe UI', Arial, freesans, sans-serif;">订阅公众号: <strong style="font-weight: bold; color: black;">亚军进化史</strong></section></li></ul>
 <figure data-tool="mdnice编辑器" style="margin: 0; margin-top: 10px; margin-bottom: 10px; display: flex; flex-direction: column; justify-content: center; align-items: center;"><img src="https://cdn.hanyajun.com/yajunjinhua.png" alt style="display: block; margin: 0 auto; max-width: 100%!!(MISSING);(MISSING)"></figure>
 </section>
+ gocn_news-2020-11-01
+# go-news-set-2020-11-01
+## gocn_news-2020-11-01
+- 1.go-zero 如何应对海量定时/延迟任务 https://gocn.vip/topics/11071
+
+- 2.并发事件的优雅关闭 https://www.rodrigoaraujo.me/posts/golang-pattern-graceful-shutdown-of-concurrent-events/
+
+- 3.记一次由垃圾回收造成的诡异问题 https://gocn.vip/topics/11170
+
+- 4.为什么 Go 占用那么多的虚拟内存 https://gocn.vip/topics/11173
+
+- 5.知乎社区核心业务 Golang 化实践 https://mp.weixin.qq.com/s/10BBSbuk1mn3QC5AgI5sWA
+
+
