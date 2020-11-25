@@ -114,3 +114,17 @@
 <li><section style="margin-top: 5px; margin-bottom: 5px; line-height: 26px; text-align: left; color: rgb(1,1,1); font-weight: 500; font-size: 15px; font-family: 'Helvetica Neue', Helvetica, 'Segoe UI', Arial, freesans, sans-serif;">归档地址：https://github.com/Han-Ya-Jun/gocn_news_set</section></li><li><section style="margin-top: 5px; margin-bottom: 5px; line-height: 26px; text-align: left; color: rgb(1,1,1); font-weight: 500; font-size: 15px; font-family: 'Helvetica Neue', Helvetica, 'Segoe UI', Arial, freesans, sans-serif;">订阅公众号: <strong style="font-weight: bold; color: black;">亚军进化史</strong></section></li></ul>
 <figure data-tool="mdnice编辑器" style="margin: 0; margin-top: 10px; margin-bottom: 10px; display: flex; flex-direction: column; justify-content: center; align-items: center;"><img src="https://cdn.hanyajun.com/yajunjinhua.png" alt style="display: block; margin: 0 auto; max-width: 100%!!(MISSING);(MISSING)"></figure>
 </section>
+ gocn_news-2020-11-04
+# go-news-set-2020-11-04
+## gocn_news-2020-11-04
+- 1.也许是最简洁版本，一篇文章上手 Go 语言 https://blog.51cto.com/14977574/2546576
+
+- 2.深入理解 golang：内存分配原理 https://www.cnblogs.com/jiujuan/p/13922551.html
+
+- 3.Go 语言在极小硬件上的运用（三）https://developer.51cto.com/art/202011/630644.htm
+
+- 4.Go 语言中的 gRPC 基础入门 https://mp.weixin.qq.com/s/jju6S6Qnsk7k0_-Q9WgkxQ
+
+- 5.Go Wasm IDE：使用 WebAssembly 在浏览器中编译 Go https://github.com/johnstarich/go-wasm
+
+
