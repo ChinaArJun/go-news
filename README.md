@@ -138,3 +138,17 @@
 五、 新亮笔记
 
 1. [Go - time.RFC3339 时间格式化](https://mp.weixin.qq.com/s/1pFVaMaWItp8zCXotQ9iBg)
+ gocn_news-2020-11-12
+# go-news-set-2020-11-12
+## gocn_news-2020-11-12
+- 1.Go，11 岁了！ https://mp.weixin.qq.com/s/dAuDmAWTOo_aXbqO5aKCLw
+
+- 2.Dubbo-go 源码笔记（二）客户端调用过程 https://segmentfault.com/a/1190000038141826
+
+- 3.一个 Golang 版丝滑的可视化库 https://mp.weixin.qq.com/s/A5bYW-eXA9LvyFxSy1YSlQ
+
+- 4.泛型和元编程的模型：Java, Go, Rust, Swift, D 等 https://mp.weixin.qq.com/s/hX4NXK-jPCcNvhLUoTaKGw
+
+- 5.利用 GOLANG 进行游戏开发和运营 https://technology.riotgames.com/news/leveraging-golang-game-development-and-operations
+
+
