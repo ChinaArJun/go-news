@@ -40,3 +40,15 @@
 六、#公众号：董泽润的技术笔记
 
 1. [我看 GopherChina 2020](https://mp.weixin.qq.com/s/WhSP0QWZ7E4LkjL-ub1RuA)
+ gopherDaily-2020-11-25
+# go-news-set-2020-11-25
+## gopherDaily-2020-11-25
+- 1.Go语言中的test fixture - https://hackandsla.sh/posts/2020-11-23-golang-test-fixtures/
+- 2.油管视频：为什么Github客户端命令行组从Ruby切换到Go？- https://www.youtube.com/watch?v=fuYwyQllMpE
+- 3.使用Go和micro微服务框架构建一个博客站点 - https://blog.m3o.com/2020/11/16/building-a-blog-with-micro.html
+- 4.AWS lambda function简介(Go版本) - https://tpaschalis.github.io/golang-aws-lambda-getting-started/
+- 5.Let’s Encrypt有竞争对手了！另外一家提供免费证书的网站ZeroSSL来了！-  https://scotthelme.co.uk/introducing-another-free-ca-as-an-alternative-to-lets-encrypt/
+- 6.Go工厂模式实现 - https://dev.to/tomassirio/factory-design-pattern-in-go-3pe1
+- 7.疫情期间远程开发指南 by 微软 - https://clouddamcdnprodep.azureedge.net/gdc/gdcIAuiDE/original
+- 8.netaddr: Go网络地址包 - https://github.com/inetaf/netaddr
+
