@@ -128,3 +128,33 @@
 - 5.Go Wasm IDE：使用 WebAssembly 在浏览器中编译 Go https://github.com/johnstarich/go-wasm
 
 
+ go语言中文网(每日资讯)-2020-11-04
+# go-news-set-2020-11-04
+## go语言中文网(每日资讯)-2020-11-04
+一、Go语言中文网
+
+1. [怎么看待脉脉上有美团员工说用Go的简历基本不看？](https://mp.weixin.qq.com/s/xavYDlcdVIcqDrgKZDJ-LQ)
+
+2. [Go 中的循环是如何转为汇编的？看完你懂了吗？](https://mp.weixin.qq.com/s/unriXjXaexHVFPu8-hR9Pw)
+
+3. [简单高效加密算法 TEA Go 实现](https://mp.weixin.qq.com/s/VjxWhY9eLtlX7QeYfP48iw)
+
+二、亚军进化史
+
+1. [Go技术日报(2020-11-03)](https://studygolang.com/topics/12573)
+
+三、 码农桃花源
+
+1. [packetdrill 简介](https://mp.weixin.qq.com/s/1cowItfPZa7rJEpxKh_yuQ)
+
+四、 网管叨bi叨
+
+1. [看Kubernetes源码，学习怎么用Go实现调度队列](https://mp.weixin.qq.com/s/rKLiazgWzneJfpfgHay8cA)
+
+五、 polarisxu
+
+1. [从来没有这么强烈想推荐一个工具](https://mp.weixin.qq.com/s/w0_cur6qrwlcmplDoD1a4w)
+
+六、 云原生技术爱好者社区
+
+1. [服务网格仍然很困难](https://mp.weixin.qq.com/s/9NmN1w1MwaK35OiBJfWKtg)
