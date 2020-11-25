@@ -236,3 +236,32 @@
 - 5.Go mocking 技巧 https://dmv.myhatchpad.com/insight/mocking-techniques-for-go/
 
 
+ go语言中文网(每日资讯)-2020-11-03
+# go-news-set-2020-11-03
+## go语言中文网(每日资讯)-2020-11-03
+
+一、Go语言中文网
+
+1. [Go1.16 的这个新功能很多人应该喜欢：本文带你提前掌握它](https://mp.weixin.qq.com/s/R33JTORMZ1jVg8GAowpf4g)
+
+2. [来自 HackerNew 的讨论：人生苦短，我要换Go！](https://mp.weixin.qq.com/s/fbkqesbvcTF_A3B54ZQgYg)
+
+3. [为什么 Go 占用那么多的虚拟内存？](https://mp.weixin.qq.com/s/L4CfzuAaBc_z5-uMn6MYwg)
+
+二、亚军进化史
+
+1. [Go技术日报(2020-11-02)](https://studygolang.com/topics/12567)
+
+三、 Golang梦工厂
+
+1. [消息队列和任务队列有什么区别？](https://mp.weixin.qq.com/s/42p8U8rUZpgAl8iWTQWBCg)
+
+四、 真没什么逻辑
+
+1. [新一代的键值存储 KVell · SOSP 2019](https://mp.weixin.qq.com/s/4yWUznVGsQIsIAKM-Q-okQ)
+
+五、kevinwan
+
+1. [go-zero 是如何追踪你的请求链路的](https://studygolang.com/articles/31415)
+
+
