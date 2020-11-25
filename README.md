@@ -114,3 +114,27 @@
 - 5.Golang 分布式异步工作流 —— Temporal 实战指南 https://gocn.vip/topics/11208
 
 
+ go语言中文网(每日资讯)-2020-11-08
+# go-news-set-2020-11-08
+## go语言中文网(每日资讯)-2020-11-08
+一、Go语言中文网
+
+1. [Go语言爱好者周刊：第 68 期 — 一道关于浮点数的题](https://mp.weixin.qq.com/s/HO7PndoVImyADrIeJpKQ3Q)
+
+2. [Go：一个隐藏在方法集和方法调用中且易被忽略的小细节](https://mp.weixin.qq.com/s/xRXvjie-Rjr_FNh8JfBNHw)
+
+二、亚军进化史
+
+1. [Go技术日报(2020-11-07)](https://studygolang.com/topics/12599)
+
+三、Go夜读
+
+1. [第 107 期 2020-11-07 Paxos 分布式共识算法介绍](https://talkgo.org/t/topic/1248)
+
+四、 Golang梦工厂
+
+1. [女朋友问我：小松子，你知道Go语言参数传递是传值还是传引用吗？](https://mp.weixin.qq.com/s/JHbFh2GhoKewlemq7iI59Q)
+
+五、 新亮笔记
+
+1. [Go - time.RFC3339 时间格式化](https://mp.weixin.qq.com/s/1pFVaMaWItp8zCXotQ9iBg)
