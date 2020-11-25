@@ -176,3 +176,17 @@
 五、 网管叨bi叨 
 
 1. [三种传递gRPC动态参数方式的使用体验](https://mp.weixin.qq.com/s/TR-keSUcspTvM0d165v8cw)
+ gocn_news-2020-11-16
+# go-news-set-2020-11-16
+## gocn_news-2020-11-16
+- 1.实时 Golang 运行时统计数据可视化分析器 https://github.com/go-echarts/statsview
+
+- 2.图解：宏观角度看 Go 语言如何实现垃圾回收中的 Stop the World https://mp.weixin.qq.com/s/rt4lxGwaYo8IkTdmo186Cg
+
+- 3.Docker 底层原理浅析 https://mp.weixin.qq.com/s/0jFHlWAeH5avIO2NLpTmGA
+
+- 4.处理一次 k8s、calico 无法分配 podIP 的心路历程 https://mp.weixin.qq.com/s/eMvaAMeecC3-6nJNCLY69A
+
+- 5.Linux I/O 原理和 Zero-copy 技术全面揭秘 https://mp.weixin.qq.com/s/7O0M-o4MK26ejwcRiL7F0g
+
+
