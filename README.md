@@ -6101,3 +6101,17 @@
 六、#公众号: Go招聘
 
 1. [字节跳动做电商，你看好吗？他们招 Go 了](https://mp.weixin.qq.com/s/T8P-qcHwqiiCtSBzYalomQ)
+ gocn_news-2020-11-26
+# go-news-set-2020-11-26
+## gocn_news-2020-11-26
+- 1.Go 大数据生态迎来重量级产品 CDS https://mp.weixin.qq.com/s/1y0bQVHoSRBvy1BJaQAxqw
+
+- 2.微服务框架 Go-Micro 集成 Nacos 实战之服务注册与发现 https://segmentfault.com/a/1190000038287804
+
+- 3.发行版本 0.19.0·golang / vscode-go https://github.com/golang/vscode-go/releases/tag/v0.19.0
+
+- 4.Golang 实现 Redis(7): Redis 集群与一致性 Hash https://www.cnblogs.com/Finley/p/14038398.html
+
+- 5.360 安全实验室详解 Blackrota：一个高度混淆过的 Go 后门程序 - https://blog.netlab.360.com/blackrota-an-obfuscated-backdoor-written-in-go-en/
+
+
