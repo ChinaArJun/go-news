@@ -6115,3 +6115,37 @@
 - 5.360 安全实验室详解 Blackrota：一个高度混淆过的 Go 后门程序 - https://blog.netlab.360.com/blackrota-an-obfuscated-backdoor-written-in-go-en/
 
 
+ go语言中文网(每日资讯)-2020-11-26
+# go-news-set-2020-11-26
+## go语言中文网(每日资讯)-2020-11-26
+一、#公众号：Go语言中文网
+
+1. [绘制图表不是前端的专利，Go 也可以](https://mp.weixin.qq.com/s/vdfttkMG-nI6VUslkcj1zA)
+
+2. [一文搞懂Go语言中的切片排序](https://mp.weixin.qq.com/s/Iv5AZcbD_ubEyWC4jyp9eQ)
+
+二、#公众号：亚军进化史
+
+1. [Go技术日报(2020-11-25)](https://studygolang.com/topics/12695)
+
+三、#公众号：高德技术
+
+1. [Golang单元测试：有哪些误区和实践？](https://mp.weixin.qq.com/s/Fj_ebCAUPlgTUPdsIg7CnA)
+
+四、#公众号：CloudNativeCommunity
+
+1. [无人值守的自动 dump（一）](https://mp.weixin.qq.com/s/2nbyWSZMT1HzvYAoaeWK_A)
+
+2. [无人值守的自动 dump（二）](https://mp.weixin.qq.com/s/wKpTiyc1VkZQy0-J8x519g)
+
+五、#公众号：Golang技术分享
+
+1. [CPU缓存体系对Go程序的影响](https://mp.weixin.qq.com/s/zwhRwvUItJ70s82wAB9byQ)
+
+六、#公众号：polarisxu 
+
+1. [CNCF 刚宣布 etcd 正式毕业：赶紧实战下 etcd 的服务发现](https://mp.weixin.qq.com/s/44duJY9BSS3Ki07jt4pgOA)
+
+2. [这一刻，我感动了](https://mp.weixin.qq.com/s/efpDUarkkAUSke4JGYUWHA)
+
+
