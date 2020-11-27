@@ -6160,3 +6160,17 @@
 - 6.现代存储很快，但API很糟糕 - https://itnext.io/modern-storage-is-plenty-fast-it-is-the-apis-that-are-bad-6a68319fbc1a
 - 7.播客：你想从Go中删除哪些内容以使其变得更好 - https://changelog.com/gotime/155
 
+ gocn_news-2020-11-27
+# go-news-set-2020-11-27
+## gocn_news-2020-11-27
+- 1.一文读懂 Channel 设计 https://segmentfault.com/a/1190000038283970
+
+- 2.常量数据库本机 golang 实现 https://github.com/alldroll/cdb
+
+- 3.无人值守的自动 dump（二） https://mp.weixin.qq.com/s/wKpTiyc1VkZQy0-J8x519g
+
+- 4.Golang 反射三定律 https://juejin.cn/post/6898935570236456968
+
+- 5.云原生应用 Go 语言：你还在考虑的时候，别人已经应用实践  https://juejin.cn/post/6898942484878426126
+
+
