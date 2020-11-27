@@ -6174,3 +6174,29 @@
 - 5.云原生应用 Go 语言：你还在考虑的时候，别人已经应用实践  https://juejin.cn/post/6898942484878426126
 
 
+ go语言中文网(每日资讯)-2020-11-27
+# go-news-set-2020-11-27
+## go语言中文网(每日资讯)-2020-11-27
+一、#公众号：Go语言中文网
+
+1. [重度使用 Go 的“后遗症“，你有吗？](https://mp.weixin.qq.com/s/S12_Nf29iHgkovGRZNXRDA)
+
+2. [实战：150行Go实现高性能socks5代理](https://mp.weixin.qq.com/s/WjRRCU3xKvDRKgru9dZ7hg)
+
+3. [Go 经典入门系列：介绍与安装](https://mp.weixin.qq.com/s/pKAL0bAEkJanbuOuh-x1aQ)
+
+二、#公众号：亚军进化史
+
+1. [Go技术日报(2020-11-26)](https://studygolang.com/topics/12704)
+
+三、#公众号：高可用架构
+
+1. [美图全链路监控实战](https://mp.weixin.qq.com/s/zd2K4I27KFvCnw788TIZ0A)
+
+四、#公众号：aoho求索
+
+2. [还不了解 etcd？一文带你快速入门（万字长文）](https://mp.weixin.qq.com/s/f9loVQr7jbjnDKqRWXz8sQ)
+
+五、#公众号：Serverless
+
+1. [高德最佳实践：Serverless 规模化落地有哪些价值？](https://mp.weixin.qq.com/s/T3-RqoiVrbirx0A6Ey0rxg)
