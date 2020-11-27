@@ -6149,3 +6149,14 @@
 2. [这一刻，我感动了](https://mp.weixin.qq.com/s/efpDUarkkAUSke4JGYUWHA)
 
 
+ gopherDaily-2020-11-27
+# go-news-set-2020-11-27
+## gopherDaily-2020-11-27
+- 1.Go中使用WebSocket指南 - https://www.mindinventory.com/blog/how-to-use-websockets-in-golang/
+- 2.使用Go操作RabbitMQ - https://qvault.io/2020/04/29/connecting-to-rabbitmq-in-golang/
+- 3.io_uring和ebpf将给linux编程带来革新性巨变 - https://www.scylladb.com/2020/05/05/how-io_uring-and-ebpf-will-revolutionize-programming-in-linux/
+- 4.在Goland中体验Go新泛型语法 - https://blog.jetbrains.com/go/2020/11/24/experimenting-with-go-type-parameters-generics-in-goland/
+- 5.用Go检测垃圾短信 - https://github.com/PaluMacil/ham
+- 6.现代存储很快，但API很糟糕 - https://itnext.io/modern-storage-is-plenty-fast-it-is-the-apis-that-are-bad-6a68319fbc1a
+- 7.播客：你想从Go中删除哪些内容以使其变得更好 - https://changelog.com/gotime/155
+
