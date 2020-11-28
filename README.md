@@ -6200,3 +6200,17 @@
 五、#公众号：Serverless
 
 1. [高德最佳实践：Serverless 规模化落地有哪些价值？](https://mp.weixin.qq.com/s/T3-RqoiVrbirx0A6Ey0rxg)
+ gopherDaily-2020-11-28
+# go-news-set-2020-11-28
+## gopherDaily-2020-11-28
+- 1.在Go中部署和训练TensorFlow模型实战：人类活动识别案例研究 - https://pgaleone.eu/tensorflow/go/2020/11/27/deploy-train-tesorflow-models-in-go-human-activity-recognition/
+- 2.2021年Gopher需要知道的5个有用的Go module - https://medium.com/better-programming/5-useful-golang-modules-developers-should-know-in-2021-340ed21177e5
+- 3.stargz-snapshotter：闪电容器启动器 - https://github.com/containerd/stargz-snapshotter
+- 4.cobra包体验报告 - https://levelup.gitconnected.com/exploring-go-packages-cobra-fce6c4e331d6
+- 5.godog：cucumber官方出品的go 行为驱动测试(bdd)框架 - https://github.com/cucumber/godog
+- 6.smithy: 一个小型的git仓库的图形化前端 - https://github.com/honza/smithy
+- 7.clock: Go时间日期mock测试库 - https://github.com/benbjohnson/clock
+- 8.vpn简史 - https://queue.acm.org/detail.cfm?id=3439745
+- 9.为什么需要一个Scrum Master - https://selleo.com/blog/why-do-you-need-a-scrum-master
+- 10.php8正式发布 - https://www.phoronix.com/scan.php?page=news_item&px=PHP-8.0-Released
+
