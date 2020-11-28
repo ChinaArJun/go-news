@@ -6214,3 +6214,29 @@
 - 9.为什么需要一个Scrum Master - https://selleo.com/blog/why-do-you-need-a-scrum-master
 - 10.php8正式发布 - https://www.phoronix.com/scan.php?page=news_item&px=PHP-8.0-Released
 
+ go语言中文网(每日资讯)-2020-11-28
+# go-news-set-2020-11-28
+## go语言中文网(每日资讯)-2020-11-28
+一、#公众号：Go语言中文网
+
+1. [通过问答的方式学习 Go sort 包使用与源码](https://mp.weixin.qq.com/s/j4Z_2X8nZuyj7DatieqphA)
+
+2. [CPU缓存体系对Go程序的影响](https://mp.weixin.qq.com/s/vnm9yztpfYA4w-IM6XqyIA)
+
+3. [从零开始入门 K8s | 理解容器运行时接口 CRI](https://mp.weixin.qq.com/s/hKBCYSv1JAi8_Bw2FvyNvA)
+
+二、#公众号：亚军进化史
+
+1. [Go技术日报(2020-11-27)](https://studygolang.com/topics/12708)
+
+三、#公众号：五分选手
+
+1. [LeetCode Biweekly Contest 39 解题报告](https://mp.weixin.qq.com/s/51tZYe0Zka-jQ7_w17CRaQ)
+
+四、NoHeadback
+
+1. [用 subsetting 限制连接池中的连接数量](https://xargin.com/limiting-conn-wih-subset/)
+
+五、#公众号：云原生技术爱好者社区
+
+1. [Kubernetes调度器是如何工作的？](https://mp.weixin.qq.com/s/LV_zu6jaqcxNUOyriz_jog)
