@@ -6240,3 +6240,16 @@
 五、#公众号：云原生技术爱好者社区
 
 1. [Kubernetes调度器是如何工作的？](https://mp.weixin.qq.com/s/LV_zu6jaqcxNUOyriz_jog)
+ gocn_news-2020-11-29
+# go-news-set-2020-11-29
+## gocn_news-2020-11-29
+- 1.Go Websocket 使用指南 https://www.mindinventory.com/blog/how-to-use-websockets-in-golang/
+
+- 2.Cobra 包使用体验 https://levelup.gitconnected.com/exploring-go-packages-cobra-fce6c4e331d6
+
+- 3.K6 现代负载测试工具 https://github.com/loadimpact/k6 
+- 4.GoCrawler 分布式爬虫系统 https://github.com/el10savio/GoCrawler
+
+- 5.聊聊 golang 的类型断言 https://segmentfault.com/a/1190000038318158
+
+
