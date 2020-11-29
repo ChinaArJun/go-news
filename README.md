@@ -6253,3 +6253,29 @@
 - 5.聊聊 golang 的类型断言 https://segmentfault.com/a/1190000038318158
 
 
+ go语言中文网(每日资讯)-2020-11-29
+# go-news-set-2020-11-29
+## go语言中文网(每日资讯)-2020-11-29
+一、#公众号：Go语言中文网
+
+1. [Go语言爱好者周刊：第 71 期 — 这道题可能做对的不多](https://mp.weixin.qq.com/s/QpG5oBlz9mcmBUV8gl7P7w)
+
+2. [用 Go 做爬虫的话，有哪些库可以选择？](https://mp.weixin.qq.com/s/BTolCVAvzdQ0p8SLXzhuVg)
+
+3. [怎么给容器抓包](https://mp.weixin.qq.com/s/-jnRo9QesCCwt_JFF0dEyQ)
+
+二、#公众号：亚军进化史
+
+1. [Go技术日报(2020-11-28)](https://studygolang.com/topics/12715)
+
+三、#公众号：代码与远方
+
+1. [为什么 HugePages 可以提升数据库性能](https://mp.weixin.qq.com/s/f4C3ucVvOTVUq3Ueo0lThg)
+
+四、#公众号：Golang梦工厂
+
+1. [十张动图带你搞懂排序算法（附go实现代码）](https://mp.weixin.qq.com/s/rZBsoKuS-ORvV3kML39jKw)
+
+五、#公众号：码农桃花源
+
+1. [用 subsetting 限制连接池中的连接数量](https://mp.weixin.qq.com/s/x86WcfDaTZMV8uZQ7HEI_g)
