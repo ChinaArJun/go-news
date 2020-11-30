@@ -6291,3 +6291,17 @@
 - 7.微软正在努力开发windows10的android子系统，这样android应用就可以运行在windows10上了 - https://www.bleepingcomputer.com/news/microsoft/microsoft-is-working-on-an-android-subsystem-for-windows-10/
 - 8.twtxt: Go实现的分布式、独立部署的类twitter微博客平台 - https://github.com/jointwt/twtxt
 
+ gocn_news-2020-11-30
+# go-news-set-2020-11-30
+## gocn_news-2020-11-30
+- 1.从 Go 分析 Struct 对齐如何影响内存使用量 https://mp.weixin.qq.com/s/ULsU5f4UA2gq2GIiUALD2w
+
+- 2.Go 大数据生态开源项目 CDS 中 ClickHouse 使用的建表方案 https://mp.weixin.qq.com/s/mwFRWudMsHP6k_p4MVSjPA
+
+- 3.godog: Golang BDD 框架 https://github.com/cucumber/godog
+
+- 4.please: Go 实现的跨语言构建系统 https://github.com/thought-machine/please
+
+- 5.如何在 12 个小时，搞定日志监控？ https://mp.weixin.qq.com/s/6Bjr1PUAC98IIaxBFcECNw
+
+
