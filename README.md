@@ -6279,3 +6279,15 @@
 五、#公众号：码农桃花源
 
 1. [用 subsetting 限制连接池中的连接数量](https://mp.weixin.qq.com/s/x86WcfDaTZMV8uZQ7HEI_g)
+ gopherDaily-2020-11-30
+# go-news-set-2020-11-30
+## gopherDaily-2020-11-30
+- 1.Go语言的设计哲学：简单 - https://www.imooc.com/read/87/article/2321
+- 2.使用Go和CLI自动化例程 - https://crunchcrunch.me/automating-your-routine-with-golang-and-a-cli
+- 3.在kubernetes中运行一个mail服务器 - https://kruyt.org/running-a-mailserver-in-kubernetes/
+- 4.高速构建容器镜像的一个简单技巧 - https://www.nrmitchi.com/2020/10/one-simple-trick-for-building-images-faster/
+- 5.使用golangshell构建高性能clean架构应用 - https://hackernoon.com/go-fast-small-and-productive-with-golangspell-d0163zqk
+- 6.类型驱动的go代码生成 - https://github.com/clipperhouse/gen
+- 7.微软正在努力开发windows10的android子系统，这样android应用就可以运行在windows10上了 - https://www.bleepingcomputer.com/news/microsoft/microsoft-is-working-on-an-android-subsystem-for-windows-10/
+- 8.twtxt: Go实现的分布式、独立部署的类twitter微博客平台 - https://github.com/jointwt/twtxt
+
