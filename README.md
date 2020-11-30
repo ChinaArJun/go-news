@@ -12,6 +12,34 @@
 - 5.如何在 12 个小时，搞定日志监控？ https://mp.weixin.qq.com/s/6Bjr1PUAC98IIaxBFcECNw
 
 
+ go语言中文网(每日资讯)-2020-11-30
+# go-news-set-2020-11-30
+## go语言中文网(每日资讯)-2020-11-30
+一、#公众号：Go语言中文网
+
+1. [重磅！期待的 Go 语言中文网定制 Gopher 卫衣来了~](https://mp.weixin.qq.com/s/6h--JP532T__1HE-Fl2BiQ)
+
+2. [Go 项目实战：实现一个 Redis (1) 之编写 TCP 服务器](https://mp.weixin.qq.com/s/ZcH-iLVEdGlfweviMbJUjg)
+
+3. [Go 经典入门系列 2：Hello World](https://mp.weixin.qq.com/s/BmFAGKOngngC9JhFtuvj4A)
+
+二、#公众号：亚军进化史
+
+1. [Go技术日报(2020-11-29)](https://studygolang.com/topics/12717)
+
+2. [微服务架构下RPC IDL及代码如何统一管理？](https://mp.weixin.qq.com/s/fnnd-xvZgA64zIHUNaifrQ)
+
+三、#公众号：CloudNativeCommunity
+
+1. [云原生社区第一次线下 meetup 上海站回顾及 PPT 分享](https://mp.weixin.qq.com/s/h1OqUAXvhKaYN5pIO7xI7w)
+
+四、#公众号：k8s技术圈
+
+1. [如何部署一个生产级别的 Kubernetes 应用](https://mp.weixin.qq.com/s/2PIot09qeQRSr5pS5ViVcg)
+
+五、#公众号：陆贵成
+
+1. [管理可复用的资源池](https://mp.weixin.qq.com/s/-3iPsfBe5npxEyyT0V760A)
  go语言中文网(每日资讯)-2020-11-29
 # go-news-set-2020-11-29
 ## go语言中文网(每日资讯)-2020-11-29
