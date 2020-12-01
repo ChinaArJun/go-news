@@ -1,3 +1,17 @@
+ gocn_news-2020-12-01
+# go-news-set-2020-12-01
+## gocn_news-2020-12-01
+- 1.Go DIY 一个圣诞广播 https://dev.to/levelupkoodarit/diy-christmas-radio-31k4
+
+- 2.Go 实现文本准换语音通话 https://dev.to/vonagedev/text-to-speech-voice-calls-with-go-1h7m
+
+- 3.在 Go kit 下通过 Grpc 构建微服务 https://dev.to/junereycasuga/go-grpc-with-go-kit-3gab
+
+- 4.Golang error 浅析 https://www.jianshu.com/p/606d0e60c58d
+
+- 5.Golang 语言 Web 框架 beego v2 之写操作 https://mp.weixin.qq.com/s/2yUuMucrogX38Xg9VG4coA
+
+
  gocn_news-2020-11-30
 # go-news-set-2020-11-30
 ## gocn_news-2020-11-30
