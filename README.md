@@ -1,3 +1,29 @@
+ go语言中文网(每日资讯)-2020-12-01
+# go-news-set-2020-12-01
+## go语言中文网(每日资讯)-2020-12-01
+一、#公众号：Go语言中文网
+
+1. [Go 语言：全面分析为什么我们需要泛型](https://mp.weixin.qq.com/s/vnQuPMD7piUe6l0KVDbePA)
+
+2. [应大家要求，增加了不加绒的：Go 语言中文网定制卫衣来了~](https://mp.weixin.qq.com/s/RCVse6JLlTvlMHEFdln7_A)
+
+3. [Go 经典入门系列 3：变量](https://mp.weixin.qq.com/s/0hl1VDCaseRbKvCRy31_CA)
+
+二、#公众号：亚军进化史
+
+1. [Go技术日报(2020-11-30)](https://studygolang.com/topics/12721)
+
+三、#公众号：代码与远方
+
+1. [让你的 Go 服务优雅的重启 (解决代码发布 Go 服务闪断的问题)](https://mp.weixin.qq.com/s/u3qoN8PRKQRBjDVD7hrgag)
+
+四、#公众号： polarisxu
+
+1. [Hugo + GitHub Pages 搭建自己的网站](https://mp.weixin.qq.com/s/pW7iHOQLwMDkFU_bgXeTuA)
+
+五、#公众号：阿里巴巴云原生 
+
+1. [「云原生上云」后的聚石塔是如何应对 双11 下大规模应用挑战的](https://mp.weixin.qq.com/s/g4_xFuh5GDEiZYVg2dhg0w)
  gopherDaily-2020-12-01
 # go-news-set-2020-12-01
 ## gopherDaily-2020-12-01
