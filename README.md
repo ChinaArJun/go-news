@@ -1,3 +1,17 @@
+ gopherDaily-2020-12-01
+# go-news-set-2020-12-01
+## gopherDaily-2020-12-01
+- 1.Go语言的设计哲学之二：组合 - https://www.imooc.com/read/87/article/2322
+- 2.观点：Go是一种美丽的混乱 - https://arlo-liu.medium.com/go-a-beautiful-mess-e7fdf267b050
+- 3.使用Go实现网路嗅探 - https://medium.com/@Affix/sniffing-creds-with-go-a-journey-with-libpcap-73bc3e74966
+- 4.如何自动重新加载Go应用 - https://iaziz786.com/blog/golang-auto-reload-apps
+- 5.Go语言水平评估工具 - https://github.com/dmh2000/go-assessment
+- 6.容器安全漏洞：不要使用–net=host - https://medium.com/nttlabs/dont-use-host-network-namespace-f548aeeef575
+- 7.为什么apple M1芯片这么快! - https://erik-engheim.medium.com/why-is-apples-m1-chip-so-fast-3262b158cba2
+- 8.机器学习的可解释性：概述 - https://thegradient.pub/interpretability-in-ml-a-broad-overview/
+- 9.gopls v0.5.4发布 - https://github.com/golang/tools/releases/tag/gopls%!!(MISSING)F(MISSING)v0.5.4
+- 10.一文告诉你如何抢先体验Go泛型 - https://mp.weixin.qq.com/s/14WeOQBdezWTC5OqQrJtfg
+
  gocn_news-2020-12-01
 # go-news-set-2020-12-01
 ## gocn_news-2020-12-01
