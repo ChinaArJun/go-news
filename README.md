@@ -1,3 +1,31 @@
+ go语言中文网(每日资讯)-2020-12-02
+# go-news-set-2020-12-02
+## go语言中文网(每日资讯)-2020-12-02
+一、#公众号：Go语言中文网
+
+1. [Go 语言实现的 2D 游戏库](https://mp.weixin.qq.com/s/tZqQXS8CK4fmvlcr_2HeRw)
+
+2. [Go 经典入门系列 4：类型](https://mp.weixin.qq.com/s/JJ5-hW_cg8bTSSqe8bTtIw)
+
+二、#公众号：亚军进化史
+
+1. [Go技术日报(2020-12-01)](https://studygolang.com/topics/12724)
+
+三、#公众号：polarisxu
+
+1. [列举一些 Go1.16 中可能对大家有影响的变化](https://mp.weixin.qq.com/s/QMpQZXrrZNTVxmGN-3cSCg)
+
+四、#公众号：脑子进煎鱼了
+
+1. [必须要学的 Go 进程诊断工具 gops](https://mp.weixin.qq.com/s/iS7R0NTZcTlonUw8bq0jKQ)
+
+五、#公众号：Go 101
+
+1. [Go 1.16 新特性查缺补漏](https://mp.weixin.qq.com/s/Lz1PwW0mzWMNxiuJBvdcXA)
+
+六、mohuishou
+
+1. [Go进阶训练营笔记02-微服务下: 服务发现&多租户](https://lailin.xyz/post/go-training-02.html)
  gocn_news-2020-12-02
 # go-news-set-2020-12-02
 ## gocn_news-2020-12-02
