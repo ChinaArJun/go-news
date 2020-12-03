@@ -1,3 +1,37 @@
+ go语言中文网(每日资讯)-2020-12-03
+# go-news-set-2020-12-03
+## go语言中文网(每日资讯)-2020-12-03
+一、#公众号：Go语言中文网
+
+1. [都知晓滴滴大量使用 Go，它招聘普通 Go 工程师的 JD 啥要求？](https://mp.weixin.qq.com/s/OUR1AZ7cKFLeHSlHYfuEow)
+
+2. [Go 项目实战：实现一个 Redis(2) 之实现 Redis 协议解析器](https://mp.weixin.qq.com/s/6XJpY2rkvXelBhUHVZ68sw)
+
+3. [Go 经典入门系列 5：常量](https://mp.weixin.qq.com/s/Abbf1y4nef41swTpyQPpLw)
+
+二、#公众号：亚军进化史
+
+1. [Go技术日报(2020-12-02)](https://studygolang.com/topics/12731)
+
+三、No Headback
+
+1. [open coded defer 是怎么实现的](https://xargin.com/open-coded-defer-in-go-1-14/)
+
+四、#公众号：美团技术团队
+
+1. [复杂环境下落地Service Mesh的挑战与实践](https://mp.weixin.qq.com/s/Z-Nv7XId7EbPpH8UDjWxCQ)
+
+五、#公众号：架构头条
+
+1. [重磅！Kubernetes决定弃用Docker](https://mp.weixin.qq.com/s/TcLe_Sq0p2uyGZg9FKEanA)
+
+六、#公众号：码农桃花源
+
+1. [Go 语言应用之 template](https://mp.weixin.qq.com/s/9FFp0-cj4raPhdUUpSy4Og)
+
+七、#公众号：代码与远方
+
+1. [百闻不如一 Run 看文档不如抓包实战](https://mp.weixin.qq.com/s/XqqLDxKBa1IYy9URxdUGOQ)
  gocn_news-2020-12-03
 # go-news-set-2020-12-03
 ## gocn_news-2020-12-03
