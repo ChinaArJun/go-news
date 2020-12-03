@@ -1,3 +1,17 @@
+ gocn_news-2020-12-03
+# go-news-set-2020-12-03
+## gocn_news-2020-12-03
+- 1.Kubernetes 要弃用 docker 了，我们该怎么办？ https://mp.weixin.qq.com/s/i8WbzGrH0lvBXJhYxlzCoA
+
+- 2.ChaosMesh®技术内幕-如何注入 I/O 故障？ https://gocn.vip/topics/11333
+
+- 3.使用 monsoon 对 http 服务进行渗透测试 https://blog.redteam-pentesting.de/2020/introducing-monsoon/
+
+- 4.Kubernetes 调度详解 https://mp.weixin.qq.com/s/Gh78VEjjyTlcq5ydlrBFEA
+
+- 5.tcpprobe: 网络服务监控器 https://github.com/mehrdadrad/tcpprobe
+
+
  go语言中文网(每日资讯)-2020-12-02
 # go-news-set-2020-12-02
 ## go语言中文网(每日资讯)-2020-12-02
