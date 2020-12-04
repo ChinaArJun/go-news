@@ -1,3 +1,17 @@
+ gocn_news-2020-12-04
+# go-news-set-2020-12-04
+## gocn_news-2020-12-04
+- 1.Go 大数据生态迎来重量级产品 CDS https://gocn.vip/topics/11295
+
+- 2.基于 gRPC 的服务注册与发现和负载均衡的原理与实战 https://gocn.vip/topics/11340
+
+- 3.在 Kubernetes 1.20 版本中不推荐使用 Docker https://mp.weixin.qq.com/s/cOsGmHGXrXsV0KXLxUfd-Q
+
+- 4.Dockershim 弃用常见问题解答 https://mp.weixin.qq.com/s/Xxv3sS1BmImPqwcTEXJjbQ
+
+- 5.Golang 实现 Redis(8): TCC 分布式事务 https://www.cnblogs.com/Finley/p/14079108.html
+
+
  go语言中文网(每日资讯)-2020-12-03
 # go-news-set-2020-12-03
 ## go语言中文网(每日资讯)-2020-12-03
