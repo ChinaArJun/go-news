@@ -1,3 +1,27 @@
+ go语言中文网(每日资讯)-2020-12-04
+# go-news-set-2020-12-04
+## go语言中文网(每日资讯)-2020-12-04
+一、#公众号：Go语言中文网
+
+1. [图解 Goroutine 与抢占机制](https://mp.weixin.qq.com/s/VwjEglM0ZRMvYg7cwV5b5Q)
+
+2. [Go 经典入门系列 6：函数](https://mp.weixin.qq.com/s/9AAyd29icmcbMs7Ff2fIsw)
+
+二、#公众号：亚军进化史
+
+1. [Go技术日报(2020-12-03)](https://studygolang.com/topics/12739)
+
+三、#公众号：polarisxu
+
+1. [周末愉快！简单聊聊这几天 Go 相关热点](https://mp.weixin.qq.com/s/ebi4YOR9QpS4QapVo_D6yA)
+
+四、#公众号：代码与远方
+
+1. [为什么 Go 占用那么多的虚拟内存？](https://mp.weixin.qq.com/s/KGcS9ue2VT2HllaakLWe1w)
+
+五、Go夜聊
+
+1. [第 1 期：参加 GopherCon 2020](https://www.xiaoyuzhoufm.com/episode/5fca1f69dee9c1e16dea5713?s=eyJ1IjogIjVlN2VjNzNkMGE3YmQ4MDljMmU5MTJkNCJ9)
  gocn_news-2020-12-04
 # go-news-set-2020-12-04
 ## gocn_news-2020-12-04
