@@ -1,3 +1,31 @@
+ go语言中文网(每日资讯)-2020-12-05
+# go-news-set-2020-12-05
+## go语言中文网(每日资讯)-2020-12-05
+一、#公众号：Go语言中文网
+
+1. [GoLand 2020.3 正式发布了，有不少新功能，包括支持泛型](https://mp.weixin.qq.com/s/eXUsjYstKmzlOnZKamAGgg)
+
+2. [Go 1.15.6 和 Go 1.14.13 发布了](https://mp.weixin.qq.com/s/qX6RqhN14XnF7-WrqbNY5g)
+
+3. [Go 经典入门系列 7：包](https://mp.weixin.qq.com/s/2eaI7CtNxOpEmkR5KcQb9w)
+
+4. [从零开始入门 K8s | Kata Containers 创始人带你入门安全容器技术](https://mp.weixin.qq.com/s/WjyLcatiXyEOwUbEgL232g)
+
+二、#公众号：亚军进化史
+
+1. [Go技术日报(2020-12-04)](https://studygolang.com/topics/12746)
+
+三、#公众号：polarisxu
+
+1. [一文掌握 Google 出品的 Go 进程诊断工具 gops](https://mp.weixin.qq.com/s/duDLmBTl5GoRnDa5dSzHjg)
+
+四、#公众号：代码与远方
+
+1. [【Golang源码系列】七：栈内存管理原理分析](https://mp.weixin.qq.com/s/1laT9M9WlLldFMYhkKxzsg)
+
+五、Gopher Dinner
+
+1. [Go语言中文网 Gopher Dinner 00 期【北京站】线下聚会](https://studygolang.com/topics/12748)
  gocn_news-2020-12-05
 # go-news-set-2020-12-05
 ## gocn_news-2020-12-05
