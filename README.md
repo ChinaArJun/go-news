@@ -1,3 +1,29 @@
+ go语言中文网(每日资讯)-2020-12-06
+# go-news-set-2020-12-06
+## go语言中文网(每日资讯)-2020-12-06
+一、#公众号：Go语言中文网
+
+1. [Go语言爱好者周刊：第 72 期 — 一道接口比较的题](https://mp.weixin.qq.com/s/xtERNcI-RGPxxSThgtc_gQ)
+
+2. [震惊！Gorm 终于可以操作 Oracle 了](https://mp.weixin.qq.com/s/6mq8EZmhqvUFpNFANUB1aA)
+
+3. [Go 经典入门系列 8：if-else 语句](https://mp.weixin.qq.com/s/dHTVlKeTKz5H5wf3buQF0g)
+
+二、#公众号：亚军进化史
+
+1. [Go技术日报(2020-12-05)](https://studygolang.com/topics/12754)
+
+三、#公众号：Golang梦工厂
+
+1. [Leaf—Segment分布式ID生成系统（Golang实现版本）](https://mp.weixin.qq.com/s/wURQFRt2ISz66icW7jbHFw)
+
+四、#公众号：代码与远方
+
+1. [网络协议-HTTP 协议(一)](https://mp.weixin.qq.com/s/f9G_YDtdG8eEY1zjoYli3w)
+
+五、鸟窝
+
+1. [Go运行时中的 Mutex](https://colobu.com/2020/12/06/mutex-in-go-runtime/)
  gocn_news-2020-12-06
 # go-news-set-2020-12-06
 ## gocn_news-2020-12-06
