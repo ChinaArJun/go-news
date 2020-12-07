@@ -1,3 +1,17 @@
+ gocn_news-2020-12-07
+# go-news-set-2020-12-07
+## gocn_news-2020-12-07
+- 1.Go1.6 将支持 Apple silicon M1 芯片https://gocn.vip/topics/11349
+
+- 2.Go 与 Java 的并发比较 https://medium.com/the-legend/golang-vs-java-concurrency-351ca5a845cb
+
+- 3.使用 Elastic APM 监控 Go 应用性能 https://adityarama1210.medium.com/golang-application-performance-monitoring-with-elastic-apm-92b02ca33374
+
+- 4.Go 笔记【呕心整理】https://juejin.cn/post/6903353632687652872
+
+- 5.GORM 极速入门 https://juejin.cn/post/6903337526811951118
+
+
  go语言中文网(每日资讯)-2020-12-06
 # go-news-set-2020-12-06
 ## go语言中文网(每日资讯)-2020-12-06
