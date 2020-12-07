@@ -1,3 +1,35 @@
+ go语言中文网(每日资讯)-2020-12-07
+# go-news-set-2020-12-07
+## go语言中文网(每日资讯)-2020-12-07
+一、#公众号：Go语言中文网
+
+1. [Go 项目实战：实现一个 Redis(3) 之实现内存数据库](https://mp.weixin.qq.com/s/Rlz_L6-HBs9EggrFANFG1g)
+
+2. [Go 经典入门系列 9：循环](https://mp.weixin.qq.com/s/i2CSL9DVzT0t6OyoLqXepg)
+
+二、#公众号：亚军进化史
+
+1. [Go技术日报(2020-12-06)](https://studygolang.com/topics/12760)
+
+三、#公众号：脑子进煎鱼了
+
+1. [先睹为快，Go2 Error 的挣扎之路](https://mp.weixin.qq.com/s/XILveKzh07BOQnqxYDKQsA)
+
+四、#公众号：代码与远方
+
+1. [揭密容器环境下 Golang 回收子进程的运行机制](https://mp.weixin.qq.com/s/3HsqtHwWReX1S3ggP2_owg)
+
+五、#公众号：腾讯技术工程
+
+1. [万字详文阐释程序员修炼之道](https://mp.weixin.qq.com/s/XIwfj_AdZqX_vHM4VIq9EA)
+
+六、#公众号：网管叨bi叨
+
+1. [深入理解StatefulSet，用Kubernetes编排有状态应用](https://mp.weixin.qq.com/s/y60q0-RMh8isd4u4PuLfUg)
+
+七、#公众号：码农桃花源
+
+1. [初级程序员常犯错误一览](https://mp.weixin.qq.com/s/MRZZOX7cZPIJPelcuihXUw)
  gocn_news-2020-12-07
 # go-news-set-2020-12-07
 ## gocn_news-2020-12-07
