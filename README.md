@@ -1,3 +1,34 @@
+ go语言中文网(每日资讯)-2020-12-08
+# go-news-set-2020-12-08
+## go语言中文网(每日资讯)-2020-12-08
+一、#公众号：Go语言中文网
+
+1. [远程办公会是趋势吗？这个远程 Go 工作机会推荐给你](https://mp.weixin.qq.com/s/maUjOZVb-dkedcUtMR2fWw)
+
+2. [Go 经典入门系列 10：switch 语句](https://mp.weixin.qq.com/s/GWNCI1a0OvbAa7gaREJPmg)
+
+3. [go基础之map-写在前面（一）](https://mp.weixin.qq.com/s/Aw8AjDmuvf7n7ACWl7mwaw)
+
+二、#公众号：亚军进化史
+
+1. [Go技术日报(2020-12-07)](https://studygolang.com/topics/12766)
+
+三、#公众号：polarisxu
+
+1. [推荐一个网站：其实是三个网站](https://mp.weixin.qq.com/s/xX1-DoBsuY17K69TjmE8dg)
+
+四、#公众号：Golang技术分享
+
+1. [详解逃逸分析](https://mp.weixin.qq.com/s/VeNiik-6vi8yQPKnr18w8A)
+
+五、#公众号：MoeLove
+
+1. [K8S 弃用 Docker 了？Docker 不能用了？别逗了！](https://mp.weixin.qq.com/s/z6s4QliBHs08pVj0GQ03dw)
+2. [Apache APISIX Ingress Controller 正式加入 ASF](https://mp.weixin.qq.com/s/SojhhvJF8tp8LKcix3YsOg)
+
+六、#公众号：Kubernetes技术栈
+
+1. [Ingress控制器那么多，到底该选哪一个？](https://mp.weixin.qq.com/s/3-A5AN5eF8Qog7YfpUtsFg)
  gocn_news-2020-12-08
 # go-news-set-2020-12-08
 ## gocn_news-2020-12-08
