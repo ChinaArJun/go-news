@@ -1,3 +1,29 @@
+ go语言中文网(每日资讯)-2020-12-09
+# go-news-set-2020-12-09
+## go语言中文网(每日资讯)-2020-12-09
+一、#公众号：Go语言中文网
+
+1. [Go 项目实战：实现一个 Redis(4) 之AOF 持久化与AOF重写](https://mp.weixin.qq.com/s/3MPwvqHp_WkgI6g9t2_6Fg)
+
+2. [Go 经典入门系列 11：数组和切片](https://mp.weixin.qq.com/s/VkGsM4rjcjEqcZJY3XI2rA)
+
+3. [go基础之map-增和改（二）](https://mp.weixin.qq.com/s/xu9ISybZNeVSaXlOJec-fg)
+
+二、#公众号：亚军进化史
+
+1. [Go技术日报(2020-12-08)](https://studygolang.com/topics/12773)
+
+三、#公众号：有点技术
+
+1. [k8s 1.20发布](https://mp.weixin.qq.com/s/n-AhliGyiEeawRnwhAsfwQ)
+
+四、#公众号：云原生技术爱好者社区
+
+1. [Go Errors | 不仅仅检查错误，更要优雅地处理它们](https://mp.weixin.qq.com/s/G53EObz3xHFWvliiOjdT7A)
+
+五、#公众号：Go招聘
+
+1. [Go 在各个城市开花？想回老家发展的，也许是个机会](https://mp.weixin.qq.com/s/lzk8ceAMuhG9IFhAKsQ22g)
  gocn_news-2020-12-09
 # go-news-set-2020-12-09
 ## gocn_news-2020-12-09
