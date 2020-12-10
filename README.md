@@ -1,3 +1,37 @@
+ go语言中文网(每日资讯)-2020-12-10
+# go-news-set-2020-12-10
+## go语言中文网(每日资讯)-2020-12-10
+一、#公众号：Go语言中文网
+
+1. [惊呆了！这个 Go 语言的 Bug 价值十亿美元](https://mp.weixin.qq.com/s/qXaRUDa6UWOUnWOOIjSDIQ)
+
+2. [一本帮助你成为更棒 Go 开发者的图书免费下载](https://mp.weixin.qq.com/s/kkLghCSeobeSNX2VLpZsnQ)
+
+3. [Go 经典入门系列 12：可变参数函数](https://mp.weixin.qq.com/s/DeEuZcWqE-LzYS_sg9m-vQ)
+
+4. [go基础之map-删除（三）](https://mp.weixin.qq.com/s/P_OHYlbWy5T67dzCxlv_Bg)
+
+二、#公众号：亚军进化史
+
+1. [Go技术日报(2020-12-09)](https://studygolang.com/topics/12780)
+
+三、#公众号：从菜鸟到大佬
+
+1. [Golang领域模型-领域事件](https://mp.weixin.qq.com/s/qrnAzK3cGnBu5mqU9iADmA)
+
+四、#公众号：阿里巴巴云原生
+
+1. [分布式事务框架 seata-golang 通信模型详解](https://mp.weixin.qq.com/s/7xoshM4lzqHX9WqANbHAJQ)
+
+五、#公众号：polarisxu
+
+1. [200 行 Go 代码实现一个快速，简单，轻巧的 HTTP 路由器](https://mp.weixin.qq.com/s/pY2eA-aFzJ03Sq_zpBcGSw)
+
+六、#公众号：TonyBai
+
+1. [像跟踪分布式服务调用那样跟踪Go函数调用链](https://mp.weixin.qq.com/s/zrM0I-CsEujAm6ho6AD79g)
+
+
  gocn_news-2020-12-10
 # go-news-set-2020-12-10
 ## gocn_news-2020-12-10
