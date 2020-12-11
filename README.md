@@ -1,3 +1,17 @@
+ gocn_news-2020-12-11
+# go-news-set-2020-12-11
+## gocn_news-2020-12-11
+- 1.Go 进阶训练营 第 4 课 Go 工程化实践  https://juejin.cn/post/6904595334693912584
+
+- 2.项目改用 GoModules 管理依赖的方法和经验总结 https://mp.weixin.qq.com/s/xtvTUl2IZFQ79dSR_m-b7A
+
+- 3.Golang 实现 Paxos 分布式共识算法 https://mp.weixin.qq.com/s/4q-63pZodAGjsSpOsOL2Fg
+
+- 4.使用 Apple Virtualization.framework 在 Go 中创建虚拟机并运行基于 Linux 的操作系统 https://github.com/Code-Hex/vz
+
+- 5.Go 语言中观察 GC 的几种方式 https://juejin.cn/post/6904280087668097038
+
+
  go语言中文网(每日资讯)-2020-12-10
 # go-news-set-2020-12-10
 ## go语言中文网(每日资讯)-2020-12-10
