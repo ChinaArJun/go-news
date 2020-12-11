@@ -12,6 +12,30 @@
 - 5.Go 语言中观察 GC 的几种方式 https://juejin.cn/post/6904280087668097038
 
 
+ go语言中文网(每日资讯)-2020-12-11
+# go-news-set-2020-12-11
+## go语言中文网(每日资讯)-2020-12-11
+一、#公众号：Go语言中文网
+
+1. [Go 项目实战：实现一个 Redis(5) 之使用跳表实现 SortedSet](https://mp.weixin.qq.com/s/kGIpAq6zlhTkg8G-QyWBsQ)
+
+2. [Go 经典入门系列 12：Maps](https://mp.weixin.qq.com/s/9ql797x43pqGf-xaOTIWiQ)
+
+二、#公众号：亚军进化史
+
+1. [Go技术日报(2020-12-10)](https://studygolang.com/topics/12784)
+
+三、#公众号：腾讯云TVP
+
+1. [技术人如何在多重角色中游刃有余？| 专访毛剑](https://mp.weixin.qq.com/s/vEWKb7eumWtfeodmwfpp9Q)
+
+四、#公众号：有点技术
+
+1. [弃用docker之后你的k8s用哪种容器runtime?](https://mp.weixin.qq.com/s/TzsfBQcnvto1sGWq09TPlQ)
+
+五、#公众号：章老师说
+
+1. [百度万亿流量转发平台背后的故事](https://mp.weixin.qq.com/s/cH0u4NcItXdpe6NyitwWzg)
  go语言中文网(每日资讯)-2020-12-10
 # go-news-set-2020-12-10
 ## go语言中文网(每日资讯)-2020-12-10
