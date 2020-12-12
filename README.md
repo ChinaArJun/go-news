@@ -1,3 +1,27 @@
+ go语言中文网(每日资讯)-2020-12-12
+# go-news-set-2020-12-12
+## go语言中文网(每日资讯)-2020-12-12
+一、#公众号：Go语言中文网
+
+1. [理解 Go 并发以及调度器亲和性](https://mp.weixin.qq.com/s/XnqF5aZ_0F3-cZPUm9pM7w)
+
+2. [从零开始入门 K8s | 理解 RuntimeClass 与使用多容器运行时](https://mp.weixin.qq.com/s/Y_pED-H78c4ardf_HgL9gQ)
+
+二、#公众号：亚军进化史
+
+1. [Go技术日报(2020-12-11)](https://studygolang.com/topics/12791)
+
+三、#公众号：阿里巴巴云原生
+
+1. [我看技术人的成长路径](https://mp.weixin.qq.com/s/dzqmuX7warJZ2rFY0OctwQ)
+
+四、#公众号：架构之家
+
+1. [一次SQL查询优化原理分析：900W+数据，从17s到300ms](https://mp.weixin.qq.com/s/x3_0GQpTIdEOlIrfY_YcVA)
+
+五、#公众号：TonyBai
+
+1. [Go 1.16新功能特性不完全前瞻](https://mp.weixin.qq.com/s/JzAQ3r9lDBad8PO6iAerqw)
  gopherDaily-2020-12-12
 # go-news-set-2020-12-12
 ## gopherDaily-2020-12-12
