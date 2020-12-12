@@ -1,3 +1,21 @@
+ gopherDaily-2020-12-12
+# go-news-set-2020-12-12
+## gopherDaily-2020-12-12
+- 1.gohugo在Apple M1芯片上的性能基准测试 - https://gohugo.io/news/hugo-macos-intel-vs-arm/
+- 2.动态加载Go函数作为DSL规则 - https://zerodha.tech/blog/a-lesson-in-niche-business-dsls-at-scale/
+- 3.使用Go解析ELF文件 - https://notes.eatonphil.com/emulating-amd64-starting-with-elf.html
+- 4.spago: 一个用Go语言编写的美观且可维护的机器学习库，旨在在自然语言处理任务中支持相关的神经网络体系结构 - https://github.com/nlpodyssey/spago
+- 5.earlybird: 美国运通开源的敏感的数据检测工具 - https://github.com/americanexpress/earlybird
+- 6.开源项目商业化时重要的参考指标并不仅仅是星星的数量 - https://medium.com/basis-set-ventures/all-that-glitters-like-stars-is-not-gold-metrics-that-matter-when-commercializing-open-source-2f58c8a5b493
+- 7.Kubernetes和GitOps by kelsey hightower - https://githubuniverse.com/Kelsey-Kubernetes-and-GitOps/
+- 8.go slice的行为特征与副作用 - https://trstringer.com/golang-append/
+- 9.康奈尔大学公开课：高级编译器：自学在线课程 - https://www.cs.cornell.edu/courses/cs6120/2020fa/self-guided/
+- 10.深入python对象系统 - https://tenthousandmeters.com/blog/python-behind-the-scenes-6-how-python-object-system-works/
+- 11.Google及其产品的最佳替代产品 - https://justprivacy.org/google-alternatives/
+- 12.关于redhat对centos支持策略变更的一些考量 - https://lwn.net/SubscriberLink/839523/87ded6f43bf2a6d2/
+- 13.经典旧文：我是如何不经意间构建了一个开源项目的怪物: Oh My Zsh - https://medium.com/free-code-camp/d-oh-my-zsh-af99ca54212c
+- 14.给Python程序员的Go语言介绍 - https://towardsdatascience.com/introduction-to-go-for-python-programmers-a0a729112a1b
+
  gocn_news-2020-12-11
 # go-news-set-2020-12-11
 ## gocn_news-2020-12-11
