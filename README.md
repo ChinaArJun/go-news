@@ -1,3 +1,35 @@
+ go语言中文网(每日资讯)-2020-12-13
+# go-news-set-2020-12-13
+## go语言中文网(每日资讯)-2020-12-13
+一、#公众号：Go语言中文网
+
+1. [Go语言爱好者周刊：第 73 期](https://mp.weixin.qq.com/s/wtIS-yIngWz4mD8XTMIvgg)
+
+2. [Go 经典入门系列 14：字符串](https://mp.weixin.qq.com/s/Jf1cXy7VAO1V-vvMHydo0Q)
+
+二、#公众号：亚军进化史
+
+1. [Go技术日报(2020-12-12)](https://studygolang.com/topics/12795)
+
+三、#公众号：polarisxu
+
+1. [Gopher Dinner 第 1 期结束，简单聊聊](https://mp.weixin.qq.com/s/gSq6DtD2qO5qy_A3wNqYrg)
+
+四、#公众号：多颗糖
+
+1. [Golang 实现 Paxos 分布式共识算法](https://mp.weixin.qq.com/s/4q-63pZodAGjsSpOsOL2Fg)
+
+五、#公众号：代码与远方
+
+1. [nginx的keepalive源码分析](https://mp.weixin.qq.com/s/xMGBi9DH__3MImmjuhi8ng)
+
+六、#公众号：Go招聘
+
+1. [K12 在线教育第一的好未来招人了，看什么要求](https://mp.weixin.qq.com/s/kGlXsLuVCJChrUJGEQqHgA)
+
+七、#公众号：董泽润的技术笔记
+
+1. [etcd 操作 boltdb 的优化实现](https://mp.weixin.qq.com/s/Cv1lagwtSkonQQes_0Sndw)
  gocn_news-2020-12-13
 # go-news-set-2020-12-13
 ## gocn_news-2020-12-13
