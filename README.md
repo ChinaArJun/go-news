@@ -1,3 +1,17 @@
+ gocn_news-2020-12-14
+# go-news-set-2020-12-14
+## gocn_news-2020-12-14
+- 1.理解 Go 并发以及调度器亲和性 https://mp.weixin.qq.com/s/XnqF5aZ_0F3-cZPUm9pM7w
+
+- 2.900W+ 数据，从 17s 到 300ms https://mp.weixin.qq.com/s/x3_0GQpTIdEOlIrfY_YcVA
+
+- 3.揭密容器环境下 Golang 回收子进程的运行机制 https://mp.weixin.qq.com/s/3HsqtHwWReX1S3ggP2_owg
+
+- 4.fasthttp 快在哪里 https://mp.weixin.qq.com/s/2Fnr5HmslIohZuao_wEoMQ
+
+- 5.Go 语言中观察 GC 的几种方式 https://juejin.cn/post/6904280087668097038
+
+
  go语言中文网(每日资讯)-2020-12-13
 # go-news-set-2020-12-13
 ## go语言中文网(每日资讯)-2020-12-13
