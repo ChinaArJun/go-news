@@ -1,3 +1,39 @@
+ go语言中文网(每日资讯)-2020-12-21
+# go-news-set-2020-12-21
+## go语言中文网(每日资讯)-2020-12-21
+一、#公众号：Go语言中文网
+
+1. [Go 项目实战：实现一个 Redis(6) 之实现 pipeline 模式的 redis 客户端](https://mp.weixin.qq.com/s/9NILvKm2vzEx3hc0lVQy6w)
+
+2. [Go 经典入门系列 22：Channel](https://mp.weixin.qq.com/s/XoTz1MrBBgmHMuyZuKWDyA)
+
+3. [为 Gopher 打造 DDD 系列：领域模型-领域事件](https://mp.weixin.qq.com/s/srf7FBOuK0x_54rzZBkFbg)
+
+二、#公众号：亚军进化史
+
+1. [Go技术日报(2020-12-20)](https://studygolang.com/topics/12835)
+
+三、#公众号：代码与远方
+
+1. [网络第三弹 - 聊聊TCP连接耗时的那些事儿](https://mp.weixin.qq.com/s/z-sZVv1xrFxlaER7vtx3Yg)
+
+四、#公众号：奇伢云存储
+
+1. [golang 调试分析的高阶技巧](https://mp.weixin.qq.com/s/T2Xn7L9F7KUV0BnYF4v8lQ)
+
+2. [Golang最细节篇— struct{} 空结构体究竟是啥？](https://mp.weixin.qq.com/s/Rd1kUFK0F4Z-UTfl5wBcPw)
+
+五、#公众号： Go夜读
+
+1. [《Go 语言并发之道》读后感 - 第一章](https://mp.weixin.qq.com/s/SyswHk85HOgZ4AS9B8wSSQ)
+
+六、#公众号：轩脉刃的刀光剑影
+
+1. [grafana 的主体架构是如何设计的？](https://mp.weixin.qq.com/s/xG0PVcm5SnJoOxKr4XbGPA)
+
+七、鸟窝
+
+1. [Go 运行程序中的线程数](https://colobu.com/2020/12/20/threads-in-go-runtime/)
  gocn_news-2020-12-21
 # go-news-set-2020-12-21
 ## gocn_news-2020-12-21
