@@ -1,3 +1,420 @@
+ gocn_news-2020-12-21
+# go-news-set-2020-12-21
+## gocn_news-2020-12-21
+- 1.Go 语言参数传递 https://mp.weixin.qq.com/s/JHbFh2GhoKewlemq7iI59Q
+
+- 2.Go 通道实现原理 https://juejin.cn/post/6907876667746680846
+
+- 3.在 Go HTTP 服务器中并发 https://eli.thegreenplace.net/2019/on-concurrency-in-go-http-servers
+
+- 4.理解 Go 并发以及调度器亲和性 https://mp.weixin.qq.com/s/XnqF5aZ_0F3-cZPUm9pM7w
+
+- 5.在 Go 中正常关闭 TCP 服务器 https://eli.thegreenplace.net/2020/graceful-shutdown-of-a-tcp-server-in-go/
+
+
+ gocn_news-2020-12-20
+# go-news-set-2020-12-20
+## gocn_news-2020-12-20
+- 1.了解 Go 的内存分配 https://medium.com/eureka-engineering/understanding-allocations-in-go-stack-heap-memory-9a2631b5035d
+
+- 2.使用 Go 和 Postgres 分页的 4 种方式 https://dev.to/bxcodec/how-to-do-pagination-in-postgres-with-golang-in-4-common-ways-4kph
+
+- 3.如何调试运行 Go 程程序的 Docker 容器 https://mayurkhante786.medium.com/how-to-debug-docker-container-running-go-golang-application-e999cdbf24f4
+
+- 4.使用 PromQL 探索你的指标 https://promlabs.com/blog/2020/12/17/promql-queries-for-exploring-your-metrics
+
+- 5.高效的像素差异比较工具 https://github.com/n7olkachev/imgdiff
+
+
+ go语言中文网(每日资讯)-2020-12-20
+# go-news-set-2020-12-20
+## go语言中文网(每日资讯)-2020-12-20
+一、#公众号：Go语言中文网
+
+1. [Go语言爱好者周刊：第 74 期 — 不仔细你就会答错](https://mp.weixin.qq.com/s/oDMSFjjzGbu7kkERM8ilGw)
+
+2. [Go 格式化 API — CockroachDB errors 库（第2篇）](https://mp.weixin.qq.com/s/t5bNcsNm4QJmo0a--9drFQ)
+
+3. [Go 经典入门系列 21：Go 协程](https://mp.weixin.qq.com/s/mI754VKDkuet7_A3ASHJcA)
+
+二、#公众号：亚军进化史
+
+1. [Go技术日报(2020-12-19)](https://studygolang.com/topics/12834)
+
+三、#公众号：代码与远方
+
+1. [Linux网络包接收过程的监控与调优](https://mp.weixin.qq.com/s/ThYiy-Z3DgEW91gkOKa8lg)
+
+四、#公众号：HHFCodeRv
+
+1. [疑惑: Go const 导致程序结果错乱 ?](https://mp.weixin.qq.com/s/9OngnAzyKfL7Y2nAYtaxhA)
+
+五、#公众号：高可用架构
+
+1. [工程师应培养哪些基本功？听美团技术大咖怎么说](https://mp.weixin.qq.com/s/DIOi0xqqKVXvtKo9lVN1Uw)
+
+六、#公众号：Golang梦工厂
+
+1. [真的理解go interface了吗？](https://mp.weixin.qq.com/s/sO6Phr9C5VwcSTQQjJux3g)
+
+七、#公众号：Golang语言开发栈
+
+1. [Golang 语言的内存模型](https://mp.weixin.qq.com/s/X4BDr_ANxiFT5MPdcL1Bhg)
+ gopherDaily-2020-12-20
+# go-news-set-2020-12-20
+## gopherDaily-2020-12-20
+- 1.从头开始用Go实现KNN和K-Means算法 -  https://towardsdatascience.com/knn-and-k-means-algorithm-in-go-from-scratch-c21857e1c84d
+- 2.Shopify如何在浏览器之外使用WebAssembly - https://shopify.engineering/shopify-webassembly
+- 3.chili: 简单表达式求值引擎 - https://github.com/5anthosh/chili
+- 4.如何在go开发中使用Makefile - https://leogtzr.medium.com/how-to-use-makefiles-for-your-golang-development-b4c438fe0bdd
+- 5.使用Go在数据链路层攻击网络设备 - https://dev.to/davidkroell/exployting-network-devices-at-the-data-link-layer-with-go-44an
+- 6.给工程负责人的OpenTelemetry指南 - https://go.lightstep.com/rs/260-KGM-472/images/eBook_GuideToOpenTelemetry.pdf
+- 7.油管视频：Spago: 一个用于机器学习/自然语言处理的Go库 - https://www.youtube.com/watch?v=kDqRKNrA7zk
+- 8.使用无服务器回到上世纪70年代 - http://evrl.com/devops/cloud/2020/12/18/serverless.html
+- 9.极端主义编程 - http://blog.ezyang.com/2012/11/extremist-programming/
+- 10.如何在3个月时间内拿到计算机学位 - https://miguelrochefort.com/blog/cs-degree/
+- 11.k8s label和selector详解 - https://sandeepbaldawa.medium.com/k8s-labels-selectors-9ad2fcf78a4e
+- 12.machine: 用于处理数据的工作流或管道库 - https://github.com/whitaker-io/machine
+- 13.经典旧文：Go测试的不为人知的故事 - https://blog.gojekengineering.com/the-untold-story-of-golang-testing-29832bfe0e19
+
+ gocn_news-2020-12-19
+# go-news-set-2020-12-19
+## gocn_news-2020-12-19
+- 1.Go 1.16 中关于 go get 和 go install 你需要注意的地方 https://segmentfault.com/a/1190000038541867
+
+- 2.Go 语言对 ARM 架构的支持与未来 [译] https://tonybai.com/2020/12/18/go-ports-until-202012/
+
+- 3.聊聊 golang 的 zap 的 marshaler https://segmentfault.com/a/1190000038539285
+
+- 4.Go 加密算法 https://www.cnblogs.com/you-men/p/14160439.html
+
+- 5.cli / oauth：用于在 Go 客户端应用程序中执行 OAuth 设备流和 Web 应用程序流的库https://github.com/cli/oauth
+
+
+ go语言中文网(每日资讯)-2020-12-19
+# go-news-set-2020-12-19
+## go语言中文网(每日资讯)-2020-12-19
+一、#公众号：Go语言中文网
+
+1. [跟 Dave Cheney 大神重学 Go Slice：有新收获](https://mp.weixin.qq.com/s/A5hyvYdqsGcntbZlJyB3Iw)
+
+2. [Go 1.16 Beta1 发布了：你的 M1 可以安装原生 Go 了](https://mp.weixin.qq.com/s/jZ_bAvR8GTT5OZMCO0UiBQ)
+
+3. [​Go 经典入门系列 20：并发入门](https://mp.weixin.qq.com/s/vu12tbXiyFWZSe8MdVa6-Q)
+
+4. [漫画 | 一台Linux服务器最多能支撑多少个TCP连接？](https://mp.weixin.qq.com/s/qq0VX_X8NcrkhgyobyBkjA)
+
+二、#公众号：亚军进化史
+
+1. [Go技术日报(2020-12-18)](https://studygolang.com/topics/12829)
+
+三、#公众号：代码与远方
+
+1. [深度理解Linux下网络包的接收过程](https://mp.weixin.qq.com/s/qaRQurybJwTby6UQ7NASWQ)
+
+四、#公众号：polarisxu
+
+1. [感慨 Apple 的强大](https://mp.weixin.qq.com/s/RYaFPKUI0uJKMGG6QSIc1g)
+
+五、#公众号：MoeLove
+
+1. [Go 1.16 中关于 go get 和 go install 你必须注意的地方](https://mp.weixin.qq.com/s/s4KFK3OO_j0RACB0WMD6PA)
+ gopherDaily-2020-12-19
+# go-news-set-2020-12-19
+## gopherDaily-2020-12-19
+- 1.1965-2020年最流行的编程语言 - https://www.statisticsanddata.org/most-popular-programming-languages/
+- 2.Go 1.16在Go应用中嵌入静态文件 - https://golangtutorial.dev/tips/embed-files-in-go/
+- 3.Go中http路由的几种不同方法 - https://benhoyt.com/writings/go-routing/
+- 4.经典旧文：defer的内联优化 - https://rakyll.org/inlined-defers/
+- 5.出于对pkg.go.dev的不满，社区有gopher建立了godocs.io，运行godoc.org的最新代码 - https://drewdevault.com/2020/12/18/godocs.io.html
+- 6.doggo: Go版dig DNS客户端工具 - https://github.com/mr-karan/doggo
+- 7.robotgo: Go Native跨平台桌面自动化工具，支持控制鼠标，键盘，读取屏幕，窗口句柄和全局事件侦听器等  - https://github.com/go-vgo/robotgo
+- 8.github markdown编辑器支持markdown的自动补全了 - https://github.blog/changelog/2020-12-15-markdown-list-syntax-now-autocompleted/
+- 9.linux ip命令实例解析 - https://www.cyberciti.biz/faq/linux-ip-command-examples-usage-syntax/
+- 10.如何用go实现一个命令行程序并将其发布到npm上 - https://blog.bywachira.com/post/create-cli-with-golang-and-publish-on-npm
+- 11.Java程序员眼中的Go - https://dev.to/mraszplewicz/golang-through-the-eyes-of-a-java-developer-pros-and-cons-25o2
+- 12.Go语言动态规划 - https://medium.com/better-programming/dynamic-programming-in-go-a95d32ee9953
+
+ go语言中文网(每日资讯)-2020-12-18
+# go-news-set-2020-12-18
+## go语言中文网(每日资讯)-2020-12-18
+一、#公众号：Go语言中文网
+
+1. [在编程中，有两件事情最难：聊聊 Go 中的简短变量名](https://mp.weixin.qq.com/s/gcTM1zM7kUkth-tCHDZjzA)
+
+2. [Go 经典入门系列 19：接口（二）](https://mp.weixin.qq.com/s/jZ_bAvR8GTT5OZMCO0UiBQ)
+
+3. [每日一库之如何快速打造一款钉钉 Go sdk](https://mp.weixin.qq.com/s/PN7mlZymSRekQ2PmHfw9Aw)
+
+二、#公众号：亚军进化史
+
+1. [Go技术日报(2020-12-17)](https://studygolang.com/topics/12826)
+
+三、#公众号：Go招聘
+
+1. [Go 1.16 Beta1 发布了：你的 M1 可以安装原生 Go 了](https://mp.weixin.qq.com/s/LMtg_nilQaDbEZUFuyWlog)
+2. [一次完整的腾讯 Go 开发岗位面试记录](https://mp.weixin.qq.com/s/t6XpRpgFVD60k4wktB05rw)
+
+四、#公众号：代码与远方
+
+1. [抓包三部曲 - WebSocket 协议原理抓包分析](https://mp.weixin.qq.com/s/sCSMtQZF6RBqUBnlWN-R9Q)
+
+五、#公众号：polarisxu
+
+1. [送书：送 5 本进大厂必备的硬核算法教程](https://mp.weixin.qq.com/s/aPtBDmLUmcSloaW_vGW7NA)
+
+六、#公众号：Go 101
+
+1. [Go 1.16 新特性查缺补漏二](https://mp.weixin.qq.com/s/JN8UEtI0LOVx3lJd868HXw)
+
+七、#公众号：Golang语言开发栈
+
+1. [Go team 开源项目 Go Cloud 使用的依赖注入工具 Wire 怎么使用？](https://mp.weixin.qq.com/s/7B71pL7vH1PcmY00VbfG_g)
+ gopherDaily-2020-12-18
+# go-news-set-2020-12-18
+## gopherDaily-2020-12-18
+- 1.Go 1.16 beta1发布，支持在Apple M1芯片上运行 - https://groups.google.com/g/golang-announce/c/2-Rj3P5uRLs/m/mYxD2RJkAQAJ 国内下载地址：https://golang.google.cn/dl/ 关于Go 1.16的功能前瞻，可以参考我的这篇文章：https://mp.weixin.qq.com/s/JzAQ3r9lDBad8PO6iAerqw
+- 2.Go官博：Go对ARM生态的支持，已经支持了M1，下一个目标ARM64 Windows 10系统 - https://blog.golang.org/ports
+- 3.go语言有哪些劣势（在知乎的回答) - https://www.zhihu.com/question/300163211/answer/1632229924
+- 4.使用Go构建数据库(part1) - https://ewanvalentine.io/building-a-database-in-go-part-one/
+- 5.Go实现的防审查代理隧道 - https://spacetime.dev/rosen-censorship-resistant-proxy-tunnel
+- 6.Kubernetes水族馆 - https://medium.com/@AnneLoVerso/the-kubernetes-aquarium-6a3d1d7a2afd
+- 7.使用Go进行Postgres数据库查询结果分页的四种方法 -  https://dev.to/bxcodec/how-to-do-pagination-in-postgres-with-golang-in-4-common-ways-4kph
+- 8.GTK 4.0发布 - https://blog.gtk.org/2020/12/16/gtk-4-0/
+- 9.MongoDB在线数据迁移 - https://www.loginradius.com/blog/async/live-data-migration-mongodb/
+- 10.GitHub移除了所有cookie横幅(banner) - https://github.blog/2020-12-17-no-cookie-for-you/
+
+ gocn_news-2020-12-17
+# go-news-set-2020-12-17
+## gocn_news-2020-12-17
+- 1.对比 Python 学习 Go- 高级数据结构 https://segmentfault.com/a/1190000038498305
+
+- 2.实时 Golang 运行时统计信息可视化分析器  https://github.com/go-echarts/statsview
+
+- 3.Go 实现的用于调整和转换远程图像的大小的独立服务器 imgproxy https://github.com/imgproxy/imgproxy
+
+- 4.在 Go 中安全的构建 Elasticsearch 的搜索查询 https://dev.to/taqkarim/safely-construct-elasticsearch-queries-w-golang-4ff3
+
+- 5.在 Go 中使用 Afero 去 mock 文件系统 https://dev.to/drpaneas/mocking-the-filesystem-in-go-using-afero-ok4
+
+
+ go语言中文网(每日资讯)-2020-12-17
+# go-news-set-2020-12-17
+## go语言中文网(每日资讯)-2020-12-17
+一、#公众号：Go语言中文网
+
+1. [英雄联盟（LOL）所在公司竟然大量使用 Go 语言：这是他们的实战分享](https://mp.weixin.qq.com/s/lyMj5vjhH1KytWHDWgnYGg)
+
+2. [第 71 期周刊题目 — 结构体内嵌接口：65%!!(MISSING)的(MISSING)人答错了](https://mp.weixin.qq.com/s/FfWKzGKvObEffxIsxryNQg)
+
+3. [Go 经典入门系列 18：接口（一）](https://mp.weixin.qq.com/s/GmnT_PHNHIbgYb9O9u-Zcw)
+
+二、#公众号：亚军进化史
+
+1. [Go技术日报(2020-12-16)](https://studygolang.com/topics/12817)
+
+三、#公众号：Golang来啦
+
+1. [深入理解 Defer 函数](https://mp.weixin.qq.com/s/RYHscNNGx_2pwrjGc-jgdA)
+
+四、#公众号：代码与远方
+
+1. [抓包二部曲 - Wireshark 捕获和显示过滤器](https://mp.weixin.qq.com/s/vAwgLbxVHTxl0P2aFlr1WA)
+
+五、#公众号：polarisxu
+
+1. [听说你还不知道如何查看 Go 历史文档？](https://mp.weixin.qq.com/s/NGG7bxOHjTElHQ88j_q1tA)
+
+六、#公众号：Go开发大全
+
+1. [详解Golang堆栈指针](https://mp.weixin.qq.com/s/vBsIvUnZGPNqlDUIEGaHSw)
+
+七、#公众号：Kubernetes技术栈
+
+1. [Containerd 的前世今生和级入门教程](https://mp.weixin.qq.com/s/DhLmd9tv88-Vbk6dwx3umg)
+ gopherDaily-2020-12-17
+# go-news-set-2020-12-17
+## gopherDaily-2020-12-17
+- 1.docker发布支持apple M1芯片的docker desktop预览版 - https://www.docker.com/blog/download-and-try-the-tech-preview-of-docker-desktop-for-m1/
+- 2.组织依赖的编程语言排行榜，Go排名第7 - https://dzone.com/articles/the-top-programming-languages-organizations-rely-o
+- 3.油管视频：Golab技术会议视频全集 - https://www.youtube.com/channel/UCMEvzoHTIdZI7IM8LoRbLsQ/videos
+- 4.使用Go连接云存储时的易用性 - https://www.backblaze.com/blog/development-roadmap-power-up-apps-with-go-programming-language-and-cloud-storage/
+- 5.Gartner：2021年影响基础设施和运营的六大趋势 - https://mp.weixin.qq.com/s/79XLuaFMQ-W0h4mSnNFKEQ
+- 6.油管视频：2020 LLVM开发者会议：“受检查的C：向LLVM加入内存安全性” - https://www.youtube.com/watch?v=EuxAzvtX9CI
+- 7.MIT研究发现：对大脑而言，阅读计算机代码与阅读语言不同 - https://news.mit.edu/2020/brain-reading-computer-code-1215
+- 8.Dapr: 云原生食谱的自选食材 - https://github.com/orizohar/CloudNativeKitchen2020/blob/main/Dapr-Cloud-Native-Kitchen-Dec-2020.pdf
+- 9.经典旧文：软件测试指南 - https://martinfowler.com/testing/
+- 10.对Go二进制文件进行逆向工程 - https://x0r19x91.gitlab.io/post/vibrations-hacktm-2020-finals/
+- 11.Google面试最常问的20个问题 - https://www.programming-hero.com/blog/20-most-frequently-asked-google-interview-questions.html
+- 12.使用Go创建一个kubernetes operator来自动管理一个简单的有状态应用 - https://developers.redhat.com/blog/2020/12/16/create-a-kubernetes-operator-in-golang-to-automatically-manage-a-simple-stateful-application/
+
+ gocn_news-2020-12-16
+# go-news-set-2020-12-16
+## gocn_news-2020-12-16
+- 1.Go netpoller 原生网络模型之源码全面揭秘 https://mp.weixin.qq.com/s/Ie0ZRlVVwZQf7B0ZCXdYLQ
+
+- 2.BPF and Go: Modern forms of introspection in Linux https://medium.com/bumble-tech/bpf-and-go-modern-forms-of-introspection-in-linux-6b9802682223
+
+- 3.Google 鼓励的 13 条代码审查标准 https://mp.weixin.qq.com/s/Zn3LKi6aN-jQcHecU7441w
+
+- 4.Kubernetes 如何使用 Nginx-Ingress 实现蓝绿和金丝雀发布 https://mp.weixin.qq.com/s/SAE4IvjVPVV1dfS4ZXwzbQ
+
+- 5.CockroachDB errors 系列文章（一）：errors 的问题 https://mp.weixin.qq.com/s/S_04n2Uzse3VwptCH9gpow
+
+
+ go语言中文网(每日资讯)-2020-12-16
+# go-news-set-2020-12-16
+## go语言中文网(每日资讯)-2020-12-16
+一、#公众号：Go语言中文网
+
+1. [好库推荐 — CockroachDB errors 系列文章（一）：errors 的问题](https://mp.weixin.qq.com/s/S_04n2Uzse3VwptCH9gpow)
+
+2. [Go 经典入门系列 17：方法](https://mp.weixin.qq.com/s/S29FV1oPSAJqCoSwcYpHhA)
+
+3. [在Go中如何进行排序](https://mp.weixin.qq.com/s/0EULFToyq_k_rCWqNbOFgA)
+
+二、#公众号：亚军进化史
+
+1. [Go技术日报(2020-12-15)](https://studygolang.com/topics/12811)
+
+三、#公众号：脑子进煎鱼了
+
+1. [Go 错误处理：用 panic 取代 err != nil 的模式](https://mp.weixin.qq.com/s/p77V3_LkREuXPVLdebmmmQ)
+
+四、#公众号：代码与远方
+
+1. [本文在手抓包不愁!](https://mp.weixin.qq.com/s/pLYTzmn1qFTiSUwn5V4Vnw)
+
+五、#公众号：polarisxu
+
+1. [新买了 Apple M1 Mac，却不知道如何安装 Go？](https://mp.weixin.qq.com/s/IuKZBnvJlskpqdHJqMcTXw)
+
+六、#公众号：微服务实践
+
+1. [通过MapReduce降低服务响应时间](https://mp.weixin.qq.com/s/yxXAIK1eC_X22DH4ssZSag)
+ gopherDaily-2020-12-16
+# go-news-set-2020-12-16
+## gopherDaily-2020-12-16
+- 1.Go官博：2021年初开始，godoc.org默认将重定向到pkg.go.dev - https://blog.golang.org/godoc.org-redirect
+- 2.查找关键的开源项目: Google开源criticality_score项目，该项目会评估一个开源项目的重要性并给出一个评估分数，打分算法来自Rob Pike - https://github.com/ossf/criticality_score，其go语言移植版在这里： https://github.com/engelsjk/criticalityscore
+- 3.使用Go编写kubernetes controller - https://fedepaol.github.io/blog/2020/12/07/writing-a-kubernetes-controller-part-1/
+- 4.油管视频：现代编译器构建 by C#之父 - Anders Hejlsberg - https://www.youtube.com/watch?v=wSdV1M7n4gQ
+- 5.kubernetes存储插件性能横向对比(2020版) - https://medium.com/volterra-io/kubernetes-storage-performance-comparison-v2-2020-updated-1c0b69f0dcf4
+- 6.使用kubernetes编排虚拟机 - https://www.projectcalico.org/using-kubernetes-to-orchestrate-vms/
+- 7.使用RBAC简化kubernetes资源访问控制 - https://www.cncf.io/blog/2020/09/17/simplify-kubernetes-resource-access-control-using-rbac-impersonation/
+- 8.Go gui框架fyne的全平台打包发布工具fyne-cross发布1.0版本 - https://fyne.io/blog/2020/12/14/fyne-cross-v1-release.html
+- 9.最小的bash安全脚本模板 - https://betterdev.blog/minimal-safe-bash-script-template/
+- 10.免费的linux系统监控模板 by influxdb - https://www.influxdata.com/blog/free-linux-system-monitoring-dashboard-from-influxdb/
+- 11.C++ 20标准正式发布 - https://www.iso.org/standard/79358.html
+
+ gocn_news-2020-12-15
+# go-news-set-2020-12-15
+## gocn_news-2020-12-15
+- 1.Go 标准库 xml 语法解析循环漏洞 https://mattermost.com/blog/coordinated-disclosure-go-xml-vulnerabilities/
+
+- 2.期待已久的 beego2.0 来了，最简单易用的企业级应用开发框架 https://mp.weixin.qq.com/s/qKwHsRkPPeqUvgEC4IswnQ
+
+- 3.最简单的 K8S 部署文件编写姿势，没有之一！ https://gocn.vip/topics/11380
+
+- 4.Gmqtt——Go 语言实现的 MQTT broker https://juejin.cn/post/6905898448743038990
+
+- 5.使用 Go 程序编写 Docker 镜像打包和推送 https://www.loginradius.com/blog/async/build-push-docker-images-golang/
+
+
+ go语言中文网(每日资讯)-2020-12-15
+# go-news-set-2020-12-15
+## go语言中文网(每日资讯)-2020-12-15
+一、#公众号：Go语言中文网
+
+1. [Uber 又为 Go 生态做贡献了](https://mp.weixin.qq.com/s/sBNcm6W4JGVbvcQ7Jso2wg)
+
+2. [Go 经典入门系列 16：结构体](https://mp.weixin.qq.com/s/KGIx5HLPdDjSfZCVtzzACA)
+
+3. [go基础之map-迭代（四）](https://mp.weixin.qq.com/s/gnB-5iFFoaTKLFWiHhMGPQ)
+
+二、#公众号：亚军进化史
+
+1. [Go技术日报(2020-12-14)](https://studygolang.com/topics/12807)
+
+三、#公众号：五分选手
+
+1. [LeetCode Weekly Contest 218 解题报告](https://mp.weixin.qq.com/s/vfbAWpwEZHFstfUPkkfeDQ)
+
+四、#公众号：网管叨bi叨
+
+1. [并发编程-信号量的使用方法和其实现原理](https://mp.weixin.qq.com/s/QAMgkj-pDe36leDeGigu4Q)
+
+五、#公众号：Golang来啦
+
+1. [Golang 面向对象编程](https://mp.weixin.qq.com/s/Kgjaq6s98pMfRzuAphEjAg)
+
+六、#公众号：代码与远方
+
+1. [Google 服务全线崩溃了! 谈谈什么是 SLA?](https://mp.weixin.qq.com/s/pAjB5puHi4s7SRa7Tv7k_g)
+
+七、#公众号：Go招聘
+
+1. [从 Delphi 到 Java 再到 Go，建筑行业这么紧跟时代步伐：招有缘人](https://mp.weixin.qq.com/s/OTUBw8J6uUrhX8YGHmfKaw)
+
+2. [广告系统貌似喜欢 Go？微博广告招 Go 研发工程师](https://mp.weixin.qq.com/s/Js4EtfYAoZgsAe9nUOSsoQ)
+
+八、#公众号：码农桃花源
+
+1. [Go pprof 快速分析 CPU 高负载问题](https://mp.weixin.qq.com/s/db--Gd4mUf2bs1hGwo5M_A)
+ gopherDaily-2020-12-15
+# go-news-set-2020-12-15
+## gopherDaily-2020-12-15
+- 1.网络上最好的Golang学习资源: 精选最佳文章，练习，课程，讲座和视频来学习GO！- https://golangresources.com/
+- 2.期待已久的beego2.0来了，最简单易用的企业级应用开发框架 - https://mp.weixin.qq.com/s/qKwHsRkPPeqUvgEC4IswnQ
+- 3.gitee开源指北 - https://gitee.com/gitee-community/opensource-guide/blob/master/%!!(MISSING)E(MISSING)7%!!(MISSING)B(MISSING)%!!(MISSING)A(MISSING)E%!!(MISSING)E(MISSING)5%!!(MISSING)B(MISSING)D%!!(MISSING)m(MISSING)d
+- 4.在M1 Mac上编译使用arm64原生go - https://zhuanlan.zhihu.com/p/336371577
+- 5.Go实现的2D游戏引擎ebiten的2020总结 - https://ebiten.org/blog/2020.html
+- 6.披露Go的标准库中XML包实现的三个漏洞 by mattermost - https://mattermost.com/blog/coordinated-disclosure-go-xml-vulnerabilities/
+- 7.R与Go中的数据转换 - https://medium.com/grail-eng/data-transformations-in-r-and-go-175df28d4e11
+- 8.C语言的defer机制实现 - https://gustedt.wordpress.com/2020/12/14/a-defer-mechanism-for-c/
+- 9.解码复杂的json文本 - https://code-and-biscuits.blogspot.com/2020/12/go-unmarshalling-complicated-json.html
+- 10.油管视频：为一个Go项目构建pipeline - https://youtu.be/AtiUf0uJ4YE
+- 11.现实中的拜占庭错误 by cloudflare - https://blog.cloudflare.com/a-byzantine-failure-in-the-real-world/
+- 12.面对网络故障，raft不能保证实时选出leader - https://decentralizedthoughts.github.io/2020-12-12-raft-liveness-full-omission/
+- 13.现实世界程序在苹果M1芯片上的基准测试 - https://tech.ssut.me/apple-m1-chip-benchmarks-focused-on-the-real-world-programming/
+- 14.指针过于复杂，我们需要新语言规范 - https://www.ralfj.de/blog/2020/12/14/provenance.html
+
+ go语言中文网(每日资讯)-2020-12-14
+# go-news-set-2020-12-14
+## go语言中文网(每日资讯)-2020-12-14
+一、#公众号：Go语言中文网
+
+1. [Go：gsignal，信号的掌控者](https://mp.weixin.qq.com/s/qVzRf27YA5KbF1rQwKKwpw)
+
+2. [Go 经典入门系列 15：指针](https://mp.weixin.qq.com/s/lV8Mcq3bX8Zt4BoojtBWuw)
+
+二、#公众号：亚军进化史
+
+1. [Go技术日报(2020-12-13)](https://studygolang.com/topics/12800)
+
+三、#公众号：polarisxu
+
+1. [你是不是没想过，结构体竟然可以内嵌一个接口？](https://mp.weixin.qq.com/s/2eED64tnb3bDong_3_HJoA)
+
+四、#公众号：Golang技术分享
+
+1. [详解内联优化](https://mp.weixin.qq.com/s/-ypnI2rwWiUNo_9pNW1TLA)
+
+五、#公众号： 脑子进煎鱼了
+
+1. [万字长文 | 从实践到原理，带你参透 gRPC](https://mp.weixin.qq.com/s/o-K7G9ywCdmW7et6Q4WMeA)
+
+六、#公众号： Golang来啦
+
+1. [从 PHP 转 Go](https://mp.weixin.qq.com/s/_gP_8_BF84mQ-YsNVLD3Tg)
+
+七、#公众号：技术岁月
+
+1. [分布式任务调度系统之任务编排及工作流实现原理与 golang 实践](https://mp.weixin.qq.com/s/1epE7Ls1yyqRiKnopAzugA)
+
+八、#公众号：代码与远方
+
+1. [fasthttp 快在哪里](https://mp.weixin.qq.com/s/2Fnr5HmslIohZuao_wEoMQ)
  gocn_news-2020-12-14
 # go-news-set-2020-12-14
 ## gocn_news-2020-12-14
