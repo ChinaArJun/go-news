@@ -1,3 +1,39 @@
+ go语言中文网(每日资讯)-2020-12-23
+# go-news-set-2020-12-23
+## go语言中文网(每日资讯)-2020-12-23
+一、#公众号：Go语言中文网
+
+1. [又是 Python，又是 Go 和 Rust，你觉得这个招聘到底是要什么人才？](https://mp.weixin.qq.com/s/rB8Han9VrHify-G0Fl6egw)
+
+2. [Go 项目实战：实现一个 Redis(7) 之集群与一致性 Hash](https://mp.weixin.qq.com/s/KCY4VdvsnDvjr4ZDnbjVmg)
+
+3. [Go 经典入门系列 24：Select](https://mp.weixin.qq.com/s/P6D8TgyeaI8uflGgIRCIkg)
+
+4. [疑惑: Go const 导致程序结果错乱 ?](https://mp.weixin.qq.com/s/i7yLDIM9858b1jwYlqXpYA)
+
+二、#公众号：亚军进化史
+
+1. [Go每日信息--2020-12-22](https://studygolang.com/topics/12844)
+
+三、#公众号：代码与远方
+
+1. [HTTP/2 协议（抓包分析 HTTP/2 握手是如何被建立的）](https://mp.weixin.qq.com/s/FCbG0PxVks1F37bsMyNwMA)
+
+四、#公众号：polarisxu 
+
+1. [同时会 Go 和 Rust 的优势：这个岗位推荐入职了奖励 0.5 个比特币](https://mp.weixin.qq.com/s/Aw3sOK7tg1kr8uo3WDikVA)
+
+五、#公众号：网管叨bi叨
+
+1. [觉得WaitGroup不好用？试试ErrorGroup吧！](https://mp.weixin.qq.com/s/AUNXmKkQGI9uotwPoweg3A)
+
+六、#公众号：Golang技术分享
+
+1. [同步原语的基石](https://mp.weixin.qq.com/s/DVBxBaeetJCgK_zbuCRtag)
+
+七、#公众号：Go夜读
+
+1. [《Go 语言并发之道》读后感 - 第二章](https://mp.weixin.qq.com/s/cmCyYBhwA0g1ZWxsuwdUtw)
  gocn_news-2020-12-23
 # go-news-set-2020-12-23
 ## gocn_news-2020-12-23
