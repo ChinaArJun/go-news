@@ -1,3 +1,17 @@
+ gocn_news-2020-12-23
+# go-news-set-2020-12-23
+## gocn_news-2020-12-23
+- 1.GopherCon2020 视频录像 https://youtube.com/playlist?list=PL2ntRZ1ySWBfUint2hCE1JRxRWChloasB
+
+- 2.Nebula Graph 在微众银行数据治理业务的实践 https://gocn.vip/topics/11420
+
+- 3.Go 运行程序中的线程数 https://colobu.com/2020/12/20/threads-in-go-runtime/
+
+- 4.如何在 Golang 程序中使用 Makefiles https://leogtzr.medium.com/how-to-use-makefiles-for-your-golang-development-b4c438fe0bdd
+
+- 5.基于 Beego 开发的类似百度文库站点 https://github.com/TruthHun/DocHub
+
+
  go语言中文网(每日资讯)-2020-12-22
 # go-news-set-2020-12-22
 ## go语言中文网(每日资讯)-2020-12-22
