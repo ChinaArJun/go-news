@@ -1,3 +1,37 @@
+ go语言中文网(每日资讯)-2020-12-24
+# go-news-set-2020-12-24
+## go语言中文网(每日资讯)-2020-12-24
+一、#公众号：Go语言中文网
+
+1. [图解 Go pprof 收集数据的工作流](https://mp.weixin.qq.com/s/HQzz2NQ2lSg_LLsNB7C-mw)
+
+2. [Go 经典入门系列 25：Mutex​](https://mp.weixin.qq.com/s/qb7XNcruzzM1CMcMUIqFhg)
+
+3. [Golang 实现 Paxos 分布式共识算法](https://mp.weixin.qq.com/s/6T4xTXJt5HjMFw0yNfmRLQ)
+
+二、#公众号：亚军进化史
+
+1. [Go每日信息--2020-12-23](https://studygolang.com/topics/12849)
+
+三、#公众号：代码与远方
+
+1. [漫画 | 理解了TCP连接的实现以后，客户端的并发也爆发了！](https://mp.weixin.qq.com/s/K5cOO0VpBBnsj0iGwzmUNw)
+
+四、#公众号：轩脉刃的刀光剑影
+
+1. [谈服务可用性监控](https://mp.weixin.qq.com/s/g3S9c2MqD25O4MXr3tW9XA)
+
+五、#公众号：Golang梦工厂
+
+1. [女朋友：你知道嘛，不使用orm框架也可以写动态sql了！](https://mp.weixin.qq.com/s/LhpU0d8Lb1slptX4h67tEQ)
+
+六、#公众号：Golang语言开发栈
+
+1. [Golang 语言怎么使用 Viper 管理配置信息？](https://mp.weixin.qq.com/s/zLFnhk4kJ1sefXTpThnlHQ)
+
+七、#公众号：Go夜读
+
+1. [《Go 语言并发之道》读后感 - 第三章](https://mp.weixin.qq.com/s/8fexiSuJCq2Psm6g9-5iOA)
  go语言中文网(每日资讯)-2020-12-23
 # go-news-set-2020-12-23
 ## go语言中文网(每日资讯)-2020-12-23
