@@ -1,3 +1,17 @@
+ gocn_news-2020-12-25
+# go-news-set-2020-12-25
+## gocn_news-2020-12-25
+- 1.TiDB 使用 go-randgen 测试 join 查询  https://gocn.vip/topics/11433
+
+- 2.BPF 和 Go：在 Linux 中内省的现代方式 [译] https://tonybai.com/2020/12/25/bpf-and-go-modern-forms-of-introspection-in-linux/
+
+- 3.在 Go 中从头开始构建一个 BitTorrent 客户端 https://blog.jse.li/posts/torrent/
+
+- 4.真的理解 go interface 了吗？ https://mp.weixin.qq.com/s/sO6Phr9C5VwcSTQQjJux3g
+
+- 5.Gmqtt 插件机制详解 https://segmentfault.com/a/1190000038662848
+
+
  go语言中文网(每日资讯)-2020-12-24
 # go-news-set-2020-12-24
 ## go语言中文网(每日资讯)-2020-12-24
