@@ -12,6 +12,40 @@
 - 5.Gmqtt 插件机制详解 https://segmentfault.com/a/1190000038662848
 
 
+ go语言中文网(每日资讯)-2020-12-25
+# go-news-set-2020-12-25
+## go语言中文网(每日资讯)-2020-12-25
+一、#公众号：Go语言中文网
+
+1. [Go error 打印灾难 — CockroachDB errors 库（第3篇）](https://mp.weixin.qq.com/s/YNy8opP0DVNZniLNuMeHqw)
+
+2. [Go 经典入门系列 26：结构体取代类​](https://mp.weixin.qq.com/s/74EK0JLTk_4PmXsTJ8KnAg)
+
+3. [Golang最细节篇— struct{} 空结构体究竟是啥？](https://mp.weixin.qq.com/s/hFfOueeABfCxRxbo8mYsSg)
+
+二、#公众号：亚军进化史
+
+1. [Go每日信息--2020-12-24](https://studygolang.com/topics/12854)
+
+三、#公众号：代码与远方
+
+1. [我是怎么样写出开发内功修炼的？秘密都在这里！](https://mp.weixin.qq.com/s/5UpRMO7t-QbZQHGpu0Dnwg)
+
+四、#公众号：脑子进煎鱼了
+
+1. [吐血整理 | 快速学习大厂们的软件案例经验](https://mp.weixin.qq.com/s/Eb2TDqxs69300S-RTGH0Jg)
+
+五、#公众号：码农桃花源
+
+1. [我的博客变迁史](https://mp.weixin.qq.com/s/cZl5wzv8CP9V5zlVlugxAA)
+
+六、#公众号：Go招聘
+
+1. [2020 年字节跳动 Go 面试总结](https://mp.weixin.qq.com/s/mUqa3xfxySPREv-U9wLoZQ)
+
+七、#公众号：新亮笔记
+
+1. [Go - 统一定义 API 错误码](https://mp.weixin.qq.com/s/gTFfUN2LEcsF0Q8iQan82A)
  go语言中文网(每日资讯)-2020-12-24
 # go-news-set-2020-12-24
 ## go语言中文网(每日资讯)-2020-12-24
