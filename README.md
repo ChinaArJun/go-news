@@ -1,3 +1,17 @@
+ gocn_news-2020-12-26
+# go-news-set-2020-12-26
+## gocn_news-2020-12-26
+- 1.聊聊 struct 的内存对齐 https://mp.weixin.qq.com/s/qPILuArUBnNrJ15COpBziQ
+
+- 2.大厂软件案例经验 https://mp.weixin.qq.com/s/Eb2TDqxs69300S-RTGH0Jg
+
+- 3.基于 gRPC 的注册发现与负载均衡的原理和实战 https://mp.weixin.qq.com/s/olPGfrFczo22rhpPLBmpNw
+
+- 4.让 gRPC 具备微服务治理能力 https://mp.weixin.qq.com/s/T88VCqsmSrUcm0R2iUelHQ
+
+- 5.《Go 语言并发之道》读后感 - 第一章 https://mp.weixin.qq.com/s/SyswHk85HOgZ4AS9B8wSSQ
+
+
  go语言中文网(每日资讯)-2020-12-26
 # go-news-set-2020-12-26
 ## go语言中文网(每日资讯)-2020-12-26
