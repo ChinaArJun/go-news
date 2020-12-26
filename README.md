@@ -1,3 +1,35 @@
+ go语言中文网(每日资讯)-2020-12-26
+# go-news-set-2020-12-26
+## go语言中文网(每日资讯)-2020-12-26
+一、#公众号：Go语言中文网
+
+1. [如何避免将密码提交到代码库了？详解 Go 中的环境变量](https://mp.weixin.qq.com/s/1mJBaAyxdg1SnLyU5nG6RA)
+
+2. [除了 fmt.Errorf() 之外—Go 中的日常错误对象：CockroachDB errors 库（第4篇）](https://mp.weixin.qq.com/s/7DmmKjoRdf9nd9_CXe47mw)
+
+3. [Go 经典入门系列 27：组合取代继承​​](https://mp.weixin.qq.com/s/x7458REmr2mM-PHZo1i62g)
+
+二、#公众号：亚军进化史
+
+1. [Go每日信息--2020-12-25](https://studygolang.com/topics/12859)
+
+三、#公众号：TonyBai 
+
+1. [如何作废一个已发布的Go module版本，我来告诉你！](https://mp.weixin.qq.com/s/fg84g4OzSgoHDGbvVDbMKg)
+
+四、#公众号：五分选手
+
+1. [HTTPS 温故知新（一） —— 开篇](https://mp.weixin.qq.com/s/i8qVR-b1MLQ_UI3NG7aPXw)
+
+五、#公众号：云原生技术爱好者社区
+
+1. [如何使用 Kubernetes 资源配额](https://mp.weixin.qq.com/s/G1tYwyf36vtGdqUJyOcMxQ)
+
+六、#公众号：微服务实践
+
+1. [如何让gRPC具备微服务治理能力](https://mp.weixin.qq.com/s/T88VCqsmSrUcm0R2iUelHQ)
+
+2. [基于gRPC的注册发现与负载均衡的原理和实战](https://mp.weixin.qq.com/s/olPGfrFczo22rhpPLBmpNw)
  gocn_news-2020-12-25
 # go-news-set-2020-12-25
 ## gocn_news-2020-12-25
