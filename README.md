@@ -1,3 +1,38 @@
+ go语言中文网(每日资讯)-2020-12-27
+# go-news-set-2020-12-27
+## go语言中文网(每日资讯)-2020-12-27
+一、#公众号：Go语言中文网
+
+1. [Go语言爱好者周刊：第 75 期](https://mp.weixin.qq.com/s/azW-S6-nJOiciUFBo1oJwA)
+
+2. [Go 经典入门系列 28：多态](https://mp.weixin.qq.com/s/A737eVVpUQgQgVDdaNZlkQ)
+
+3. [详解 Go 逃逸分析](https://mp.weixin.qq.com/s/xhBVv6JEPY8R3kCJlbirYw)
+
+二、#公众号：亚军进化史
+
+1. [Go每日信息--2020-12-26](https://studygolang.com/topics/12862)
+
+三、#公众号：脑子进煎鱼了
+
+1. [干货满满的 Go Modules 知识分享](https://mp.weixin.qq.com/s/uUNTH06_s6yzy5urtjPMsg)
+
+四、#公众号：五分选手
+
+1. [HTTPS 温故知新（二） —— TLS 记录层协议](https://mp.weixin.qq.com/s/q2sOr98MS9PwN_mg_AdKyA)
+
+六、#公众号：Go开发大全
+
+1. [Golang 的 sync.Pool设计思路与原理](https://mp.weixin.qq.com/s/765l6T6g9d4EEUyiHm52hw)
+
+七、#公众号：代码与远方
+
+1. [Prometheus监控神器-Kubernetes篇（一）](https://mp.weixin.qq.com/s/fTaRqoy3zdwEFjGluwf_cw)
+2. [Prometheus监控神器-Kubernetes篇（二）](https://mp.weixin.qq.com/s/2snNW3JE99Knjv6ensJ7kw)
+
+八、mohuishou
+
+1. [Week03: Go并发编程(四) 深入理解 Mutex](https://lailin.xyz/post/go-training-week3-sync.html) 
  gocn_news-2020-12-26
 # go-news-set-2020-12-26
 ## gocn_news-2020-12-26
