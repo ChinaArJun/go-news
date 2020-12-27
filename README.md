@@ -1,3 +1,17 @@
+ gocn_news-2020-12-27
+# go-news-set-2020-12-27
+## gocn_news-2020-12-27
+- 1.Go 编程模式：切片，接口，时间和性能 https://coolshell.cn/articles/21128.html
+
+- 2.Go 语言有哪些 “劣势”  https://gocn.vip/topics/11431
+
+- 3.trigger：基于谷歌 CEL 的决策引擎框架 https://graphikdb.github.io/trigger/
+
+- 4.tupical-rest-server: 使用 typical-go 构建的 Web 项目模版 https://github.com/typical-go/typical-rest-server
+
+- 5.evon: 一个基于代码生成的轻量级事件分发引擎 https://github.com/lych77/evon
+
+
  go语言中文网(每日资讯)-2020-12-27
 # go-news-set-2020-12-27
 ## go语言中文网(每日资讯)-2020-12-27
