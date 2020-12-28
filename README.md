@@ -1,3 +1,17 @@
+ gocn_news-2020-12-28
+# go-news-set-2020-12-28
+## gocn_news-2020-12-28
+- 1.Go netpoller 原生网络模型之源码全面揭秘 https://strikefreedom.top/go-netpoll-io-multiplexing-reactor
+
+- 2.Golang 语言的值验证库 Validator 怎么使用？ https://mp.weixin.qq.com/s/uaVDytWj2gLEokiVDlwoEg
+
+- 3.反向 Go 二进制文件 https://x0r19x91.gitlab.io/post/reversing-go-part-1/
+
+- 4.Grafana Tempo 分布式跟踪系统存储后端 https://github.com/grafana/tempo
+
+- 5.利用 Watermill 实现 Golang CQRS https://segmentfault.com/a/1190000038689477
+
+
  gocn_news-2020-12-27
 # go-news-set-2020-12-27
 ## gocn_news-2020-12-27
