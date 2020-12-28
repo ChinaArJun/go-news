@@ -12,6 +12,44 @@
 - 5.利用 Watermill 实现 Golang CQRS https://segmentfault.com/a/1190000038689477
 
 
+ go语言中文网(每日资讯)-2020-12-28
+# go-news-set-2020-12-28
+## go语言中文网(每日资讯)-2020-12-28
+一、#公众号：Go语言中文网
+
+1. [Go 微服务过载保护原理与实战](https://mp.weixin.qq.com/s/ImCJ62t4Ie4ZOf_ZmHb6-Q)
+
+2. [hystrix-go 使用与原理](https://mp.weixin.qq.com/s/50mG7woUHc3PmMaSXtIGYA)
+
+3. [详解 Go 内联优化](https://mp.weixin.qq.com/s/89QLSqGzH0yUM6cO6V4zmQ)
+
+二、#公众号：亚军进化史
+
+1. [Go每日信息--2020-12-27](https://studygolang.com/topics/12865)
+
+三、#公众号：网管叨bi叨
+
+1. [并发编程--用SingleFlight合并重复请求](https://mp.weixin.qq.com/s/dlCzH96u9Qo8_p3GIIrq4Q)
+
+四、#公众号：码农桃花源
+
+1. [那些年曹大写过的博客](https://mp.weixin.qq.com/s/g5AZxFOS9kwnAPmb3e3OUQ)
+
+六、#公众号：技术岁月
+
+1. [微服务高可用之熔断器实现原理与 Golang 实践](https://mp.weixin.qq.com/s/NwhAqx49FcTafcTRoIdOqQ)
+
+七、#公众号：奇伢云存储
+
+1. [Golang 并发编程核心篇 —— 内存可见性](https://mp.weixin.qq.com/s/1UHGU9tXu_h1C71APPxMwg)
+
+八、#公众号：polarisxu
+
+1. [Go 1.16 的这个新变化需要适应下：go get 和 go install 的变化](https://mp.weixin.qq.com/s/18AZEEX1UeShLx6-9Ir9Zw)
+
+九、#公众号：代码与远方
+
+1. [Prometheus监控神器-Kubernetes篇（三）](https://mp.weixin.qq.com/s/5Dj0Ju8ZTZyp-lVlx-RI2g)
  gocn_news-2020-12-27
 # go-news-set-2020-12-27
 ## gocn_news-2020-12-27
