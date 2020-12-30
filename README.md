@@ -1,3 +1,17 @@
+ gocn_news-2020-12-30
+# go-news-set-2020-12-30
+## gocn_news-2020-12-30
+- 1.用于 Go 的浏览器内置 IDE https://github.com/JohnStarich/go-wasm
+
+- 2.基于 go-ethereum 实现的火币客户端 https://github.com/HuobiGroup/huobi-eco-chain
+
+- 3.如何构建 Go 命令行项目 https://bencane.com/2020/12/29/how-to-structure-a-golang-cli-project/
+
+- 4.我如何使用 pprof 在 Golang 应用中发现内存泄漏 https://tusharsheth.medium.com/how-i-found-memory-leaks-in-the-golang-app-using-pprof-56e5d55363ba
+
+- 5.Go 实现的实时消息服务器 Beaver https://github.com/Clivern/Beaver
+
+
  go语言中文网(每日资讯)-2020-12-29
 # go-news-set-2020-12-29
 ## go语言中文网(每日资讯)-2020-12-29
