@@ -1,3 +1,42 @@
+ go语言中文网(每日资讯)-2020-12-30
+# go-news-set-2020-12-30
+## go语言中文网(每日资讯)-2020-12-30
+一、#公众号：Go语言中文网
+
+1. [由 C# 改为 Go，用更少的资源将 API 的响应时间减少了 87％](https://mp.weixin.qq.com/s/VcW9IPIpkUm6TYH62EYGKw)
+
+2. [长沙也有 Go 职位了：映客直播招聘 Go 开发高级工程师](https://mp.weixin.qq.com/s/viLyJjvPS6W1bpLNc6H-nQ)
+
+3. [Go 经典入门系列 30：错误处理](https://mp.weixin.qq.com/s/IDpVEQC_qRmTDH1k6tS5lQ)
+
+二、#公众号：亚军进化史
+
+1. [Go每日信息--2020-12-29](https://studygolang.com/topics/12877)
+
+三、#公众号：微服务实践
+
+1. [基于prometheus的微服务指标监控](https://mp.weixin.qq.com/s/Pwv1Fna0WX0VDnFQT6BROw)
+
+四、#公众号：五分选手 
+
+1. [HTTPS 温故知新（五） —— TLS 中的密钥计算](https://mp.weixin.qq.com/s/kQk4yeHrbS8tKK9m2DHDZA)
+
+六、#公众号：CloudNativeCommunity
+
+1. [还在手写 Operator？是时候使用 Kubebuilder 了](https://mp.weixin.qq.com/s/vIuyw_Bp3qQfmfIfz2LjaA)
+
+七、#公众号：代码与远方
+
+1. [Kubernetes 学习笔记之 ServiceAccount TokensController 源码解析](https://mp.weixin.qq.com/s/NG4mH9GgHV-HjMoOflFsUg)
+
+八、mohuishou
+
+1. [Week03: Go并发编程(七) 深入理解 errgroup](https://lailin.xyz/post/go-training-week3-errgroup.html) 
+2. [Week03: Go并发编程(八) 深入理解 sync.Once](https://lailin.xyz/post/go-training-week3-once.html)
+
+九、鸟窝
+
+1. [go os/exec 简明教程](https://colobu.com/2020/12/27/go-with-os-exec/)
  gocn_news-2020-12-30
 # go-news-set-2020-12-30
 ## gocn_news-2020-12-30
