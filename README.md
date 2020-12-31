@@ -1,3 +1,17 @@
+ gocn_news-2020-12-31
+# go-news-set-2020-12-31
+## gocn_news-2020-12-31
+- 1.Goland 2020.3.1 发布,支持 M1 芯片 https://blog.jetbrains.com/go/2020/12/30/goland-2020-3-1-is-out/
+
+- 2.Go 的 unsafe 字符串驻留 (string interning) 实践 https://mdlayher.com/blog/unsafe-string-interning-in-go/
+
+- 3.当 Go struct 遇上 Mutex https://gocn.vip/topics/11453
+
+- 4.微服务架构中的熔断器设计与实现（ Golang 版）https://mp.weixin.qq.com/s/DGRnUhyv6SS_E36ZQKGpPA
+
+- 5.Kubernetes 探针详解！ https://mp.weixin.qq.com/s/djxuuiZZT-f52vkF8nsWNA
+
+
  go语言中文网(每日资讯)-2020-12-30
 # go-news-set-2020-12-30
 ## go语言中文网(每日资讯)-2020-12-30
