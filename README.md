@@ -1,3 +1,17 @@
+ gocn_news-2021-01-01
+# go-news-set-2021-01-01
+## gocn_news-2021-01-01
+- 1.告诉你神奇的 Go 内建函数源码在哪里 https://gocn.vip/topics/11413
+
+- 2.并发编程 -- 用 SingleFlight 合并重复请求 https://mp.weixin.qq.com/s/dlCzH96u9Qo8_p3GIIrq4Q
+
+- 3.Golang 官方关于单元测试方法的一些建议 http://www.lyyyuna.com/2021/01/01/go-unit-test-comments
+
+- 4.Golang 之微服务为什么发现不了https://segmentfault.com/a/1190000038772024
+
+- 5.解密 Go 语言之反射 Reflect https://developer.51cto.com/art/202012/638179.htm
+
+
  gopherDaily-2021-01-01
 # go-news-set-2021-01-01
 ## gopherDaily-2021-01-01
