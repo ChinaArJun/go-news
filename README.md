@@ -1,3 +1,19 @@
+ gopherDaily-2021-01-01
+# go-news-set-2021-01-01
+## gopherDaily-2021-01-01
+- 1.新的基于Go的Crypto蠕虫病毒，可感染Windows和Linux服务器 - https://securityaffairs.co/wordpress/112825/malware/golang-based-worm-windows-linux.html
+- 2.在不到4个月的时间内我是如何成为以太坊区块链认证开发人员的 - https://nonseodion.medium.com/how-i-became-a-certified-ethereum-blockchain-developer-in-4-months-cae86d2a1f18
+- 3.创建一个异构的k0s集群 - https://medium.com/better-programming/create-a-multi-architecture-k0s-cluster-e265d24937b3
+- 4.periph.io的新项目结构布局 - https://periph.io/news/2020/a_new_start/
+- 5.开源的视频监视管理系统 - https://github.com/kerberos-io/opensource
+- 6.消息队列指南：它们如何应用于当今流行的排队系统 - https://sudhir.io/the-big-little-guide-to-message-queues/
+- 7.json转go struct - https://json-to-golang.com/
+- 8.Twitter的分布式负载均衡算法 - https://blog.twitter.com/engineering/en_us/topics/infrastructure/2019/daperture-load-balancer.html
+- 9.2020年以来的云原生技术趋势 - https://thenewstack.io/the-new-stack-top-cloud-native-technology-trends-from-2020/
+- 10.云计算2020: 从应对到整合 - https://thenewstack.io/cloud-computing-2020-from-coping-to-consolidating/
+- 11.Linux加固指南 - https://madaidans-insecurities.github.io/guides/linux-hardening.html
+- 12.Donald Knuth专访记录 - https://philipkiely.com/assets/files/WfSD_Bonus_Interview_-_Donald_Knuth.pdf
+
  go语言中文网(每日资讯)-2020-12-31
 # go-news-set-2020-12-31
 ## go语言中文网(每日资讯)-2020-12-31
