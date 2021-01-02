@@ -1,3 +1,17 @@
+ gocn_news-2021-01-02
+# go-news-set-2021-01-02
+## gocn_news-2021-01-02
+- 1.我与 sync.Once 的爱恨纠缠 https://gocn.vip/topics/11456
+
+- 2.Go 中的线程安全 https://pmihaylov.com/thread-safety-concerns-go/
+
+- 3.Go 端到端测试工具 gnomock https://github.com/orlangure/gnomock
+
+- 4.改进你的 Go 测试代码
+
+- 5.四舍五入在 Go 语言中为何如此困难 https://blog.thinkeridea.com/202101/go/round.html
+
+
  gocn_news-2021-01-01
 # go-news-set-2021-01-01
 ## gocn_news-2021-01-01
