@@ -1,3 +1,37 @@
+ go语言中文网(每日资讯)-2021-01-03
+# go-news-set-2021-01-03
+## go语言中文网(每日资讯)-2021-01-03
+一、#公众号：Go语言中文网
+
+1. [Go语言爱好者周刊：第 76 期 — 新年做计划了吗？](https://mp.weixin.qq.com/s/c1lKqHNBf8T4ZM3xFI-BvA)
+
+2. [谁说杭州 Go 职位少？哈啰出行招人了](https://mp.weixin.qq.com/s/cHE5OELXjKWGg-k8972PdQ)
+
+3. [Go 经典入门系列 34：反射](https://mp.weixin.qq.com/s/0BAGtxfhAx9A7uwYtvYMLg)
+
+二、#公众号：亚军进化史
+
+1. [Go每日信息--2020-01-02](https://studygolang.com/topics/https://studygolang.com/topics/12897)
+
+三、#公众号：k8s技术圈
+
+1. [Docker 组件基本介绍](https://mp.weixin.qq.com/s/YdOrlDO9jykSTeO03JEd5Q)
+
+四、#公众号：五分选手 
+
+1. [HTTP/2 中的帧定义](https://mp.weixin.qq.com/s/oTpe2BzwCnVfBbPYY6taXA)
+
+六、#公众号：图解源码
+
+1. [云原生时代运维开发的年终技术总结](https://mp.weixin.qq.com/s/ACwOz0XcCAD8bLuFjMHaKg)
+
+七、#公众号：代码与远方
+
+1. [教你一分钟内导出 Grafana 所有的 Dashboard](https://mp.weixin.qq.com/s/8ayWanXDEPuUoqFeCE9iVQ)
+
+八、#公众号：Go招聘
+
+1. [听说高德面试很简单？看看他们的 JD！文末送面试资料](https://mp.weixin.qq.com/s/YMMdXvWCvbEFQF3IW-zQsw)
  gocn_news-2021-01-03
 # go-news-set-2021-01-03
 ## gocn_news-2021-01-03
