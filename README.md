@@ -1,3 +1,17 @@
+ gocn_news-2021-01-03
+# go-news-set-2021-01-03
+## gocn_news-2021-01-03
+- 1.如何正确处理 Golang 中的数据库错误 https://dev.to/techschoolguru/how-to-handle-db-errors-in-golang-correctly-11ek
+
+- 2.Go 在 Sublime Text3 的配置 https://dev.to/vuong/go-in-sublime-text-3-hb5
+
+- 3.最应该读的 20 本 Go 语言书籍 https://golangexample.com/20-golang-books
+
+- 4.Go 语言版的简易 MQTT broker 库 https://github.com/c16a/hermes
+
+- 5.针对边缘计算的边缘容器管理系统 https://github.com/superedge/superedge
+
+
  gocn_news-2021-01-02
 # go-news-set-2021-01-02
 ## gocn_news-2021-01-02
