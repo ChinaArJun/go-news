@@ -1,3 +1,33 @@
+ go语言中文网(每日资讯)-2021-01-04
+# go-news-set-2021-01-04
+## go语言中文网(每日资讯)-2021-01-04
+一、#公众号：Go语言中文网
+
+1. [全面的整理：golang 调试分析的高阶技巧](https://mp.weixin.qq.com/s/SvzMEdhxHfI9hYU62r1C7g)
+
+2. [Go 经典入门系列 35：读取文件](https://mp.weixin.qq.com/s/mup3hZymdyKX53h6fL_2Ow)
+
+3. [dubbo-go 白话文 | go 和 java 互通有无](https://mp.weixin.qq.com/s/k8GdXMAZ5bnzHKnv_bC3jw)
+
+二、#公众号：亚军进化史
+
+1. [Go每日信息--2021-01-03](https://studygolang.com/topics/12898)
+
+三、#公众号：代码与远方
+
+1. [Golang 之微服务为什么发现不了](https://mp.weixin.qq.com/s/s9G6yDqfeFepbKT6DJASng)
+
+四、#公众号：五分选手 
+
+1. [HTTP/2 中的 HTTP 语义](https://mp.weixin.qq.com/s/A3OHwQwWgzqrUJ-epsUh4g)
+
+六、#公众号：微服务实践
+
+1. [微服务缓存原理与最佳实践](https://mp.weixin.qq.com/s/5F3yWgBP5HLcu8dfukEBmQ)
+
+七、#公众号：Go招聘
+
+1. [羡慕小而美还不加班的公司吗？他来了](https://mp.weixin.qq.com/s/ivvzCmBiwOC39AoZq_Zipw)
  gocn_news-2021-01-04
 # go-news-set-2021-01-04
 ## gocn_news-2021-01-04
