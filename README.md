@@ -1,3 +1,17 @@
+ gocn_news-2021-01-06
+# go-news-set-2021-01-06
+## gocn_news-2021-01-06
+- 1.GO 编程模式系列（三）：FUNCTIONAL OPTIONS https://mp.weixin.qq.com/s/2RjaMky4F7LKw_Hdukv8yQ
+
+- 2.Golang 中线性表的实现 https://segmentfault.com/a/1190000038836868
+
+- 3.iris.Django 模板引擎的语法格式和语法标签使用方法，include 标签传递变量方法  https://segmentfault.com/a/1190000038854929
+
+- 4.Go 语言分布式系统配置管理实践--go archaius https://segmentfault.com/a/1190000038839416
+
+- 5.深入理解 Golang Channel https://zhuanlan.zhihu.com/p/27917262
+
+
  go语言中文网(每日资讯)-2021-01-06
 # go-news-set-2021-01-06
 ## go语言中文网(每日资讯)-2021-01-06
