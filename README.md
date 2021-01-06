@@ -1,3 +1,47 @@
+ go语言中文网(每日资讯)-2021-01-06
+# go-news-set-2021-01-06
+## go语言中文网(每日资讯)-2021-01-06
+一、#公众号：Go语言中文网
+
+1. [有哪些厂应届生招聘 Go 工程师](https://mp.weixin.qq.com/s/znfDb3FndgHS8i2eRJf9Sw)
+
+2. [每日一库之通过cobra开发天气查询小工具](https://mp.weixin.qq.com/s/ieu8lBMaLrwhpFVCR_E1TA)
+
+3. [Go 精妙的互斥锁设计](https://mp.weixin.qq.com/s/j0NCgrU6M8ps0zIOkOT3FQ)
+
+二、#公众号：亚军进化史
+
+1. [Go技术日报(2021-01-05)](https://studygolang.com/topics/12919)
+
+2. [2020年度技术文章盘点之Channel篇](https://mp.weixin.qq.com/s/4HErPUVV9BAQahqQhoIefw)
+
+三、#公众号：代码与远方
+
+1. [当 Go struct 遇上 Mutex](https://mp.weixin.qq.com/s/v6WEcA-Go-X_1vj4rJpJtg)
+
+四、#公众号：五分选手 
+
+1. [HTTP/2 中的常见问题](https://mp.weixin.qq.com/s/oOh4d3kZLAjR6HHtgG1aiQ)
+
+六、#公众号：polarisxu
+
+1. [浅谈配置文件](https://mp.weixin.qq.com/s/BDH9jc3tA-Sk-ZF2geJRxg)
+
+七、#公众号：微服务实践
+
+1. [从代码到部署微服务实战（一）](https://mp.weixin.qq.com/s/jMsL464stSRctj2OLjOZBg)
+
+八、#公众号：CloudNativeCommunity
+
+1. [解读：云原生下的可观察性发展方向](https://mp.weixin.qq.com/s/4Hs-CC1CMBoaQkguHajN_A)
+
+九、#公众号：k8s技术圈
+
+1. [基于 F5 和 Cilium 的 Kubernetes 集群网络架构设计](https://mp.weixin.qq.com/s/lr-usDIiiiClA1HjENSYQw)
+
+十 、#公众号：网管叨bi叨
+
+1. [Kubernetes--玩转Pod滚动更新123](https://mp.weixin.qq.com/s/0Wz5E5YpD4G1eBN9wA8qDg)
  go语言中文网(每日资讯)-2021-01-05
 # go-news-set-2021-01-05
 ## go语言中文网(每日资讯)-2021-01-05
