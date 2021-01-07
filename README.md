@@ -1,3 +1,41 @@
+ go语言中文网(每日资讯)-2021-01-07
+# go-news-set-2021-01-07
+## go语言中文网(每日资讯)-2021-01-07
+一、#公众号：Go语言中文网
+
+1. [深入理解 Go 语言的类型](https://mp.weixin.qq.com/s/Bm5IpdsHjYhLmmX_cl8cGw)
+
+2. [在 net/http 标准库做了点手脚](https://mp.weixin.qq.com/s/Y80kalSIlGhaDx3uWxoMig)
+
+3. [由浅到深，入门Go语言Map实现原理](https://mp.weixin.qq.com/s/2c-nNEamSLr0GeYThklecA)
+
+二、#公众号：亚军进化史
+
+1. [Go技术日报(2021-01-06)](https://studygolang.com/topics/12924)
+
+三、#公众号：代码与远方
+
+1. [疑惑: Go const 导致程序结果错乱 ?](https://mp.weixin.qq.com/s/erwRd2764YEvk7IgLtIepQ)
+
+四、#公众号：五分选手 
+
+1. [详解 HTTP/2 头压缩算法 —— HPACK](https://mp.weixin.qq.com/s/YUwDewXVDRv8-DVrVswr2Q)
+
+五、#公众号：Go招聘
+
+1. [你遇到过哪些高质量的 Go 语言面试题？](https://mp.weixin.qq.com/s/_RGIG19v3H9BOuXkrRLSjw)
+
+六、#公众号：Go夜读
+
+1. [第 3 期：漫谈写作和个人成长](https://www.xiaoyuzhoufm.com/episode/5ff6c042dee9c1e16d421197?s=eyJ1IjogIjVmYmEwMTNhZTBmNWU3MjNiYmJkMTRkNSJ9)
+
+七、#公众号：章老师说
+
+1. [工程能力之思](https://mp.weixin.qq.com/s/igSdOJ3QzutWVbFK3VmpBg)
+
+八、#公众号：融云全球互联网通信云
+
+1. [技术实践丨IM 消息同步机制全面解析](https://mp.weixin.qq.com/s/nEfudW4pv2UyBP69TtG-Eg)
  gocn_news-2021-01-07
 # go-news-set-2021-01-07
 ## gocn_news-2021-01-07
