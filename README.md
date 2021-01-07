@@ -1,3 +1,17 @@
+ gocn_news-2021-01-07
+# go-news-set-2021-01-07
+## gocn_news-2021-01-07
+- 1.谈谈 Go 内存分配真相 https://dave.cheney.net/2021/01/05/a-few-bytes-here-a-few-there-pretty-soon-youre-talking-real-memory
+
+- 2.go os/exec 简明教程 https://colobu.com/2020/12/27/go-with-os-exec/
+
+- 3.微服务实战（一）https://my.oschina.net/kevwan/blog/4881248
+
+- 4.如何解决 Golang Package 循环引入问题 https://jogendra.dev/import-cycles-in-golang-and-how-to-deal-with-them
+
+- 5.Golang 实现 http server 提供压缩文件下载功能 https://segmentfault.com/a/1190000038867527
+
+
  gocn_news-2021-01-06
 # go-news-set-2021-01-06
 ## gocn_news-2021-01-06
