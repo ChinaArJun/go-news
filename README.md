@@ -1,3 +1,47 @@
+ go语言中文网(每日资讯)-2021-01-08
+# go-news-set-2021-01-08
+## go语言中文网(每日资讯)-2021-01-08
+
+
+一、#公众号：Go语言中文网
+
+1. [知乎问答：为什么 Go 的 Web 框架速度还不如 Java？](https://mp.weixin.qq.com/s/i2sPVjhR4Fl3xGif2VyMvw)
+
+2. [Go - 统一定义 API 错误码](https://mp.weixin.qq.com/s/C4kjPcYNtq32rwGR2CyYug)
+
+二、#公众号：亚军进化史
+
+1. [Go技术日报(2021-01-07)](https://studygolang.com/topics/12928)
+
+三、#公众号：代码与远方
+
+1. [自己动手实现一个malloc内存分配器 | 30图](https://mp.weixin.qq.com/s/FpXLBOVm5P-sNTr2S7PyhQ)
+
+四、#公众号：五分选手 
+
+1. [HTTP/2 HPACK 实际应用举例](https://mp.weixin.qq.com/s/DmL3ZSDylwbOd9ANQ7R_wQ)
+
+五、#公众号：Golang来啦
+
+1. [使用 Panic、Defer 和 Recover 处理 Go 错误](https://mp.weixin.qq.com/s/ENd2THFts4PCS9KnA0y-hQ)
+
+六、#公众号：多颗糖
+
+1. [软件架构基础 1：架构师的 8 大核心能力](https://mp.weixin.qq.com/s/Y6crtvU9yYCbpMee9at2rQ)
+
+2. [软件架构基础 2: 架构思维](https://mp.weixin.qq.com/s/th0Yh3bK3GQIGtLmadPMGA)
+
+七、#公众号：七牛云
+
+1. [Go 通道是糟糕的，你应该也觉得很糟糕 | Linux 中国](https://mp.weixin.qq.com/s/D0R8wUo6rm-TnrMpkvggNA)
+
+八、#公众号：Golang语言开发栈
+
+1. [Golang 语言的内存管理](https://mp.weixin.qq.com/s/eGBDOfKuNdYI6S2Q6klGQw)
+
+
+
+
  go语言中文网(每日资讯)-2021-01-07
 # go-news-set-2021-01-07
 ## go语言中文网(每日资讯)-2021-01-07
