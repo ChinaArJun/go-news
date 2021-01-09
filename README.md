@@ -1,3 +1,17 @@
+ gopherDaily-2021-01-09
+# go-news-set-2021-01-09
+## gopherDaily-2021-01-09
+- 1.优雅的Go错误处理 - https://thingsthatkeepmeupatnight.dev/posts/golang-http-handler-errors/
+- 2.走进Go GC - https://zhuanlan.zhihu.com/p/342792030
+- 3.使用连接池提高sqlite访问性能 - https://turriate.com/articles/making-sqlite-faster-in-go
+- 4.使用SQL语句查询csv文件数据 - https://github.com/m7shapan/querycsv
+- 5.Go核心团队早期成员Andrew Gerrand谈Go - https://www.youtube.com/watch?v=yQ-WEWzkiNI&ab_channel=ANZAustralia
+- 6.优化varint解码 - https://dolthub.awsdev.ld-corp.com/blog/2021-01-08-optimizing-varint-decoding/
+- 7.Eleanor McHugh-使用Go和C实现软件机器 - https://www.youtube.com/watch?v=ROpOGupKv14
+- 8.Go到C#的翻译器 - https://go2cs.net/
+- 9.Redhat openshift同时支持windows和linux容器 - https://www.zdnet.com/article/red-hat-openshift-supports-both-windows-and-linux-containers/
+- 10.油管视频：理解Go代码编译构建过程 - https://www.youtube.com/watch?v=qPIB3STWXVk
+
  go语言中文网(每日资讯)-2021-01-08
 # go-news-set-2021-01-08
 ## go语言中文网(每日资讯)-2021-01-08
