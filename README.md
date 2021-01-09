@@ -1,3 +1,39 @@
+ go语言中文网(每日资讯)-2021-01-09
+# go-news-set-2021-01-09
+## go语言中文网(每日资讯)-2021-01-09
+一、#公众号：Go语言中文网
+
+1. [Go 微服务缓存原理与最佳实践](https://mp.weixin.qq.com/s/LgCESuXg-Ri2A7twMfmweA)
+
+2. [如何避免用动态语言的思维写Go代码](https://mp.weixin.qq.com/s/xNmhk_ZI38MgJt9rRZz7LA)
+
+二、#公众号：亚军进化史
+
+1. [Go技术日报(2021-01-08)](https://studygolang.com/topics/12934)
+
+三、#公众号：代码与远方
+
+1. [并发编程--用SingleFlight合并重复请求](https://mp.weixin.qq.com/s/bbxLCA6pK9TGMY4H1hGUrA)
+
+四、#公众号：五分选手 
+
+1. [全双工通信的 WebSocket](https://mp.weixin.qq.com/s/RDERL9Dpt9n_ki2NShWMAA) 
+
+五、#公众号：Golang来啦
+
+1. [Golang 入门笔记 - Channel](https://mp.weixin.qq.com/s/EREY9bQcfv4T1zFdZvrdGg)
+
+六、#公众号：云原生技术爱好者社区
+
+2. [Kubernetes Ingress控制器技术选型注意事项](https://mp.weixin.qq.com/s/V6eSW6z6xDAihLe06LpKZQ)
+
+七、#公众号：微服务实践
+
+1. [服务自适应降载保护设计](https://mp.weixin.qq.com/s/cgjCL59e3CDWhsxzwkuKBg)
+
+八、mohuishou 
+
+1. [Week03: Go并发编程(九) 深入理解 Context](https://lailin.xyz/post/go-training-week3-context.html)
  gopherDaily-2021-01-09
 # go-news-set-2021-01-09
 ## gopherDaily-2021-01-09
