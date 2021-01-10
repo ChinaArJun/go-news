@@ -1,3 +1,42 @@
+ go语言中文网(每日资讯)-2021-01-10
+# go-news-set-2021-01-10
+## go语言中文网(每日资讯)-2021-01-10
+一、#公众号：Go语言中文网
+
+1. [Go语言爱好者周刊：第 77 期 — 这道题目测答对的人不多](https://mp.weixin.qq.com/s/eFnuH41mhXtRSg6ateH9XQ)
+
+2. [Go 项目实战：实现一个提供压缩文件下载功能的 http server](https://mp.weixin.qq.com/s/hcQsarYUc0yfo-ZTZy46aw)
+
+3. [如何作废一个已发布的Go module版本，我来告诉你！](https://mp.weixin.qq.com/s/g1n9a5-o0-QHArWsCuZtMg)
+
+二、#公众号：亚军进化史
+
+1. [Go技术日报(2021-01-09)](https://studygolang.com/topics/12937)
+
+三、#公众号：代码与远方
+
+1. [读取文件时，程序经历了什么？](https://mp.weixin.qq.com/s/AbuVTw-BwEdjb-QzvZyGmg)
+
+四、#公众号：五分选手 
+
+1. [高效的数据压缩编码方式 Protobuf](https://mp.weixin.qq.com/s/Llg1Rb11KRNS1N-seqjeLg)
+2. [高效的序列化/反序列化数据方式 Protobuf](https://mp.weixin.qq.com/s/22p3VucucXkxxhDq--AYaw)
+
+五、#公众号：网管叨bi叨
+
+1. [Go指针的使用限制和突破之路](https://mp.weixin.qq.com/s/SpVTl64W1Exy8fuN15-kmA)
+
+六、#公众号：图解源码
+
+1. [如何利用开源框架实现运维编排](https://mp.weixin.qq.com/s/UEao8Y31Bo31r9ENn-GV5w)
+
+七、#公众号：Golang梦工厂
+
+1. [详解defer实现机制(附上三道面试题，我不信你们都能做对)](https://mp.weixin.qq.com/s/FUmoBB8OHNSfy7STR0GsWw)
+
+八、#公众号：wegoer
+
+1. [Go1.12之sync.Pool设计思路与原理](https://mp.weixin.qq.com/s/ybMJHn8r0gwrIt5yfM1EUw)
  gopherDaily-2021-01-10
 # go-news-set-2021-01-10
 ## gopherDaily-2021-01-10
