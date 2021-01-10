@@ -1,3 +1,17 @@
+ gopherDaily-2021-01-10
+# go-news-set-2021-01-10
+## gopherDaily-2021-01-10
+- 1.在Go中，何时使用函数类型 - https://kinbiko.com/posts/2021-01-10-function-types-in-go/
+- 2.TiDB 在 Raft 成员变更上踩的坑 - https://mp.weixin.qq.com/s/iYng0vLAXgzgotA2KLUY_g
+- 3.在Go中如何正确地处理数据库错误 - https://dev.to/techschoolguru/how-to-handle-db-errors-in-golang-correctly-11ek
+- 4.文本格式互转：支持json, yaml, toml等 - https://github.com/alash3al/re-txt
+- 5.使用gitops安全地管理k8s secrets - https://itnext.io/managing-kubernetes-secrets-securely-with-gitops-b8174b4f4d30
+- 6.将telegram信息以事件通知的方式发到手机上 - https://github.com/SlitiBrahim/go-telegram-notifier
+- 7.经典文档：设计面向DDD的微服务 - https://docs.microsoft.com/en-us/dotnet/architecture/microservices/microservice-ddd-cqrs-patterns/ddd-oriented-microservice
+- 8.经典旧文：为什么设计模式很烂- 常见的编码设计模式滥用问题 - https://techblog.condenast.de/article/why-coding-patterns-suck
+- 9.为什么mmap比系统调用快 - https://sasha-f.medium.com/why-mmap-is-faster-than-system-calls-24718e75ab37
+- 10.一些不太可能的2021年预测 - https://lwn.net/SubscriberLink/840632/5120a4e4b44f7d2a/
+
  go语言中文网(每日资讯)-2021-01-09
 # go-news-set-2021-01-09
 ## go语言中文网(每日资讯)-2021-01-09
