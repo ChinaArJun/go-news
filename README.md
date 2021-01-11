@@ -1,3 +1,17 @@
+ gocn_news-2021-01-11
+# go-news-set-2021-01-11
+## gocn_news-2021-01-11
+- 1.使用 Go 语言发现和探索 mmap https://brunocalza.me/2021/01/10/discovering-and-exploring-mmap-using-go/
+
+- 2.µjson：Go 中最小化 JSON 处理和转换 https://olvrng.medium.com/%!!(MISSING)C(MISSING)2%!!(MISSING)B(MISSING)5json-a-minimal-json-parser-and-transformer-in-go-3798c4a46d3a
+
+- 3.何时 Go 中使用函数类型 https://kinbiko.com/posts/2021-01-10-function-types-in-go/
+
+- 4.如何像专家一样调试 goroutine https://vtimothy.com/posts/debugging-goroutines/
+
+- 5.golang 中 time 包使用教程之基础使用篇 https://gocn.vip/topics/11492
+
+
  gopherDaily-2021-01-11
 # go-news-set-2021-01-11
 ## gopherDaily-2021-01-11
