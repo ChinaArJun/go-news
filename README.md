@@ -1,3 +1,43 @@
+ go语言中文网(每日资讯)-2021-01-11
+# go-news-set-2021-01-11
+## go语言中文网(每日资讯)-2021-01-11
+一、#公众号：Go语言中文网
+
+1. [惊呆了：我用这个 Go 框架一周实现了一个中台系统](https://mp.weixin.qq.com/s/LRyn60vJy_m14-U6nkJcXw)
+
+2. [腾讯在线教育招 Go 了](https://mp.weixin.qq.com/s/wgUd0uOnbH9FRSnE9ykN1g)
+
+3. [Go - 常用签名算法的基准测试](https://mp.weixin.qq.com/s/HMc407XEBYyVP7B9Dj83IA)
+
+二、#公众号：亚军进化史
+
+1. [Go技术日报(2021-01-10)](https://studygolang.com/topics/12944)
+
+三、#公众号：代码与远方
+
+1. [程序员应如何理解高并发中的协程](https://mp.weixin.qq.com/s/UDGVOq1RaP7BRvP0cgd_bg)
+
+四、#公众号：五分选手 
+
+1. [深入浅出 FlatBuffers 之 Schema](https://mp.weixin.qq.com/s/PayaCfqlAYgF20Guuho-Qw)
+
+2. [深入浅出 FlatBuffers 之 Encode](https://mp.weixin.qq.com/s/Cf2511XmUXcAtkx1VKQAyA)
+
+3. [深入浅出 FlatBuffers 之 FlexBuffers](https://mp.weixin.qq.com/s/5oPOG6lrNDuCrltajejEFg)
+
+五、#公众号：k8s技术圈
+
+1. [Prometheus 与 Grafana 的结合使用](https://mp.weixin.qq.com/s/1hPGCA3gwT7QJ62ro26ZJg)
+
+2. [Kubernetes 存储原理解析](https://mp.weixin.qq.com/s/bkpZMbmKa6lBKg8Fc3Lkzw)
+
+六、#公众号：脑子进煎鱼了
+
+1. [一文带你解密 Go 语言之通道 channel](https://mp.weixin.qq.com/s/ZXYpfLNGyej0df2zXqfnHQ)
+
+七、#公众号：码农桃花源
+
+1. [写一个 panic blame 机器人](https://mp.weixin.qq.com/s/y9pVNtC6w8Fn0Xqq6EonCw)
  gocn_news-2021-01-11
 # go-news-set-2021-01-11
 ## gocn_news-2021-01-11
