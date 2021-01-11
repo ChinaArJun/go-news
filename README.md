@@ -1,3 +1,19 @@
+ gopherDaily-2021-01-11
+# go-news-set-2021-01-11
+## gopherDaily-2021-01-11
+- 1.使用Go发现和探索mmap - https://brunocalza.me/2021/01/10/discovering-and-exploring-mmap-using-go/
+- 2.25个最佳Go技术博客(英文) - https://draft.dev/learn/technical-blogs/golang
+- 3.Go内置数据结构原理 - https://zhuanlan.zhihu.com/p/341945051
+- 4.以太坊V神谈论钱包安全 - https://vitalik.ca/general/2021/01/11/recovery.html
+- 5.如何像专家一样调试goroutine - https://vtimothy.com/posts/debugging-goroutines/
+- 6.Pinterest是如何扩展缓存基础架构的 - https://stackshare.io/pinterest/scaling-cache-infrastructure-at-pinterest
+- 7.jira命令行交互工具 - https://github.com/ankitpokhrel/jira-cli/
+- 8.IOT协议Mqtt介绍 - https://michael.stapelberg.ch/posts/2021-01-10-mqtt-introduction/
+- 9.图解NumPy：常用函数的内在机制 - https://zhuanlan.zhihu.com/p/342356377
+- 10.M1 MacBook Air是我拥有过的最好的电脑 - https://bou.ke/blog/macbouk-air/
+- 11.硅谷软件工程师与传统公司的有何不同 - https://blog.pragmaticengineer.com/what-silicon-valley-gets-right-on-software-engineers/
+- 12.julia语言简明手册 - http://algorithmsbook.com/files/appendix-g.pdf
+
  gocn_news-2021-01-10
 # go-news-set-2021-01-10
 ## gocn_news-2021-01-10
