@@ -1,3 +1,43 @@
+ go语言中文网(每日资讯)-2021-01-12
+# go-news-set-2021-01-12
+## go语言中文网(每日资讯)-2021-01-12
+一、#公众号：Go语言中文网
+
+1. [学到了：goroutine 可能使程序变慢](https://mp.weixin.qq.com/s/aolQTL-VOvNqEicC95kYZw)
+
+2. [使用 Go 和 ReactJS 构建聊天系统（前言）](https://mp.weixin.qq.com/s/B3aj3GWE-WiiXfz3Xd3gzQ)
+
+3. [使用 Go 和 ReactJS 构建聊天系统（一）：初始化项目](https://mp.weixin.qq.com/s/i29PhF34AfcChx4bL__ITA)
+
+二、#公众号：亚军进化史
+
+1. [Go技术日报(2021-01-11)](https://studygolang.com/topics/12951)
+
+三、#公众号：代码与远方
+
+1. [线程安全代码到底是怎么编写的？](https://mp.weixin.qq.com/s/IAQ-w8vGhAhsMmb5jLTX4g)
+
+四、Pingcap
+
+1. [TiDB 常⻅架构应⽤场景](https://pingcap.com/blog-cn/schema-application-scenario-for-tidb/)
+
+五、#公众号：Golang语言开发栈
+
+1. [Golang 语言怎么实现访问流量限流?](https://mp.weixin.qq.com/s/8f9GrnfoBNnix8ZqdGs4lA)
+
+六、#公众号：Golang技术分享
+
+1. [Go更细粒度的读写锁设计](https://mp.weixin.qq.com/s/I9-8GL641J4xO25_BqHVTw)
+
+七、#公众号：Golang来啦
+
+1. [Go 基础之 Goroutine](https://mp.weixin.qq.com/s/HWXh5V9KDoxTA-ys2gg0lA)
+
+八、#公众号：Go招聘
+
+1. [360 招聘 Go 工程师：福利竟然有理发、按摩](https://mp.weixin.qq.com/s/tIHt1IymYncYgv8SgVnnsA)
+
+2. [请接收37岁老码农寒冬里给年轻人上的一节Go面经课](https://mp.weixin.qq.com/s/50uRQ5u-egBR7EAAPb48zw)
  go语言中文网(每日资讯)-2021-01-11
 # go-news-set-2021-01-11
 ## go语言中文网(每日资讯)-2021-01-11
