@@ -1,3 +1,17 @@
+ gocn_news-2021-01-13
+# go-news-set-2021-01-13
+## gocn_news-2021-01-13
+- 1.关于将泛型添加到 Go 中的建议 https://blog.golang.org/generics-proposal
+
+- 2.Go and CPU Caches https://teivah.medium.com/go-and-cpu-caches-af5d32cc5592
+
+- 3.浅谈 go-zero 中批处理的设计 https://juejin.cn/post/6916898431353126919
+
+- 4.解密 Go 语言之通道 channel https://mp.weixin.qq.com/s/ZXYpfLNGyej0df2zXqfnHQ
+
+- 5.Go 的工作窃取调度 https://rakyll.org/scheduler/
+
+
  gopherDaily-2021-01-13
 # go-news-set-2021-01-13
 ## gopherDaily-2021-01-13
