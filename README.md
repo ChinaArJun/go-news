@@ -1,3 +1,41 @@
+ go语言中文网(每日资讯)-2021-01-13
+# go-news-set-2021-01-13
+## go语言中文网(每日资讯)-2021-01-13
+一、#公众号：Go语言中文网
+
+1. [第 77 期周刊题解：关于 goroutine 数量的，你答对了吗？](https://mp.weixin.qq.com/s/0MFJD3Vu5gTaZf02JOUcBQ)
+
+2. [使用 Go 和 ReactJS 构建聊天系统（二）：gorilla/websocket 包提供的 WebSockets](https://mp.weixin.qq.com/s/xt7xo5aJ60oTaGV2qjnx7g)
+
+3. [Golang 类型断言 vs 类型转换](https://mp.weixin.qq.com/s/DtrJ7yXvSPnaOfyRklpThQ)
+
+二、#公众号：亚军进化史
+
+1. [Go技术日报(2021-01-12)](https://studygolang.com/topics/12957)
+
+三、#公众号：代码与远方
+
+1. [漫画 | 花了七天时间测试，我彻底搞明白了 TCP 的这些内存开销!](https://mp.weixin.qq.com/s/vOMZzTlruDpsIq8Epp5WKA)
+
+四、#公众号：图解源码
+
+1. [通过服务目录搞定PAAS平台基础服务集成](https://mp.weixin.qq.com/s/R3Z0jx312tAFi63ffETOFA)
+
+五、#公众号：k8s技术圈
+
+1. [大规模微服务利器：eBPF + Kubernetes 介绍](https://mp.weixin.qq.com/s/soBeW9gP2AX9vMxUMiWXZw)
+
+六、#公众号：脑子进煎鱼了
+
+1. [快报：正式提案将泛型特性加入 Go 语言](https://mp.weixin.qq.com/s/oZ3TyNzVz0Obpm03rpeMuA)
+
+七、#公众号：Go夜读
+
+1. [一个 20 年技术老兵的 2020 年度技术总结](https://mp.weixin.qq.com/s/DfsUSmJXb0TP9WBAftvHbg)
+
+八、#公众号：腾讯技术工程
+
+1. [分布式之系统底层原理](https://mp.weixin.qq.com/s/KKrxuVCrjlXXWMPTXQ-fvA)
  gocn_news-2021-01-13
 # go-news-set-2021-01-13
 ## gocn_news-2021-01-13
