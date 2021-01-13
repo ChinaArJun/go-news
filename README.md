@@ -1,3 +1,18 @@
+ gopherDaily-2021-01-13
+# go-news-set-2021-01-13
+## gopherDaily-2021-01-13
+- 1.Go官博：正式提出将泛型机制(类型参数)加入Go的proposal - https://blog.golang.org/generics-proposal
+- 2.2021，JuiceFS 开源啦 - https://juicefs.com/blog/cn/posts/juicefs-open-source/
+- 3.goland：关于在保存时运行go fmt命令 - https://blog.jetbrains.com/go/2021/01/12/running-go-fmt-on-save/
+- 4.Go http客户端的性能调优 - https://www.loginradius.com/blog/async/tune-the-go-http-client-for-high-performance/
+- 5.使用kubernetes调度虚拟机 - https://www.projectcalico.org/using-kubernetes-to-orchestrate-vms/
+- 6.如何让运行于k8s的应用使用外部的环境配置 - https://towardsdatascience.com/kubernetes-pattern-for-applications-with-external-environment-configuration-a42d7bdd7e97
+- 7.使用delve调试Go程序 - https://eleni.blog/2020/12/19/debugging-in-go-with-delve/
+- 8.使用Go实现的gRPC拦截器 - https://itnext.io/grpc-interceptors-e221aa4cc49
+- 9.Go函数的去混淆尝试 -  https://medium.com/walmartglobaltech/de-ofuscating-golang-functions-93f610f4fb76
+- 10.cloudflare公司的2020年总结 - https://blog.cloudflare.com/cloudflare-radar-2020-year-in-review/
+- 11.我看了很多”2021年最热门的编程语言”的视频后的总结: 如果您正在寻找新的后端语言和技术栈，请看看Go和Kubernetes - https://www.globalnerdy.com/2021/01/04/i-watched-a-lot-of-top-programming-languages-for-2021-videos-so-you-dont-have-to/
+
  go语言中文网(每日资讯)-2021-01-12
 # go-news-set-2021-01-12
 ## go语言中文网(每日资讯)-2021-01-12
