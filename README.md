@@ -1,3 +1,17 @@
+ gocn_news-2021-01-14
+# go-news-set-2021-01-14
+## gocn_news-2021-01-14
+- 1.包的分层，而不是分组 https://www.gobeyond.dev/packages-as-layers/
+
+- 2.Go 实现的色标库 https://github.com/mazznoer/colorgrad
+
+- 3.基于 Github 自动部署 Go Web 服务 https://github.com/ironpeakservices/iron-chart-go
+
+- 4.Go 实现 io/fs 文件系统 https://github.com/jhchabran/gistfs
+
+- 5.5 分钟内学习 Go https://gist.github.com/prologic/5f6afe9c1b98016ca278f4d507e65510
+
+
  go语言中文网(每日资讯)-2021-01-13
 # go-news-set-2021-01-13
 ## go语言中文网(每日资讯)-2021-01-13
