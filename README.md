@@ -1,3 +1,49 @@
+ go语言中文网(每日资讯)-2021-01-14
+# go-news-set-2021-01-14
+## go语言中文网(每日资讯)-2021-01-14
+一、#公众号：Go语言中文网
+
+1. [好吧，Uber 不使用 Elasticsearch，自己用 Go 造了个轮子](https://mp.weixin.qq.com/s/5tmQLQexOXi5QxPBT-9pfw)
+
+2. [基于 Go1.16 实现静态文件的 HTTP Cache](https://mp.weixin.qq.com/s/nmgCyv9o_VDlBHwmUpGPSA)
+
+3. [使用 Go 和 ReactJS 构建聊天系统（三）：前端实现](https://mp.weixin.qq.com/s/Yqh7eNaQnzWcJgiqad_slw)
+
+4. [Golang 时间操作大全](https://mp.weixin.qq.com/s/QKo7UpzW4dX_tT8Dj7SHgg)
+
+二、#公众号：亚军进化史
+
+1. [Go技术日报(2021-01-13)](https://studygolang.com/topics/12962)
+
+三、#公众号：代码与远方
+
+1. [线程间到底共享了哪些进程资源？](https://mp.weixin.qq.com/s/j3SF5cM68F0nBmxCiAtQ-Q)
+
+四、#公众号：Golang来啦
+
+1. [不要使用 Go 默认的 HTTP 客户端（在生产环境中）](https://mp.weixin.qq.com/s/LjSlxdo5PFVJcUhH3UDU0A)
+
+五、#公众号： 微服务实践 
+
+1. [Windows下如何玩转火热的go-zero](https://mp.weixin.qq.com/s/vPZkojz6ly2jnyxhp-YpwA)
+
+六、#公众号：CloudNativeCommunity
+
+1. [2020十大边缘计算开源项目](https://mp.weixin.qq.com/s/Z3RLh1Eijm1WuqBzxJG4zQ)
+
+七、#公众号：polarisxu
+
+1. [用 Go 如何实现精准统计文章字数](https://mp.weixin.qq.com/s/1QcQolmK7kV27YmxBpmmZA)
+
+八、#公众号：云原生技术爱好者社区
+
+1. [使用Kubernetes和Istio构建大规模集群带来的挑战和解决方案](https://mp.weixin.qq.com/s/IIM5tKfuiQCwdloyPAknCg)
+
+九、PingCap
+
+1. [云原生数据库设计新思路](https://pingcap.com/blog-cn/new-ideas-for-designing-cloud-native-database/)
+
+
  gocn_news-2021-01-14
 # go-news-set-2021-01-14
 ## gocn_news-2021-01-14
