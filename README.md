@@ -1,3 +1,17 @@
+ gocn_news-2021-01-16
+# go-news-set-2021-01-16
+## gocn_news-2021-01-16
+- 1.epoll 在 Golang 中的应用 https://segmentfault.com/a/1190000038994423
+
+- 2.Go netpoller 原生网络模型之源码全面揭秘 https://mp.weixin.qq.com/s/3kqVry3uV6BeMei8WjGN4g
+
+- 3.Go 并发编程 (十) 深入理解 Channel https://lailin.xyz/post/go-training-week3-channel.html
+
+- 4.Go 指针的使用限制和突破之路 https://mp.weixin.qq.com/s/SpVTl64W1Exy8fuN15-kmA
+
+- 5.深入理解 Go Context http://www.cnblogs.com/itbsl/p/14277002.html
+
+
  go语言中文网(每日资讯)-2021-01-15
 # go-news-set-2021-01-15
 ## go语言中文网(每日资讯)-2021-01-15
