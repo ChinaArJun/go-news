@@ -1,3 +1,45 @@
+ go语言中文网(每日资讯)-2021-01-15
+# go-news-set-2021-01-15
+## go语言中文网(每日资讯)-2021-01-15
+一、#公众号：Go语言中文网
+
+1. [为什么要学习更多的编程语言？同时认为 Go 是最佳](https://mp.weixin.qq.com/s/V2_rYXql47qiq0GT8bvAqg)
+
+2. [使用 Go 和 ReactJS 构建聊天系统（四）：处理多客户端](https://mp.weixin.qq.com/s/Kizc1Hr6boNV2ryZci2Bbg)
+
+二、#公众号：亚军进化史
+
+1. [Go技术日报(2021-01-14)](https://studygolang.com/topics/12972)
+
+三、#公众号：代码与远方
+
+1. [TCP 协议报文格式& tcpdump 抓包工具](https://mp.weixin.qq.com/s/8SbKFgJx5UsRZUKZemKM5A)
+
+四、#公众号：微服务实践
+
+1. [2020最佳人气项目之Go Web框架](https://mp.weixin.qq.com/s/AVk6x-E5QqR2KYpxb_QDQA)
+
+五、#公众号：Go招聘
+
+1. [医疗大数据行业 Top1 来招 Go 喽：有漂亮后端小姐姐](https://mp.weixin.qq.com/s/dVTbTw41pf8Nm9FiCJdIVw)
+
+六、#公众号：腾讯云原生
+
+1. [一文读懂 Kubernetes APIServer 原理](https://mp.weixin.qq.com/s/2Eym6GaKdcWD_6l05Q83aQ)
+
+七、#公众号：Go夜读
+
+1. [通过 MapReduce 降低服务响应时间](https://mp.weixin.qq.com/s/lviZsaxC-mnESYLkIJZv2Q)
+
+八、#公众号：阿里巴巴云原生
+
+1. [dubbo-go 白话文 | 从零搭建 dubbogo 和 dubbo 的简单用例](https://mp.weixin.qq.com/s/Uu6RiRF7rybUg-h6kyDqTw)
+
+九、mohuishou
+
+1. [Week03: Go并发编程(十) 深入理解 Channel](https://lailin.xyz/post/go-training-week3-channel.html)
+
+2. [Week03: Go并发编程(十一) 总结](https://lailin.xyz/post/go-training-week3-sum.html)
  go语言中文网(每日资讯)-2021-01-14
 # go-news-set-2021-01-14
 ## go语言中文网(每日资讯)-2021-01-14
