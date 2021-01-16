@@ -1,3 +1,18 @@
+ gopherDaily-2021-01-16
+# go-news-set-2021-01-16
+## gopherDaily-2021-01-16
+- 1.DigitalOcean团队：如何使用Go构建DigitalOcean API网关 - https://mauricio.github.io/2021/01/14/building-digitaloceans-api-gateway.html
+- 2.使用quicktest进行Go代码测试 - https://rogpeppe.wordpress.com/2019/05/15/quicktest-wrap-testing-t-for-fun-and-profit/
+- 3.播客：和“CI/CD with Docker and Kubernetes”一书作者一起谈CI/CD - https://changelog.com/gotime/162
+- 4.用Go在语音通话中播放音频文件 - https://learn.vonage.com/blog/2021/01/14/play-an-audio-file-into-a-voice-call-with-go/
+- 5.在Go程序上应用seccomp filter - https://dev.bitolog.com/go-seccomp-filters-part-1/
+- 6.用于查找Go依赖包中漏洞的工具 - https://github.com/sonatype-nexus-community/nancy
+- 7.使用正确的工具构建kubernetes operator - https://www.openshift.com/blog/build-your-kubernetes-operator-with-the-right-tool
+- 8.使用Go实现的高性能lua web服务器 - https://github.com/Hyperspace-Logistics/heart
+- 9.2021年学习Go的三大资源 - https://blog.earthly.dev/top-3-resources-to-learn-golang-in-2021/
+- 10.Apple M1芯片上的汇编语言版helloworld - https://smist08.wordpress.com/2021/01/08/apple-m1-assembly-language-hello-world/
+- 11.Google机器学习速成课程 - https://developers.google.com/machine-learning/crash-course/
+
  gocn_news-2021-01-16
 # go-news-set-2021-01-16
 ## gocn_news-2021-01-16
