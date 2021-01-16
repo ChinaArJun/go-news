@@ -1,3 +1,46 @@
+ go语言中文网(每日资讯)-2021-01-16
+# go-news-set-2021-01-16
+## go语言中文网(每日资讯)-2021-01-16
+
+
+一、#公众号：Go语言中文网
+
+1. [2021 年这 8 种编程语言最流行：Go 入榜原来是这个原因](https://mp.weixin.qq.com/s/ZPdQ4V89df2z0jdpNi_6eQ)
+
+2. [Go内存管理之代码的逃逸分析](https://mp.weixin.qq.com/s/aqOuxevlnZAeRzzVasT3Kg)
+
+3. [使用 Go 和 ReactJS 构建聊天系统（五）：优化前端](https://mp.weixin.qq.com/s/4-uQ_xjWTKAQTKa20lbK6w)
+
+二、#公众号：亚军进化史
+
+1. [Go技术日报(2021-01-15)](https://studygolang.com/topics/12978)
+
+三、#公众号：代码与远方
+
+1. [Golang是怎么利用 epoll 的](https://mp.weixin.qq.com/s/8SbKFgJx5UsRZUKZemKM5A)
+
+四、#公众号：多颗糖
+
+1. [软件架构基础 4: 你的架构需要考虑到的特性](https://mp.weixin.qq.com/s/qXZSd3-CKba856MqRmz1zg)
+
+五、#公众号：Golang梦工厂
+
+1. [踩坑日志之elasticSearch](https://mp.weixin.qq.com/s/9TTGQRTFSLJo9-APnNh-SQ)
+
+六、#公众号：k8s技术圈
+
+1. [简单示例说明 kube-proxy 如何与 iptables 配合使用](https://mp.weixin.qq.com/s/b4sXrx3n3DxK06zMtHyEqw)
+
+七、#公众号：GoOfficialBlog
+
+1. [高性能 Go 代码工坊（Part1）](https://mp.weixin.qq.com/s/aa195vK6D_f5v2G9n90-SA)
+
+八、#公众号：Go招聘
+
+1. [滴滴网约车增长团队来招人啦](https://mp.weixin.qq.com/s/8oFuH9PpTKukscNGG8zmHw)
+
+
+
  gopherDaily-2021-01-16
 # go-news-set-2021-01-16
 ## gopherDaily-2021-01-16
