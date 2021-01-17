@@ -1,3 +1,17 @@
+ gocn_news-2021-01-17
+# go-news-set-2021-01-17
+## gocn_news-2021-01-17
+- 1.如何优化 Go HTTP client 的性能 https://www.loginradius.com/blog/async/tune-the-go-http-client-for-high-performance/
+
+- 2.优化 SQLite 在 Go 中的性能 https://turriate.com/articles/making-sqlite-faster-in-go
+
+- 3.Go 依赖包影响检测工具 GTA https://www.digitalocean.com/blog/gta-detecting-affected-dependent-go-packages
+
+- 4.从 Go 代码中抽离业务逻辑的实践 https://developer20.com/extracting-the-business-logic-project/
+
+- 5.软件包的僵尸依赖 https://dlorenc.medium.com/zombie-dependencies-77c34740a7a8
+
+
  go语言中文网(每日资讯)-2021-01-16
 # go-news-set-2021-01-16
 ## go语言中文网(每日资讯)-2021-01-16
