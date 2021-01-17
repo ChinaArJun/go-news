@@ -1,3 +1,33 @@
+ go语言中文网(每日资讯)-2021-01-17
+# go-news-set-2021-01-17
+## go语言中文网(每日资讯)-2021-01-17
+一、#公众号：Go语言中文网
+
+1. [Go语言爱好者周刊：第 78 期 — 这道关于 goroutine 的题](https://mp.weixin.qq.com/s/kma8hvdLVPIkZnKw_MaSKg)
+
+2. [使用 Go 和 ReactJS 构建聊天系统（六）：Docker 部署](https://mp.weixin.qq.com/s/CLna0qjhis0FJ4bn_sKffA)
+
+3. [真香！使用 VSCode 进行 Go 远程开发调试](https://mp.weixin.qq.com/s/KK0R0GWuBUV7CRYcV2KOrg)
+
+二、#公众号：亚军进化史
+
+1. [Go技术日报(2021-01-16)](https://studygolang.com/topics/12987)
+
+三、#公众号：代码与远方
+
+1. [Golang并发模型之GMP浅尝](https://mp.weixin.qq.com/s/seBvLitFxCF5TiVDfM2X4Q)
+
+四、#公众号：polarisxu
+
+1. [钉钉 6.0 发布会上提到的 Low-Code 是个什么鬼？](https://mp.weixin.qq.com/s/B6DjmOHy0UdIVRbbUlWDcQ)
+
+五、#公众号：Golang语言开发栈
+
+1. [Golang 语言的 goroutine 调度器模型 GPM](https://mp.weixin.qq.com/s/DZVn-5n-yB-swE0J4CjcbQ)
+
+六、Awesome Go
+
+1. [Awesome Go Newsletter-243](https://go.libhunt.com/newsletter/243)
  gocn_news-2021-01-17
 # go-news-set-2021-01-17
 ## gocn_news-2021-01-17
