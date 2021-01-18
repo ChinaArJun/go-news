@@ -1,3 +1,17 @@
+ gocn_news-2021-01-19
+# go-news-set-2021-01-19
+## gocn_news-2021-01-19
+- 1.深度解密 Go 语言之 sync.pool https://juejin.cn/post/6918378263345627149
+
+- 2.深度解密 Go 语言之 sync.map https://juejin.cn/post/6918378938691649544
+
+- 3.用 Go 写 init 服务 https://dev.to/__mrvik__/series/10418
+
+- 4.深度解密 Go 语言之 pprof https://juejin.cn/post/6844903992720359432
+
+- 5.伪随机数据生成器 https://github.com/brianvoe/gofakeit
+
+
  go语言中文网(每日资讯)-2021-01-18
 # go-news-set-2021-01-18
 ## go语言中文网(每日资讯)-2021-01-18
