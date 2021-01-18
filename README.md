@@ -1,3 +1,17 @@
+ gocn_news-2021-01-18
+# go-news-set-2021-01-18
+## gocn_news-2021-01-18
+- 1.在 Go 中打造基于事件的调度器 https://medium.com/wesionary-team/building-basic-event-scheduler-in-go-134c19f77f84
+
+- 2.在你的项目中使用 Uber 的 Zip https://medium.com/@gustavo.nabakseixas/go-using-uber-zap-in-your-application-135756f23bdc
+
+- 3.在 Go 1.16 中使用 HTTP 提供压缩静态资源服务 https://dev.to/vearutop/serving-compressed-static-assets-with-http-in-go-1-16-55bb
+
+- 4.Go 的 Pipe 应用场景，往服务器提交 multipart 请求 https://segmentfault.com/a/1190000039005031
+
+- 5.聊聊 gorm 的 OnConflict https://segmentfault.com/a/1190000039006695
+
+
  go语言中文网(每日资讯)-2021-01-17
 # go-news-set-2021-01-17
 ## go语言中文网(每日资讯)-2021-01-17
