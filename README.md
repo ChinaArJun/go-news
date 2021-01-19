@@ -1,3 +1,50 @@
+ go语言中文网(每日资讯)-2021-01-19
+# go-news-set-2021-01-19
+## go语言中文网(每日资讯)-2021-01-19
+
+一、#公众号：Go语言中文网
+
+1. [项目实战：使用 Go 构建 GraphQL API](https://mp.weixin.qq.com/s/bPeAxcrgK3SVIZT2t6JbvQ)
+
+2. [Golang程序性能分析（一）pprof和go-torch
+](https://mp.weixin.qq.com/s/cXoYe4mJhmVcHQePaBDM1w)
+
+3. [分布式事务之底层原理揭秘](https://mp.weixin.qq.com/s/jJBlSHLTvxNPl3maYMpccQ)
+
+二、#公众号：亚军进化史
+
+1. [Go技术日报(2021-01-18)](https://studygolang.com/topics/12993)
+
+三、#公众号：代码与远方
+
+1. [10张图让你彻底理解回调函数](https://mp.weixin.qq.com/s/SBFX9pMj0_D4ABKZqf-bTA)
+
+四、#公众号：polarisxu
+
+1. [图书《Go 语言标准库》更新了：io/fs 包讲解](https://mp.weixin.qq.com/s/8ukhxjSPqK5e9wSJyKGTZA)
+
+五、#公众号：Golang来啦
+
+1. [Go 语言常见的坑](https://mp.weixin.qq.com/s/DfoGMjmjyd6mIMa_DMeF4A)
+
+六、#公众号：奇伢云存储
+
+1. [Go 的 defer 的特性还是有必要要了解下的！！！](https://mp.weixin.qq.com/s/Lwq46_PekjTQTuTZ38gPHQ)
+
+七、#公众号：技术岁月
+
+1. [直播分享：智能风控决策引擎系统架构设计与开发实践](https://mp.weixin.qq.com/s/fLWSErokhuSY1cHPDbBV0Q)
+
+八、#公众号：k8s技术圈
+
+1. [Kubernetes 几个常见对象概述图](https://mp.weixin.qq.com/s/XGvtAjUEfP3NyS_l8I4YpA)
+
+九、#公众号：CloudNativeCommunity
+
+1. [直播预告 | 云原生 Kubernetes 架构分析与最佳实践](https://mp.weixin.qq.com/s/LPkUVBWsM9MbYi6b7ghPfg)
+
+
+
  gocn_news-2021-01-19
 # go-news-set-2021-01-19
 ## gocn_news-2021-01-19
