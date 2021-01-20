@@ -1,3 +1,38 @@
+ go语言中文网(每日资讯)-2021-01-20
+# go-news-set-2021-01-20
+## go语言中文网(每日资讯)-2021-01-20
+一、#公众号：Go语言中文网
+
+1. [Go 1.15.7 新鲜出炉：修复安全问题，建议升级](https://mp.weixin.qq.com/s/L1b3tUPiZXP3CKdKrHOfEQ)
+
+2. [Golang程序性能分析（二）在Echo和Gin框架中使用pprof
+](https://mp.weixin.qq.com/s/D9p3_oITWgVTKzriA_66_Q)
+
+二、#公众号：亚军进化史
+
+1. [Go技术日报(2021-01-19)](https://studygolang.com/topics/12997)
+
+三、#公众号：代码与远方
+
+1. [神秘！申请内存时底层发生了什么？](https://mp.weixin.qq.com/s/3h6SloPLy1ZLWHoTsZ64Pw)
+
+四、#公众号：Go招聘
+
+1. [3年后端经验，1年Go经验，这个待遇如何？【一起教育】在线教育招人](https://mp.weixin.qq.com/s/2SoNs1_PLWqflEiKep7A0g)
+
+五、#公众号：Golang来啦
+
+1. [原来这样使用 Go HTTP 客户端才能获取更高性能](https://mp.weixin.qq.com/s/vamtQSnvYwgqf1adbqPY6w)
+
+六、#公众号：网管叨bi叨
+
+1. [常用的分布式唯一ID生成方案](https://mp.weixin.qq.com/s/BNCaeEu-XRqbR-z6VM1QPg)
+
+七、#公众号：vivo互联网技术
+
+1. [MySQL 5.6.35 索引优化导致的死锁案例解析](https://mp.weixin.qq.com/s/T5e-gb0MXxjBwbjGg6jIMg)
+
+
  gopherDaily-2021-01-20
 # go-news-set-2021-01-20
 ## gopherDaily-2021-01-20
