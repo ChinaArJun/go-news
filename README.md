@@ -1,3 +1,20 @@
+ gopherDaily-2021-01-20
+# go-news-set-2021-01-20
+## gopherDaily-2021-01-20
+- 1.Go io/ioutil包将被废弃，相关功能将挪到io包和os包中 - https://www.srcbeat.com/2021/01/golang-ioutil-deprecated/
+- 2.数据库是如何使用mmap的，以BoltDB为例 - https://brunocalza.me/but-how-exactly-databases-use-mmap/
+- 3.Go服务的非阻塞并行模式 - http://www.goldsborough.me/go/2020/12/06/12-24-24-non-blocking_parallelism_for_services_in_go/
+- 4.Pglet-后端开发人员的Web UI框架 - https://github.com/pglet/pglet
+- 5.Go实现的持续profiling平台 - https://github.com/pyroscope-io/pyroscope
+- 6.使用kubeadm部署高可用Kubernetes集群 - https://tansanrao.com/kubernetes-ha-cluster-with-kubeadm/
+- 7.2020年ML和NLP研究重点回顾 - https://ruder.io/research-highlights-2020/
+- 8.状态机的当前状态 - https://googleprojectzero.blogspot.com/2021/01/the-state-of-state-machines.html
+- 9.播客：Kubernetes时代的数据管理是什么？- https://thenewstack.io/what-is-data-management-in-the-kubernetes-age/
+- 10.我是如何自愿重新构造Internet电子邮件的 - https://changelog.com/posts/how-i-volunteered-to-rearchitect-internet-email
+- 11.理解边缘计算 - https://www.redhat.com/en/topics/edge-computing
+- 12.brave浏览器将成为首个支持ipfs协议的浏览器 - https://www.zdnet.com/article/brave-becomes-first-browser-to-add-native-support-for-the-ipfs-protocol/
+- 13.码云gitee 2020开源年报 - https://www.oschina.net/news/127132/gitee-2020-report
+
  go语言中文网(每日资讯)-2021-01-19
 # go-news-set-2021-01-19
 ## go语言中文网(每日资讯)-2021-01-19
