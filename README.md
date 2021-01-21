@@ -1,3 +1,41 @@
+ go语言中文网(每日资讯)-2021-01-21
+# go-news-set-2021-01-21
+## go语言中文网(每日资讯)-2021-01-21
+一、#公众号：Go语言中文网
+
+1. [一道关于 goroutine 的面试题，65%!!(MISSING)的(MISSING)人都答错了](https://mp.weixin.qq.com/s/OsQQOxAjlC8P7_NMOsWW0w)
+
+2. [Go 语言常见的坑](https://mp.weixin.qq.com/s/ByekiY9AbfRqB0REwLgsDg)
+
+二、#公众号：亚军进化史
+
+1. [Go技术日报(2021-01-20)](https://studygolang.com/topics/13002)
+
+三、#公众号：代码与远方
+
+1. [在 Kubernetes 中部署高可用 Harbor 镜像仓库](https://mp.weixin.qq.com/s/b81syz3tefrMQiGMX_ij2g)
+
+四、#公众号：Go招聘
+
+1. [字节的这个 Go 招聘，待遇 25-50k，跨度好大呀~](https://mp.weixin.qq.com/s/biK565Eeg_FNUZbqUON7oQ)
+
+五、#公众号：Golang来啦
+
+1. [如何配置 sql.DB 才能获取更好的性能？](https://mp.weixin.qq.com/s/TucHkKuc2umLs6DGPkFGUg)
+
+2. [快报：Go 1.16 将会废弃 io/ioutil 包！](https://mp.weixin.qq.com/s/Wp8ARk6XP7pu9ULsPy9N0A)
+
+六、#公众号：脑子进煎鱼了
+
+1. [一文吃透 Go 语言解密之接口 interface](https://mp.weixin.qq.com/s/vSgV_9bfoifnh2LEX0Y7cQ)
+
+七、#公众号：微服务实践
+
+1. [企业项目迁移go-zero实战（一）](https://mp.weixin.qq.com/s/7hC_WPrAWNT5igvOkiM0qQ)
+
+八、#公众号：k8s技术圈
+
+1. [[译] 利用 eBPF 支撑大规模 K8S Service](https://mp.weixin.qq.com/s/KnNcM2OaBqOgfVDghaHy8g)
  gocn_news-2021-01-21
 # go-news-set-2021-01-21
 ## gocn_news-2021-01-21
