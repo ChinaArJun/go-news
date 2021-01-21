@@ -1,3 +1,17 @@
+ gocn_news-2021-01-21
+# go-news-set-2021-01-21
+## gocn_news-2021-01-21
+- 1.Go 1.15.7 发布 https://golangtutorial.dev/news/go-1.15.7-and-go-1.14.14-released/
+
+- 2.第二期 Go 开源说实录：GORM 剖析与最佳实践 https://mp.weixin.qq.com/s/Hg4K_VHbQSfArnvhiObAIw
+
+- 3.使用 google/wire 对 Go 项目进行依赖注入 https://juejin.cn/post/6919748196809834503
+
+- 4.再见 go-micro！企业项目迁移 go-zero 全攻略（一）https://juejin.cn/post/6919837050304725000
+
+- 5.gin 框架实践连载番外篇 | 3 天打造专属 Cache(Third day) https://juejin.cn/post/6919657039920627726
+
+
  go语言中文网(每日资讯)-2021-01-20
 # go-news-set-2021-01-20
 ## go语言中文网(每日资讯)-2021-01-20
