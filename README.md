@@ -1,3 +1,33 @@
+ go语言中文网(每日资讯)-2021-01-22
+# go-news-set-2021-01-22
+## go语言中文网(每日资讯)-2021-01-22
+一、#公众号：Go语言中文网
+
+1. [这家 C 轮创业公司也招 Go 语言工程师了](https://mp.weixin.qq.com/s/N_gXFumYGIWAZtZv8cutbg)
+
+2. [Go 的 defer 的特性还是有必要要了解下的！！！](https://mp.weixin.qq.com/s/MKvbLaPBuhvbvhwoGFnxGw)
+
+3. [对未初始化的的chan进行读写，会怎么样？为什么？](https://mp.weixin.qq.com/s/zqfGjzKzoDTCyGCPRyHBXg)
+
+二、#公众号：亚军进化史
+
+1. [Go技术日报(2021-01-21)](https://studygolang.com/topics/13005)
+
+三、#公众号：代码与远方
+
+1. [iTerm 2 使用触发器和 expect 实现 ssh 自动登录](https://mp.weixin.qq.com/s/G4C2Jw9I0DzqQ7ghkFobAg)
+
+四、#公众号：Go招聘
+
+1. [字节跳动 Go 一面相关题目汇总：附带部分题解](https://mp.weixin.qq.com/s/3yRRcf1UUN9nKYxngKlpsQ)
+
+五、#公众号：微服务实践
+
+1. [一文读懂云原生 go-zero 微服务框架](https://mp.weixin.qq.com/s/ohlhLk8QEkzcw8DpehXN6w)
+
+六、#公众号：polarisxu
+
+1. [Unicode 和 UTF-8 是什么关系？本文为你解惑](https://mp.weixin.qq.com/s/6w0FYXN11wbuyj1IptAKEw)
  gocn_news-2021-01-22
 # go-news-set-2021-01-22
 ## gocn_news-2021-01-22
