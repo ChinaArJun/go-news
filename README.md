@@ -1,3 +1,17 @@
+ gocn_news-2021-01-22
+# go-news-set-2021-01-22
+## gocn_news-2021-01-22
+- 1.【抢先看】Go 1.16 发版纪要 https://tip.golang.org/doc/go1.16
+
+- 2.一文吃透 Go 语言解密之接口 interface https://mp.weixin.qq.com/s/vSgV_9bfoifnh2LEX0Y7cQ
+
+- 3.用 Gebug 调试 AWS Lambda 程序 https://moshe-beladev-mb.medium.com/debug-aws-lambda-functions-with-gebug-bc643788c247
+
+- 4.为什么我的 Go 比 Nodejs 的 API 慢了 10 倍 https://jason150.medium.com/golang-why-my-go-api-was-10x-slower-than-node-api-b9433d01c490
+
+- 5.Containerd 镜像 lazy-pulling 解读 https://mp.weixin.qq.com/s/nx3riUyDvUx9_ETOcx3I4Q
+
+
  go语言中文网(每日资讯)-2021-01-21
 # go-news-set-2021-01-21
 ## go语言中文网(每日资讯)-2021-01-21
