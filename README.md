@@ -1,3 +1,19 @@
+ gopherDaily-2021-01-23
+# go-news-set-2021-01-23
+## gopherDaily-2021-01-23
+- 1.带你提前体验Go 1.16 io/fs包 - https://benjamincongdon.me/blog/2021/01/21/A-Tour-of-Go-116s-iofs-package/
+- 2.支持Go的开源的Native persistent memory实现 - https://github.com/jerrinsg/go-pmem
+- 3.Go播客：通过CUE配置赋能开发人员 - https://changelog.com/gotime/163
+- 4.将fuzzing test以一等公民身份加入Go的设计草案 - https://go.googlesource.com/proposal/+/master/design/draft-fuzzing.md
+- 5.为什么我的Go api比Node api慢十倍 - https://jason150.medium.com/golang-why-my-go-api-was-10x-slower-than-node-api-b9433d01c490
+- 6.理解Go re-slicing - https://dev.to/gholami1313/re-slicing-in-golang-bp0
+- 7.安全的电邮系统替代品(实验性) - https://github.com/bitmaelum/bitmaelum-suite
+- 8.用于Go练手的Go项目idea - https://smoqadam.me/posts/a-few-ideas-for-your-next-go-project/
+- 9.我们是如何将linux移植到apple M1芯片上的 - https://corellium.com/blog/linux-m1
+- 10.与克劳德-香农共度一万小时：天才如何思考、工作和生活 - https://medium.com/the-mission/10-000-hours-with-claude-shannon-12-lessons-on-life-and-learning-from-a-genius-e8b9297bee8f
+- 11.github 2020安全特性总结 - https://github.blog/2021-01-11-github-security-features-highlights-from-2020/
+- 12.关于Go出口管制的讨论 - https://groups.google.com/g/golang-dev/c/RDlJVoki8R0
+
  go语言中文网(每日资讯)-2021-01-22
 # go-news-set-2021-01-22
 ## go语言中文网(每日资讯)-2021-01-22
