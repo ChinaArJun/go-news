@@ -1,3 +1,45 @@
+ go语言中文网(每日资讯)-2021-01-23
+# go-news-set-2021-01-23
+## go语言中文网(每日资讯)-2021-01-23
+一、#公众号：Go语言中文网
+
+1. [从这个问题谈起：channel 的哪些操作会引发 panic？](https://mp.weixin.qq.com/s/RVBeIjOf5I2WLcPi06JVmg)
+
+2. [如何配置 sql.DB 才能获取更好的性能？](https://mp.weixin.qq.com/s/j4qnTOC4vzAc6-D5DmZ57A)
+
+3. [对未初始化的的chan进行读写，会怎么样？为什么？](https://mp.weixin.qq.com/s/zqfGjzKzoDTCyGCPRyHBXg)
+
+二、#公众号：亚军进化史
+
+1. [Go技术日报(2021-01-22)](https://studygolang.com/topics/13014)
+
+三、#公众号：代码与远方
+
+1. [有了这款图形管理界面，一分钟内配置 10 个 WireGuard 客户端不是梦](https://mp.weixin.qq.com/s/r7TpQtqjzqYUMe_Eqc7qGg)
+
+四、#公众号：Go招聘
+
+1. [深圳福利超棒云计算公司招Go喽，初中高级我们全都要](https://mp.weixin.qq.com/s/pOAkgbuupKdDE9vUgjS_cw)
+
+五、#公众号：微服务实践
+
+1. [别再问我们用什么画图的了！问就是excalidraw](https://mp.weixin.qq.com/s/byF_ZXGnzmxHriO0eb7rmQ)
+
+六、#公众号：五分选手
+
+1. [初探 Go 的编译命令执行过程](https://mp.weixin.qq.com/s/g_j3zDr-5doUqhd4lk3eAQ)
+
+七、#公众号：薯条的自我修养
+
+1. [[Golang]如何优雅管理系统中的几十个UDF(API)](https://mp.weixin.qq.com/s/YYXIEIqWNxuVNRcyYJe3Aw)
+
+八、#公众号：图解源码
+
+1. [分布式任务编排之数据分片与路由](https://mp.weixin.qq.com/s/kT2NThf9W0-N_2zBzoXhDQ)
+
+九、#公众号：Golang梦工厂
+
+1. [源码剖析panic与recover，看不懂你打我好了！](https://mp.weixin.qq.com/s/mzSCWI8C_ByIPbb07XYFTQ)
  gocn_news-2021-01-23
 # go-news-set-2021-01-23
 ## gocn_news-2021-01-23
