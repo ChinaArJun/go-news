@@ -1,3 +1,20 @@
+ gopherDaily-2021-01-24
+# go-news-set-2021-01-24
+## gopherDaily-2021-01-24
+- 1.自维护的Swagger规范 - https://slimdevl.gitlab.io/post/2021-01-12-auto-swagger
+- 2.如何使用Go对helm chart进行单元测试 - https://blog.heyal.co.uk/unit-testing-helm-charts/
+- 3.pion: 我们是如何让WebRTC的开发变得更容易的 - https://www.slideshare.net/SeanDuBois3/how-can-we-make-webrtc-easier
+- 4.经典旧文：探索Go byte解析API - https://mdlayher.com/blog/exploring-byte-parsing-apis-in-go/
+- 5.无人机，虚拟现实和多人NES游戏: Pion WebRTC带给你的乐趣 - https://www.slideshare.net/SeanDuBois3/drones-virtual-reality-and-multiplayer-nes-games-the-fun-you-can-have-with-pion-webrtc
+- 6.DDD实现之路 - https://mp.weixin.qq.com/s/bDMX35eYkIwJ62o5fqHJ9w
+- 7.GoDate.io服务：帮助开发者将更熟悉的日期模式(%!!(MISSING)Y(MISSING)-%!!(MISSING)m(MISSING)-%!!(MISSING)d(MISSING))转换为GO的日期模式 - https://godate.io/
+- 8.dyff: 用于yaml文件的diff工具 - https://github.com/homeport/dyff
+- 9.Docker Kubernetes 101 - https://gitlab.com/swiftdiaries/docker-k8s-basics
+- 10.编程语言发明人还是系列杀手？- https://vole.wtf/coder-serial-killer-quiz/
+- 11.Firecracker: 在不到一秒钟的时间内启动虚拟机 - https://jvns.ca/blog/2021/01/23/firecracker--start-a-vm-in-less-than-a-second/
+- 12.张小龙演讲实录：1.2万字复盘微信十年 - https://mp.weixin.qq.com/s/0gfqmdcDKswDERHxp4Ek5A
+- 13.5G时代边缘计算的基本形态 - https://mp.weixin.qq.com/s/EJJeHFkLAhJqkvmBX3au2A
+
  go语言中文网(每日资讯)-2021-01-23
 # go-news-set-2021-01-23
 ## go语言中文网(每日资讯)-2021-01-23
