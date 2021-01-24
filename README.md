@@ -1,3 +1,49 @@
+ go语言中文网(每日资讯)-2021-01-24
+# go-news-set-2021-01-24
+## go语言中文网(每日资讯)-2021-01-24
+一、#公众号：Go语言中文网
+
+1. [Go 项目推荐：分分钟生成一个全栈 Web 项目（Go，Angular/React/Vue）](https://mp.weixin.qq.com/s/u7GV9JIa6C_XbLgq-ZkX3g)
+
+2. [Go语言爱好者周刊：第 79 期 — 真出现这样的问题就很无语](https://mp.weixin.qq.com/s/HwfRmHZgDPeikFmA61fyzg)
+
+3. [Golang程序性能分析（三）用pprof分析gRPC服务的性能](https://mp.weixin.qq.com/s/69AYucF1i6D3O-ds2Hetlw)
+
+二、#公众号：亚军进化史
+
+1. [Go技术日报(2021-01-23)](https://studygolang.com/topics/13021)
+
+三、#公众号：代码与远方
+
+1. [Containerd 的前世今生和保姆级入门教程](https://mp.weixin.qq.com/s/GwPpiw-nG5-o5VdC09KmJQ)
+
+四、#公众号：网管叨bi叨
+
+1. [内存对齐 | 原来字段顺序还能影响结构体占用的内存空间](https://mp.weixin.qq.com/s/l3T5p_iw3S9nm635ezflGQ)
+
+五、#公众号：polarisxu
+
+1. [关于 Go 是否会成为美国出口管制的讨论](https://mp.weixin.qq.com/s/f_dEKys-pFKm03Wde7e-MQ)
+
+六、#公众号：wegoer
+
+1. [Golang unsafe.Pointer使用原则以及 uintptr 隐藏的坑](https://mp.weixin.qq.com/s/Z69DmbG6kVBFoODoE6mDrA)
+
+七、#公众号：aoho求索
+
+1. [几款符合 OpenTracing 规范的分布式链路追踪组件介绍与选型](https://mp.weixin.qq.com/s/Jn6RPCvHIj986olCWG1o5g)
+
+八、#公众号：k8s技术圈
+
+1. [实现一个容器镜像白名单的准入控制器 | 视频文字稿](https://mp.weixin.qq.com/s/pzn2Nz-KNgcINNnGn9JGew)
+
+九、鸟窝
+
+1. [Go embed 简明教程](https://colobu.com/2021/01/17/go-embed-tutorial/)
+
+十、Awesome Go
+
+1. [Awesome Go Newsletter-244](https://go.libhunt.com/newsletter/244)
  gocn_news-2021-01-24
 # go-news-set-2021-01-24
 ## gocn_news-2021-01-24
