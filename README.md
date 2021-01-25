@@ -1,3 +1,45 @@
+ go语言中文网(每日资讯)-2021-01-25
+# go-news-set-2021-01-25
+## go语言中文网(每日资讯)-2021-01-25
+一、#公众号：Go语言中文网
+
+1. [知乎问答：为什么字节跳动选择使用 Go 语言？](https://mp.weixin.qq.com/s/qSRPEST7N1u8E0X90T-9ZA)
+
+2. [如何优雅管理 Go 系统中的几十个 API](https://mp.weixin.qq.com/s/vgb-bvEaFn4-AQpchtC3pw)
+
+3. [Go 并发编程-信号量的使用方法和其实现原理](https://mp.weixin.qq.com/s/Pc9iWLvW7kfP-19QnaYYVA)
+
+二、#公众号：亚军进化史
+
+1. [Go技术日报(2021-01-24)](https://studygolang.com/topics/13023)
+
+三、#公众号：代码与远方
+
+1. [Go 指针的使用限制和突破之路](https://mp.weixin.qq.com/s/5_h7pAbRM3apby09Jk3fuA)
+
+四、#公众号： GoOfficialBlog
+
+1. [高性能 Go 代码工坊（Part2)](https://mp.weixin.qq.com/s/rSaQJZJPh6lK_zkVPuQZlg)
+
+五、#公众号： Golang来啦
+
+1. [Golang 定时器使用方法汇总](https://mp.weixin.qq.com/s/imo4ojsaoaUi_OiUUq2HCg)
+
+六、#公众号：新亮笔记
+
+1. [Go - httpclient 常用操作](https://mp.weixin.qq.com/s/IxvzNPI18OEYmCL5uH4jCA)
+
+七、#公众号：微服务实践
+
+1. [企业项目迁移go-zero实战（二）](https://mp.weixin.qq.com/s/Bbg48ixPprHpW-aJ7FuPZw)
+
+八、#公众号： Go夜读
+
+1. [【预告】Don't be clever - understand memory ordering](https://mp.weixin.qq.com/s/55-R6q2H08jImXkf6h39IA)
+
+九、#公众号：五分选手
+
+1. [深入解析 Go 中 Slice 底层实现](https://mp.weixin.qq.com/s/8b6FudzXStKN3d6p8wYSqQ)
  gopherDaily-2021-01-25
 # go-news-set-2021-01-25
 ## gopherDaily-2021-01-25
