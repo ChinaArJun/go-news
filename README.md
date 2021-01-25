@@ -1,3 +1,21 @@
+ gopherDaily-2021-01-25
+# go-news-set-2021-01-25
+## gopherDaily-2021-01-25
+- 1.将Go进程的指标数据实时可视化 - https://nakabonne.dev/posts/gosivy/
+- 2.将godoc.org重定向到pkg.go.dev即将开始 - https://www.srcbeat.com/2021/01/godocs/
+- 3.pipecd/pipe: 声明性Kubernetes，无服务器和基础架构应用程序的持续交付工具- https://github.com/pipe-cd/pipe
+- 4.油管视频：以Gopher视角看Devops - https://www.youtube.com/watch?v=yczwWzkbFAQ&feature=youtu.be
+- 5.Springer出版的Go新书：Nonsequential and Distributed Programming with Go - https://www.springer.com/gb/book/9783658297817
+- 6.toplist: Go语言编写的抓取热门网站热门头条的聚合网站工具 - https://github.com/tophubs/TopList
+- 7.MinDoc: 基于beego框架的接口在线文档管理系统 - https://github.com/lifei6671/mindoc
+- 8.谈谈对 SRE 的理解 - https://mp.weixin.qq.com/s/PR0lDxqDf_I-myeQbIliCg
+- 9.使用 DDD 指导微服务拆分的逻辑 - https://mp.weixin.qq.com/s/_OSkf2PqUgkKTcDqHjGBaw
+- 10.Deskreen: 将带有网络浏览器的任何设备变为计算机的第二个屏幕 - https://github.com/pavlobu/deskreen
+- 11.Linux Kernel修bug训练营 - https://mentorship.lfx.linuxfoundation.org/project/7671f900-a622-4bbc-956b-f4c336704478
+- 12.为什么疫情过后在家工作会持续下去 - https://nbloom.people.stanford.edu/sites/g/files/sbiybj4746/f/why_wfh_stick1_0.pdf
+- 13.pip去除对python2的支持 - https://pip.pypa.io/en/stable/news/#id1
+- 14.在软件行业从业6年后的反思 - https://chriskiehl.com/article/thoughts-after-6-years
+
  go语言中文网(每日资讯)-2021-01-24
 # go-news-set-2021-01-24
 ## go语言中文网(每日资讯)-2021-01-24
