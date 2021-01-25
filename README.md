@@ -1,3 +1,17 @@
+ gocn_news-2021-01-25
+# go-news-set-2021-01-25
+## gocn_news-2021-01-25
+- 1.阿里技术专家对 SRE 和稳定性保障的理解 https://gocn.vip/topics/11566
+
+- 2.从代码到部署微服务实战（一）https://gocn.vip/topics/11564
+
+- 3.Golang 程序性能分析（三）用 pprof 分析 gRPC 服务的性能 https://mp.weixin.qq.com/s/69AYucF1i6D3O-ds2Hetlw
+
+- 4.Containerd 的前世今生和保姆级入门教程 https://mp.weixin.qq.com/s/GwPpiw-nG5-o5VdC09KmJQ
+
+- 5.内存对齐 | 原来字段顺序还能影响结构体占用的内存空间 https://mp.weixin.qq.com/s/l3T5p_iw3S9nm635ezflGQ
+
+
  go语言中文网(每日资讯)-2021-01-25
 # go-news-set-2021-01-25
 ## go语言中文网(每日资讯)-2021-01-25
