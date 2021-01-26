@@ -1,3 +1,17 @@
+ gocn_news-2021-01-26
+# go-news-set-2021-01-26
+## gocn_news-2021-01-26
+- 1.Go 开源说：KubeVela 标准化的云原生平台构建引擎 https://mp.weixin.qq.com/s/f4aZtYoom58MxgH33tzzcA
+
+- 2.扩展 Kubernetes 到 7500 节点 https://openai.com/blog/scaling-kubernetes-to-7500-nodes/
+
+- 3.利用 Zig 扩展 Go 跨平台编译 https://dev.to/kristoff_it/zig-makes-go-cross-compilation-just-work-29ho
+
+- 4.UI 库 fyne 2.0 发布，支持数据绑定等多项改进 https://github.com/fyne-io/fyne/releases/tag/v2.0.0
+
+- 5.go-financial：尝试移植 numpy-financial 至 Go https://github.com/razorpay/go-financial
+
+
  gocn_news-2021-01-25
 # go-news-set-2021-01-25
 ## gocn_news-2021-01-25
