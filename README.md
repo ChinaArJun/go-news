@@ -1,3 +1,49 @@
+ go语言中文网(每日资讯)-2021-01-26
+# go-news-set-2021-01-26
+## go语言中文网(每日资讯)-2021-01-26
+一、#公众号：Go语言中文网
+
+1. [Go 中的 SSRF 攻防战：对没看错，不是 CSRF](https://mp.weixin.qq.com/s/nTmdf9wseJgKem2oNksubw)
+
+2. [Go 1.17 要增加的模糊测试是什么鬼？通过本文了解下](https://mp.weixin.qq.com/s/CWwBl0A2hTJsr4VoBlZyjQ)
+
+3. [Golang 定时器使用方法汇总](https://mp.weixin.qq.com/s/i8XWQgsgySIneZ6G_GPzuw)
+
+二、#公众号：亚军进化史
+
+1. [Go技术日报(2021-01-25)](https://studygolang.com/topics/13031)
+
+三、#公众号：代码与远方
+
+1. [说出来你可能不信，内核这家伙在内存的使用上给自己开了个小灶！](https://mp.weixin.qq.com/s/fCNfKEmgwuqrKPc-hTMhUA)
+
+四、#公众号：Golang语言开发栈
+
+1. [每位 Gopher 都应该了解的 Golang 语言的垃圾回收算法](https://mp.weixin.qq.com/s/gkBg742lpBVRBhTPhOQ7hg)
+
+五、#公众号：Golang来啦
+
+1. [图解 Slice 操作](https://mp.weixin.qq.com/s/FymHB5hERd29ypUOCZaRJA)
+
+六、#公众号：xueyuanjun
+
+1. [开篇：为什么学习 Go 语言](https://mp.weixin.qq.com/s/F2-nQEGEBqAnCi3Mbrn5cw)
+
+七、#公众号：Go招聘
+
+1. [字节跳动教育业务研发岗太缺人了吧！！测试开发也招 Go](https://mp.weixin.qq.com/s/Zm5ZgNDFUmMiflwjovIiGA)
+
+八、#公众号：polarisxu
+
+1. [函数是一等公民，这到底在说什么？](https://mp.weixin.qq.com/s/H3iuhkvQWonZbi7AzmokSA)
+
+九、#公众号：脑子进煎鱼了
+
+1. [一文吃透 Go 语言解密之上下文 context](https://mp.weixin.qq.com/s/A03G3_kCvVFN3TxB-92GVw)
+
+十、#公众号：云加社区
+
+1. [hash+跳表，玩转Redis有序集合](https://mp.weixin.qq.com/s/y1b0zvpJRJWbjx-8AOkEPw)
  gocn_news-2021-01-26
 # go-news-set-2021-01-26
 ## gocn_news-2021-01-26
