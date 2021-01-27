@@ -1,3 +1,17 @@
+ gocn_news-2021-01-27
+# go-news-set-2021-01-27
+## gocn_news-2021-01-27
+- 1.Go internal ABI specification https://go.googlesource.com/go/+/refs/heads/dev.regabi/src/cmd/compile/internal-abi.md
+
+- 2.Error vs Exception，对比 Go 和 C++ https://dr-knz.net/go-errors-vs-exceptions-2020.html
+
+- 3.采访 Anderson Queiroz：Go 是 21 世纪最完美的语言 https://hackernoon.com/interview-with-anderson-queiroz-golang-is-the-perfect-language-for-the-21st-century-xmc433jo
+
+- 4.Go 时间处理库 https://github.com/golang-module/carbon
+
+- 5.在 Go 项目中优雅的使用 gorm v2 https://segmentfault.com/a/1190000039097157
+
+
  gopherDaily-2021-01-27
 # go-news-set-2021-01-27
 ## gopherDaily-2021-01-27
