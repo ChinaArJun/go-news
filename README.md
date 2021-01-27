@@ -1,3 +1,20 @@
+ gopherDaily-2021-01-27
+# go-news-set-2021-01-27
+## gopherDaily-2021-01-27
+- 1.将Kubernetes集群扩展为7500个节点 by OpenAI - https://openai.com/blog/scaling-kubernetes-to-7500-nodes/
+- 2.通过对O’Reilly在线学习的分析，看2021编程，运维，人工智能和云的发展趋势 - https://www.oreilly.com/radar/where-programming-ops-ai-and-the-cloud-are-headed-in-2021/
+- 3.Go编译器和运行时会议记录常设issue，方便社区了解Go编译器演进的最新情况 - https://github.com/golang/go/issues/43930
+- 4.Go语言的SQL实战(第一部分)，不用ORM - https://www.gobeyond.dev/real-world-sql-part-one/
+- 5.Slack公司是如何使用vitness扩展数据存储的- https://slack.engineering/scaling-datastores-at-slack-with-vitess/
+- 6.Kubernetes中的服务发现- https://iximiuz.com/en/posts/service-discovery-in-kubernetes
+- 7.使用正确的工具构建kubernetes operator - https://www.openshift.com/blog/build-your-kubernetes-operator-with-the-right-tool
+- 8.开源的Uber的概念验证 - https://github.com/ro31337/libretaxi
+- 9.depaware: 输出你的Go源码所有依赖，并标记所属平台以及是否使用cgo/unsafe - https://github.com/tailscale/depaware
+- 10.波士顿动力机器狗的模拟器工具 - https://taras-borovets.medium.com/simulation-tools-for-boston-dynamics-spot-28a10d88e325
+- 11.LAMBDA：终极Excel工作表功能 - https://www.microsoft.com/en-us/research/blog/lambda-the-ultimatae-excel-worksheet-function/
+- 12.使用Go追踪城市的天气 - https://medium.com/ensias-it/tracking-the-weather-in-major-moroccan-cities-with-go-4907ffdc9c34
+- 13.hego: 性能卓越的几种元启发式算法（黑盒优化算法）的Go实现  - https://github.com/ccssmnn/hego
+
  go语言中文网(每日资讯)-2021-01-26
 # go-news-set-2021-01-26
 ## go语言中文网(每日资讯)-2021-01-26
