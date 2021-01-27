@@ -1,3 +1,50 @@
+ go语言中文网(每日资讯)-2021-01-27
+# go-news-set-2021-01-27
+## go语言中文网(每日资讯)-2021-01-27
+一、#公众号：Go语言中文网
+
+1. [米国的 EAR 是否会影响 Go？](https://mp.weixin.qq.com/s/N_T116afufWWJmja1Dmd2g)
+
+2. [项目实战：用 Go 创建一个简易负载均衡器](https://mp.weixin.qq.com/s/pe0CQa3tdrUmC86OSRBNeg)
+
+3. [分布式系统全局唯一ID生成器：Go 实现](https://mp.weixin.qq.com/s/FtLc9Y-pvTyw4iakfKDNNQ)
+
+二、#公众号：亚军进化史
+
+1. [Go技术日报(2021-01-26)](https://studygolang.com/topics/13034)
+
+三、#公众号：代码与远方
+
+1. [内存对齐 | 原来字段顺序还能影响结构体占用的内存空间](https://mp.weixin.qq.com/s/O8-WUQcGHXuAoKoOVY4L1w)
+
+四、#公众号： polarisxu 
+
+1. [百度终于重视码农了：专门为开发者准备的搜索](https://mp.weixin.qq.com/s/_zrLrVvDVzRYTz10oBb9xA)
+
+五、#公众号：Go招聘
+
+1. [听说阿里云被Go边缘化了，还不进来瞧瞧](https://mp.weixin.qq.com/s/scvgOa-CcF3is8a0kxJeBA)
+
+六、#公众号：码农桃花源
+
+1. [[译]提案：在Go语言中增加对持久化内存的支持](https://mp.weixin.qq.com/s/iXIf87-jjNrczai_bJXeGQ)
+
+七、#公众号：脑子进煎鱼了
+
+1. [人生关键角色转变：走向职场人](https://mp.weixin.qq.com/s/n_pXZv2mIPEnkM2k2g3z9A)
+
+八、#公众号：多颗糖
+
+1. [软件架构基础 5 架构特性实战: 订餐系统](https://mp.weixin.qq.com/s/ggbHDjCNZUiMINIDHZ1cvQ)
+
+九、#公众号：CloudNativeCommunity
+
+1. [网易开源 Slime：让 Istio 服务网格变得更加高效与智能](https://mp.weixin.qq.com/s/UK-9G-RhLokIGw2icZIxUg)
+
+十、#公众号：k8s技术圈
+
+1. [自动管理 Admission Webhook TLS 证书](https://mp.weixin.qq.com/s/C3GNoegG8o2j2iLX_pMPSQ)
+2. [如何编写一个 CSI 插件](https://mp.weixin.qq.com/s/mya3BfH9yIrkXrdXoSUIRQ)
  gocn_news-2021-01-27
 # go-news-set-2021-01-27
 ## gocn_news-2021-01-27
