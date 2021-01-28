@@ -1,3 +1,45 @@
+ go语言中文网(每日资讯)-2021-01-28
+# go-news-set-2021-01-28
+## go语言中文网(每日资讯)-2021-01-28
+一、#公众号：Go语言中文网
+
+1. [青岛竟然也招 Go，这待遇如何，能招到吗？](https://mp.weixin.qq.com/s/nMbUv9nG-FcGPUFcUgtzcw)
+
+2. [Go 官方 Slice 教程图解版](https://mp.weixin.qq.com/s/yPObPprVmjRoDvS2UF3Hpg)
+
+3. [Go更细粒度的读写锁设计](https://mp.weixin.qq.com/s/VEnL7oDM-SX29iVEK_CMig)
+
+二、#公众号：亚军进化史
+
+1. [Go技术日报(2021-01-27)](https://studygolang.com/topics/13042)
+
+三、#公众号：代码与远方
+
+1. [函数是一等公民，这到底在说什么？](https://mp.weixin.qq.com/s/VHtiQF_8Yh3OaB7yy2N0Pw)
+
+四、#公众号：polarisxu 
+
+1. [从网友对 MySQL 手册的一个疑问聊起](https://mp.weixin.qq.com/s/EwLTpzIbtRE3Mlt0OtRyVg)
+
+五、#公众号：k8s技术圈
+
+1. [18张图揭秘高性能Linux服务器内存池技术是如何实现的](https://mp.weixin.qq.com/s/YRppRaTtOI_sr0oKpi40yA)
+
+六、#公众号：Golang梦工厂
+
+1. [详解并发编程基础之原子操作(atomic包)](https://mp.weixin.qq.com/s/PQ06eL8kMWoGXodpnyjNcA)
+
+七、#公众号：CloudNativeCommunity
+
+1. [“寒武纪大爆发” 之后的云原生，2021 年走向何处？](https://mp.weixin.qq.com/s/XkE3nlp4naENRFSmyutErA)
+
+八、#公众号：网管叨bi叨
+
+1. [来了解一下K8S的Operator模式](https://mp.weixin.qq.com/s/r2sxN4lEHwYNJCGeN8Pukw)
+
+九、#公众号：Golang语言开发栈
+
+1. [Golang 语言的标准库 log 包怎么使用？](https://mp.weixin.qq.com/s/_R-xcuyHOc_iCx2Bd_pA5w)
  gocn_news-2021-01-28
 # go-news-set-2021-01-28
 ## gocn_news-2021-01-28
