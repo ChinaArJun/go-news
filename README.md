@@ -1,3 +1,17 @@
+ gocn_news-2021-01-28
+# go-news-set-2021-01-28
+## gocn_news-2021-01-28
+- 1.在 Go 1.16 版本使用 Embed https://lakefs.io/working-with-embed-in-go/
+
+- 2.Go 实现的基于分布式块的视频代码转换器 https://github.com/bkenio/tidal
+
+- 3.大型本地数据中心网络启动服务器 https://github.com/cybozu-go/sabakan
+
+- 4.Go 垃圾邮件检测库 https://github.com/irevenko/spamchk
+
+- 5.Golang 语言的标准库 log 包怎么使用 https://mp.weixin.qq.com/s/_R-xcuyHOc_iCx2Bd_pA5w
+
+
  go语言中文网(每日资讯)-2021-01-27
 # go-news-set-2021-01-27
 ## go语言中文网(每日资讯)-2021-01-27
