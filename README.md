@@ -1,3 +1,45 @@
+ go语言中文网(每日资讯)-2021-01-29
+# go-news-set-2021-01-29
+## go语言中文网(每日资讯)-2021-01-29
+一、#公众号：Go语言中文网
+
+1. [2020年Go语言盘点：新冠大流行阻挡不了Go演进的步伐](https://mp.weixin.qq.com/s/HeMzxOUl96VPul1tpccYeQ)
+
+2. [Go 语言实现的标准化的云原生平台构建引擎：KubeVela](https://mp.weixin.qq.com/s/phckhi1kmVUUnF-bo8ha7A)
+
+3. [提案：在Go语言中增加对持久化内存的支持](https://mp.weixin.qq.com/s/SWbgYJPfOf2_Fbl7TAFaYw)
+
+二、#公众号：亚军进化史
+
+1. [Go技术日报(2021-01-28)](https://studygolang.com/topics/13047)
+
+三、#公众号：代码与远方
+
+1. [来了解一下 Kubernetes 的 Operator 模式](https://mp.weixin.qq.com/s/tPWmnDdm7uCrRvmB2XUy0g)
+
+四、#公众号：Go招聘
+
+1. [推荐一个阿里 Go 实习岗：别错过跟着大牛提升的机会](https://mp.weixin.qq.com/s/VoFsMw2xlmXJ3DnlDQcG3g)
+
+五、#公众号：Golang技术分享
+
+1. [append扩容机制](https://mp.weixin.qq.com/s/ZVIsw1X9BJV1dgpesD3g0w)
+
+六、#公众号：Golang梦工厂
+
+1. [详解并发编程之sync.Once的实现(附上三道面试题)](https://mp.weixin.qq.com/s/gT9bNsNhU189PsURJyzsmQ)
+
+七、#公众号：码农桃花源
+
+1. [事故现场之依赖了不该依赖的 host ip](https://mp.weixin.qq.com/s/8p_17yym6KJlWGRg1nThHA)
+
+八、#公众号：微服务实践
+
+1. [Go夜读年度最佳技术分享视频](https://mp.weixin.qq.com/s/Kux278HF8Gu3cNH1XzSOQA)
+
+九、#公众号：Golang语言开发栈
+
+1. [Golang 语言三方库 lumberjack 日志切割组件怎么使用？](https://mp.weixin.qq.com/s/gGnovwzS1ucW3Afxcytp_Q)
  gocn_news-2021-01-29
 # go-news-set-2021-01-29
 ## gocn_news-2021-01-29
