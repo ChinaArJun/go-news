@@ -1,3 +1,17 @@
+ gocn_news-2021-01-29
+# go-news-set-2021-01-29
+## gocn_news-2021-01-29
+- 1.Go 1.16 rc1 released https://groups.google.com/g/golang-announce/c/U_FUHY4wuSc/m/3_Vw3oqpAgAJ?pli=1
+
+- 2.一文吃透 Go 语言解密之上下文 context https://mp.weixin.qq.com/s/A03G3_kCvVFN3TxB-92GVw
+
+- 3.分布式延时任务调度系统设计与 golang 实现 https://mp.weixin.qq.com/s/bDb1xY2CFT0bIgOUWpoROA
+
+- 4.Go 精妙的互斥锁设计 https://mp.weixin.qq.com/s/j0NCgrU6M8ps0zIOkOT3FQ
+
+- 5.如何将 Containerd 用作 Kubernetes runtime https://www.upyun.com/tech/article/611/1.html
+
+
  go语言中文网(每日资讯)-2021-01-28
 # go-news-set-2021-01-28
 ## go语言中文网(每日资讯)-2021-01-28
