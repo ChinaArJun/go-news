@@ -1,3 +1,16 @@
+ gocn_news-2021-01-30
+# go-news-set-2021-01-30
+## gocn_news-2021-01-30
+- 1.Go JWT 实战 https://webdevstation.com/posts/user-authentication-with-go-using-jwt-token/
+
+- 2.详解 Go 中内存分配源码实现 https://www.cnblogs.com/luozhiyun/p/14349331.html
+
+- 3.将 Go 对象暴露给 C 引用 https://tinyzimmer.github.io/posts/exporting-gobject-from-go/ 
+- 4.使用 multipart/form-data 实现文件的上传与下载 https://tonybai.com/2021/01/16/upload-and-download-file-using-multipart-form-over-http/
+
+- 5.Go 中使用 JSON 时,如何区分空字段和未设置字段 https://segmentfault.com/a/1190000039110327
+
+
  gopherDaily-2021-01-30
 # go-news-set-2021-01-30
 ## gopherDaily-2021-01-30
