@@ -1,3 +1,41 @@
+ go语言中文网(每日资讯)-2021-01-30
+# go-news-set-2021-01-30
+## go语言中文网(每日资讯)-2021-01-30
+一、#公众号：Go语言中文网
+
+1. [答读者问：为什么 Go 里面不能把任意切片转换为 []interface{} ？](https://mp.weixin.qq.com/s/ZX1UiyNhTUrc_3tvimxVCQ)
+
+2. [实战：150行Go实现高性能加密隧道](https://mp.weixin.qq.com/s/S2t-EQKxp6gFjIEAum_1tg)
+
+3. [Go 每日一库之完整配置解决方案：viper 源码分析](https://mp.weixin.qq.com/s/xEaLW1LqcmOxgsMzE4z6gw)
+
+二、#公众号：亚军进化史
+
+1. [Go技术日报(2021-01-29)](https://studygolang.com/topics/13055)
+
+三、#公众号：代码与远方
+
+1. [Kubernetes 最佳安全实践指南](https://mp.weixin.qq.com/s/o-RniCOVRhdOFiyG77PLEA)
+
+四、#公众号：k8s技术圈
+
+1. [我到底应该使用哪个 CRI 替换 kubernetes 集群的 Docker?](https://mp.weixin.qq.com/s/H3vUUvEiOfLkd_YEoo8sNg)
+
+五、#公众号：后端早读课
+
+1. [图解 LRU LFU ARC FIFO 缓存淘汰算法](https://mp.weixin.qq.com/s/IDjtwL1iKNbjfW1N4xgEIQ)
+
+六、#公众号：Go招聘
+
+1. [小鱼儿给土拨鼠送苹果，要还是不要？](https://mp.weixin.qq.com/s/RtVG8UMSRwsiNcPUsySY3g)
+
+七、mohuishou
+
+1. [Week04: Go工程化(一) 架构整洁之道阅读笔记](https://lailin.xyz/post/go-training-week4-clean-arch.html) 
+
+八、Awesome Go
+
+1. [Issue 245 - Working with Embed in Go 1.16 Version](https://go.libhunt.com/newsletter/245)
  gocn_news-2021-01-30
 # go-news-set-2021-01-30
 ## gocn_news-2021-01-30
