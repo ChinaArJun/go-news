@@ -1,3 +1,29 @@
+ go语言中文网(每日资讯)-2021-01-31
+# go-news-set-2021-01-31
+## go语言中文网(每日资讯)-2021-01-31
+一、#公众号：Go语言中文网
+
+1. [Go语言爱好者周刊：第 80 期 — 认真思考下为什么？](https://mp.weixin.qq.com/s/QlOaiA2AO_BmW0vRzNcsCQ)
+
+2. [Go 中的函数是一等公民，这到底在说什么？](https://mp.weixin.qq.com/s/j2nSJMEMKBbWdVwIIDZsqw)
+
+3. [漫画 | 花了七天时间测试，我彻底搞明白了 TCP 的这些内存开销!](https://mp.weixin.qq.com/s/RyV2jmg-cvo2Hxilzr-1mg)
+
+二、#公众号：亚军进化史
+
+1. [Go技术日报(2021-01-30)——Go工程化(一) 架构整洁之道阅读笔记](https://studygolang.com/topics/13058)
+
+三、#公众号：代码与远方
+
+1. [带你深入理解内存对齐最底层原理](https://mp.weixin.qq.com/s/1UOIrBs-KXr9VAAPx32X0Q)
+
+四、#公众号：吴亲强的深夜食堂
+
+1. [Go每周一刷第四周](https://mp.weixin.qq.com/s/M436y_I6x47_7MJwZ8z8NA)
+
+五、#公众号：五分选手
+
+1. [如何设计并实现一个线程安全的 Map ？(上篇)](https://mp.weixin.qq.com/s/bbdFo5q4xRXzHRM_Rg7IJQ)
  gocn_news-2021-01-31
 # go-news-set-2021-01-31
 ## gocn_news-2021-01-31
