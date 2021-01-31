@@ -1,3 +1,17 @@
+ gocn_news-2021-01-31
+# go-news-set-2021-01-31
+## gocn_news-2021-01-31
+- 1.Go 1.16 的两个实用更新 https://benhoyt.com/writings/go-readdir/
+
+- 2.拥抱 Go 类型系统 https://www.gopherguides.com/articles/embracing-the-go-type-system
+
+- 3.可视化 Go 程序性能数据 https://nakabonne.dev/posts/gosivy/
+
+- 4.不要给 Go 代码使用 LGPL https://www.makeworld.gq/2021/01/lgpl_go.html
+
+- 5.数据库是如何使用 mmap 的 https://brunocalza.me/but-how-exactly-databases-use-mmap/
+
+
  go语言中文网(每日资讯)-2021-01-30
 # go-news-set-2021-01-30
 ## go语言中文网(每日资讯)-2021-01-30
