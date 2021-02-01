@@ -1,3 +1,49 @@
+ go语言中文网(每日资讯)-2021-02-01
+# go-news-set-2021-02-01
+## go语言中文网(每日资讯)-2021-02-01
+一、#公众号：Go语言中文网
+
+1. [用 Go 如何实现精准统计文章字数](https://mp.weixin.qq.com/s/OyulsHXJj-UCBY2pwWSNZA)
+
+2. [golang面试题：对已经关闭的的chan进行读写，会怎么样？为什么？](https://mp.weixin.qq.com/s/VFwQ_sgC9wr_TZRRQFhSJw)
+
+3. [觉得WaitGroup不好用？试试ErrorGroup吧！](https://mp.weixin.qq.com/s/077qtC19cRMmaKWVL0qqaQ)
+
+二、#公众号：亚军进化史
+
+1. [Go技术日报(2021-01-31)——构建微服务的十大Go框架和库](https://studygolang.com/topics/13062)
+
+三、#公众号：代码与远方
+
+1. [听说你只知内存，而不知缓存？CPU表示很伤心！](https://mp.weixin.qq.com/s/ppxhqvXCRNLGvBmtrLE7hg)
+
+四、#公众号：新亮笔记
+
+1. [Go - 实现项目内链路追踪](https://mp.weixin.qq.com/s/IGYiCWvrHZUKRS2V__9R_A)
+
+五、#公众号：Golang梦工厂
+
+1. [Go看源码必会知识之unsafe包](https://mp.weixin.qq.com/s/nPWvqaQiQ6Z0TaPoqg3t2Q)
+
+六、#公众号：技术岁月
+
+1. [智能风控决策引擎系统架构设计与开发实践](https://mp.weixin.qq.com/s/Ev0YfecsIaIZ8AL48XjfKg)
+
+七、#公众号：脑子进煎鱼了
+
+1. [Go1.16 即将正式发布，以下变更你需要知道](https://mp.weixin.qq.com/s/B3o_1SYaEEYKjrdIdkD5YA)
+
+八、#公众号：新世界杂货铺
+
+1. [1分钟内的Linux性能分析法](https://mp.weixin.qq.com/s/zjTfFxT5xqir_YdpCUlPJA)
+
+九、#公众号：wegoer
+
+1. [深度解析Sentinel Go 滑动窗口统计结构的设计](https://mp.weixin.qq.com/s/ax1lEicUDysFgcRgsou2Bg)
+
+十、#公众号：CloudNativeCommunity
+
+1. [eBay 基于 Istio 的统一流量管理实践](https://mp.weixin.qq.com/s/lruZzIr5T6bHwMAe8lDvZQ)
  gocn_news-2021-02-01
 # go-news-set-2021-02-01
 ## gocn_news-2021-02-01
