@@ -1,3 +1,17 @@
+ gocn_news-2021-02-01
+# go-news-set-2021-02-01
+## gocn_news-2021-02-01
+- 1.永远不要在不知道如何停止的情况下启动一个 goroutine https://www.cyningsun.com/01-31-2021/go-concurrency-goroutine-exit.html
+
+- 2.Go 看源码必会知识之 unsafe 包 https://mp.weixin.qq.com/s/nPWvqaQiQ6Z0TaPoqg3t2Q
+
+- 3.分布式任务调度系统之任务编排及工作流实现原理与 golang 实践 https://mp.weixin.qq.com/s/1epE7Ls1yyqRiKnopAzugA
+
+- 4.详解并发编程基础之原子操作 (atomic 包) https://mp.weixin.qq.com/s/PQ06eL8kMWoGXodpnyjNcA
+
+- 5.来了解一下 K8S 的 Operator 模式 https://mp.weixin.qq.com/s/r2sxN4lEHwYNJCGeN8Pukw
+
+
  go语言中文网(每日资讯)-2021-01-31
 # go-news-set-2021-01-31
 ## go语言中文网(每日资讯)-2021-01-31
