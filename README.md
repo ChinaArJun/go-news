@@ -1,3 +1,49 @@
+ go语言中文网(每日资讯)-2021-02-02
+# go-news-set-2021-02-02
+## go语言中文网(每日资讯)-2021-02-02
+一、#公众号：Go语言中文网
+
+1. [苦于没有 Go 实战项目？也许本文的一些想法可以试试](https://mp.weixin.qq.com/s/iAPe91YZEhVQZJ3QupDGFw)
+
+2. [Go - 实现项目内链路追踪](https://mp.weixin.qq.com/s/jzuKFYAy9jLBY_Vr5XuZUQ)
+
+3. [一文带你解密 Go 语言之通道 channel](https://mp.weixin.qq.com/s/Ih4FOi4hx4GgS8Pq7bjRJA)
+
+二、#公众号：亚军进化史
+
+1. [Go技术日报(2021-02-01)—— Go1.16 即将正式发布，以下变更你需要知道](https://studygolang.com/topics/13068)
+
+三、#公众号：代码与远方
+
+1. [虚机软中断竟然是可一个CPU使劲造？](https://mp.weixin.qq.com/s/QnoHc0kuU8h5wQKZNCb_-A)
+
+四、#公众号：k8s技术圈
+
+1. [面向 Kubernetes 开发者的设置指南](https://mp.weixin.qq.com/s/RjkZj9cI_2qigC4s_2YcOQ)
+
+五、#公众号：CloudNativeCommunity
+
+1. [网易轻舟如何基于 Istio 实现微服务架构演进](https://mp.weixin.qq.com/s/XOY8VK09Q_QrhoL42WL5VQ)
+
+六、#公众号：多颗糖
+
+1. [条分缕析 Raft 算法](https://mp.weixin.qq.com/s/lUbVBVzvNVxhgbcHQBbkkQ)
+
+七、#公众号：脑子进煎鱼了
+
+1. [Go1.16 新特性：一文快速上手 Go embed](https://mp.weixin.qq.com/s/aBPrBHl9BpbvbJyatB3Vww)
+
+八、#公众号：Go招聘
+
+1. [腾讯云存储/NoSQL 招聘 Go：腾讯喜欢开源作者](https://mp.weixin.qq.com/s/1b_c_HMecePUkf_OZ3jviw)
+
+九、#公众号：Golang技术分享
+
+1. [一个容易让gopher理解不当的小细节](https://mp.weixin.qq.com/s/nPq8dF1WU1hyacpPZHLpLQ)
+
+十、#公众号：奇伢云存储
+
+1. [深入剖析 defer 原理篇 —— 函数调用的原理？](https://mp.weixin.qq.com/s/Y-gqH7ya5s4vfFQ5PY0qFw)
  gocn_news-2021-02-02
 # go-news-set-2021-02-02
 ## gocn_news-2021-02-02
