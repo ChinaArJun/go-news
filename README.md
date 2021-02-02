@@ -1,3 +1,17 @@
+ gocn_news-2021-02-02
+# go-news-set-2021-02-02
+## gocn_news-2021-02-02
+- 1.在 VS Code Go 扩展中默认启用 Gopls https://blog.golang.org/gopls-vscode-go
+
+- 2.一个摄像头多条流 https://medium.com/an-idea/there-can-be-only-one-one-camera-multiple-streams-7a1142a35905
+
+- 3.Rust FFI 和 Go FFI（cgo）对比 https://wutch.medium.com/rust-ffi-vs-golang-ffi-cgo-59e6ea3a83c6
+
+- 4.Go - 实现项目内链路追踪 https://segmentfault.com/a/1190000039146970
+
+- 5.node-fluent-ffmpeg Go 语言版本 https://github.com/modfy/go-fluent-ffmpeg
+
+
  go语言中文网(每日资讯)-2021-02-01
 # go-news-set-2021-02-01
 ## go语言中文网(每日资讯)-2021-02-01
