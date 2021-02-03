@@ -1,3 +1,45 @@
+ go语言中文网(每日资讯)-2021-02-03
+# go-news-set-2021-02-03
+## go语言中文网(每日资讯)-2021-02-03
+一、#公众号：Go语言中文网
+
+1. [图解 Go GOMAXPROCS 和实时更新](https://mp.weixin.qq.com/s/Zqh6eFRo5TU01kQg35Hbdw)
+
+2. [在校生的万字长文：gRPC 实操指南（golang）](https://mp.weixin.qq.com/s/ZUQQEn4SVLYcIdbW-6YFZQ)
+
+3. [Go 中使用 JSON 时，如何区分空字段和未设置字段](https://mp.weixin.qq.com/s/OGIAUkRvwkMYI3jGipzLPA)
+
+二、#公众号：亚军进化史
+
+1. [Go技术日报(2021-02-02)——Go1.16 新特性：一文快速上手 Go embed](https://studygolang.com/topics/13073)
+
+三、The Go Blog
+
+1. [Gopls on by default in the VS Code Go extension](https://blog.golang.org/gopls-vscode-go)
+
+四、#公众号：k8s技术圈
+
+1. [在 Kubernetes 上手动部署 Prometheus](https://mp.weixin.qq.com/s/Uv1imI8m_-parJabOknxaA)
+
+五、#公众号：CloudNativeCommunity
+
+1. [网易轻舟如何基于 Istio 实现微服务架构演进](https://mp.weixin.qq.com/s/XOY8VK09Q_QrhoL42WL5VQ)
+
+六、#公众号：微服务实践
+
+1. [go-zero解读与最佳实践（上）](https://mp.weixin.qq.com/s/WZPxxtH3N5r-fktZ2XRN3w)
+
+七、#公众号：网管叨bi叨
+
+1. [内联函数和编译器对Go代码的优化](https://mp.weixin.qq.com/s/Or4FmVAf9nvMQzPct87Ecw)
+
+八、#公众号：polarisxu
+
+1. [Go 开发者 Top 6 IDE：你知道几个，又用哪个？](https://mp.weixin.qq.com/s/-z3jyFpsHh67MfPc4V9QWQ)
+
+九 、#公众号：Golang语言开发栈 
+
+1. [Golang 语言标准库 bytes 包怎么使用？](https://mp.weixin.qq.com/s/EP-QmnwJVWVmpTbPfUnJ2g)
  gocn_news-2021-02-03
 # go-news-set-2021-02-03
 ## gocn_news-2021-02-03
