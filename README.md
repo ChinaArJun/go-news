@@ -1,3 +1,17 @@
+ gocn_news-2021-02-04
+# go-news-set-2021-02-04
+## gocn_news-2021-02-04
+- 1.内联函数和编译器对 Go 代码的优化 https://juejin.cn/post/6924888439577903117
+
+- 2.图解 Go GOMAXPROCS 和实时更新 https://mp.weixin.qq.com/s/Zqh6eFRo5TU01kQg35Hbdw
+
+- 3.如何在 Go 中编写无错误的 Goroutine https://itnext.io/how-to-write-bug-free-goroutines-in-go-golang-59042b1b63fb
+
+- 4.Go 构建和链接器的时间表 https://medium.com/a-journey-with-go/go-builds-linkers-timeline-b312084ddf7d
+
+- 5.Go 中的测试模式 https://eric-fritz.com/articles/testing-patterns-in-go/
+
+
  go语言中文网(每日资讯)-2021-02-03
 # go-news-set-2021-02-03
 ## go语言中文网(每日资讯)-2021-02-03
