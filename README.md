@@ -1,3 +1,37 @@
+ go语言中文网(每日资讯)-2021-02-04
+# go-news-set-2021-02-04
+## go语言中文网(每日资讯)-2021-02-04
+一、#公众号：Go语言中文网
+
+1. [一文详解如何在调试过程中查找 Goroutine](https://mp.weixin.qq.com/s/3dKlH8tfopLYYGdUW8lN_A)
+
+2. [一个有意思的 Gopher](https://mp.weixin.qq.com/s/LQ57M_VxcbsHFY-RCirHLw)
+
+3. [Go指针的使用限制和突破之路](https://mp.weixin.qq.com/s/sycCiquVvW6_0Z0tWf1PeA)
+
+二、#公众号：亚军进化史
+
+1. [Go技术日报(2021-02-03)——Go 开发者 Top 6 IDE：你知道几个，又用哪个？](https://studygolang.com/topics/13078)
+
+三、#公众号：polarisxu
+
+1. [怎么知道某个 API 是在哪个 Go 版本添加的？这个功能如何实现的](https://mp.weixin.qq.com/s/kbIhf3MRphlT_YxrSMKE6g)
+
+四、#公众号：k8s技术圈
+
+1. [Kubernetes 部署 MySQL 主从服务](https://mp.weixin.qq.com/s/Uv1imI8m_-parJabOknxaA)
+
+五、#公众号：CloudNativeCommunity
+
+1. [服务网格比较：Istio vs Linkerd](https://mp.weixin.qq.com/s/l1-6jxk_fUH4Inqwx-0p8g)
+
+六、#公众号：码农桃花源
+
+1. [Go channel 的妙用](https://mp.weixin.qq.com/s/jAUfqu-5nbs8hcua_F7ueQ)
+
+七、#公众号：Go招聘
+
+1. [百度个人云 Go 职位面试，看考察了什么内容？](https://mp.weixin.qq.com/s/X7l3ny96pFNtbKcXovoI2w)
  gocn_news-2021-02-04
 # go-news-set-2021-02-04
 ## gocn_news-2021-02-04
