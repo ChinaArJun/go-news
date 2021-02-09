@@ -1,3 +1,17 @@
+ gocn_news-2021-02-09
+# go-news-set-2021-02-09
+## gocn_news-2021-02-09
+- 1.bilibili 基于 golang 的规则引擎 https://xie.infoq.cn/article/40bfff1fbca1867991a1453ac
+
+- 2.2021 Go 趋势报告 https://gocn.vip/topics/11650
+
+- 3.Go 语言命令行执行路径的安全性 https://gocn.vip/topics/11648
+
+- 4.手撸 golang 行为型设计模式 状态模式 https://my.oschina.net/ioly/blog/4951438
+
+- 5.为什么 OLAP 需要列式存储 https://mp.weixin.qq.com/s/bIU8Jm0U9EBJckQHk6mcuQ
+
+
  go语言中文网(每日资讯)-2021-02-09
 # go-news-set-2021-02-09
 ## go语言中文网(每日资讯)-2021-02-09
@@ -32,35 +46,6 @@
 七、#公众号： 爱因诗贤 
 
 1. [MySQL学习笔记-日志和索引相关问题小结](https://mp.weixin.qq.com/s/0jGMFxQy5ZQJ0xFZpNZ5aw)
- gocn_news-2021-02-09
-# go-news-set-2021-02-09
-## gocn_news-2021-02-09
-- 1.bilibili 基于 golang 的规则引擎 https://xie.infoq.cn/article/40bfff1fbca1867991a1453ac
-
-- 2.2021 Go 趋势报告 https://gocn.vip/topics/11650
-
-- 3.Go 语言命令行执行路径的安全性 https://gocn.vip/topics/11648
-
-- 4.手撸 golang 行为型设计模式 状态模式 https://my.oschina.net/ioly/blog/4951438
-
-- 5.为什么 OLAP 需要列式存储 https://mp.weixin.qq.com/s/bIU8Jm0U9EBJckQHk6mcuQ
-
-
- gopherDaily-2021-02-09
-# go-news-set-2021-02-09
-## gopherDaily-2021-02-09
-- 1.使用Go重新实现AlphaGo(AlphaZero) - https://github.com/gorgonia/agogo
-- 2.go-ipfs和go-libp2p维护者的开源项目贡献和维护经验之谈 - https://stebalien.com/blog/letters-from-a-maintainer/
-- 3.初学者应该在2021年学习Go的7个关键原因 - https://qvault.io/2021/02/08/why-learn-golang-in-2021/
-- 4.一个不错的Go博客 - https://gochronicles.com/
-- 5.Go TDD的反模式 - https://quii.gitbook.io/learn-go-with-tests/meta/anti-patterns
-- 6.使用Go实现端点威胁检测和响应工具系列 - https://codeyourweb.medium.com/golang-for-computer-security-building-an-edr-part1-processes-memory-35e2fec36454
-- 7.面向比特币SV开发人员的Go代码库的集合 - https://gobitcoinsv.com/
-- 8.Mat Ryer 重启bitbar开发，这次用Go - https://github.com/matryer/bitbar/issues/607
-- 9.Rust语言基金会成立！- https://foundation.rust-lang.org/posts/2021-02-08-hello-world/ Google加入 - https://opensource.googleblog.com/2021/02/google-joins-rust-foundation.html
-- 10.揭秘 Consul Streaming - https://medium.com/criteo-engineering/consul-streaming-whats-behind-it-6f44f77a5175
-- 11.notify: 一个简单、用于将通知发送到各种消息服务(支持mail,slack,microsoft team等)的Go库 - https://github.com/nikoksr/notify
-
  go语言中文网(每日资讯)-2021-02-08
 # go-news-set-2021-02-08
 ## go语言中文网(每日资讯)-2021-02-08
