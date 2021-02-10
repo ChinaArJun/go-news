@@ -1,3 +1,39 @@
+ go语言中文网(每日资讯)-2021-02-10
+# go-news-set-2021-02-10
+## go语言中文网(每日资讯)-2021-02-10
+一、#公众号：Go语言中文网
+
+1. [除夕夜 Go 爱好者线上聚会，就差你！](https://mp.weixin.qq.com/s/AWztZA6KoC2cfVBPxuslPg)
+
+2. [Dave 大神解释 Go 1.14 中接口的菱形组合](https://mp.weixin.qq.com/s/nPYfxCV0E2u42S9BlObp9Q)
+
+3. [Go - 实现项目内链路追踪(二)](https://mp.weixin.qq.com/s/_NTvKmlBd37z5lfW_rDx1g)
+
+二、#公众号：亚军进化史
+
+1. [Go技术日报(2021-02-09)——Rust语言基金会成立Google加入](https://studygolang.com/topics/13109)
+
+三、#公众号：MoeLove
+
+1. [写给小白的 kubectl 入门](https://mp.weixin.qq.com/s/7zHxV8j5tKy5M8O2-ZM48A)
+
+四、#公众号：学而思网校技术团队
+
+1. [学而思网校技术团队年度合辑|热门文章尽收眼底](https://mp.weixin.qq.com/s/Ct1UpNK6YxF2jJFPCrGJjQ)
+
+五、#公众号：k8s技术圈
+
+1. [一文搞定快速使用 Docker Compose 玩转 Traefik v2](https://mp.weixin.qq.com/s/7vBneUW2tM8s0D4dTwk5yA)
+
+六、#公众号：Gol招聘
+
+1. [加入米哈游，技术宅拯救世界](https://mp.weixin.qq.com/s/vQK4NE1v0nbqswrMDpfefQ)
+
+2. [Gopher牛年晚会来啦](https://mp.weixin.qq.com/s/JukOoQ4i286w2SKFc-EwOQ)
+
+七、#公众号：Kirito的技术分享
+
+1. [聊聊中间件开发](https://mp.weixin.qq.com/s/7uhs2Rv3tSv20C1woVCY4g)
  gocn_news-2021-02-10
 # go-news-set-2021-02-10
 ## gocn_news-2021-02-10
