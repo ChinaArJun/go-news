@@ -1,3 +1,34 @@
+ gocn_news-2021-02-10
+# go-news-set-2021-02-10
+## gocn_news-2021-02-10
+- 1.Go 1.16 即将到来的函数：ReadDir 和 DirEntry https://mp.weixin.qq.com/s/fUizpO3brKPkd2dRrOJI0A
+
+- 2.Go 中进行阻塞分析 https://github.com/felixge/go-profiler-notes/blob/main/block.md
+
+- 3.基于设计的仓库安全开发 https://threedots.tech/post/repository-secure-by-design/
+
+- 4.tcpdog: 基于 eBPF 的 TCP 观测 https://github.com/mehrdadrad/tcpdog
+
+- 5.Go 中使用 RabbitMQ 客户端 https://qvault.io/2020/04/29/connecting-to-rabbitmq-in-golang/
+
+
+ gopherDaily-2021-02-10
+# go-news-set-2021-02-10
+## gopherDaily-2021-02-10
+- 1.详解Go锁剖析(block profiling) - https://github.com/felixge/go-profiler-notes/blob/main/block.md
+- 2.体验新泛型语法 - https://kylelemons.net/blog/2020/06/17/generics-test-drive/
+- 3.使用Go构建hotwire应用(区别于Client Side Rendering，介于CSR和Servier Side Rendering之间) - https://www.akmittal.dev/posts/hotwire-go/
+- 4.下一代函数调度程序Reactr，可嵌入Go应用程序中或作为独立的FaaS服务器运行，支持Go和WebAssembly - https://blog.suborbital.dev/introducing-reactr-the-next-generation-function-scheduler
+- 5.聊聊使用Go开发区块链 - https://www.welcometothejungle.com/en/articles/btc-interview-go-blockchain-golang
+- 6.如何向Go结构动态注入依赖 - https://itnext.io/golang-runtime-service-options-dependencies-1c23b4ed95ae
+- 7.使用Bazel轻松编写模糊测试 - https://opensource.googleblog.com/2021/02/writing-fuzz-tests-with-ease-using-bazel.html
+- 8.Open Policy Agent从CNCF毕业 - https://blog.openpolicyagent.org/open-policy-agent-graduates-in-the-cloud-native-computing-foundation-f00145202a99
+- 9.go-json: 高性能且兼容encoding/json的json编解码库 - https://github.com/goccy/go-json
+- 10.使用go webassembly扩展envoy proxy -  https://tufin.medium.com/extending-envoy-proxy-with-golang-webassembly-e51202809ba6
+- 11.tcpdog: 基于eBPF的TCP观察工具 - https://github.com/mehrdadrad/tcpdog
+- 12.通过设计确保存储库的安全：如何更好地睡眠而不担心安全漏洞 - https://threedots.tech/post/repository-secure-by-design/
+- 13.零依赖的终极fake数据生成器(for go) - https://github.com/jaswdr/faker
+
  gocn_news-2021-02-09
 # go-news-set-2021-02-09
 ## gocn_news-2021-02-09
@@ -46,6 +77,21 @@
 七、#公众号： 爱因诗贤 
 
 1. [MySQL学习笔记-日志和索引相关问题小结](https://mp.weixin.qq.com/s/0jGMFxQy5ZQJ0xFZpNZ5aw)
+ gopherDaily-2021-02-09
+# go-news-set-2021-02-09
+## gopherDaily-2021-02-09
+- 1.使用Go重新实现AlphaGo(AlphaZero) - https://github.com/gorgonia/agogo
+- 2.go-ipfs和go-libp2p维护者的开源项目贡献和维护经验之谈 - https://stebalien.com/blog/letters-from-a-maintainer/
+- 3.初学者应该在2021年学习Go的7个关键原因 - https://qvault.io/2021/02/08/why-learn-golang-in-2021/
+- 4.一个不错的Go博客 - https://gochronicles.com/
+- 5.Go TDD的反模式 - https://quii.gitbook.io/learn-go-with-tests/meta/anti-patterns
+- 6.使用Go实现端点威胁检测和响应工具系列 - https://codeyourweb.medium.com/golang-for-computer-security-building-an-edr-part1-processes-memory-35e2fec36454
+- 7.面向比特币SV开发人员的Go代码库的集合 - https://gobitcoinsv.com/
+- 8.Mat Ryer 重启bitbar开发，这次用Go - https://github.com/matryer/bitbar/issues/607
+- 9.Rust语言基金会成立！- https://foundation.rust-lang.org/posts/2021-02-08-hello-world/ Google加入 - https://opensource.googleblog.com/2021/02/google-joins-rust-foundation.html
+- 10.揭秘 Consul Streaming - https://medium.com/criteo-engineering/consul-streaming-whats-behind-it-6f44f77a5175
+- 11.notify: 一个简单、用于将通知发送到各种消息服务(支持mail,slack,microsoft team等)的Go库 - https://github.com/nikoksr/notify
+
  go语言中文网(每日资讯)-2021-02-08
 # go-news-set-2021-02-08
 ## go语言中文网(每日资讯)-2021-02-08
