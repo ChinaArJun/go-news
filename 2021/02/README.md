@@ -1,3 +1,32 @@
+ gocn_news-2021-02-11
+# go-news-set-2021-02-11
+## gocn_news-2021-02-11
+- 1.Go 泛型方案被接受 https://github.com/golang/go/issues/43651#issuecomment-776944155
+
+- 2.分布式事务框架 seata-golang 接入指南 https://mp.weixin.qq.com/s/cwkfYA2rgNIbHom5Yoeizg
+
+- 3.Go 与 Swift 对比 https://techbiason.com/go-vs-swift/
+
+- 4.为什么 Go 编译这么快 https://devrajcoder.medium.com/why-go-compiles-so-fast-772435b6bd86
+
+- 5.手撸 golang 行为型设计模式 中介者模式 https://segmentfault.com/a/1190000039202770
+
+
+ gopherDaily-2021-02-11
+# go-news-set-2021-02-11
+## gopherDaily-2021-02-11
+- 1.Go泛型提案被Accept！- https://github.com/golang/go/issues/43651#issuecomment-776944155
+- 2.为什么Go编译速度这么快 - https://devrajcoder.medium.com/why-go-compiles-so-fast-772435b6bd86
+- 3.使用28行代码手写实现互斥锁 - https://medium.com/@cheshirysh/handmade-mutex-in-28-lines-of-go-205ff5b13dbc
+- 4.使用D3js和Go实现时间线chart - https://itnext.io/how-to-create-d3js-v6-timeline-1a32e586fe56
+- 5.Go实现的网络包嗅探工具 - https://github.com/pwdz/WirePenguin
+- 6.logit: 将json格式的log聚合存储 - https://github.com/life4/logit
+- 7.播客：故意破坏事情| Google产品与策略主管、Hugo之父Steve Francia专访 - https://www.gremlin.com/blog/podcast-break-things-on-purpose-steve-francia-product-and-strategy-lead-at-google/
+- 8.Go functional option惯用法的原理 - https://www.youtube.com/watch?v=SPcO06ZxkGU&feature=youtu.be
+- 9.经典旧文：分布式系统的模式 - https://martinfowler.com/articles/patterns-of-distributed-systems/
+- 10.经典旧文系列：Khan Academy向Go迁移的故事 - https://blog.khanacademy.org/go-services-one-goliath-project/
+- 11.Go与swift深度对比 -  https://techbiason.com/go-vs-swift/
+
  go语言中文网(每日资讯)-2021-02-10
 # go-news-set-2021-02-10
 ## go语言中文网(每日资讯)-2021-02-10
