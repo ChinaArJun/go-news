@@ -1,3 +1,27 @@
+ go语言中文网(每日资讯)-2021-02-11
+# go-news-set-2021-02-11
+## go语言中文网(每日资讯)-2021-02-11
+一、#公众号：Go语言中文网
+
+1. [为 Go 打造一个原生 GUI 程序是一种什么体验？](https://mp.weixin.qq.com/s/t7WU7Zg4u2dhlb6S3yRjVA)
+
+2. [除夕快乐！别忘了今晚的 Gopher 晚会直播](https://mp.weixin.qq.com/s/-Xifq5sBQ9bNm9iipbWmQw)
+
+3. [Golang WaitGroup 原理深度剖析](https://mp.weixin.qq.com/s/CkSd2aldYaoLbd-IKhkpWg)
+
+二、#公众号：亚军进化史
+
+1. [Go技术日报(2021-02-10)——除夕夜 Go 爱好者线上聚会，就差你!](https://studygolang.com/topics/13116)
+
+三、#公众号：Go 夜读
+
+1. [Go泛型方案已被采纳](https://mp.weixin.qq.com/s/23uc_RzFfKNJX8kCpITuRw)
+
+四、Gopher春晚
+
+1. Gopher 春晚B站直播地址：https://live.bilibili.com/21343173
+2. Gopher 春晚抽奖关注视频号：Go语言中文网
+3. 祝大家新年快乐，关注 #公众号：Go招聘 回复2021加油 前一百个有红包哦
  gocn_news-2021-02-11
 # go-news-set-2021-02-11
 ## gocn_news-2021-02-11
