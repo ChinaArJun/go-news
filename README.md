@@ -1,3 +1,26 @@
+ go语言中文网(每日资讯)-2021-02-12
+# go-news-set-2021-02-12
+## go语言中文网(每日资讯)-2021-02-12
+一、#公众号：Go语言中文网
+
+1. [除夕夜，Russ Cox 宣布泛型提案被接受](https://mp.weixin.qq.com/s/1L5o1OdurO_7XgoVNj_8pw)
+
+
+二、#公众号：亚军进化史
+
+1. [Go技术日报(2021-02-11)——Go泛型方案已被采纳](https://studygolang.com/topics/13119)
+
+三、#公众号：架构之家
+
+1. [微信技术总监：11亿日活的超大型系统架构之道！13页ppt详解!](https://mp.weixin.qq.com/s/3D2DHUzvHTKVaFqFDul5Iw)
+
+四、#公众号：后端早读课
+
+1. [树 Story —— 红黑树](https://mp.weixin.qq.com/s/0fryPMNIB_u_niKiJkOIwA)
+
+五、#公众号：k8s技术圈
+
+1. [通过 Traefik 使用 Kubernetes Service APIs 进行流量路由](https://mp.weixin.qq.com/s/xZoSBS_Qt6cNoPyw2oVFdA)
  gocn_news-2021-02-12
 # go-news-set-2021-02-12
 ## gocn_news-2021-02-12
