@@ -1,3 +1,26 @@
+ go语言中文网(每日资讯)-2021-02-13
+# go-news-set-2021-02-13
+## go语言中文网(每日资讯)-2021-02-13
+一、#公众号：Go语言中文网
+
+1. [聊聊近期出版或将出版的几本 Go 图书](https://mp.weixin.qq.com/s/qmoGI34rPsWCmzSTtQJFFw)
+
+2. [64位平台下，Go 指针自身的大小为什么是8字节？](https://mp.weixin.qq.com/s/0n_VETR5WbouoUSU1EKr_g)
+
+3. [Go channel 的妙用](https://mp.weixin.qq.com/s/54jSUG_yfgx_T2-6L64VXA)
+
+
+二、#公众号：亚军进化史
+
+1. [Go技术日报(2021-02-12)——官方文档：管理go module依赖](https://studygolang.com/topics/13122)
+
+三、#公众号：TonyBai
+
+1. [基于Redis Cluster的分布式锁实现以互斥方式操作共享资源](https://mp.weixin.qq.com/s/vhhARqk0QT0sltJQMi_s7w)
+
+四、Awesome Go Newsletter
+
+1. [ Issue 247 - Learn Go with Tests - TDD Anti-patterns](https://go.libhunt.com/newsletter/247)
  gocn_news-2021-02-13
 # go-news-set-2021-02-13
 ## gocn_news-2021-02-13
