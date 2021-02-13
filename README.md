@@ -1,3 +1,17 @@
+ gocn_news-2021-02-13
+# go-news-set-2021-02-13
+## gocn_news-2021-02-13
+- 1.Golang sync.Cond 条件变量源码分析 https://www.cyhone.com/articles/golang-sync-cond/
+
+- 2.Go 工程化 (一) 架构整洁之道阅读笔记 https://lailin.xyz/post/go-training-week4-clean-arch.html
+
+- 3.Go embed 简明教程 https://colobu.com/2021/01/17/go-embed-tutorial/
+
+- 4.Golang 汇编器快速上手指南 https://mp.weixin.qq.com/s/ibdEHnAdC51e25ofAQ-uCA
+
+- 5.Golang WaitGroup 原理深度剖析 https://mp.weixin.qq.com/s/CkSd2aldYaoLbd-IKhkpWg
+
+
  go语言中文网(每日资讯)-2021-02-12
 # go-news-set-2021-02-12
 ## go语言中文网(每日资讯)-2021-02-12
