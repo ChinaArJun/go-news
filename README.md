@@ -1,3 +1,36 @@
+ go语言中文网(每日资讯)-2021-02-14
+# go-news-set-2021-02-14
+## go语言中文网(每日资讯)-2021-02-14
+一、#公众号：Go语言中文网
+
+1. [Go语言爱好者周刊：第 82 期 — 情人节快乐](https://mp.weixin.qq.com/s/eMUctTKq1tg9JPSGNeghUw)
+
+2. [5个golang中易犯的错误](https://mp.weixin.qq.com/s/pc4TvGrkYc09UCdAFsq3Qw)
+
+
+二、#公众号：亚军进化史
+
+1. [Go技术日报(2021-02-12)——官方文档：管理go module依赖](https://studygolang.com/topics/13122)
+
+三、#公众号： Go语言充电站
+
+1. [一个程序员是怎么获得第二收入的？](https://mp.weixin.qq.com/s/Dqjqe36i7pRkOvl6WgawKg)
+ gopherDaily-2021-02-14
+# go-news-set-2021-02-14
+## gopherDaily-2021-02-14
+- 1.Go 1.16中如何撤回(retract) 特定版本go module - https://golangtutorial.dev/tips/retract-go-module-versions/
+- 2.优化Go中的结构体尺寸（对齐/填充），实现更高效的内存布局 - https://itnext.io/structure-size-optimization-in-golang-alignment-padding-more-effective-memory-layout-linters-fffdcba27c61
+- 3.以单件方式创建和获取数据库实例 - https://mp.weixin.qq.com/s/V1fl3Vhey0EdnYq0OwaSng
+- 4.基于Redis Cluster的分布式锁实现以互斥方式操作共享资 - https://mp.weixin.qq.com/s/vhhARqk0QT0sltJQMi_s7w
+- 5.wasmer 1.0: 一个Go WebAssembly运行时的实现 - https://github.com/wasmerio/wasmer-go
+- 6.油管视频：Go一小时入门指南 - https://www.youtube.com/watch?v=N0fIANJkwic&feature=youtu.be
+- 7.基于libp2p的命令行对等数据传输工具 - https://github.com/dennis-tra/pcp
+- 8.ntopng，InfluxDB和Grafana：创建仪表盘的分步指南 - https://www.ntop.org/ntop/ntopng-influxdb-and-grafana-a-step-by-step-guide-to-create-dashboards/
+- 9.全内存缓存的etcd v3客户端 - https://github.com/tailscale/tailetc
+- 10.如何使用docker本地安全扫描 - https://brianchristner.io/how-to-use-docker-scan/
+- 11.在Linux内核中发现一个隐藏了24年的bug - https://engineering.skroutz.gr/blog/uncovering-a-24-year-old-bug-in-the-linux-kernel/
+- 12.Go“圣经”读后感 - https://developer20.com/reviews/go-programming-language/
+
  go语言中文网(每日资讯)-2021-02-13
 # go-news-set-2021-02-13
 ## go语言中文网(每日资讯)-2021-02-13
