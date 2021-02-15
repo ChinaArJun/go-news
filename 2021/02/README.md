@@ -1,3 +1,17 @@
+ gocn_news-2021-02-15
+# go-news-set-2021-02-15
+## gocn_news-2021-02-15
+- 1.Go 结构体内存优化指南 https://itnext.io/structure-size-optimization-in-golang-alignment-padding-more-effective-memory-layout-linters-fffdcba27c61
+
+- 2.Go 1.16 中的 module retract 特性 https://golangtutorial.dev/tips/retract-go-module-versions/
+
+- 3.用 Go 带你了解缓冲池的工作原理 https://brunocalza.me/how-buffer-pool-works-an-implementation-in-go/
+
+- 4.BoltDB 作者讲述他为何要开发 Litestream https://litestream.io/blog/why-i-built-litestream/
+
+- 5.Go 官方最新的依赖管理指南 https://golang.org/doc/modules/managing-dependencies
+
+
  go语言中文网(每日资讯)-2021-02-15
 # go-news-set-2021-02-15
 ## go语言中文网(每日资讯)-2021-02-15
