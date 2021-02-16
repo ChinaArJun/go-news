@@ -1,3 +1,33 @@
+ go语言中文网(每日资讯)-2021-02-16
+# go-news-set-2021-02-16
+## go语言中文网(每日资讯)-2021-02-16
+
+
+一、#公众号：Go语言中文网
+
+1.[Go 语言标准库中 atomic.Value 的前世今生](https://mp.weixin.qq.com/s/9aNfjX2UMQKLLgSW037_uQ)
+
+2.[解密 defer 原理，究竟背着程序猿做了多少事情？](https://mp.weixin.qq.com/s/3-32J0bs2_PbQ74ywMymnw)
+
+3.[搭一个K8s集群](https://mp.weixin.qq.com/s/-mZDL5CRe6Ub7HDuPn7eEw)
+
+二、#公众号：亚军进化史
+
+1.[Go技术日报(2021-02-15)——Rust 的第一印象](https://mp.weixin.qq.com/s/Tk93E-bkOx8ByhMjxWk1bg)
+
+三、#公众号：Go招聘
+
+1.[golang 面试题：能说说 uintptr 和 unsafe.Pointer的区别吗？](https://mp.weixin.qq.com/s/zY-sqds-DhbdqzKq4pAupg)
+
+四、#公众号：分布式实验室
+
+1.[Kubernetes CRD开发实践](https://mp.weixin.qq.com/s/AdSaTEt_l8eePlH0q_jNZg)
+
+五、#公众号：捡田螺的小男孩
+
+1.[MySQL索引底层：B+树详解](https://mp.weixin.qq.com/s/t7l76dVQdBecc-y4EdNTLg)
+
+
  gocn_news-2021-02-16
 # go-news-set-2021-02-16
 ## gocn_news-2021-02-16
