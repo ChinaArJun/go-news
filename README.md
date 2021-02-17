@@ -1,3 +1,39 @@
+ go语言中文网(每日资讯)-2021-02-17
+# go-news-set-2021-02-17
+## go语言中文网(每日资讯)-2021-02-17
+
+
+一、#公众号：Go语言中文网
+
+1.[来了来了！Go1.16 重磅发布](https://mp.weixin.qq.com/s/eqquyrWN0CqEzmwXquRlAA)
+
+2.[Go官博：正式提案将泛型加入Go](https://mp.weixin.qq.com/s/TXUMh5nfCNLaTRIifnMLDA)
+
+二、#公众号：亚军进化史
+
+1.[Go技术日报(2021-02-16)——解密 defer 原理，究竟背着程序猿做了多少事情？](https://mp.weixin.qq.com/s/LURYMXsBNQa6Ccd7MNucIw)
+
+三、#公众号：Go招聘
+
+1.[Go语言中文网牛年春晚回放来咯！！！](https://mp.weixin.qq.com/s/IWsv8__Xj1aj-XrzLuTrBg)
+
+四、#公众号：脑子进煎鱼了
+
+1.[速报：Go1.16 正式发布，新版本特性详解合集](https://mp.weixin.qq.com/s/DwmYIhuy45u7pmo8PwIgoQ)
+
+五、#公众号：GoOfficialBlog
+
+1.[Go 1.16 is released, Apple silicon M1 可以放心买啦](https://mp.weixin.qq.com/s/-dfC4YuIHAoYWxgKErMyqQ)
+
+六、#公众号：后端早读课
+
+1.[树 Story —— 多路查找树](https://mp.weixin.qq.com/s/QJ9l233XMQsiGS3ySRIcxg)
+
+七、#公众号：k8s技术圈
+
+1.[Kubernetes 应用性能分析工具 - Kubectl Flame](https://mp.weixin.qq.com/s/N26J78uk_cjxyqqqsNignA)
+
+
  gocn_news-2021-02-17
 # go-news-set-2021-02-17
 ## gocn_news-2021-02-17
