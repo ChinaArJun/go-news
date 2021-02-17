@@ -1,3 +1,34 @@
+ gocn_news-2021-02-17
+# go-news-set-2021-02-17
+## gocn_news-2021-02-17
+- 1.Go 1.16 正式发布 https://blog.golang.org/go1.16
+
+- 2.以层的方式而不是组的方式进行包管理 https://mp.weixin.qq.com/s/l0fvcMMpBmMo0WLqHhwmjQ
+
+- 3.使用 go-kit 构建微服务 https://eltonminetto.dev/en/post/2021-02-06-microservices-gokit/
+
+- 4.signoz: 开源 Datadog 替代品 https://github.com/SigNoz/signoz
+
+- 5.GopherCon TW 2020 https://space.bilibili.com/756684/channel/detail?cid=169470
+
+
+ gopherDaily-2021-02-17
+# go-news-set-2021-02-17
+## gopherDaily-2021-02-17
+- 1.Go可执行文件大小比较：从Go 1.7.6到Go 1.16rc1 - https://itnext.io/size-comparison-of-go-executables-9b4ae2aaebb5
+- 2.在Go 1.16可执行文件中嵌入一个javascript web站点 - https://blog.lawrencejones.dev/golang-embed/
+- 3.使用go kit实现Go微服务 - https://eltonminetto.dev/en/post/2021-02-06-microservices-gokit/
+- 4.在Go中实现和使用文件锁 - https://magdy.dev/blog/2021/02/07/file-locking-in-go-part-i/
+- 5.使用Go context和WaitGroup优雅处理goroutine - https://justbartek.ca/p/golang-context-wg-go-routines/
+- 6.油管视频：Service Mesh（和Istio）在多kubernetes集群网络中的应用方法 - https://www.youtube.com/watch?v=9kl7CR8MH-w
+- 7.Coil v2：提供原生网络性能的k8s cni网络插件 - https://blog.kintone.io/entry/coilv2
+- 8.kubernetes无服务框架大比较 - https://www.vshn.ch/en/blog/a-very-quick-comparison-of-kubernetes-serverless-frameworks
+- 9.OpenTelemetry规范发布1.0 - https://medium.com/opentelemetry/opentelemetry-specification-v1-0-0-tracing-edition-72dd08936978
+- 10.esme: 通过json配置生成一个模拟rest服务 - https://github.com/stkr89/esme
+- 11.以太坊: 为什么无状态如此重要 - https://dankradfeist.de/ethereum/2021/02/14/why-stateless.html
+- 12.开源技能比专有技能更有价值 - https://searchapparchitecture.techtarget.com/news/252496117/Survey-Open-source-skills-more-valued-than-proprietary-ones
+- 13.解析微服务 - https://thenewstack.io/primer-microservices-explained/
+
  go语言中文网(每日资讯)-2021-02-16
 # go-news-set-2021-02-16
 ## go语言中文网(每日资讯)-2021-02-16
