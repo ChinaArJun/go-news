@@ -1,3 +1,37 @@
+ go语言中文网(每日资讯)-2021-02-18
+# go-news-set-2021-02-18
+## go语言中文网(每日资讯)-2021-02-18
+
+
+一、#公众号：Go语言中文网
+
+1.[Go：gops 如何与 runtime 交互？](https://mp.weixin.qq.com/s/xyG7KYb72qIbmdEZep35Sg)
+
+2.[Go：以单件方式创建和获取数据库实例](https://mp.weixin.qq.com/s/iwCfAHBWXJwVq6uZrEkv1g)
+
+3.[肝了一上午的Golang之Plan9入门](https://mp.weixin.qq.com/s/9bn0foYfqJPtNdRI0NIleQ)
+
+二、#公众号：微服务实践
+
+1.[Go 大数据生态迎来重要产品 CDS](https://mp.weixin.qq.com/s/3sjY-rjdFgsKscD6i7QOIA)
+
+三、#公众号：薯条的自我修养
+
+1.[如何提高代码的可读性 学习笔记](https://mp.weixin.qq.com/s/LW0osX6gvtKHf5Vqnv9u6w)
+
+四、#公众号：远赴星辰
+
+1.[Redis 多线程网络模型全面揭秘](https://mp.weixin.qq.com/s/pm2NsPzTO4lJQfGUC4-sJQ)
+
+五、#公众号：k8s技术圈
+
+1.[Go 1.16 使用 Embed 嵌入静态资源-视频版](https://mp.weixin.qq.com/s/c86IHWh5iJECjl1DZ9vLsw)
+
+六、#公众号：Golang梦工厂
+
+1.[源码剖析sync.cond(条件变量的实现机制）](https://mp.weixin.qq.com/s/szSxatDakPQMUA8Vm9u3qQ)
+
+
  gocn_news-2021-02-18
 # go-news-set-2021-02-18
 ## gocn_news-2021-02-18
