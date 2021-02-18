@@ -1,3 +1,35 @@
+ gocn_news-2021-02-18
+# go-news-set-2021-02-18
+## gocn_news-2021-02-18
+- 1.微服务架构中的延迟任务 https://itnext.io/deferred-tasks-in-a-microservice-architecture-8e7273089ee7
+
+- 2.如何在 Go 中构建一个线程安全的队列 https://dev.to/har130798/how-to-build-a-thread-safe-queue-in-go-lbh 
+- 3.手撸 Go 基本数据结构与算法哈希表 https://segmentfault.com/a/1190000039219752
+
+- 4.如何在 Go 中使用 MQTT https://levelup.gitconnected.com/how-to-use-mqtt-with-go-89c617915774
+
+- 5.一个高效、正确的图像抖动处理类库 https://github.com/makeworld-the-better-one/dither
+
+
+ gopherDaily-2021-02-18
+# go-news-set-2021-02-18
+## gopherDaily-2021-02-18
+- 1.Go 1.16版本正式发布! - https://blog.golang.org/go1.16
+- 2.油管视频：五分钟详解Go 1.16 embed包 - https://www.youtube.com/watch?v=mBNIZHHi5Rg&feature=youtu.be
+- 3.经典旧文：Go内存压舱石：我是如何学会不再担心和爱上这堆东西的？ - https://blog.twitch.tv/en/2019/04/10/go-memory-ballast-how-i-learnt-to-stop-worrying-and-love-the-heap-26c2462549a2/
+- 4.infracost: Terraform项目的云成本估算工具 - https://github.com/infracost/infracost
+- 5.使用Ego轻松构建机密Go应用(基于Intel SGX: 安全扩展指令集) - https://github.com/edgelesssys/ego
+- 6.为什么Go编程语言现在会流行？- https://techaffinity.com/blog/why-use-go-for-you-project/
+- 7.最佳Go书籍列表 - https://topminisite.com/blog/best-golang-book-to-learn
+- 8.微服务架构中的延迟任务(deferred task) - https://itnext.io/deferred-tasks-in-a-microservice-architecture-8e7273089ee7
+- 9.通过多容器pod(边车模式)扩展k8s上的应用 - https://learnk8s.io/sidecar-containers-patterns
+- 10.git submodules操作详解 - https://chrisjean.com/git-submodules-adding-using-removing-and-updating/
+- 11.将代码转换为可定制的漂亮图片 - https://ray.so/
+- 12.WatchDog：揭露开展了两年的加密劫持活动 - https://unit42.paloaltonetworks.com/watchdog-cryptojacking/
+- 13.使用TinyGo将2004年的孩之宝Millennium Falcon套装转换为蓝牙播放器/音频可视化器 - https://www.hackster.io/alankrantas/the-falcon-audio-visualizer-a-tinygo-project-260360
+- 14.orion: 下一代自动测试工具 - https://ivan-corrales-solera.medium.com/orion-a-next-generation-automation-testing-tool-4ea53eeb2517
+- 15.在Go应用程序中使用“103提早提示”状态代码 - https://dunglas.fr/2021/02/using-the-103-early-hints-status-code-in-go-applications/
+
  go语言中文网(每日资讯)-2021-02-17
 # go-news-set-2021-02-17
 ## go语言中文网(每日资讯)-2021-02-17
