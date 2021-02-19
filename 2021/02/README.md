@@ -1,3 +1,56 @@
+ go语言中文网(每日资讯)-2021-02-19
+# go-news-set-2021-02-19
+## go语言中文网(每日资讯)-2021-02-19
+
+
+一、Go语言中文网
+
+1. [Go语言中文网牛年春晚回放来咯！！！](https://mp.weixin.qq.com/s/xxbn0mXyJHIse3AAFnupXA)
+
+2. [Go招聘：加入米哈游，技术宅拯救世界](https://mp.weixin.qq.com/s/gx9ZhmVPdfOqGpPUSWeEJQ)
+
+3. [你真的了解 sync.Mutex吗](https://mp.weixin.qq.com/s/lGRCaR9z4xlpU5f_ezkhzw)
+
+二、MoeLove
+
+1. [从Go的二进制文件中获取其依赖的模块信息](https://mp.weixin.qq.com/s/f2ojUG1bMQo-es6jmuX96w)
+
+三、码农桃花源
+
+1. [那些年我们一起追过的大佬](https://mp.weixin.qq.com/s/x2W8Rf1e-a9dSYE53Lu1DA)
+
+四、脑子进煎鱼了
+
+1. [Go1.16 新特性：Go mod 的后悔药，仅需这一招](https://mp.weixin.qq.com/s/0g89yj9sc1oIz9kS9ZIAEA)
+
+五、奇伢云存储
+
+1. [Go 最新资讯：Go 1.16 正式发布，支持 macOS ARM64 架构](https://mp.weixin.qq.com/s/Ezg6yPuVSdu9j6B7Hs0m2A)
+
+六、多颗糖
+
+1. [条分缕析 Raft 算法(续)：日志压缩和性能优化](https://mp.weixin.qq.com/s/Gck3dIfQ7VH_wd6kyNXarw)
+
+七、polarisxu
+
+1. [Go1.17 快报：将移除 GOPATH](https://mp.weixin.qq.com/s/Lwt5c9Z5TD7TAg7-Yt6wAA)
+ gopherDaily-2021-02-19
+# go-news-set-2021-02-19
+## gopherDaily-2021-02-19
+- 1.使用Go六年来犯过的那些错误 - https://henvic.dev/posts/my-go-mistakes/
+- 2.如何使用COBRA来实现简易的Go CLI命令行选项 - https://ethicalhackingguru.com/how-i-use-cobra-for-easy-golang-cli-flags/
+- 3.在Go的世界里，即使不用的东西，也要付出代价 - https://notes.volution.ro/v1/2021/02/notes/378ae6f6/
+- 4.在Go中阻止SQL注入以及其他安全问题 - https://blog.sqreen.com/preventing-sql-injections-in-go-and-other-vulnerabilities/
+- 5.如何使用Go连接到以太坊网络 - https://www.quiknode.io/guides/web3-sdks/how-to-connect-to-ethereum-network-using-go
+- 6.LakeFS的存储设计 - https://lakefs.io/concrete-graveler-committing-data-to-pebbledb-sstables/
+- 7.Go机器学习框架的性能基准测试对比 - https://github.com/nikolaydubina/go-ml-benchmarks
+- 8.如何在Go中使用MQTT - https://levelup.gitconnected.com/how-to-use-mqtt-with-go-89c617915774
+- 9.Gitlab-Runner的工作原理 - https://medium.com/scum-gazeta/explaining-gitlab-runner-research-12cbfe9938cd
+- 10.io_uring与epoll性能对比 - https://github.com/axboe/liburing/issues/189
+- 11.在Go中何时以及如何使用iota - https://www.gopherguides.com/articles/how-to-use-iota-in-golang
+- 12.Tracee：Linux的运行时安全和取证工具。它使用Linux eBPF技术在运行时跟踪系统和应用程序，并分析收集的事件以检测可疑的行为模式 - https://github.com/aquasecurity/tracee
+- 13.Go播客：阅读文档的艺术 - https://changelog.com/gotime/167
+
  go语言中文网(每日资讯)-2021-02-18
 # go-news-set-2021-02-18
 ## go语言中文网(每日资讯)-2021-02-18
