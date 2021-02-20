@@ -1,3 +1,17 @@
+ gocn_news-2021-02-20
+# go-news-set-2021-02-20
+## gocn_news-2021-02-20
+- 1.Go 1.16 中 Module 功能新变化 https://gocn.vip/topics/11679
+
+- 2.Golang 代码测试：一点到面用测试驱动开发 https://segmentfault.com/a/1190000039236569
+
+- 3.“能力越大，责任越大” – Go 语言之父详解将于 Go 1.18 发布的 Go 泛型 https://tonybai.com/2021/02/18/typing-generic-go-by-griesemer-at-gophercon-2020/
+
+- 4.基于 Redis Cluster 的分布式锁实现以互斥方式操作共享资源 https://tonybai.com/2021/02/13/operate-with-shared-resources-in-a-mutually-exclusive-way-through-distributed-lock-implemented-by-redis-cluster/
+
+- 5.以单件方式创建和获取数据库实例 https://tonybai.com/2021/02/09/create-and-get-db-access-instance-through-singleton/
+
+
  go语言中文网(每日资讯)-2021-02-20
 # go-news-set-2021-02-20
 ## go语言中文网(每日资讯)-2021-02-20
