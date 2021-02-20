@@ -1,3 +1,66 @@
+ go语言中文网(每日资讯)-2021-02-20
+# go-news-set-2021-02-20
+## go语言中文网(每日资讯)-2021-02-20
+
+
+一、Go语言中文网
+
+1. [Go 中可取消的读取操作](https://mp.weixin.qq.com/s/eitsMVVqnd3l2xWyrURoDA)
+
+2. [Go1.17 快报：将移除 GOPATH](https://mp.weixin.qq.com/s/RaYAEISybFvYMj99Y42Cjg)
+
+3. [Go：基于Redis Cluster的分布式锁实现以互斥方式操作共享资源](https://mp.weixin.qq.com/s/BK-XnVB44ftxVKf21AMIvw)
+
+二、亚军进化史
+
+1. [Go技术日报(2021-02-19)——Go1.17 快报：将移除 GOPATH](https://mp.weixin.qq.com/s/d0zKZ597ORCDq27rP_SwSw)
+
+三、TechPaper
+
+1. [一个 bad file descriptor 的问题](https://mp.weixin.qq.com/s/fCb9sNEGt1JLQOXVlXr4Aw)
+
+四、Go招聘
+
+1. [成都同程艺龙来招Gopher啦！！！](https://mp.weixin.qq.com/s/xw2AhvbY15f0qnnL-AsiqA)
+
+五、轩脉刃的刀光剑影
+
+1. [设计一个回调要注意哪些事情](https://mp.weixin.qq.com/s/wERneobN7XuVsgnF72UkxQ)
+
+六、polarisxu
+
+1. [为什么学 Rust 及相关学习资料推荐](https://mp.weixin.qq.com/s/iHlLZwq2K7ChsegOFNCJKw)
+
+七、吴亲强的深夜食堂
+
+1. [可视化演示Go并发](https://mp.weixin.qq.com/s/Ykr11N6A5mRF_KIzvHNSpA)
+
+八、后端早读课
+
+1. [树 Story —— LSM 树](https://mp.weixin.qq.com/s/cWS3234YD0zmjpAXImjOkg)
+
+2. [树 Story —— B 树 / B+ 树](https://mp.weixin.qq.com/s/BLiZ1hhQK-QILdLBw6iNjQ)
+
+九、nanko的快乐小窝
+
+1. [关于Java与Golang的GC](https://mp.weixin.qq.com/s/y0ZZboRVyWL1frVbSjLqdQ)
+ gopherDaily-2021-02-20
+# go-news-set-2021-02-20
+## gopherDaily-2021-02-20
+- 1.官博：Go 1.16中有关go module的变化 - https://blog.golang.org/go116-module-changes
+- 2.Go泛型的开发将直接在master分支上进行 - https://github.com/golang/go/commit/9a99515c8f1febe39151a80b2088d0d6fdc55ca2
+- 3.分布式应用程序运行时Dapr发布v1.0版本，生产可用 - https://blog.dapr.io/posts/2021/02/17/announcing-dapr-v1.0/
+- 4.Go开发的8个安全方面最佳实践 - https://snyk.io/blog/go-security-cheatsheet-for-go-developers/
+- 5.从go panic的输出信息中去除源码路径信息 - https://johnpili.com/remove-source-path-from-gos-panic-stack-trace/
+- 6.在Docker Images中嵌入源代码版本信息 - https://www.cncf.io/blog/2021/02/17/embedding-source-code-version-information-in-docker-images/
+- 7.基准测试不一定是绝对正确的 - https://rauljordan.com/2021/02/18/when-a-solution-is-right-in-front-of-your-eyes.html
+- 8.代码仓库中敏感信息的检测工具 - https://github.com/eth0izzle/shhgit
+- 9.Go语言入门 - https://levelup.gitconnected.com/learn-the-fundamentals-of-programming-go-51937b3d3105
+- 10.haraqa：一个可伸缩消息队列，用于微服务之间的数据持久性和实时数据流传输 - https://github.com/haraqa/haraqa
+- 11.基于属性的Go测试 - https://code.egym.de/property-based-testing-in-golang-d3a860a2965
+- 12.CentOS之父Gregory Kurtzer谈他的新linux发行版Rocky Linux - https://thenewstack.io/centos-creator-gregory-kurtzer-discusses-his-new-distro-rocky-linux/
+- 13.NASA开源毅力号火星车搭载的直升机飞行器的软件框架 - https://github.com/nasa/fprime
+
  go语言中文网(每日资讯)-2021-02-19
 # go-news-set-2021-02-19
 ## go语言中文网(每日资讯)-2021-02-19
