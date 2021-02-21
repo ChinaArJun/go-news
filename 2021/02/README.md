@@ -1,3 +1,33 @@
+ gocn_news-2021-02-21
+# go-news-set-2021-02-21
+## gocn_news-2021-02-21
+- 1.Go 缓冲池如何工作和实现 https://brunocalza.me/how-buffer-pool-works-an-implementation-in-go/
+
+- 2.利好！极大可能在 go 1.17 中就能尝试泛型 https://colobu.com/2021/02/20/merge-dev-typeparams-to-master-during-Go-1-17/
+
+- 3.Go 中的 REST 服务器：第 4 部分 - 使用 OpenAPI 和 Swagger https://eli.thegreenplace.net/2021/rest-servers-in-go-part-4-using-openapi-and-swagger/
+
+- 4.使用 Go kit 构建微服务 https://eltonminetto.dev/en/post/2021-02-06-microservices-gokit/
+
+- 5.如何 0 改造，让单体/微服务应用成为 Serverless Application https://segmentfault.com/a/1190000039238247
+
+
+ gopherDaily-2021-02-21
+# go-news-set-2021-02-21
+## gopherDaily-2021-02-21
+- 1.一个HTTP请求在Go服务器中的生命历程 - https://eli.thegreenplace.net/2021/life-of-an-http-request-in-a-go-server/
+- 2.在构建时为Go变量注入值 - https://ols.wtf/2021/02/20/injecting-golang-variables-at-build-time.html
+- 3.快速构建生产级的Web服务 - https://github.com/suborbital/vektor
+- 4.Go json流解析器 - https://github.com/tidwall/pjson
+- 5.Go代码覆盖入门 - https://about.codecov.io/blog/getting-started-with-code-coverage-for-golang/
+- 6.不使用框架进行go web开发 - https://github.com/thewhitetulip/web-dev-golang-anti-textbook
+- 7.gdlv: Go调试器dlv的图形化前端 - https://github.com/aarzilli/gdlv
+- 8.使用Flux v2在Kubernetes上实现GitOps - https://blog.sldk.de/2021/02/introduction-to-gitops-on-kubernetes-with-flux-v2/
+- 9.MVC架构的工作原理 - https://www.freecodecamp.org/news/model-view-architecture/
+- 10.搭建高可用k3s集群 - https://rancher.com/blog/2020/k3s-high-availability
+- 11.2021颠覆性创新：15个大创意最有可能改变世界 - https://www.zdnet.com/article/disruptive-innovation-2021-these-15-big-ideas-are-most-likely-to-change-the-world/
+- 12.go101已经Go 1.16 ready - https://github.com/go101/go101
+
  gocn_news-2021-02-20
 # go-news-set-2021-02-20
 ## gocn_news-2021-02-20
