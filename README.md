@@ -1,3 +1,36 @@
+ go语言中文网(每日资讯)-2021-02-21
+# go-news-set-2021-02-21
+## go语言中文网(每日资讯)-2021-02-21
+
+一、#公众号：Go语言中文网
+
+1. [Go语言爱好者周刊：第 83 期](https://mp.weixin.qq.com/s/Dcez9EsAfY66N70G-NP0hw)
+
+2. [关于Java与Golang的GC](https://mp.weixin.qq.com/s/5U4xzQGptowP3eiSQrxKKQ)
+
+3. [设计一个回调要注意哪些事情](https://mp.weixin.qq.com/s/511jyVBVgRn99jx4PJEPXA)
+
+二、#公众号：亚军进化史
+
+1. [Go技术日报(2021-02-20)——官博：Go 1.16 中有关 go module 的变化](https://mp.weixin.qq.com/s/YX839-W6xw0OBdcytsdc2w)
+
+三、#公众号：Go招聘
+
+1. [利好！极大可能在go 1.17中就能尝试泛型](https://mp.weixin.qq.com/s/WPVYDKW5a-h9M8yzijO6bg)
+
+四、#公众号：脑子进煎鱼了
+
+1. [意见征集：Go1 要不要移除 GOPATH？](https://mp.weixin.qq.com/s/uSqBCrRaSSR82aL0jw3TfQ)
+
+五、#公众号：云原生技术爱好者社区
+
+1. [通过编辑器创建可视化Kubernetes网络策略](https://mp.weixin.qq.com/s/mSFxrgCfcfzD9zDTp13rrA)
+
+六、golang weekly
+
+1. [Awesome Go Newsletter - Issue 248, Feb 18, 2021 | LibHunt](https://go.libhunt.com/newsletter/248)
+
+2. [Golang Weekly Issue 350: February 19, 2021](https://golangweekly.com/issues/350)
  gocn_news-2021-02-21
 # go-news-set-2021-02-21
 ## gocn_news-2021-02-21
