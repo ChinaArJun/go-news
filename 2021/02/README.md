@@ -1,3 +1,39 @@
+ go语言中文网(每日资讯)-2021-02-22
+# go-news-set-2021-02-22
+## go语言中文网(每日资讯)-2021-02-22
+
+
+一、#公众号：Go语言中文网
+
+1. [韩信大招：一致性哈希](https://mp.weixin.qq.com/s/eAQ1_Lsmd57DJWMFH60cgQ)
+
+2. [BPF和Go：在Linux中内省的现代方式](https://mp.weixin.qq.com/s/J4b8KXqoxoKU-YfUgYbfCw)
+
+3. [手摸手Go 深入剖析sync.Pool](https://mp.weixin.qq.com/s/nFaS05cluv0D0JladVYRVA)
+
+二、#公众号：亚军进化史
+
+1. [Go技术日报(2021-02-21)——利好！极大可能在 go 1.17 中就能尝试泛型](https://mp.weixin.qq.com/s/syoXorFDXIIJTu99znSTsQ)
+
+三、#公众号：HHFCodeRv
+
+1. [一文完全掌握 Go math/rand](https://mp.weixin.qq.com/s/dbdP_Jz9OHCuLO1ffOmCNg)
+
+四、#公众号：MoeLove
+
+1. [K8S 生态周报| Helm v3.5 正式发布，带来完备的 OCI 支持](https://mp.weixin.qq.com/s/3SdBM26U13nB3vqsP7omRg)
+
+五、#公众号：奇伢云存储
+
+1. [Go 并发编程 — 深入浅出 sync.Pool ，围观最全的使用姿势，理解最深刻的原理](https://mp.weixin.qq.com/s/6Nx7IGFU_FbM5AOdUzmvcw)
+
+六、#公众号：网管叨bi叨
+
+1. [什么是大端序和小端序，为什么要有字节序](https://mp.weixin.qq.com/s/ri2tt4nvEJub-wEsh0WPPA)
+
+七、mohuishou
+
+1. [Go工程化(三) 依赖注入框架 wire - Mohuishou](https://lailin.xyz/post/go-training-week4-wire.html)
  gocn_news-2021-02-22
 # go-news-set-2021-02-22
 ## gocn_news-2021-02-22
