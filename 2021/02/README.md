@@ -1,3 +1,31 @@
+ gocn_news-2021-02-22
+# go-news-set-2021-02-22
+## gocn_news-2021-02-22
+- 1.一文完全掌握 Go math/rand https://gocn.vip/topics/11689
+
+- 2.详解 Go 语言调度循环源码实现 [Go 15.7 源码] https://www.luozhiyun.com/archives/448
+
+- 3.使用适配器模式解耦 Go 应用的功能库 https://www.hildeberto.com/2021/02/adapter-design-pattern-golang.html
+
+- 4.Go 中的 SSRF 攻防战 https://isites.github.io/timeline/go-ssrf/
+
+- 5.go-frodokem: Frodokem 算法的 Go 实现 https://github.com/kuking/go-frodokem/
+
+
+ gopherDaily-2021-02-22
+# go-news-set-2021-02-22
+## gopherDaily-2021-02-22
+- 1.Ristretto: 一个高性能、并发的缓存库，注重性能和正确性 - https://github.com/dgraph-io/ristretto
+- 2.纯Go实现的编程语言 - https://github.com/odddollar/Container-lang
+- 3.FrodoKEM的Go实现：(frodokem是一个实用量子安全密钥封装) -  https://github.com/kuking/go-frodokem/
+- 4.一个go实现的虚拟文件系统 - https://alysonn.medium.com/a-virtual-filesystem-in-go-creating-our-foundation-9af62b0e82db
+- 5.gohugo v0.81.0发布：原生支持apple m1 - https://gohugo.io/news/0.81.0-relnotes/
+- 6.Go实现的语音彩铃 - https://learn.vonage.com/blog/2021/01/14/play-an-audio-file-into-a-voice-call-with-go
+- 7.gofp: Javascript的lodash函数库的Go移植 - https://github.com/rbrahul/gofp
+- 8.Kubernetes 原生 CI/CD 构建框架 Argo 详解！ - https://mp.weixin.qq.com/s/DErVsooKplJf1zDPvGvkfQ
+- 9.区块链详解 - https://mp.weixin.qq.com/s/JxJio0cd_I1Q24KKzR6-PA
+- 10.自定义gomock matcher加强go 单元测试 - https://dev.to/techschoolguru/how-to-write-stronger-unit-tests-with-a-custom-go-mock-matcher-55pc
+
  go语言中文网(每日资讯)-2021-02-21
 # go-news-set-2021-02-21
 ## go语言中文网(每日资讯)-2021-02-21
