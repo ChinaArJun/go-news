@@ -1,3 +1,49 @@
+ go语言中文网(每日资讯)-2021-02-23
+# go-news-set-2021-02-23
+## go语言中文网(每日资讯)-2021-02-23
+
+
+一、Go语言中文网
+
+1. [Go 高效截取字符串的一些思考](https://mp.weixin.qq.com/s/WtZ93UrpMiEZDSK80CBrWQ)
+
+2. [一文完全掌握 Go math/rand](https://mp.weixin.qq.com/s/vufx-L2CkqXa9RTC45wpCg)
+
+3. [Go 语言实战：命令行程序（1）](https://mp.weixin.qq.com/s/SwDW1ILmsILnC6m9lOEa_A)
+
+二、亚军进化史
+
+1. [Go技术日报(2021-02-22)——Go 工程化(三) 依赖注入框架 wire](https://mp.weixin.qq.com/s/AAHtIn0kBDnbz3BXPGyGNQ)
+
+三、脑子进煎鱼了
+
+1. [灵魂拷问 Go 语言：这个变量到底分配到哪里了？](https://mp.weixin.qq.com/s/mFfza7DayFqsiS93Ep15BA)
+
+四、Go 夜读
+
+1. [【本周四 19 点预告】如何让业务应用享受云原生的红利？](https://mp.weixin.qq.com/s/rPMnzmULr8R2eNT0MwsrGw)
+
+五、多颗糖
+
+1. [【MIT 6.824】学习笔记 1： MapReduce](https://mp.weixin.qq.com/s/I0PBo_O8sl18O5cgMvQPYA)
+
+六、真没什么逻辑
+
+1. [如何保证数据中心服务器的时间一致 · OSDI 2020](https://mp.weixin.qq.com/s/JmAF0ZxZ7c59KDlC3uyHJg)
+
+七、阿里云云栖号
+
+1. [高可用的本质](https://mp.weixin.qq.com/s/jTIk6XjsCEWTIgArJ3IpTg)
+
+八、Go招聘
+
+1. [行业黑马直聘golang开发工程师啦，全额五险一金等你来！](https://mp.weixin.qq.com/s/c6NB3Klw6XPdeUK5VTgsKg)
+
+2. [安全企业竹云科技来寻Gopher了](https://mp.weixin.qq.com/s/_qWxAfI32gsHj30s1uncUA)
+
+九、polarisxu
+
+1. [从 go-chi 框架撤回所有主版本聊 Go1.16 的新特性](https://mp.weixin.qq.com/s/mBJ3hQ6oR1V9YtdXpkTnow)
  gocn_news-2021-02-23
 # go-news-set-2021-02-23
 ## gocn_news-2021-02-23
