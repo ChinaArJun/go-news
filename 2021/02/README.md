@@ -1,3 +1,17 @@
+ gocn_news-2021-02-23
+# go-news-set-2021-02-23
+## gocn_news-2021-02-23
+- 1. Kubernetes Kubernetes vs Docker:了解 2021 年的容器 https://gocn.vip/topics/11691
+
+- 2.构建微服务的十大 Golang 框架和库 https://mp.weixin.qq.com/s/tPnb0QrLEIZnLyPcMX4EGw
+
+- 3.Go 不是一种简单的编程语言 https://www.arp242.net/go-easy.html
+
+- 4.灵魂拷问 Go 语言：这个变量到底分配到哪里了？ https://mp.weixin.qq.com/s/mFfza7DayFqsiS93Ep15BA
+
+- 5.使用 Go 将音频文件添加至彩铃 https://learn.vonage.com/blog/2021/01/14/play-an-audio-file-into-a-voice-call-with-go
+
+
  go语言中文网(每日资讯)-2021-02-22
 # go-news-set-2021-02-22
 ## go语言中文网(每日资讯)-2021-02-22
