@@ -1,3 +1,36 @@
+ gocn_news-2021-02-24
+# go-news-set-2021-02-24
+## gocn_news-2021-02-24
+- 1.TiDB 条分缕析 Raft 算法 https://gocn.vip/topics/11698
+
+- 2.Go 高效截取字符串的一些思考 https://mp.weixin.qq.com/s/WtZ93UrpMiEZDSK80CBrWQ
+
+- 3.什么是大端序和小端序，为什么要有字节序 https://mp.weixin.qq.com/s/ri2tt4nvEJub-wEsh0WPPA
+
+- 4.从 go-chi 框架撤回所有主版本聊 Go1.16 的新特性 https://mp.weixin.qq.com/s/mBJ3hQ6oR1V9YtdXpkTnow
+
+- 5.Go 工程化 依赖注入框架 wire https://lailin.xyz/post/go-training-week4-wire.html
+
+
+ gopherDaily-2021-02-24
+# go-news-set-2021-02-24
+## gopherDaily-2021-02-24
+- 1.新提案：Go 1.17在go test框架中原生增加对fuzz test的支持 - https://github.com/golang/go/issues/44551
+- 2.在Kubernetes上快速开发Go微服务 - https://blog.getambassador.io/go-kubernetes-rapidly-developing-golang-microservices-bfe36cfb5893
+- 3.从C#转到Go进行后端开发 - https://aluma.io/resources/blog/switching-from-c-to-go-for-backend-development
+- 4.利用go 1.16 embed特性实现单文件web应用 - https://philidor.dev/blog/go-embed-usecase/
+- 5.go-kafka客户端使用入门 -  https://darkodjalevski.me/posts/go-client-for-apache-kafka/
+- 6.jackal: 支持xmpp的即时消息server - https://github.com/ortuman/jackal
+- 7.Go发布/订阅指南 - https://www.ably.io/blog/pubsub-golang
+- 8.你应该为企业级应用选择什么架构 - https://kodytechnolab.com/software-architecture-for-enterprise-applications
+- 9.超越数据库：第1部分-内存中数据库索引的工作方式 - https://sopin.dev/2021/01/01/Databases-Beyond-the-data-Part-1/
+- 10.热爱在linux写代码的5个理由 - https://opensource.com/article/21/2/linux-programming
+- 11.针对开发者和开放源代码作者的免费服务列表 - https://free-for.dev/
+- 12.关于消息传递和嵌入式消息传递 - https://ielgohary.github.io/blog-embedded-messaging.html
+- 13.Git是我的伙伴: 高效使用git的原则 - https://mikkel.ca/blog/git-is-my-buddy-effective-solo-developer/
+- 14.d3.js作者的10年开源感悟 - https://observablehq.com/@mbostock/10-years-of-open-source-visualization
+- 15.将源码转换为图片的命令行工具 - https://github.com/matsuyoshi30/germanium
+
  go语言中文网(每日资讯)-2021-02-23
 # go-news-set-2021-02-23
 ## go语言中文网(每日资讯)-2021-02-23
