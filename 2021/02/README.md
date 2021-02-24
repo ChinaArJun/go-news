@@ -1,3 +1,49 @@
+ go语言中文网(每日资讯)-2021-02-24
+# go-news-set-2021-02-24
+## go语言中文网(每日资讯)-2021-02-24
+
+
+一、Go语言中文网
+
+1. [滴滴：如何提高代码的可读性，以 Go 为例！](https://mp.weixin.qq.com/s/FUOUEWOFr-NMJkqZHHengw)
+
+2. [为什么要有字节序？用 Go 解释下](https://mp.weixin.qq.com/s/ZBE5JDPyHuIGRScSfQhO1A)
+
+3. [Go 语言实战：命令行程序（2）](https://mp.weixin.qq.com/s/CLtKN25UFVmeWKh6ULDq8w)
+
+二、亚军进化史
+
+1. [Go技术日报(2021-02-23)——从 go-chi 框架撤回所有主版本聊 Go1.16 的新特性](https://mp.weixin.qq.com/s/HqVtuWehRkykF-g4Kw-VOQ)
+
+三、Go招聘
+
+1. [成都招聘 Go 开发工程师的真不少](https://mp.weixin.qq.com/s/8kU7UlwiDh0sc4_HAdXLIQ)
+
+四、云加社区
+
+1. [从bug中学习：六大开源项目告诉你go并发编程的那些坑](https://mp.weixin.qq.com/s/PmUlFFhf6taeqveLtbHJNQ)
+
+五、k8s技术圈
+
+1. [下一代镜像构建工具 Buildkit 简介](https://mp.weixin.qq.com/s/Y961wEqbXa9zavski-rWLg)
+
+2. [高级Go研发工程师 - 头条医疗部门](https://mp.weixin.qq.com/s/pzhE3PuK8pOa_N_5yEjrwQ)
+
+六、polarisxu
+
+1. [克制挺难的](https://mp.weixin.qq.com/s/Dfclabvj-sea3dMurKzF5w)
+
+七、腾讯技术工程
+
+1. [​网络 IO 演变发展过程和模型介绍](https://mp.weixin.qq.com/s/EDzFOo3gcivOe_RgipkTkQ)
+
+八、xueyuanjun
+
+1. [Go 函数式编程篇（四）：通过高阶函数实现装饰器模式](https://mp.weixin.qq.com/s/WacP4-wvX1zuocDPBaCx6A)
+
+九、FreeWheel
+
+1. [技术天地 | 中台技术解析之 – FreeWheel核心业务团队的测试实践](https://mp.weixin.qq.com/s/i922PtGNs-qd7Er9ztYyzw)
  gocn_news-2021-02-24
 # go-news-set-2021-02-24
 ## gocn_news-2021-02-24
