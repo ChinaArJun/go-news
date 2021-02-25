@@ -1,3 +1,43 @@
+ go语言中文网(每日资讯)-2021-02-25
+# go-news-set-2021-02-25
+## go语言中文网(每日资讯)-2021-02-25
+
+
+一、Go语言中文网
+
+1. [悄悄告诉你：很可能Go 1.17就能尝试泛型](https://mp.weixin.qq.com/s/iapssANWbSvcOX2qEwI2JQ)
+
+2. [Go 1.16 新特性：撤回模块版本，还有另类用法](https://mp.weixin.qq.com/s/wMUV0J8S-c0HFay6t28r5g)
+
+3. [Go 语言实战：命令行（3）CLI 框架](https://mp.weixin.qq.com/s/zPm5_9e3mPN8J71gB0e_Gg)
+
+二、亚军进化史
+
+1. [Go技术日报(2021-02-24)——滴滴：如何提高代码的可读性，以 Go 为例！](https://mp.weixin.qq.com/s/ZSjAVAExWLrqPZuk-t5Rrg)
+
+三、Go招聘
+
+1. [字节跳动招 Go 要求这么低的吗？这么缺人？](https://mp.weixin.qq.com/s/wizc4W9yo0-3hI5s_nh32A)
+
+四、taowen
+
+1. [代码防腐](https://mp.weixin.qq.com/s/85yWLNQmq99SbBopwNd2MQ)
+
+五、k8s技术圈
+
+1. [Prometheus 通过 consul 实现自动服务发现](https://mp.weixin.qq.com/s/8V4HhbVJ4MVqZOZK3Q_RMA)
+
+六、TonyBai
+
+1. [Go 1.16中值得关注的几个变化](https://mp.weixin.qq.com/s/UPNn4G_m0zfvJgWxEVl_Tw)
+
+七、脑子进煎鱼了
+
+1. [最新提案：维持 GOPATH 的传统使用方式（Go1.17 移除 GOPATH）](https://mp.weixin.qq.com/s/AzfKHfs6AOolxutdVpZibw)
+
+八、polarisxu
+
+1. [Go 官方应该搞一个类似 Rustup 的管理工具](https://mp.weixin.qq.com/s/uqKl8u8Tyz1-d0Ew3dpVJQ)
  gocn_news-2021-02-25
 # go-news-set-2021-02-25
 ## gocn_news-2021-02-25
