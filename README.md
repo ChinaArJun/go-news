@@ -1,3 +1,31 @@
+ gocn_news-2021-02-25
+# go-news-set-2021-02-25
+## gocn_news-2021-02-25
+- 1.context 和 struct https://blog.golang.org/context-and-structs 
+- 2.Go 1.17 中将新增对 fuzz test 的支持 https://github.com/golang/go/issues/44551
+
+- 3.aluma 从 C# 转到 Go 进行后端开发的经验 https://aluma.io/resources/blog/switching-from-c-to-go-for-backend-development 
+- 4.快速构建稳固的 Go GraphQL 应用程序 https://github.com/ohler55/graphql-test-tool/blob/develop/example/solid-quick.md
+
+- 5.在 Kubernetes 上快速开发 Go 微服务 https://blog.getambassador.io/go-kubernetes-rapidly-developing-golang-microservices-bfe36cfb5893
+
+
+ gopherDaily-2021-02-25
+# go-news-set-2021-02-25
+## gopherDaily-2021-02-25
+- 1.Go官博：context与struct - https://blog.golang.org/context-and-structs
+- 2.泛型的另一个窘境 - https://matklad.github.io//2021/02/24/another-generic-dilemma.html
+- 3.Go 1.16都有哪些变化 - https://blog.logrocket.com/whats-new-in-go-1-16/
+- 4.拥抱Go 和云原生的日志系统实践 - https://www.infoq.cn/article/FD43uBOtQ4sq1dTAHxpu
+- 5.用Go编写的第二代Matrix家庭服务器 - https://github.com/matrix-org/dendrite
+- 6.为什么我们选自tidb作为mysql的替代品 - https://dzone.com/articles/top-car-trading-platform-chooses-scale-out-database-as-mysql-alternative
+- 7.tailscale官博：module、大单体与微服务 - https://tailscale.com/blog/modules-monoliths-and-microservices/
+- 8.运行时动态构建结构体类型示例 - https://github.com/itsubaki/gostruct
+- 9.https://github.com/itsubaki/gostruct
+- 10.机器学习中数据准备技术的框架 - https://machinelearningmastery.com/framework-for-data-preparation-for-machine-learning/
+- 11.Playstation 2 架构 - https://www.copetti.org/writings/consoles/playstation-2/
+- 12.创建一个oracle的docker容器镜像 - https://dzone.com/articles/create-an-oracle-database-docker-image
+
  go语言中文网(每日资讯)-2021-02-24
 # go-news-set-2021-02-24
 ## go语言中文网(每日资讯)-2021-02-24
