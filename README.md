@@ -1,3 +1,37 @@
+ gocn_news-2021-02-26
+# go-news-set-2021-02-26
+## gocn_news-2021-02-26
+- 1.探索 "io/fs" 提高测试性能和可测试性 https://www.gopherguides.com/articles/golang-1.16-io-fs-improve-test-performance
+
+- 2.Go 还是需要泛型的 https://mp.weixin.qq.com/s/JlNlq8KAZ3jULwkPpXuxzQ
+
+- 3.用 Go 实现事件驱动应用 https://engineering.linecorp.com/zh-hant/blog/20210226-golang-event-driven
+
+- 4.Great video about Pointers in Go https://www.reddit.com/r/golang/comments/lsb9jc/great_video_about_pointers_in_go/
+
+- 5.JSON 互操作性漏洞探析 https://labs.bishopfox.com/tech-blog/an-exploration-of-json-interoperability-vulnerabilities
+
+
+ gopherDaily-2021-02-26
+# go-news-set-2021-02-26
+## gopherDaily-2021-02-26
+- 1.Go 1.16中值得关注的几个变化 - https://mp.weixin.qq.com/s/UPNn4G_m0zfvJgWxEVl_Tw
+- 2.使用io/fs提升测试性能和可测性 - https://www.gopherguides.com/articles/golang-1.16-io-fs-improve-test-performance
+- 3.Go时间与日期格式化完全指南 - https://yourbasic.org/golang/format-parse-string-time-date-example/
+- 4.对低级I/O进行基准测试：C，C ++，Rust，Go，Java，Python - https://medium.com/star-gazers/benchmarking-low-level-i-o-c-c-rust-golang-java-python-9a0d505f85f7
+- 5.Go module管理：实用指南 - https://medium.com/@adiach3nko/package-management-with-go-modules-the-pragmatic-guide-c831b4eaaf31
+- 6.gitlab-ci基础入门 - https://techsquad.rocks/blog/gitlab_ci_basics/
+- 7.在Kubernetes集群上以零停机时间发布和回滚更新 - https://www.fosstechnix.com/rolling-out-and-rolling-back-updates-with-zero-downtime-on-kubernetes-cluster/
+- 8.经典旧文：将happy path向左对齐 - https://medium.com/@matryer/line-of-sight-in-code-186dd7cdea88
+- 9.Go播客：那些不该加入go的提案2 - https://changelog.com/gotime/168
+- 10.clang LTO(Link Time Optimization) 合并(merge)到linux 5.12内核，后者性能将得到提升 - https://git.kernel.org/pub/scm/linux/kernel/git/torvalds/linux.git/commit/?id=79db4d2293eba2ce6265a341bedf6caecad5eeb3
+- 11.如何使用kong gateway的jwt插件实现服务鉴权 - https://konghq.com/blog/jwt-kong-gateway
+- 12.常见的Nginx错误配置使您的Web服务器容易受到攻击 - https://blog.detectify.com/2020/11/10/common-nginx-misconfigurations/
+- 13.Web软件的未来是HTML-over-WebSockets - https://alistapart.com/article/the-future-of-web-software-is-html-over-websockets/
+- 14.终端命令行形式的密钥管理器 - https://github.com/GGP1/kure
+- 15.零依赖的高并发Go应用框架 -https://github.com/autom8ter/machine
+- 16.油管视频：详解Go指针 - https://www.youtube.com/watch?v=sTFJtxJXkaY
+
  go语言中文网(每日资讯)-2021-02-25
 # go-news-set-2021-02-25
 ## go语言中文网(每日资讯)-2021-02-25
