@@ -1,3 +1,47 @@
+ go语言中文网(每日资讯)-2021-02-26
+# go-news-set-2021-02-26
+## go语言中文网(每日资讯)-2021-02-26
+
+
+一、Go语言中文网
+
+1. [类似csv的数据日志组件设计与Go实现](https://mp.weixin.qq.com/s/qCVKQCl-LxUbGyQ7HP0sDg)
+
+2. [Go 并发编程 — 深入浅出 sync.Pool ，围观最全的使用姿势，理解最深刻的原理](https://mp.weixin.qq.com/s/7VKtfZPOuo36OGNFYV-L3g)
+
+二、亚军进化史
+
+1. [Go技术日报(2021-02-25)——悄悄告诉你：很可能 Go 1.17 就能尝试泛型](https://mp.weixin.qq.com/s/mB4vzjCqD64R9_suldVZoQ)
+
+三、Golang技术分享
+
+1. [如何有效地测试Go代码](https://mp.weixin.qq.com/s/_2oqgVaq7vCgMBDWYCASIw)
+
+四、学而思网校技术团队
+
+1. [探索Golang协程实现——从v1.0开始](https://mp.weixin.qq.com/s/rYwN5gZXQVvbQ6NZCHC7cA)
+
+五、云加社区
+
+1. [从Paxos到Raft，分布式一致性算法解析](https://mp.weixin.qq.com/s/JfJ8R8qrT-g6G7MDN9Tk6g)
+
+六、Go招聘
+
+1. [实习生Gopher给大家送一份微芯研究院面经](https://mp.weixin.qq.com/s/m5-vhsqEc0o-tRrTUXfF2Q)
+
+2. [上海扩博智能招Gopher，奖金真不少](https://mp.weixin.qq.com/s/R1vkcT1qnMbQPF3oasY7LA)
+
+七、k8s技术圈
+
+1. [运维架构师与运维开发工程师 - DaoCloud](https://mp.weixin.qq.com/s/0Ns3O1q6aEX-HSPNC9j2Dg)
+
+八、TechPaper
+
+1. [Go 还是需要泛型的](https://mp.weixin.qq.com/s/JlNlq8KAZ3jULwkPpXuxzQ)
+
+九、The Go Blog
+
+1. [Contexts and structs](https://blog.golang.org/context-and-structs)
  gocn_news-2021-02-26
 # go-news-set-2021-02-26
 ## gocn_news-2021-02-26
