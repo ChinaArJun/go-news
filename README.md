@@ -1,3 +1,17 @@
+ gocn_news-2021-02-27
+# go-news-set-2021-02-27
+## gocn_news-2021-02-27
+- 1.Golang 指针讲解
+
+- 2.Go 实现都配置管理 cli COGS https://github.com/Bestowinc/cogs/
+
+- 3.golang os.File 的加密替换文件，存储的文件将具有 768 位加密 https://github.com/kuking/seof
+
+- 4.go 实现的快速，安全，可靠的系统备份 https://github.com/Clivern/Walrus
+
+- 5.Jupyter 交互的 Go 编程 https://github.com/yunabe/lgo
+
+
  go语言中文网(每日资讯)-2021-02-26
 # go-news-set-2021-02-26
 ## go语言中文网(每日资讯)-2021-02-26
