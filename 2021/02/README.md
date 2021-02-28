@@ -1,3 +1,37 @@
+ go语言中文网(每日资讯)-2021-02-28
+# go-news-set-2021-02-28
+## go语言中文网(每日资讯)-2021-02-28
+
+
+一、Go语言中文网
+
+1. [Go语言爱好者周刊：第 84 期 — 有人在写Go泛型图书了](https://mp.weixin.qq.com/s/LdQ1sPIVVm_YAsJvIuy3Lw)
+
+2. [Go 官方应该搞一个类似 Rustup 的管理工具](https://mp.weixin.qq.com/s/OZDmzdC1SMQ7jt-iByhkmA)
+
+3. [一文搞懂 Go 如何利用multipart/form-data实现文件的上传与下载](https://mp.weixin.qq.com/s/OHzXxfcBaf5RNT4dA38LCQ)
+
+二、亚军进化史
+
+1. [Go技术日报(2021-02-27)——关于 context 的一点最佳实践](https://mp.weixin.qq.com/s/wQjMLNMXAPnapm_Xx6E_Rw)
+
+三、新亮笔记
+
+1. [Go - 代码生成工具](https://mp.weixin.qq.com/s/hFasUWIE_mTIIC-tjWUXzg)
+
+四、面向信仰编程
+
+1. [内存管理设计精要 - 面向信仰编程](https://draveness.me//system-design-memory-management)
+
+五、技术琐话
+
+1. [基于Golang的高性能撮合引擎：从思路到MVP](https://mp.weixin.qq.com/s/DvUh0igObcRsyEWrg1NMAw)
+
+六、Golang Weekly
+
+1. [Awesome Go Newsletter - Issue 249, Feb 25, 2021 | LibHunt](https://go.libhunt.com/newsletter/249)
+
+2. [Golang Weekly Issue 351: February 26, 2021](https://golangweekly.com/issues/351)
  gocn_news-2021-02-28
 # go-news-set-2021-02-28
 ## gocn_news-2021-02-28
