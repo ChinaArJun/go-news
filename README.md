@@ -1,3 +1,17 @@
+ gocn_news-2021-03-01
+# go-news-set-2021-03-01
+## gocn_news-2021-03-01
+- 1.常用的分布式唯一 ID 生成方案 https://mp.weixin.qq.com/s/BNCaeEu-XRqbR-z6VM1QPg
+
+- 2.高并发系统的限流策略：漏桶和令牌桶 (附源码剖析) https://mp.weixin.qq.com/s/fURwiSTeEE_Wvc95Q_fHnA
+
+- 3.Golang 语言怎么处理错误？ https://mp.weixin.qq.com/s/DUvLkO5tLUCOp2IeVjgbeg
+
+- 4.Kubernetes 节点资源不足的高效管理 https://medium.com/kubernetes-tutorials/efficient-node-out-of-resource-management-in-kubernetes-67f158da6e59
+
+- 5.简单的本地 go git-crypt 实现 https://github.com/jbuchbinder/go-git-crypt
+
+
  go语言中文网(每日资讯)-2021-03-01
 # go-news-set-2021-03-01
 ## go语言中文网(每日资讯)-2021-03-01
