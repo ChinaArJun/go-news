@@ -1,3 +1,17 @@
+ gocn_news-2021-03-02
+# go-news-set-2021-03-02
+## gocn_news-2021-03-02
+- 1.寻找 Go 依赖中的那个邪恶包 https://michenriksen.com/blog/finding-evil-go-packages/
+
+- 2.使用 Go + Kqueue 实现一个简单的 TCP Server https://dev.to/frosnerd/writing-a-simple-tcp-server-using-kqueue-cah
+
+- 3.感受下适配器模式的优势 https://www.hildeberto.com/2021/02/adapter-go-redis.html
+
+- 4.用 Go 实现 NATs 模式下的实时订阅 https://medium.com/swlh/nats-keep-alive-subscription-in-golang-a80073949371
+
+- 5.Go 范型使用介绍 https://quii.gitbook.io/learn-go-with-tests/meta/intro-to-generics
+
+
  gocn_news-2021-03-01
 # go-news-set-2021-03-01
 ## gocn_news-2021-03-01
