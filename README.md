@@ -1,3 +1,43 @@
+ go语言中文网(每日资讯)-2021-03-02
+# go-news-set-2021-03-02
+## go语言中文网(每日资讯)-2021-03-02
+
+
+一、Go语言中文网
+
+1. [惊！Go 编写的恶意软件剧增 2000%!!(MISSING)](MISSING)(https://mp.weixin.qq.com/s/JtX9ltxHjBm7u3f4h9Nk9Q)
+
+2. [gin框架的几种热加载方法，你值得拥有](https://mp.weixin.qq.com/s/09k6MDYyvJn3tWOqZvJY0Q)
+
+3. [通过实例理解Go标准库http包是如何处理keep-alive连接的](https://mp.weixin.qq.com/s/APjWx-im0LVHdjJt9UkPHw)
+
+二、亚军进化史
+
+1. [Go技术日报(2021-03-01)——常用的分布式唯一 ID 生成方案](https://mp.weixin.qq.com/s/g8cuCA8Ac_wn4hS8kLs2IQ)
+
+三、Go招聘
+
+1. [鹅厂游戏业务招Go这要求，你符合吗？](https://mp.weixin.qq.com/s/Vzeo6YKSArYq29d4WrDflw)
+
+四、CloudNativeCommunity
+
+1. [2021年 Istio 大型“入坑”指南](https://mp.weixin.qq.com/s/WwB49tVZibBEkKOkCVwrBw)
+
+五、真没什么逻辑
+
+1. [内存管理设计精要](https://mp.weixin.qq.com/s/lx0vX-4wlQWxxfj017T9HA)
+
+六、Golang梦工厂
+
+1. [空结构体引发的大型打脸现场](https://mp.weixin.qq.com/s/dNeCIwmPei2jEWGF6AuWQw)
+
+七、mohuishou
+
+1. [Go工程化(四) API 设计上: 项目结构 & 设计](https://lailin.xyz/post/go-training-week4-api-design.html)
+
+八、No Headback
+
+1. [why do we need generics?](https://xargin.com/why-do-we-need-generics/)
  gocn_news-2021-03-02
 # go-news-set-2021-03-02
 ## gocn_news-2021-03-02
