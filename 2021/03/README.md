@@ -1,3 +1,16 @@
+ gocn_news-2021-03-03
+# go-news-set-2021-03-03
+## gocn_news-2021-03-03
+- 1.比 panic 更好的错误处理方式 https://tiemma.medium.com/why-is-go-panicking-31ba2351986b
+
+- 2.golang 实现京东支付 v2 版本 https://segmentfault.com/a/1190000039322439
+
+- 3.空结构体引发的大型打脸现场  https://mp.weixin.qq.com/s/dNeCIwmPei2jEWGF6AuWQw
+
+- 4.TiDB 5.0 跨中心部署能力初探 | 中心化还是去中心化？揭秘 TiDB 5.0 事务分布式授时模块 https://gocn.vip/topics/11727 
+- 5.一个 Go 编写的简易文本编辑器 https://github.com/hibiken/mini
+
+
  go语言中文网(每日资讯)-2021-03-02
 # go-news-set-2021-03-02
 ## go语言中文网(每日资讯)-2021-03-02
