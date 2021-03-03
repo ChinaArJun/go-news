@@ -1,3 +1,47 @@
+ go语言中文网(每日资讯)-2021-03-03
+# go-news-set-2021-03-03
+## go语言中文网(每日资讯)-2021-03-03
+
+
+一、Go语言中文网
+
+1. [构建微服务的十大 Go 框架/库](https://mp.weixin.qq.com/s/_i31PW_lhuYxKbRM-a8wEA)
+
+2. [超长好文：结合 Java、Go 等讲内存管理设计精要](https://mp.weixin.qq.com/s/0Xhlxm2uZL2I7XHWf3cq1A)
+
+3. [Go 并发编程 — sync.Pool 源码级原理剖析 [2] 终结篇](https://mp.weixin.qq.com/s/bQ2JejnZ4-CZUJlKRTgp8Q)
+
+二、亚军进化史
+
+1. [Go技术日报(2021-03-02)——Go 范型使用介绍](https://mp.weixin.qq.com/s/OUTn4Iw2JARU6p5PPE3Znw)
+
+三、脑子进煎鱼了
+
+1. [令人激动！Go 泛型代码合入 master（附尝鲜方法）](https://mp.weixin.qq.com/s/8kINGyGTYOkNcGEymWK3jQ)
+
+四、Go招聘
+
+1. [360 加大 Go 招聘，Go 形势大好！你来吗？](https://mp.weixin.qq.com/s/gjx3gz6ngTN1d6Sew1nc-w)
+
+五、转角遇到GitHub
+
+1. [微软真棒：出 Go 语言教程了](https://mp.weixin.qq.com/s/7bbJEgmE7LPRpBCVNw_Hcg)
+ gopherDaily-2021-03-03
+# go-news-set-2021-03-03
+## gopherDaily-2021-03-03
+- 1.使用Go 1.16创建一个自包含的Blog服务器 - https://www.brian.dev/self-contained-blog-server-with-go-1-16/
+- 2.使用Go实现定制的linter - https://www.patriscus.com/projects/custom-go-linter/
+- 3.Go算法：矩阵的螺旋遍历 - https://habr.com/en/post/543618/
+- 4.使用gorm操控数据库 - https://blog.feurious.com/total-database-control-in-go-with-gorm
+- 5.使用Go实现大小端(Endianness)转换 - https://ariona.fr/blog/posts/2021/golang-sec-1-endian/
+- 6.通用OPA策略开发 - https://itnext.io/universal-opa-policies-development-a3f88226e3d5
+- 7.微软：迈出使用Go语言的第一步系列 - https://docs.microsoft.com/en-us/learn/paths/go-first-steps/
+- 8.Ristretto-Go中性能最高的并发缓存库 - https://webdevstation.com/posts/ristretto-the-most-performant-concurrent-cache-library-for-go/
+- 9.K8集群设计的OpenShift安全最佳实践 - https://www.stackrox.com/post/2020/11/openshift-security-best-practices-part-1-of-5-cluster-design/
+- 10.如何阅读汇编代码 - https://wolchok.org/posts/how-to-read-assembly-language/
+- 11.DDD被高估 - https://tilkov.com/post/2021/03/01/ddd-is-overrated/
+- 12.redhat 2021年企业开源状况报告 - https://www.redhat.com/rhdc/managed-files/rh-enterprise-open-source-report-f27565-202101-en.pdf
+
  gocn_news-2021-03-03
 # go-news-set-2021-03-03
 ## gocn_news-2021-03-03
