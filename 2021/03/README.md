@@ -1,3 +1,45 @@
+ go语言中文网(每日资讯)-2021-03-04
+# go-news-set-2021-03-04
+## go语言中文网(每日资讯)-2021-03-04
+
+
+一、Go语言中文网
+
+1. [Goroutine 的切换过程涉及了什么](https://mp.weixin.qq.com/s/r0y4Fweq-YGo1FZrsNsl3A)
+
+2. [Go：以单件方式创建和获取数据库实例](https://mp.weixin.qq.com/s/noo1C6fYzOQV2PCRZLis9w)
+
+二、亚军进化史
+
+1. [Go技术日报(2021-03-03)——微软真棒：出 Go 语言教程了](https://mp.weixin.qq.com/s/BMcmVU-4SLjnm83t5abJnw)
+
+三、polarisxu
+
+1. [一文快速了解 Go+，还有机会和创始人面基](https://mp.weixin.qq.com/s/wL4GQGTdgGzhtgCVsqnS_Q)
+
+四、TechPaper
+
+1. [Go mod 之痛](https://mp.weixin.qq.com/s/ihtvAyJLtwvAXVkBuqL8kw)
+
+五、网管叨bi叨
+
+1. [Kubernetes群集的零停机服务器更新](https://mp.weixin.qq.com/s/ThwQ7WaczaydO2ppkGh08A)
+
+六、Golang来啦
+
+1. [图解Go语言Context](https://mp.weixin.qq.com/s/SuYSo_APH2viuWiVxezyVQ)
+
+七、多颗糖
+
+1. [【MIT 6.824】学习笔记 3: GFS](https://mp.weixin.qq.com/s/vKsGSciBt14cOn8-5qHk0g)
+
+八、PingCAP
+
+1. [Chaos Mesh® 的 Chaos Engineering as a Service 探索之路](https://mp.weixin.qq.com/s/QbpvyDmSz0r-K20DhMibQw)
+
+九、Go招聘
+
+1. [想跟Gorm作者做同事嘛？一起来字节做性能分析平台吧！](https://mp.weixin.qq.com/s/r_0C9q-Tl7VPW-gyQ6ivuQ)
  gocn_news-2021-03-04
 # go-news-set-2021-03-04
 ## gocn_news-2021-03-04
