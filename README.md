@@ -1,3 +1,17 @@
+ gocn_news-2021-03-04
+# go-news-set-2021-03-04
+## gocn_news-2021-03-04
+- 1.Go 实现 LRU Cache https://dev.to/clavinjune/lru-cache-in-go-1cfk
+
+- 2.如何在 Go 编写无错误的 Goroutine https://itnext.io/how-to-write-bug-free-goroutines-in-go-golang-59042b1b63fb
+
+- 3.从实践到原理，带你参透 gRPC https://eddycjy.com/posts/go/talk/2019-06-29-talking-grpc/
+
+- 4.使用 Go 1.16 创建一个自包含的 Blog 服务器 https://www.brian.dev/self-contained-blog-server-with-go-1-16/
+
+- 5.Go WebAssembly 运行时引擎 https://github.com/wasmerio/wasmer-go
+
+
  go语言中文网(每日资讯)-2021-03-03
 # go-news-set-2021-03-03
 ## go语言中文网(每日资讯)-2021-03-03
