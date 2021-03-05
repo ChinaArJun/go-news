@@ -1,3 +1,43 @@
+ go语言中文网(每日资讯)-2021-03-05
+# go-news-set-2021-03-05
+## go语言中文网(每日资讯)-2021-03-05
+
+
+一、Go语言中文网
+
+1. [Go：使用 Delve 和 Core Dump 调试代码](https://mp.weixin.qq.com/s/bwC12L1_h0Vl4e1wk50Fjw)
+
+2. [图解Go语言Context](https://mp.weixin.qq.com/s/i3kFGzbaCT9uwdF1Rd3Hpw)
+
+3. [boss: 这小子还不会使用validator库进行数据校验，开了～](https://mp.weixin.qq.com/s/rleIt9uVn0-OobCuOhnlqQ)
+
+二、亚军进化史
+
+1. [Go技术日报(2021-03-04)——一文快速了解 Go+，还有机会和创始人面基](https://mp.weixin.qq.com/s/fS2lzlVIJ8eKHsKeKCyTCA)
+
+三、Go招聘
+
+1. [【上海招聘】数据隐私很重要：招 gopher 保驾护航](https://mp.weixin.qq.com/s/NZmCcj5Pf2PvPCEP4Lsj-Q)
+
+四、学而思网校技术团队
+
+1. [解读从HTTP1.1到HTTP3的进化过程](https://mp.weixin.qq.com/s/COrEqpciflmRBLQykEfZDA)
+
+五、k8s技术圈
+
+1. [Kubernetes 原生 CI/CD 构建框架 Argo 详解！](https://mp.weixin.qq.com/s/Rxq4cTIq-5AIC-k1DWYAMQ)
+
+六、脑子进煎鱼了
+
+1. [Go 面试题： new 和 make 是什么，差异在哪？](https://mp.weixin.qq.com/s/tZg3zmESlLmefAWdTR96Tg)
+
+七、奇伢云存储
+
+1. [Linus Torvalds 命名 [ 冰封荒原 ] 版 Linux 内核的思考](https://mp.weixin.qq.com/s/xZsxYhUmZV5-vrAD6Cb8Bw)
+
+八、MoeLove
+
+1. [K8S 生态周报| Docker v20.10.5 发布，修复 Bug 及提升稳定性](https://mp.weixin.qq.com/s/3LPNJDiBRpRZd09kK3J0XQ)
  go语言中文网(每日资讯)-2021-03-04
 # go-news-set-2021-03-04
 ## go语言中文网(每日资讯)-2021-03-04
