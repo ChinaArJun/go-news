@@ -1,3 +1,31 @@
+ gocn_news-2021-03-06
+# go-news-set-2021-03-06
+## gocn_news-2021-03-06
+- 1.Go channel 的妙用 https://gocn.vip/topics/11747
+
+- 2.详解 Go 反射并实战一例 https://mp.weixin.qq.com/s/V2hcadvRmjy6Lr9bUoBLmw
+
+- 3.Deep Learning 部署 TVM Golang 运行时 Runtime https://blog.51cto.com/15103030/2648898
+
+- 4.Golang+chromedp+goquery 简单爬取动态数据 https://www.cnblogs.com/xiaomotong/p/14488865.html
+
+- 5.GoLang+Elasticsearch 普通分页过滤查询 https://blog.51cto.com/15103030/2649175
+
+
+ gopherDaily-2021-03-06
+# go-news-set-2021-03-06
+## gopherDaily-2021-03-06
+- 1.Go中的5个常见错误：初学者在编写Go时错过的好模式列表 - https://deepsource.io/blog/common-mistakes-in-go/
+- 2.Go事件溯源(event sourcing)框架 - https://github.com/eventually-rs/eventually-go
+- 3.在Red Hat Enterprise Linux上使用delve调试Go程序 - https://developers.redhat.com/blog/2021/03/03/using-delve-to-debug-go-programs-on-red-hat-enterprise-linux/
+- 4.油管视频：使用WebRTC实现一个在线浏览器多人游戏 - https://www.youtube.com/watch?v=PLmauY3ky4g
+- 5.油管视频：解开Kubernetes网络策略的神秘面纱 - https://www.youtube.com/watch?v=LoljdaEaHjY&t=100s
+- 6.使用Go、grpc、kafka等实现整洁架构 - https://dev.to/aleksk1ng/go-kafka-grpc-and-mongodb-microservice-with-metrics-and-tracing-448d
+- 7.使用Go将文字嵌入图片中 - https://josemyduarte.github.io/2021-02-28-quotes-on-images-with-go/
+- 8.关于基于Go的恶意软件，您需要了解什么 - https://nationalcybersecuritynews.today/what-you-need-to-know-about-golang-based-malware-malware-ransomware-hacking/
+- 9.观点：自服务的k8s namespace将改变游戏规则 - https://itnext.io/self-service-kubernetes-namespaces-are-a-game-changer-19bd2f59f06b
+- 10.git项目中被禁止使用的C函数 - https://github.com/git/git/blob/master/banned.h
+
  go语言中文网(每日资讯)-2021-03-05
 # go-news-set-2021-03-05
 ## go语言中文网(每日资讯)-2021-03-05
