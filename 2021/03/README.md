@@ -1,3 +1,35 @@
+ go语言中文网(每日资讯)-2021-03-06
+# go-news-set-2021-03-06
+## go语言中文网(每日资讯)-2021-03-06
+
+
+一、Go语言中文网
+
+1. [使用Go进行日志分析并生成excel,再也不担心做日志分析了](https://mp.weixin.qq.com/s/MGeM8XfaIpKSwh9cL5Ti-A)
+
+2. [详解 Go 反射并实战一例](https://mp.weixin.qq.com/s/V2hcadvRmjy6Lr9bUoBLmw)
+
+二、亚军进化史
+
+1. [Go技术日报(2021-03-05)——Go 面试题： new 和 make 是什么，差异在哪？](https://mp.weixin.qq.com/s/JygINRQJj6swuUcuwVw-lA)
+
+三、k8s技术圈
+
+1. [基于 Kubernetes 的微服务项目设计与实现](https://mp.weixin.qq.com/s/AMWjZuJxYVAvHEKznxt-2w)
+
+四、polarisxu
+
+1. [【内推】一大波 Go 相关职位涌来：金山办公 wps 招聘](https://mp.weixin.qq.com/s/zt2RJwCst7Back7k8IKZfg)
+
+五、Go招聘
+
+1. [955 不加班公司名单](https://mp.weixin.qq.com/s/DfrwMYrTWsQaB9RQKHwySg)
+
+六、mohuishou
+
+1. [Go工程化(五) API 设计下: 基于 protobuf 自动生成 gin 代码](https://lailin.xyz/post/go-training-week4-protoc-gen-go-gin.html)
+
+2. [Go工程化(六) 配置管理 - Mohuishou](https://lailin.xyz/post/go-training-week4-config.html)
  gocn_news-2021-03-06
 # go-news-set-2021-03-06
 ## gocn_news-2021-03-06
