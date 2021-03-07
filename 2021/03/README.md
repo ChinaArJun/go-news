@@ -1,3 +1,47 @@
+ go语言中文网(每日资讯)-2021-03-07
+# go-news-set-2021-03-07
+## go语言中文网(每日资讯)-2021-03-07
+Go相关公众号文章每日推荐【2021-03-07】
+
+一、Go语言中文网
+
+1. [Go语言爱好者周刊：第 85 期 — 女神节快乐](https://mp.weixin.qq.com/s/OQDZSSIMcDhC1IAylyZNLQ)
+
+2. [如何快速成为go语言 contributor](https://mp.weixin.qq.com/s/ITJeSW-kUT5SFAhAaTt0cg)
+
+二、亚军进化史
+
+1. [Go技术日报(2021-03-06)——955 不加班公司名单](https://mp.weixin.qq.com/s/sgzDHFb4PcwbGdBU2huNFQ)
+
+三、吴亲强的深夜食堂
+
+1. [Go 语言的参数传递](https://mp.weixin.qq.com/s/lOQHBJ-oUf9YsnGw4zkmig)
+
+四、luozhiyun很酷
+
+1. [Go中定时器实现原理及源码解析](https://mp.weixin.qq.com/s/B83rfy9nkO4w0_FjyFn4MQ)
+
+五、新亮笔记
+
+1. [管理认知（一）](https://mp.weixin.qq.com/s/gufAKJWDcRQA0vgRFTwcmw)
+
+六、mohuishou
+
+1. [Go工程化(七) Go Module](https://mp.weixin.qq.com/s/w7-usetlAnfpnFmfJNb7rw)
+
+七、polarisxu
+
+1. [Go 项目中代码组织的两种模式](https://mp.weixin.qq.com/s/MB9TDhiZi9vuSnOBX-XdoQ)
+
+八、Go招聘
+
+1. [Go Interview Weekly - 2021/03/07](https://mp.weixin.qq.com/s/u2UDE_g2_zgvvHeFs6ej4Q)
+
+九、GolangWeekly
+
+1. [Awesome Go Newsletter - Issue 250, Mar 04, 2021 | LibHunt](https://go.libhunt.com/newsletter/250)
+
+2. [Golang Weekly Issue 352: March 5, 2021](https://golangweekly.com/issues/352)
  gocn_news-2021-03-07
 # go-news-set-2021-03-07
 ## gocn_news-2021-03-07
