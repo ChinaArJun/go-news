@@ -1,3 +1,31 @@
+ gocn_news-2021-03-08
+# go-news-set-2021-03-08
+## gocn_news-2021-03-08
+- 1.Go 分布式定时任务框架 https://segmentfault.com/a/1190000039361384
+
+- 2.Go 问题：字符串 len==0 和字符串== "" 有啥区别？ https://mp.weixin.qq.com/s/rMygbfaLAF5NF206uEUJKA
+
+- 3.手撸 golang GO 与微服务 ChatServer 之 2 https://segmentfault.com/a/1190000039362149
+
+- 4.Go 项目中代码组织的两种模式 https://mp.weixin.qq.com/s/MB9TDhiZi9vuSnOBX-XdoQ
+
+- 5.Docker 容器技术搭建百万并发压测环境 https://mp.weixin.qq.com/s/xbzNpVyOrCD7KWA1Ng3emA
+
+
+ gopherDaily-2021-03-08
+# go-news-set-2021-03-08
+## gopherDaily-2021-03-08
+- 1.使用Go构建Web前端 - https://philippta.github.io/web-frontends-in-go/
+- 2.Go并发模式：pipeline - https://yuliangunawan19.medium.com/go-concurrency-pattern-pipelines-5935ffaf33fb
+- 3.带语法高亮的go doc - https://github.com/ravener/gopherdoc
+- 4.将CockroachDB从dep迁移到go module - https://www.cockroachlabs.com/blog/dep-go-modules/
+- 5.Go错误、panic和recover - https://dev.to/seventech/error-panic-and-recover-in-golang-486l
+- 6.k8s本地开发环境候选者比较 - https://itnext.io/kubernetes-local-playground-alternatives-e1a590632b9f
+- 7.油管视频：探索k3s和k3sup - https://www.youtube.com/watch?v=_1kEF-Jd9pw
+- 8.在k8s内运行ghost博客实战 - https://blog.appstack.one/how-to-run-ghost-blog-inside-kubernetes/
+- 9.如何备份fabric区块链网络 - https://allyourfeeds.com/blockchain/news/how-to-take-a-backup-for-your-hyperledger-fabric-network
+- 10.hyperledger介绍2021版 - https://decrypt.co/resources/hyperledger
+
  go语言中文网(每日资讯)-2021-03-07
 # go-news-set-2021-03-07
 ## go语言中文网(每日资讯)-2021-03-07
