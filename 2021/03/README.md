@@ -1,3 +1,49 @@
+ go语言中文网(每日资讯)-2021-03-08
+# go-news-set-2021-03-08
+## go语言中文网(每日资讯)-2021-03-08
+
+
+一、Go语言中文网
+
+1. [我是如何在 Go 中构建 Web 服务的](https://mp.weixin.qq.com/s/lrG-sakk5EfMSLfoJV-Hyw)
+
+2. [Go垃圾回收系列之二：标记准备](https://mp.weixin.qq.com/s/UjGmc9SkUlI48Gl3yVGlSA)
+
+二、亚军进化史
+
+1. [Go技术日报(2021-03-07)——Go 工程化(七) Go Module](https://mp.weixin.qq.com/s/u1jlP2e5rDuy0D4lkcaUYQ)
+
+三、脑子进煎鱼了
+
+1. [问个 Go 问题，字符串 len == 0 和 字符串== &quot;&quot; ，有啥区别？](https://mp.weixin.qq.com/s/rMygbfaLAF5NF206uEUJKA)
+
+四、mohuishou
+
+1. [Go并发编程(一) goroutine](https://mp.weixin.qq.com/s/NJCXUit5tuISl4WSkT5hpA)
+
+2. [Go并发编程(二) Go 内存模型](https://mp.weixin.qq.com/s/toN5tUXnF6sExPb0d78jxQ)
+
+3. [Go并发编程(三) data race](https://mp.weixin.qq.com/s/BYOYE6KCtcuKoI3fCjcO7A)
+
+五、转角遇到GitHub
+
+1. [NutsDB：又一个 Go  内嵌型 K/V 数据库](https://mp.weixin.qq.com/s/8sCNEwchLseycZQh5-oAWQ)
+
+六、taowen
+
+1. [打造杰出软件开发团队的12条指导建议](https://mp.weixin.qq.com/s/fdsczP9vB0XFWMdwtChyEQ)
+
+七、微服务实践
+
+1. [还在用crontab? 分布式定时任务了解一下](https://mp.weixin.qq.com/s/liZl74BeSH56fzqAwjsFeA)
+
+八、k8s技术圈
+
+1. [Kubernetes 原生 CI/CD 构建框架 Tekton 详解！](https://mp.weixin.qq.com/s/jokzB9MgyAl6ZfxJbbgxnQ)
+
+九、五分选手
+
+1. [Go reflection 三定律与最佳实践](https://mp.weixin.qq.com/s/uGWQLTQuZDZokVNmwwA7bA)
  gocn_news-2021-03-08
 # go-news-set-2021-03-08
 ## gocn_news-2021-03-08
