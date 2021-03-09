@@ -1,3 +1,41 @@
+ go语言中文网(每日资讯)-2021-03-09
+# go-news-set-2021-03-09
+## go语言中文网(每日资讯)-2021-03-09
+
+
+一、Go语言中文网
+
+1. [Go：死锁是如何触发的？](https://mp.weixin.qq.com/s/ZezoXyGn0HA-8j7yForU6Q)
+
+2. [Go垃圾回收系列之三：并行标记执行模式](https://mp.weixin.qq.com/s/QwZLXfKpFU1OvrJJvsjlzA)
+
+二、亚军进化史
+
+1. [Go技术日报(2021-03-08)——Go 并发编程(一) goroutine](https://mp.weixin.qq.com/s/r4O9hJSYAI8I9k0iLbRvVA)
+
+三、真没什么逻辑
+
+1. [Facebook 集群调度管理系统 · OSDI 2020](https://mp.weixin.qq.com/s/9ge-Ro79sl63k0lSuiE2Yw)
+
+四、k8s技术圈
+
+1. [MongoDB 常用运维实践总结](https://mp.weixin.qq.com/s/CZEOpI2WSKZH-FdT4zvJFQ)
+
+五、CloudNativeCommunity
+
+1. [网络研讨会视频 &amp; PPT 分享 | GitOps 及 OAM 的落地实践](https://mp.weixin.qq.com/s/3O9QDnQE4X56d4mXZ9R2zg)
+
+六、mohuishou
+
+1. [Go工程化(八) 单元测试](https://mp.weixin.qq.com/s/UBCiGXGA8DA0V_jegB0VGQ)
+
+2. [Go工程化(二) 项目目录结构](https://mp.weixin.qq.com/s/_yCG3hs3iFxZVUQ6YMhpaA)
+
+3. [Go工程化(一) 架构整洁之道阅读笔记](https://mp.weixin.qq.com/s/XwrLHuWyo0lypT1NGaRh7A)
+
+七、Go招聘
+
+1. [单身的Gopher快来‘探探’路](https://mp.weixin.qq.com/s/wCMKDJfcZQ0gAaLIjqXr7A)
  gocn_news-2021-03-09
 # go-news-set-2021-03-09
 ## gocn_news-2021-03-09
