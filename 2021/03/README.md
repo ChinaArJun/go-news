@@ -1,3 +1,17 @@
+ gocn_news-2021-03-09
+# go-news-set-2021-03-09
+## gocn_news-2021-03-09
+- 1.从 bug 中学习：六大开源项目告诉你 go 并发编程的那些坑 https://mp.weixin.qq.com/s/FDV77dO9nwtPltmx5cB7Lw
+
+- 2.从 MPG 线程模型，探讨 Go 语言的并发程序 https://segmentfault.com/a/1190000039371156
+
+- 3.手撸 golang GO 与微服务 ChatServer 之 3 压测与诊断 https://segmentfault.com/a/1190000039370281
+
+- 4.Go reflection 三定律与最佳实践 https://mp.weixin.qq.com/s/uGWQLTQuZDZokVNmwwA7bA
+
+- 5.生成艺术图的 Go 库 https://github.com/jdxyw/generativeart
+
+
  go语言中文网(每日资讯)-2021-03-08
 # go-news-set-2021-03-08
 ## go语言中文网(每日资讯)-2021-03-08
