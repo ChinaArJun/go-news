@@ -1,3 +1,37 @@
+ go语言中文网(每日资讯)-2021-03-10
+# go-news-set-2021-03-10
+## go语言中文网(每日资讯)-2021-03-10
+
+
+一、Go语言中文网
+
+1. [360 加大 Go 招聘，Go 形势大好！你来吗？](https://mp.weixin.qq.com/s/F5SP2s1PrEHx_3IyszCC1Q)
+
+2. [Go垃圾回收系列之四：根对象与全局扫描](https://mp.weixin.qq.com/s/UzfOqRY7DSUC9qCoN9CJPA)
+
+二、亚军进化史
+
+1. [Go技术日报(2021-03-09)——从 MPG 线程模型，探讨 Go 语言的并发程序](https://mp.weixin.qq.com/s/VWgx8_NWxBgTAtij81g4Tw)
+
+三、polarisxu
+
+1. [polarisxu 对话无闻](https://mp.weixin.qq.com/s/RZdSx8C36QdG59XdqQ2svg)
+
+四、腾讯技术工程
+
+1. [2021 有哪些不容错过的后端技术趋势](https://mp.weixin.qq.com/s/EuqJ2Q9CAWSJ0rTc_p_gjg)
+
+五、网管叨bi叨
+
+1. [如何优雅地关闭Kubernetes集群中的Pod](https://mp.weixin.qq.com/s/fbQ2vdJ4bDJdOrhNFChOsQ)
+
+六、Gopher指北
+
+1. [今天看了一道很有意思的切片输出面试题](https://mp.weixin.qq.com/s/G8MrTgwH88ABB-OOYreXIA)
+
+七、Go招聘
+
+1. [计算机系统最底层、最具挑战的领域招 Go，敢不敢来？](https://mp.weixin.qq.com/s/N8J7V_GHjXR5F7bpJH2wLg)
  gocn_news-2021-03-10
 # go-news-set-2021-03-10
 ## gocn_news-2021-03-10
