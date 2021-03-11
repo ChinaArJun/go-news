@@ -1,3 +1,45 @@
+ go语言中文网(每日资讯)-2021-03-11
+# go-news-set-2021-03-11
+## go语言中文网(每日资讯)-2021-03-11
+
+
+一、Go语言中文网
+
+1. [虽然有争议，但 Go 还是需要泛型的](https://mp.weixin.qq.com/s/UEGI0Zl6XuSGLDzMG6tnng)
+
+2. [白话Go内存模型：Happen-Before](https://mp.weixin.qq.com/s/vTQWxScEo4u6zaFHY9hQ0A)
+
+3. [Go 语言的参数传递](https://mp.weixin.qq.com/s/6EkOBPhSDo5GWlteiH-RZA)
+
+二、亚军进化史
+
+1. [Go技术日报(2021-03-10)——2021 有哪些不容错过的后端技术趋势](https://mp.weixin.qq.com/s/1KdZLOEKS6Llu_GYeV53kA)
+
+三、polarisxu
+
+1. [快一个月，Go1.16 才发现了比较严重的 Bug，但这个 Bug 有点 Low。。。](https://mp.weixin.qq.com/s/AddZm8qaWBY-Hgexq6tWkA)
+
+四、Go招聘
+
+1. [什么？腾讯招前端竟然希望熟悉 Go](https://mp.weixin.qq.com/s/a_fYCkgzmVkieU8YvreJ-w)
+
+五、分布式实验室
+
+1. [容器网络其实并不难](https://mp.weixin.qq.com/s/1hyCPrDb88q-kPSFaP-TPA)
+
+六、mohuishou
+
+1. [Go工程化(九) 项目重构实践](https://mp.weixin.qq.com/s/fZBh6QyRbV7O-rgyoOJblg)
+
+七、The Go Blog
+
+1. [Go Developer Survey 2020 Results](https://blog.golang.org/survey2020-results)
+
+八、k8s技术圈
+
+1. [k8s调度器启动流程分析 | 视频文字稿](https://mp.weixin.qq.com/s/olfA6Ty1vjkRGLj1KudUEw)
+
+2. [k8s调度器启动流程分析](https://mp.weixin.qq.com/s/qmgMdrC8LxEUdyHW1J_aXA)
  gocn_news-2021-03-11
 # go-news-set-2021-03-11
 ## gocn_news-2021-03-11
