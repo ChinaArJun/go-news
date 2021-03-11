@@ -1,3 +1,33 @@
+ gocn_news-2021-03-11
+# go-news-set-2021-03-11
+## gocn_news-2021-03-11
+- 1.Go 1.16.1/1.15.9 版本发布，修复两处安全问题 https://groups.google.com/g/golang-announce/c/MfiLYjG-RAw/m/zzhWj5jPAQAJ
+
+- 2.2020 年 Go 开发者调研结果公开 https://blog.golang.org/survey2020-results
+
+- 3.Golang 在即刻后端的实践 https://mp.weixin.qq.com/s/cepoYJR5Xeloan31-D1iQg
+
+- 4.netaddr.IP: 一个新 Go IP 地址类型 https://tailscale.com/blog/netaddr-new-ip-type-for-go/
+
+- 5.使用 Godot 和 Nakama 构建在线多人游戏 https://heroiclabs.com/blog/announcements/godot-fishgame/
+
+
+ gopherDaily-2021-03-11
+# go-news-set-2021-03-11
+## gopherDaily-2021-03-11
+- 1.Go与eBPF入门 - https://networkop.co.uk/post/2021-03-ebpf-intro/
+- 2.Go 1.16.1和Go 1.15.9发布 - https://groups.google.com/g/golang-announce/c/MfiLYjG-RAw/m/zzhWj5jPAQAJ?pli=1
+- 3.使用Go实现gRPC长期流式传输(long-lived streaming) - https://dev.bitolog.com/grpc-long-lived-streaming/
+- 4.netaddr.IP：Go的新IP地址类型 - https://tailscale.com/blog/netaddr-new-ip-type-for-go/
+- 5.使用flag.Func(Go 1.16引入)自定义命令行标志 - https://www.alexedwards.net/blog/custom-command-line-flags
+- 6.cosign: 为镜像库中的容器签名，验证和存储, sigstore子项目 - https://github.com/sigstore/cosign
+- 7.在Go中创建证书颁发机构(CA)和签名证书 - https://shaneutt.com/blog/golang-ca-and-signed-cert-go/
+- 8.接纳Kubernetes需要转变思维方式（第1部分） - https://www.thoughtworks.com/insights/blog/mindset-shift-needed-kubernetes-adoption-part-1
+- 9.Go语言的mTLS入门指南 - https://venilnoronha.io/a-step-by-step-guide-to-mtls-in-go
+- 10.在k8s上根据rabbitmq中消息数量自动扩展Celery - https://learnk8s.io/scaling-celery-rabbitmq-kubernetes
+- 11.人工智能神经网络中的多模态神经元 by openai - https://openai.com/blog/multimodal-neurons/
+- 12.使用basecamp规划我的生活 - https://world.hey.com/tassia/how-i-use-basecamp-to-organize-my-life-3e71de07
+
  go语言中文网(每日资讯)-2021-03-10
 # go-news-set-2021-03-10
 ## go语言中文网(每日资讯)-2021-03-10
