@@ -1,3 +1,18 @@
+ gocn_news-2021-03-12
+# go-news-set-2021-03-12
+## gocn_news-2021-03-12
+- 1.Go 1.16.2 and Go 1.15.10 发布
+https://groups.google.com/g/golang-announce/c/ZWvSr9XM4wM
+
+- 2.WebAssembly + Go 系列（2）WASI，WebAssembly 不止于 Web https://segmentfault.com/a/1190000039397525
+
+- 3.Dolt 像 Git 一样操作数据库 https://github.com/dolthub/dolt
+
+- 4.有道 Kubernetes 容器 API 监控系统设计和实践 https://segmentfault.com/a/1190000039390685
+
+- 5.Go 一步步实现 TLS 双向认证 https://venilnoronha.io/a-step-by-step-guide-to-mtls-in-go
+
+
  go语言中文网(每日资讯)-2021-03-11
 # go-news-set-2021-03-11
 ## go语言中文网(每日资讯)-2021-03-11
