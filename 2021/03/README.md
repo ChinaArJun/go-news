@@ -1,3 +1,31 @@
+ go语言中文网(每日资讯)-2021-03-13
+# go-news-set-2021-03-13
+## go语言中文网(每日资讯)-2021-03-13
+
+
+一、Go语言中文网
+
+1. [Go 官方 2020 年开发者调查报告](https://mp.weixin.qq.com/s/mw3ktRLNL9H4m32Es_nU_A)
+
+2. [Kubernetes 稳定性保障手册 -- 极简版](https://mp.weixin.qq.com/s/Udl25deXsEo7qc_2MAmpFg)
+
+3. [Go垃圾回收之六：扫描灰色对象](https://mp.weixin.qq.com/s/7rK307CTWE72LHRpgVP_9Q)
+
+二、亚军进化史
+
+1. [Go技术日报(2021-03-12)——Go1.16.1 发布：这个 Bug 有点 Low](https://mp.weixin.qq.com/s/ndp-ahd1FOe1q4OsjtVCTw)
+
+三、脑子进煎鱼了
+
+1. [Go 爱好者福利，《Go 语言编程之旅》正式开源！](https://mp.weixin.qq.com/s/Nt1Bd-G7rqrwM8_JbEkAag)
+
+四、k8s技术圈
+
+1. [阿里云与华为云边缘 K8S 使用对比总结](https://mp.weixin.qq.com/s/4JAWNV5ARaChGc5dLZfMTg)
+
+五、xueyuanjun
+
+1. [Go 数据结构和算法篇（一）：链表](https://mp.weixin.qq.com/s/Zvdxs0Ag2_xrnMJ9wC1MFQ)
  gocn_news-2021-03-13
 # go-news-set-2021-03-13
 ## gocn_news-2021-03-13
