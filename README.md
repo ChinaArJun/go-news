@@ -1,3 +1,17 @@
+ gocn_news-2021-03-13
+# go-news-set-2021-03-13
+## gocn_news-2021-03-13
+- 1.对抗僵尸依赖 https://dlorenc.medium.com/zombie-dependencies-77c34740a7a8
+
+- 2.入门 Go 和 eBPF https://networkop.co.uk/post/2021-03-ebpf-intro/
+
+- 3.掌握 Go HTML Templates https://philipptanlak.com/mastering-html-templates-in-go-the-fundamentals/
+
+- 4.如何使用 Golang 处理 MySQL 的 binlog https://zhuanlan.zhihu.com/p/335964345
+
+- 5.使用 SQL 查询文件系统 https://github.com/kashav/fsql
+
+
  go语言中文网(每日资讯)-2021-03-12
 # go-news-set-2021-03-12
 ## go语言中文网(每日资讯)-2021-03-12
