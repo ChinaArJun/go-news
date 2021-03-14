@@ -1,3 +1,35 @@
+ gocn_news-2021-03-14
+# go-news-set-2021-03-14
+## gocn_news-2021-03-14
+- 1.Go 编写的带有实时分析器的负载测试工具 https://www.reddit.com/r/golang/comments/m4j04y/a_load_testing_tool_with_a_realtime_analyzer/
+
+- 2.我如何在 Go 中构建 Web 前端 https://philipptanlak.com/web-frontends-in-go/
+
+- 3.Go maps 和 switches https://adayinthelifeof.nl/2021/03/04/go-map-vs-switch.html
+
+- 4.为什么我们不使用 Docker https://launchyourapp.meezeeworkouts.com/2021/03/why-we-dont-use-docker-we-dont-need-it.html
+
+- 5.Rust vs Go 为什么他们在一起会更好 https://thenewstack.io/rust-vs-go-why-theyre-better-together/
+
+
+ gopherDaily-2021-03-14
+# go-news-set-2021-03-14
+## gopherDaily-2021-03-14
+- 1.为什么go的存在让docker变得没有必要 - https://launchyourapp.meezeeworkouts.com/2021/03/why-we-dont-use-docker-we-dont-need-it.html
+- 2.Rust vs. Go：为什么强强联合会更好 - https://t.zsxq.com/emuzvJy
+- 3.accelerated-container-image: 论文”DADI: Block-Level Image Service for Agile and Elastic Application Deployment “的开源实现。它以iSCSI块设备的形式提供基于块的层的序列合并视图。它可以用于容器加速，支持按需获取图像数据，而无需在容器运行前下载和解压整个图像。通过OverlayBD图像格式，我们可以瞬间冷启动一个容器。- https://github.com/alibaba/accelerated-container-image
+- 4.Golds：一个Go本地文档服务器、文档生成工具以及go代码阅读工具 - https://go101.org/article/tool-golds.html
+- 5.netbootd是一个轻量级的网络启动服务器，支持无人值守的操作系统安装 - https://github.com/DSpeichert/netbootd
+- 6.图解OAuth2 - https://developer.okta.com/blog/2019/10/21/illustrated-guide-to-oauth-and-oidc
+- 7.使用gitlab ci/cd在k8s上构建和部署应用 - https://piotrminkowski.com/2020/10/19/gitlab-ci-cd-on-kubernetes/
+- 8.GitOps的魅力不止于眼前的一切 - https://www.weave.works/blog/theres-more-to-gitops-than-meets-the-eye
+- 9.微软开源低代码平台语言Fx - https://thenewstack.io/microsoft-open-sources-the-power-fx-language-for-customizing-logic-in-low-code-apps/
+- 10.终结k8s namespace的隐藏危险 - https://www.openshift.com/blog/the-hidden-dangers-of-terminating-namespaces
+- 11.rust vs. c性能比较 - https://kornel.ski/rust-c-speed
+- 12.Linkerd中的协议检测和不透明端口 - https://www.cncf.io/blog/2021/03/10/protocol-detection-and-opaque-ports-in-linkerd/
+- 13.bombardier: 跨平台高性能http性能基准测试工具 - https://github.com/codesenberg/bombardier
+- 14.用实时观察器扩展数组 - https://khal.web.id/2021/03/13/go-extending-array-with-a-real-time-observer/
+
  go语言中文网(每日资讯)-2021-03-13
 # go-news-set-2021-03-13
 ## go语言中文网(每日资讯)-2021-03-13
