@@ -1,3 +1,45 @@
+ go语言中文网(每日资讯)-2021-03-14
+# go-news-set-2021-03-14
+## go语言中文网(每日资讯)-2021-03-14
+
+
+一、Go语言中文网
+
+1. [Go语言爱好者周刊：第 86 期 — 这道题考察什么？](https://mp.weixin.qq.com/s/VWcooMEaCsESpBXLU5c7jg)
+
+2. [Go 空结构体引发的大型打脸现场](https://mp.weixin.qq.com/s/lZMZroOhqvDKDCEsaGPfrQ)
+
+3. [还在用crontab? 分布式定时任务了解一下](https://mp.weixin.qq.com/s/IftPwlmubjwGQz1KYTHIIQ)
+
+二、亚军进化史
+
+1. [Go技术日报(2021-03-13)——Go 官方 2020 年开发者调查报告](https://mp.weixin.qq.com/s/S8UO4NM1d4HMlub-mJhm_w)
+
+三、董泽润的技术笔记
+
+1. [HOL blocking 困扰两个月的问题](https://mp.weixin.qq.com/s/8gajOBLJCHxlVWeyAzgW2w)
+
+四、xueyuanjun
+
+1. [Go 数据结构和算法篇（二）：栈](https://mp.weixin.qq.com/s/NEsgLvdgOkp9JRNnNlSC1A)
+
+五、polarisxu
+
+1. [为什么 Go1.16.1 发布的第二天又发布 1.16.2？](https://mp.weixin.qq.com/s/mbMCxhmz8pF8VUMKm3XYtA)
+
+六、Go招聘
+
+1. [Go Interview Weekly - 2021/03/14](https://mp.weixin.qq.com/s/TGrbynJczOtE4VNuzaHuWw)
+
+七、奇伢云存储
+
+1. [深度剖析 Linux cp 的秘密](https://mp.weixin.qq.com/s/bLiqURdK_dtgr0GqU7yD9w)
+
+八、Go Weekly
+
+1. [Awesome Go Newsletter - Issue 251, Mar 11, 2021 | LibHunt](https://go.libhunt.com/newsletter/251)
+
+2. [Golang Weekly Issue 353: March 12, 2021](https://golangweekly.com/issues/353)
  gocn_news-2021-03-14
 # go-news-set-2021-03-14
 ## gocn_news-2021-03-14
