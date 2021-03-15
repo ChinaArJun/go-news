@@ -1,3 +1,33 @@
+ gocn_news-2021-03-15
+# go-news-set-2021-03-15
+## gocn_news-2021-03-15
+- 1.让 json 解析更简单高效的 GJSON https://gocn.vip/topics/11778
+
+- 2.使用观察者模式来观察本地文件的修改 https://www.hildeberto.com/2021/03/observer-design-pattern-golang.html
+
+- 3."go build -X" 的妙用 https://mp.weixin.qq.com/s/uzaymD5izrBJMKDrn9OpBw
+
+- 4.Kubernetes 稳定性保障手册（极简版) https://mp.weixin.qq.com/s/DK1BfzY-Ou-_xB6aGO6yTw
+
+- 5.tiktik: tiktok 终端客户端 https://github.com/irevenko/tiktik
+
+
+ gopherDaily-2021-03-15
+# go-news-set-2021-03-15
+## gopherDaily-2021-03-15
+- 1.Go单一仓库的多module实战 - https://irilivibi.medium.com/golang-multimodule-monorepo-tutorial-3f5cf10e9b9a
+- 2.2021年的CI/CD战争：最流行的技术一览 - https://blog.thundra.io/the-ci/cd-war-of-2021-a-look-at-the-most-popular-technologies
+- 3.Go播客：谈谈Go代码生成 - https://changelog.com/gotime/170
+- 4.将你的Go开发环境容器化系列 - https://www.docker.com/blog/containerize-your-go-developer-environment-part-1/
+- 5.使用Go构建和推送docker镜像 - https://www.loginradius.com/blog/async/build-push-docker-images-golang/
+- 6.常用Go并发模式汇总 - https://github.com/lotusirous/go-concurrency-patterns
+- 7.TikTok终端工具：可浏览和下载TikTok视频 - https://github.com/irevenko/tiktik
+- 8.sqlfuzz: 生成随机数据并加载到SQL表中以备后续测试 - https://github.com/PumpkinSeed/sqlfuzz
+- 9.etcd v3全内存缓存client端 - https://github.com/tailscale/tailetc
+- 10.Kubernetes中的CPU限制和节流 - https://medium.com/omio-engineering/cpu-limits-and-aggressive-throttling-in-kubernetes-c5b20bd8a718
+- 11.远程工作真正对您的工程生产力有什么影响 - https://www.okayhq.com/blog/what-remote-work-really-does-to-your-engineering-productivity
+- 12.使用Go与AWS S3开发应用教程 - https://tutorialedge.net/courses/go-aws-s3-course/
+
  go语言中文网(每日资讯)-2021-03-14
 # go-news-set-2021-03-14
 ## go语言中文网(每日资讯)-2021-03-14
