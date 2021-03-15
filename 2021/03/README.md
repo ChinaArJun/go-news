@@ -1,3 +1,49 @@
+ go语言中文网(每日资讯)-2021-03-15
+# go-news-set-2021-03-15
+## go语言中文网(每日资讯)-2021-03-15
+
+
+一、Go语言中文网
+
+1. [不要在生产环境使用 http.DefaultServerMux？](https://mp.weixin.qq.com/s/ldMdmrC32f0o8pQvpPzvCw)
+
+2. [Go垃圾回收系列之七：标记终止与调步算法](https://mp.weixin.qq.com/s/_KizBohpXYiYp0LZO4TQOw)
+
+二、亚军进化史
+
+1. [Go技术日报(2021-03-14)——Go 空结构体引发的大型打脸现场](https://mp.weixin.qq.com/s/pLpwgLA_c5Cpq4ibH3nIcQ)
+
+三、Go招聘
+
+1. [Go 笔试题精选 一： 25 道选择题](https://mp.weixin.qq.com/s/U1EV6qfyvU9gDg9sIDGqww)
+
+四、k8s技术圈
+
+1. [调度器调度队列之 activeQ 分析 | 视频文字稿](https://mp.weixin.qq.com/s/0s4cBAGw4YsU3qEUrr8dVw)
+
+五、代码与远方
+
+1. [CPU 空闲时在干嘛？](https://mp.weixin.qq.com/s/Y0MrsluNeuqAXPLQQrvv4w)
+
+六、ServiceMesher
+
+1. [IstioCon 2021 回顾及 PPT 下载](https://mp.weixin.qq.com/s/Az8Ivznp1l6zHewzcFqyeA)
+
+七、脑子进煎鱼了
+
+1. [Go 群友提问：学习 defer 时很懵逼，这道不会做！](https://mp.weixin.qq.com/s/lELMqKho003h0gfKkZxhHQ)
+
+八、码农桃花源
+
+1. [&quot;go build -X&quot; 的妙用](https://mp.weixin.qq.com/s/uzaymD5izrBJMKDrn9OpBw)
+
+九、MoeLove
+
+1. [万字长文：彻底搞懂容器镜像构建](https://mp.weixin.qq.com/s/zAWr4ezK5kjGVzUqs2eg2Q)
+
+十、奇伢云存储
+
+1. [有趣的3个动画揭开Linux cp的秘密](https://mp.weixin.qq.com/s/rlSi-y0xQE_V-UxBU2AKmA)
  gocn_news-2021-03-15
 # go-news-set-2021-03-15
 ## gocn_news-2021-03-15
