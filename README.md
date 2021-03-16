@@ -1,3 +1,33 @@
+ gocn_news-2021-03-16
+# go-news-set-2021-03-16
+## gocn_news-2021-03-16
+- 1.NBIO 第二弹 —— 支持 Non-Blocking HTTP 1.x https://gocn.vip/topics/11779
+
+- 2.还在用 crontab? 分布式定时任务了解一下 https://mp.weixin.qq.com/s/IftPwlmubjwGQz1KYTHIIQ
+
+- 3.Go 空结构体引发的大型打脸现场 https://mp.weixin.qq.com/s/lZMZroOhqvDKDCEsaGPfrQ
+
+- 4.用 Go 看到进程中发生的系统调用 https://mp.weixin.qq.com/s/b9TlrMU8skpIlpmk5ph-4A
+
+- 5.如何优雅地关闭 Kubernetes 集群中的 Pod https://blog.gruntwork.io/zero-downtime-server-updates-for-your-kubernetes-cluster-902009df5b33
+
+
+ gopherDaily-2021-03-16
+# go-news-set-2021-03-16
+## gopherDaily-2021-03-16
+- 1.Rust vs. Go：为什么强强联合会更好 - https://mp.weixin.qq.com/s/Nx-5e8ssiga4Bjfe6BGSOw
+- 2.观点：优化Go应用性能就是在浪费时间 - https://bitfieldconsulting.com/golang/slower
+- 3.性能比较：使用Python，Go，C++，C，AWK，Forth和Rust做单词计数 - https://benhoyt.com/writings/count-words/
+- 4.教程：使用Ent和gqlgen构建GraphQL服务器 - https://entgo.io/docs/tutorial-setup/
+- 5.遵循eBPF的“超级能力”的承诺 - https://thenewstack.io/liz-rice-following-the-superpower-promise-of-ebpf/
+- 6.可以识别视频语音自动生成字幕SRT文件的开源 Windows-GUI 软件工具 - https://github.com/wxbool/video-srt-windows
+- 7.在AKS上的Statefulset中增加volumeClaimTemplates磁盘大小 - https://adamrushuk.github.io/increasing-the-volumeclaimtemplates-disk-size-in-a-statefulset-on-aks/
+- 8.使用Go设计和实现WebSocket服务器 - https://medium.com/geekculture/designing-a-websocket-server-in-golang-reformers-golang-implementation-strategy-bcd2dc9e368e
+- 9.REST vs. GraphQL vs. gRPC - https://www.danhacks.com/software/grpc-rest-graphql.html
+- 10.wormhole-gui: Wormhole-gui是magic-wormhole的跨平台图形界面，使您可以轻松地在设备之间共享文件，文件夹和文本 - https://github.com/Jacalz/wormhole-gui
+- 11.swift语言试验增加actor并发支持 - https://github.com/apple/swift-evolution/blob/main/proposals/0306-actors.md
+- 12.可解释性与神经科学：六个主要优点使人工神经网络比生物学神经网络更易于研究 - http://colah.github.io/notes/interp-v-neuro/
+
  go语言中文网(每日资讯)-2021-03-15
 # go-news-set-2021-03-15
 ## go语言中文网(每日资讯)-2021-03-15
