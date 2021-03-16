@@ -1,3 +1,45 @@
+ go语言中文网(每日资讯)-2021-03-16
+# go-news-set-2021-03-16
+## go语言中文网(每日资讯)-2021-03-16
+
+
+一、Go语言中文网
+
+1. [用Go看到进程中发生的系统调用](https://mp.weixin.qq.com/s/b9TlrMU8skpIlpmk5ph-4A)
+
+2. [Go垃圾回收系列之八：辅助标记](https://mp.weixin.qq.com/s/E5GJtxfU20N6oWasqvXVQw)
+
+二、亚军进化史
+
+1. [Go技术日报(2021-03-15)——Go 笔试题精选 一： 25 道选择题](https://mp.weixin.qq.com/s/WKED5g02V45bAn0NBlZfpQ)
+
+三、polarisxu
+
+1. [周末看完这本 gRPC 的书后，我决定送 10 本给读者](https://mp.weixin.qq.com/s/sWDeK2de5pTLU1wrXYGAIA)
+
+四、TechPaper
+
+1. [一个特征系统的迭代与实现](https://mp.weixin.qq.com/s/vUP4LAA7gAYDo91Wd5rSQQ)
+
+五、真没什么逻辑
+
+1. [为什么 Kubernetes 要替换 Docker](https://mp.weixin.qq.com/s/03RsI1JbjxiizjHnxrK7RQ)
+
+六、taowen
+
+1. [不要以 DRY 之名，发明低代码 DSL 去残害你的同事](https://mp.weixin.qq.com/s/S7BbDwVpq6LKlXoEWx-I5A)
+
+七、脑子进煎鱼了
+
+1. [Go 面试题：Go interface 的一个 “坑” 及原理分析](https://mp.weixin.qq.com/s/vNACbdSDxC9S0LOAr7ngLQ)
+
+八、即时通讯技术圈
+
+1. [一套亿级用户的IM架构技术干货(上篇)：整体架构、服务拆分等](https://mp.weixin.qq.com/s/WxB9fH1I8CJgfcuVGtzlQQ)
+
+九、Go招聘
+
+1. [快来AiBee跟果果小姐姐做同事啦](https://mp.weixin.qq.com/s/zK2FyXMLocwKRXcV5q-LBw)
  gocn_news-2021-03-16
 # go-news-set-2021-03-16
 ## gocn_news-2021-03-16
