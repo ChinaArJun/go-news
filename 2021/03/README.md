@@ -1,3 +1,17 @@
+ gocn_news-2021-03-17
+# go-news-set-2021-03-17
+## gocn_news-2021-03-17
+- 1.Go 中新的安全政策提案 https://github.com/golang/go/issues/44918
+
+- 2.大多数情况下可读性更重要 https://bitfieldconsulting.com/golang/slower
+
+- 3.Go mod 中版本管理的权衡 https://utcc.utoronto.ca/~cks/space/blog/programming/GoModulesGoVersionWhy
+
+- 4.gRPC 长链接实践指南 https://dev.bitolog.com/grpc-long-lived-streaming/
+
+- 5.硬核论文:自动检测和修复 Go 中的并发错误 https://songlh.github.io/paper/gcatch.pdf
+
+
  go语言中文网(每日资讯)-2021-03-16
 # go-news-set-2021-03-16
 ## go语言中文网(每日资讯)-2021-03-16
