@@ -1,3 +1,49 @@
+ go语言中文网(每日资讯)-2021-03-17
+# go-news-set-2021-03-17
+## go语言中文网(每日资讯)-2021-03-17
+
+
+一、Go语言中文网
+
+1. [关于emoji，Go语言可以这么操作](https://mp.weixin.qq.com/s/sZh9h2gb1X9Gu03A3OexmA)
+
+2. [Go并发编程 — sync.Once 单实例模式的思考](https://mp.weixin.qq.com/s/37gV23UVHRA5SYeMEA5Q9w)
+
+二、亚军进化史
+
+1. [Go技术日报(2021-03-16)——Go 面试题：Go interface 的一个 “坑” 及原理分析](https://mp.weixin.qq.com/s/cyFHBeqFqbZajxHHHNq2Tw)
+
+三、奇伢云存储
+
+1. [Go并发编程 — sync.Once 单实例模式的思考](https://mp.weixin.qq.com/s/ELnUQL-EnK8w8EpdbZKDWA)
+
+四、腾讯云CDN
+
+1. [QUIC专题 | 谈谈QUIC协议原理](https://mp.weixin.qq.com/s/pa5lLcNtsEYRBHrUAJYcJA)
+
+五、微服务实践
+
+1. [一招让Kafka达到最佳吞吐量](https://mp.weixin.qq.com/s/lM1kkrQkXu6eIwVESwsa-w)
+
+六、PingCap
+
+1. [事务前沿研究 | 隔离级别的追溯与究明，带你读懂 TiDB 的隔离级别（上篇） | PingCAP](https://pingcap.com/blog-cn/take-you-through-the-isolation-level-of-tidb-1/)
+
+七、k8s技术圈
+
+1. [DevOps 工程师 - 汇丰软件开发 | 云原生招聘](https://mp.weixin.qq.com/s/MKVBONWugmd_jS1ihgGYJQ)
+
+八、转角遇到GitHub
+
+1. [终于不用愁了，GitHub 上的这些面试题项目我给你找好了](https://mp.weixin.qq.com/s/AqW9UFjuUopxJaehgMRFdg)
+
+九、xueyuanjun
+
+1. [Go 数据结构和算法篇（五）：插入排序](https://mp.weixin.qq.com/s/bfEsbHgk4sONbUc2MTXpiA)
+
+十、Go招聘
+
+1. [这个小公司是要招 Go 负责人？待遇你觉得如何？](https://mp.weixin.qq.com/s/J7xrhAnZ9pENCCwIjgZtyg)
  gocn_news-2021-03-17
 # go-news-set-2021-03-17
 ## gocn_news-2021-03-17
