@@ -1,3 +1,49 @@
+ go语言中文网(每日资讯)-2021-03-18
+# go-news-set-2021-03-18
+## go语言中文网(每日资讯)-2021-03-18
+
+
+一、Go语言中文网
+
+1. [优化Go应用性能就是在浪费时间？你怎么看](https://mp.weixin.qq.com/s/jJM0N5yk9kk4w92yI8jjoQ)
+
+2. [Kubernetes 稳定性保障手册 -- 日志专题](https://mp.weixin.qq.com/s/KIauQSWz1BBfuqyIvbKBWg)
+
+3. [为什么 Go1.16.1 发布的第二天又发布 1.16.2？](https://mp.weixin.qq.com/s/ppUffaFo3k75yRwD7N6KNA)
+
+二、亚军进化史
+
+1. [Go技术日报(2021-03-17)——一招让 Kafka 达到最佳吞吐量](https://mp.weixin.qq.com/s/rKEEAlOQ3IlRX3pqtmSs4Q)
+
+三、k8s技术圈
+
+1. [Kubernetes APIServer 限流方案](https://mp.weixin.qq.com/s/f5FHyM-h_BWrCadk_G1I2A)
+
+2. [资深运维工程师 - 尔湾科技](https://mp.weixin.qq.com/s/q2AVBiTrZ--nstqzFFtaHw)
+
+四、polarisxu
+
+1. [map 和 switch 如何选？match 又是什么？](https://mp.weixin.qq.com/s/MaovIWtQWVp9ZZL1DlppOQ)
+
+五、xueyuanjun
+
+1. [Go 数据结构和算法篇（六）：选择排序](https://mp.weixin.qq.com/s/G5tHf61lmYHNrqIRPEv7lA)
+
+六、Go招聘
+
+1. [北京超高福利公司招Go，你心动吗？](https://mp.weixin.qq.com/s/0IrzVAjPJo4JyCzUyWziog)
+
+七、Golang技术分享
+
+1. [Go函数调用惯例](https://mp.weixin.qq.com/s/XD8PUr9lm3DH6GqFZTA5cg)
+
+八、脑子进煎鱼了
+
+1. [Go 语言中的一等公民：看似普通的函数，凭什么？](https://mp.weixin.qq.com/s/NPPzcfp7I50XcDMnR5bU9w)
+
+九、鸟窝
+
+1. [Go代码覆盖率工具介绍](https://colobu.com/2021/03/15/go-cover-introduction/)
  gocn_news-2021-03-18
 # go-news-set-2021-03-18
 ## gocn_news-2021-03-18
