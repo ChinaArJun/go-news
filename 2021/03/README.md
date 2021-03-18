@@ -1,3 +1,17 @@
+ gocn_news-2021-03-18
+# go-news-set-2021-03-18
+## gocn_news-2021-03-18
+- 1.Go 中的单元测试 mock 我是如何做的 https://dev.to/chseki/how-i-mock-unit-tests-in-golang-3dcp
+
+- 2.如何测试使用了 time.Now() 的函数 https://medium.com/go-for-punks/how-to-test-functions-that-use-time-now-ea4f2453d430
+
+- 3.GoPath 模式和 GoMoudle 模式的相爱相杀 https://segmentfault.com/a/1190000039650091
+
+- 4.在 vscode 中 go 编码发生的问题整理 https://segmentfault.com/a/1190000039657544
+
+- 5.一个 Go 编写的高效图片像素化工具 https://github.com/eleby/pixelizer
+
+
  go语言中文网(每日资讯)-2021-03-17
 # go-news-set-2021-03-17
 ## go语言中文网(每日资讯)-2021-03-17
