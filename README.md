@@ -1,3 +1,17 @@
+ gocn_news-2021-03-19
+# go-news-set-2021-03-19
+## gocn_news-2021-03-19
+- 1.Go 参数校验 https://github.com/liangyaopei/checker
+
+- 2.Go 函数调用惯例 https://mp.weixin.qq.com/s/XD8PUr9lm3DH6GqFZTA5cg
+
+- 3.如何在 Go 中实现百万级 UDP 通信 https://mp.weixin.qq.com/s/BuZwjRNwuKx19PU6E95Oeg
+
+- 4.Go 特殊字符的 string 怎么转 byte？https://xie.infoq.cn/article/14e4b4b1db4616499065d9112
+
+- 5.让 Go 程序爱上 json 和 yaml https://sharpend.io/blog/teaching-go-programs-to-love-json-and-yaml
+
+
  go语言中文网(每日资讯)-2021-03-18
 # go-news-set-2021-03-18
 ## go语言中文网(每日资讯)-2021-03-18
