@@ -1,3 +1,51 @@
+ go语言中文网(每日资讯)-2021-03-19
+# go-news-set-2021-03-19
+## go语言中文网(每日资讯)-2021-03-19
+
+
+一、Go语言中文网
+
+1. [Go招聘：跟果果小姐姐做同事机会来了](https://mp.weixin.qq.com/s/Pk1G3Cc8lcRd_Afib-h-xA)
+
+2. [Go垃圾回收系列之九：内存屏障](https://mp.weixin.qq.com/s/0Vc7-RzMBZJ2oi6_odJdsw)
+
+二、亚军进化史
+
+1. [Go技术日报(2021-03-18)——map 和 switch 如何选？match 又是什么？](https://mp.weixin.qq.com/s/U6pwinkKS2CHwdDh0FIssg)
+
+三、polarisxu
+
+1. [发现 go version 的一个另类用法：你肯定想不到](https://mp.weixin.qq.com/s/RnV752Aez0Xdgscw38kNYw)
+
+四、腾讯云CDN
+
+1. [专题 | QUIC在CDN节点间的技术落地](https://mp.weixin.qq.com/s/ojxhrXxGHgRT1gs4z2zUCg)
+
+五、腾讯技术工程
+
+1. [腾讯广告 3000+万行大代码库主干开发实战](https://mp.weixin.qq.com/s/GZkGfwrfMTzrMfki8LKbIw)
+
+六、分布式系统之美
+
+1. [TiDB Operator 源码阅读 (一) 序](https://mp.weixin.qq.com/s/nr3BP9ys6qwe-9rWyv5E1w)
+
+2. [TiDB Operator 源码阅读 (二) Operator 模式](https://mp.weixin.qq.com/s/MP9QfgBVGIlEtP2AMWzsJw)
+
+七、xueyuanjun
+
+1. [Go 数据结构和算法篇（七）：归并排序](https://mp.weixin.qq.com/s/fGAnnZxjH_A2ULJDAxxTgA)
+
+八、CloudNativeCommunity
+
+1. [IstioCon2021 回顾及开源项目 GetIstio 介绍视频回顾](https://mp.weixin.qq.com/s/MuZdLXHUC2HcKdl40GmZuw)
+
+九、Golang技术分享
+
+1. [面试题型系列：滑动窗口技巧](https://mp.weixin.qq.com/s/EzXqwy1Wew7ZrkSQx7-zfA)
+
+十、Go招聘
+
+1. [Go 笔试题精选 二： 25 道选择题](https://mp.weixin.qq.com/s/RPHTsKdXKqHM_JywR5kxvA)
  gocn_news-2021-03-19
 # go-news-set-2021-03-19
 ## gocn_news-2021-03-19
