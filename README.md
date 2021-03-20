@@ -1,3 +1,32 @@
+ gocn_news-2021-03-20
+# go-news-set-2021-03-20
+## gocn_news-2021-03-20
+- 1.依赖注入工具代码生成器 wire https://gocn.vip/topics/11802
+
+- 2.使用 mux 改变中间件的行为 https://dev.to/juanpabloaj/changing-the-middleware-behavior-with-mux-1818
+
+- 3.Golang 变量遮蔽——Shadowing https://juejin.cn/post/6941284330425548807
+
+- 4.我如何在 go 中 mock 单元测试 https://dev.to/chseki/how-i-mock-unit-tests-in-golang-3dcp
+
+- 5.50 个基础面试问题 https://dev.to/educative/crack-the-top-50-golang-interview-questions-384i
+
+
+ gopherDaily-2021-03-20
+# go-news-set-2021-03-20
+## gopherDaily-2021-03-20
+- 1.破解50大Go语言面试题 - https://dev.to/educative/crack-the-top-50-golang-interview-questions-384i
+- 2.使用go开发rest server: 第五部分中间件 - https://eli.thegreenplace.net/2021/rest-servers-in-go-part-5-middleware/
+- 3.Go播客：聊聊代码生成 - https://changelog.com/gotime/170
+- 4.Terraform命令行工具 - https://github.com/awslabs/tecli
+- 5.Go性能剖析笔记 - https://github.com/DataDog/go-profiler-notes
+- 6.mage是我最喜欢的Make工具 - https://carolynvanslyck.com/blog/2021/01/mage-is-my-favorite-make/
+- 7.使用Go设计和实现websocket server - https://medium.com/geekculture/designing-a-websocket-server-in-golang-reformers-golang-implementation-strategy-bcd2dc9e368e
+- 8.使用go实现的实时kv数据库实战 - https://iyer.ai/realtime-db-in-golang/
+- 9.使用Swagger开发rest api，支持热加载 - https://medium.com/swlh/build-a-rest-api-in-golang-with-swagger-and-hot-reload-of-everything-6247a8ae8618
+- 10.argo cd v2.0 rc1发布 - https://blog.argoproj.io/argo-cd-v2-0-rc1-is-here-f7d21ff1aa64
+- 11.经典视频回顾：linux容器的未来 by docker创始人 -  https://www.youtube.com/watch?v=9xciauwbsuo
+
  go语言中文网(每日资讯)-2021-03-19
 # go-news-set-2021-03-19
 ## go语言中文网(每日资讯)-2021-03-19
