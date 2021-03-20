@@ -1,3 +1,43 @@
+ go语言中文网(每日资讯)-2021-03-20
+# go-news-set-2021-03-20
+## go语言中文网(每日资讯)-2021-03-20
+
+
+一、Go语言中文网
+
+1. [腾讯重磅发布：Go已经成为其第二大编程语言](https://mp.weixin.qq.com/s/dCMpjbADtwbfkj4gwSsI_w)
+
+2. [map 和 switch 如何选？match 又是什么？](https://mp.weixin.qq.com/s/tUM6SPjtLF0IXOirlC-f4g)
+
+3. [删除文件为啥磁盘依然爆满](https://mp.weixin.qq.com/s/lN7KBL4YMR6LAr9f5j7-pw)
+
+二、亚军进化史
+
+1. [Go技术日报(2021-03-19)——Go 笔试题精选 二: 25 道选择题](https://mp.weixin.qq.com/s/g53da--Z4eMOV_s9fFEYeA)
+
+三、奇伢云存储
+
+1. [全面剖析 MongoDB 高可用架构](https://mp.weixin.qq.com/s/jLsviuQ0wCcsmkskXSFdEQ)
+
+四、码农桃花源
+
+1. [一些 eink 设备](https://mp.weixin.qq.com/s/5Urkzb39v_7dzCol25JyWg)
+
+五、Go夜读
+
+1. [【预告】Go 夜读三周年直播活动](https://mp.weixin.qq.com/s/bQfVh_ntQJKI2tIdmV9UyA)
+
+六、薯条的自我修养
+
+1. [论配置化系统的配置](https://mp.weixin.qq.com/s/B4eXu_2ERlIdPSgNOQODXw)
+
+七、xueyuanjun
+
+1. [Go 数据结构和算法篇（八）：快速排序](https://mp.weixin.qq.com/s/dMwnzF_igNv_SeeaHoNlWA)
+
+八、TechPaper
+
+1. [分布式快照](https://mp.weixin.qq.com/s/Wgm-NY4LIGZUNT4DMYPKFQ)
  gocn_news-2021-03-20
 # go-news-set-2021-03-20
 ## gocn_news-2021-03-20
