@@ -1,3 +1,45 @@
+ go语言中文网(每日资讯)-2021-03-21
+# go-news-set-2021-03-21
+## go语言中文网(每日资讯)-2021-03-21
+
+
+一、Go语言中文网
+
+1. [Go语言爱好者周刊：第 87 期 — 螃蟹会夹土拨鼠吗？](https://mp.weixin.qq.com/s/4HI78Yd1ENVFCWHCESlPBg)
+
+2. [Go 笔试题精选一： 25 道选择题](https://mp.weixin.qq.com/s/akJLEx_pllOFvR27ICl2mQ)
+
+3. [Go垃圾回收系列之十：实战一例频繁GC的性能问题](https://mp.weixin.qq.com/s/G46cYgG4NKuGh54hai0yNw)
+
+二、亚军进化史
+
+1. [Go技术日报(2021-03-20)——破解 50 大 Go 语言面试题](https://mp.weixin.qq.com/s/CRC9LYMl19yxiyiFcSL3kQ)
+
+三、luozhiyun很酷
+
+1. [Go语言GC实现原理即源码分析](https://mp.weixin.qq.com/s/yU0N_KOw34BHkyp1VdTMqA)
+
+四、奇伢云存储
+
+1. [图解 MongoDB Sharding 读写](https://mp.weixin.qq.com/s/SQ9IakXtz-gMXdmLIk_XnQ)
+
+五、k8s技术圈
+
+1. [Thanos Receive 模块介绍](https://mp.weixin.qq.com/s/ql5VJPiBO7kpi8BCKdfK0A)
+
+六、新亮笔记
+
+1. [管理认知（三）](https://mp.weixin.qq.com/s/nxg8hxe8pBCiPJ8PbFw4Nw)
+
+七、Go招聘
+
+1. [Go Interview Weekly - 2021/03/21](https://mp.weixin.qq.com/s/tK32DJ3JooJJvMkN3VhNcw)
+
+八、Golang Weekly
+
+1. [Golang Weekly Issue 354: March 19, 2021](https://golangweekly.com/issues/354)
+
+2. [Awesome Go Newsletter - Issue 252, Mar 18, 2021 | LibHunt](https://go.libhunt.com/newsletter/252)
  gocn_news-2021-03-21
 # go-news-set-2021-03-21
 ## gocn_news-2021-03-21
