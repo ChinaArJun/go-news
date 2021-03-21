@@ -1,3 +1,33 @@
+ gocn_news-2021-03-21
+# go-news-set-2021-03-21
+## gocn_news-2021-03-21
+- 1.我用 go-zero 一周实现了一个中台系统，已开源！ https://gocn.vip/topics/11806
+
+- 2.TiDB Operator 源码阅读 (二) Operator 模式 https://gocn.vip/topics/11803
+
+- 3.GO 实现一个简单的博客 https://dev.to/mark_saward/a-simple-blog-in-go-2dhp
+
+- 4.在 Go PT 中构建区块链工作量证明 https://dev.to/nheindev/building-a-blockchain-in-go-pt-ii-proof-of-work-eel
+
+- 5.用 Go 构建一个 SQL 解析器 https://blog.51cto.com/15127564/2666790
+
+
+ gopherDaily-2021-03-21
+# go-news-set-2021-03-21
+## gopherDaily-2021-03-21
+- 1.对Go 1.16 io/fs设计的第一感觉：得劲儿 -  https://t.zsxq.com/aImIUvr
+- 2.2020年Go开发者调查结果(译) - https://mp.weixin.qq.com/s/4eGn0rdiaDQakodX9cAm9A
+- 3.使用go module管理私有仓库依赖 - https://1pkg.github.io/posts/private_repository_dependency_management_with_gomod/
+- 4.Go实现的极简blog系统 - https://www.josephspurrier.com/polar-bear-blog
+- 5.在Go中强制使用构造函数 - https://ranfdev.com/blog/enforcing-use-of-constructor-in-go/
+- 6.使用Go构建基于CLI的文件重命名工具 - https://medium.com/swlh/building-cli-based-file-renaming-tool-with-golang-e3c6a16eedf6
+- 7.在Go中使用高级RabbitMQ客户端 - https://dev.to/qvault/using-a-high-level-rabbitmq-client-in-golang-4mcl
+- 8.结构化并发编程与可能有害的go语句 - https://vorpus.org/blog/notes-on-structured-concurrency-or-go-statement-considered-harmful/
+- 9.将k8s通信迁移为gRPC - https://blog.cloudflare.com/moving-k8s-communication-to-grpc/
+- 10.如何开始为开源项目做贡献 - https://towardsdatascience.com/how-to-start-contributing-to-open-source-projects-10d0517b13d8
+- 11.Kubernetes Pod如何获取IP地址 - https://ronaknathani.com/blog/2020/08/how-a-kubernetes-pod-gets-an-ip-address/
+- 12.curl 23岁了 - https://daniel.haxx.se/blog/2021/03/20/curl-is-23-years-old-today/
+
  go语言中文网(每日资讯)-2021-03-20
 # go-news-set-2021-03-20
 ## go语言中文网(每日资讯)-2021-03-20
