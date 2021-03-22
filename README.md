@@ -1,3 +1,49 @@
+ go语言中文网(每日资讯)-2021-03-22
+# go-news-set-2021-03-22
+## go语言中文网(每日资讯)-2021-03-22
+
+
+一、Go语言中文网
+
+1. [微软真给力：出了 Go 语言教程，免费，而且是中文版](https://mp.weixin.qq.com/s/sgqXwqvn2HpYwWnAqmB63Q)
+
+2. [发现 go version 的一个另类用法：你肯定想不到](https://mp.weixin.qq.com/s/IjTQ856JAkHQFM3n3HILnA)
+
+3. [论配置化系统的配置](https://mp.weixin.qq.com/s/Kcg6wQyS79PD9dHWlJT-SA)
+
+二、亚军进化史
+
+1. [Go技术日报(2021-03-21)——Go 语言 GC 实现原理即源码分析](https://mp.weixin.qq.com/s/23XjrSd22HMhNe1ruDCn1A)
+
+三、polarisxu
+
+1. [RedMonk 编程语言排行榜，说 Go 正走向衰退，你认可吗？](https://mp.weixin.qq.com/s/PHG53qPe2ZLYIo1_0crv_w)
+
+四、k8s技术圈
+
+1. [Kubectl 源码分析](https://mp.weixin.qq.com/s/yu06FcezAn4srdQNkCWbhw)
+
+2. [运维开发工程师 - 长桥证券](https://mp.weixin.qq.com/s/Rg8uCso3azJlRFln8qCtNg)
+
+五、luozhiyun很酷
+
+1. [Go语言GC实现原理及源码分析](https://mp.weixin.qq.com/s/W5O_Pnrt3NPcaErlnPmIZQ)
+
+六、CloudNativeCommunity
+
+1. [云原生关乎文化，而不是容器](https://mp.weixin.qq.com/s/GQZODViNUnjDjLZN5R0RvA)
+
+七、脑子进煎鱼了
+
+1. [Go 群友提问：进程、线程都有 ID，为什么 Goroutine 没有 ID？](https://mp.weixin.qq.com/s/qFAtgpbAsHSPVLuo3PYIhg)
+
+八、Go招聘
+
+1. [真区块链项目招Go，就看你来不来吧](https://mp.weixin.qq.com/s/vfFKtajHUUwqGmGjWdZE2Q)
+
+九、鸟窝
+
+1. [Go 泛型尝鲜](https://colobu.com/2021/03/22/try-go-generic/)
  gocn_news-2021-03-22
 # go-news-set-2021-03-22
 ## gocn_news-2021-03-22
