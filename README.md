@@ -1,3 +1,33 @@
+ gocn_news-2021-03-22
+# go-news-set-2021-03-22
+## gocn_news-2021-03-22
+- 1.分布式任务 + 消息队列框架 go-queue https://gocn.vip/topics/11813
+
+- 2.Go 泛型尝鲜 https://colobu.com/2021/03/22/try-go-generic/
+
+- 3.Go 群友提问：进程、线程都有 ID，为什么 Goroutine 没有 ID？https://mp.weixin.qq.com/s/qFAtgpbAsHSPVLuo3PYIhg
+
+- 4.用 prometheus 监控 golang 程序 https://gabrieltanner.org/blog/collecting-prometheus-metrics-in-golang
+
+- 5.golang 语言临时对象池 - sync.Pool https://mp.weixin.qq.com/s/QH_IW-hUfxs2MxkLEBiexA#at
+
+
+ gopherDaily-2021-03-22
+# go-news-set-2021-03-22
+## gopherDaily-2021-03-22
+- 1.编写复杂并发的表驱动单元测试 - https://1pkg.github.io/posts/writing_complex_concurrent_table_driven_tests/
+- 2.使用ent生成完全可用的gRPC服务器 - https://entgo.io/blog/2021/03/18/generating-a-grpc-server-with-ent/
+- 3.使用Rust和Go通过HTTP服务单个文件 - https://vadosware.io/post/serving-a-single-file-over-http-with-rust-and-go/
+- 4.经典视频：驯服作为“一等公民”的函数 - https://www.youtube.com/watch?v=5buaPyJ0XeQ&t=980s
+- 5.Go终端字符串样式库，支持多种平台 - https://github.com/jwalton/gchalk
+- 6.Go面试问题大全 - https://github.com/shomali11/go-interview
+- 7.你应该知道的50个有用的git命令的速查表 - https://www.freecodecamp.org/news/git-cheat-sheet/
+- 8.CockroachDB热爱开源 - https://www.cockroachlabs.com/blog/cockroachdb-%!!(MISSING)E(MISSING)F%!!(MISSING)B(MISSING)8%!!(MISSING)F(MISSING)-open-source/
+- 9.将任何脚本或程序的输出放入您的macOS菜单栏中 - https://github.com/matryer/xbar
+- 10.替代SOLID的新设计原则：CUPID - https://dannorth.net/2021/03/16/cupid-the-back-story/
+- 11.开源的类GPT2和GPT3的模型 - https://github.com/EleutherAI/gpt-neo/
+- 12.科普MLOps - https://thenewstack.io/what-is-mlops/
+
  go语言中文网(每日资讯)-2021-03-21
 # go-news-set-2021-03-21
 ## go语言中文网(每日资讯)-2021-03-21
