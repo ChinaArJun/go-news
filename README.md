@@ -1,3 +1,16 @@
+ gocn_news-2021-03-23
+# go-news-set-2021-03-23
+## gocn_news-2021-03-23
+- 1.手撸 golang GO 与微服务 ES-CQRS 模式之 1 https://segmentfault.com/a/1190000039691281
+
+- 2.Go 语言 GC 实现原理即源码分析 https://mp.weixin.qq.com/s/yU0N_KOw34BHkyp1VdTMqA 
+- 3.Go 并发编程 (十二) Singleflight https://mp.weixin.qq.com/s/tORa8F7jxCUvF97dujHx0Q
+
+- 4.对 Go 1.16 io/fs 设计的第一感觉：得劲儿！ https://mp.weixin.qq.com/s/_pUtGQSl_oSRnmmfROJ6ZQ
+
+- 5.go 语言 copy-on-write 技术实现 https://mp.weixin.qq.com/s/OoWZnJQaQ5xnzLDFsig_SQ
+
+
  go语言中文网(每日资讯)-2021-03-22
 # go-news-set-2021-03-22
 ## go语言中文网(每日资讯)-2021-03-22
