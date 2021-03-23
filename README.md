@@ -1,3 +1,52 @@
+ go语言中文网(每日资讯)-2021-03-23
+# go-news-set-2021-03-23
+## go语言中文网(每日资讯)-2021-03-23
+
+一、Go语言中文网
+
+1. [吐槽 Go 依赖管理：Go Module 之痛](https://mp.weixin.qq.com/s/p1iCWg__JoFsHv8oDtyL0g)
+
+2. [使用Prometheus搞定微服务监控](https://mp.weixin.qq.com/s/1OCW38T2xW5D5Las-Nl6uw)
+
+3. [context使用不当引发的一个bug](https://mp.weixin.qq.com/s/Lp3sToRKuk79yzDdPf9-eQ)
+
+二、亚军进化史
+
+1. [Go技术日报(2021-03-22)——Go 泛型尝鲜](https://mp.weixin.qq.com/s/0q_WYnYim172yL_t49swJg)
+
+三、云原生技术爱好者社区
+
+1. [Service Mesh与Istio简述](https://mp.weixin.qq.com/s/-QB4p4w0O9p5_FPmlk0B-Q)
+
+四、架构之家
+
+1. [基于Golang的云原生日志采集服务设计与实践](https://mp.weixin.qq.com/s/fHJ10roQrwIwgm_urF9TyQ)
+
+五、程序员牛不牛
+
+1. [我还不懂什么是分布式事务](https://mp.weixin.qq.com/s/e6QMPfobdf0jDX8CX4vQrA)
+
+六、k8s技术圈
+
+1. [Kubernetes master 节点快炸了!!!](https://mp.weixin.qq.com/s/dUzOpecspViYTbf0JHutHA)
+
+七、mohuishou
+
+1. [Go并发编程(十二) Singleflight](https://mp.weixin.qq.com/s/tORa8F7jxCUvF97dujHx0Q)
+
+八、CloudNativeCommunity
+
+1. [加入 Istio 官方翻译组织的历程记录](https://mp.weixin.qq.com/s/sdJ5tDI-QqXqFkvQzEOoOA)
+
+九、真没什么逻辑
+
+1. [集群管理系统 Mesos 的设计原理 · NSDI &#39;11](https://mp.weixin.qq.com/s/0euIwN7r-KH0S8Yb_wN35g)
+
+十、Go招聘
+
+1. [Go 泛型尝鲜](https://mp.weixin.qq.com/s/jQ3BIJq3Xyi_KmyxmVZMRA)
+
+2. [成都 Go 是要起飞吗？最近职位真不少](https://mp.weixin.qq.com/s/AtvFknQPYGjAs4lFCmwVKw)
  gocn_news-2021-03-23
 # go-news-set-2021-03-23
 ## gocn_news-2021-03-23
