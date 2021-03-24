@@ -1,3 +1,17 @@
+ gocn_news-2021-03-24
+# go-news-set-2021-03-24
+## gocn_news-2021-03-24
+- 1.网络流量抓包库 gopacket 介绍 https://mp.weixin.qq.com/s/ZutgJ40nug_9bNsZj1u9Kw
+
+- 2.需要注意的 GO 网络包默认设置 https://martin.baillie.id/wrote/gotchas-in-the-go-network-packages-defaults/
+
+- 3.基于 Golang 的云原生日志采集服务设计与实践 https://mp.weixin.qq.com/s/fHJ10roQrwIwgm_urF9TyQ#at
+
+- 4.再见 Go 面试官：GMP 模型，为什么要有 P？ https://mp.weixin.qq.com/s/an7dml9NLOhqOZjEGLdEEw
+
+- 5.来了！Go 官方 Slice 教程图解版 https://mp.weixin.qq.com/s/GLEdRAOG24I38Zn9nh8F-Q
+
+
  go语言中文网(每日资讯)-2021-03-23
 # go-news-set-2021-03-23
 ## go语言中文网(每日资讯)-2021-03-23
