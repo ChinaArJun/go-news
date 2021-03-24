@@ -1,3 +1,45 @@
+ go语言中文网(每日资讯)-2021-03-24
+# go-news-set-2021-03-24
+## go语言中文网(每日资讯)-2021-03-24
+
+
+一、Go语言中文网
+
+1. [Go 中基于 IP 地址的 HTTP 请求限流](https://mp.weixin.qq.com/s/aj_hULmeqy3whILr2ytECQ)
+
+2. [图解unicode、utf8和utf8mb4](https://mp.weixin.qq.com/s/gmKGAFBNU97BnQUFZRv1_w)
+
+二、亚军进化史
+
+1. [Go技术日报(2021-03-23)——context使用不当引发的一个bug](https://mp.weixin.qq.com/s/tRhnEuguO5YqiUrmYs1WEw)
+
+三、腾讯技术工程
+
+1. [MySQL 深入学习总结](https://mp.weixin.qq.com/s/sRFmW57KUY3yyyRkyw0L4A)
+
+四、TechPaper
+
+1. [在业务系统中寻求技术含量](https://mp.weixin.qq.com/s/acTlfzQjYf7_hq46R-ZBPg)
+
+五、CloudNativeCommunity
+
+1. [专访 CNCF 大使王炜：让云原生开发回归原始而又简单](https://mp.weixin.qq.com/s/kOjfCPhHRpU1Th6C-lItcw)
+
+六、k8s技术圈
+
+1. [Thanos Receive 实现 Prometheus (几乎)无状态化](https://mp.weixin.qq.com/s/py5BYM5rFdeN6sTYnzsyug)
+
+七、xueyuanjun
+
+1. [Go 数据结构和算法篇（十）：二分查找的变形版本](https://mp.weixin.qq.com/s/bEJ6Ihc8jNFPd7sUmupjEw)
+
+八、脑子进煎鱼了
+
+1. [再见 Go 面试官：GMP 模型，为什么要有 P？](https://mp.weixin.qq.com/s/an7dml9NLOhqOZjEGLdEEw)
+
+九、Go招聘
+
+1. [50k的Go招聘是什么要求？](https://mp.weixin.qq.com/s/kKEduz_MEnVpA_QQ0AzxCA)
  gocn_news-2021-03-24
 # go-news-set-2021-03-24
 ## gocn_news-2021-03-24
