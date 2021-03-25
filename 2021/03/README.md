@@ -1,3 +1,47 @@
+ go语言中文网(每日资讯)-2021-03-25
+# go-news-set-2021-03-25
+## go语言中文网(每日资讯)-2021-03-25
+
+
+一、Go语言中文网
+
+1. [终于来了！go tip已经可以使用泛型了](https://mp.weixin.qq.com/s/U781UlKO_30wOaufngKj3Q)
+
+2. [为什么 Kubernetes 要替换 Docker](https://mp.weixin.qq.com/s/4ke9F5h__kG9BoGnzGDoUg)
+
+3. [RabbitMQ Go客户端教程1——HelloWorld](https://mp.weixin.qq.com/s/KSr-soJ9Ls-GWyMdtiPVVA)
+
+二、亚军进化史
+
+1. [Go技术日报(2021-03-24)——在业务系统中寻求技术含量](https://mp.weixin.qq.com/s/jB_6aPmCz7vy48LSCo1oPA)
+
+三、董泽润的技术笔记
+
+1. [聊聊并发安全](https://mp.weixin.qq.com/s/8qXfm0UqK4R1tJyK0_zYQg)
+
+四、转角遇到GitHub
+
+1. [又一本在线免费的 Go 语言图书](https://mp.weixin.qq.com/s/Z01xRLy9dMVbHpejKN1RpA)
+
+五、多颗糖
+
+1. [【MIT 6.824】学习笔记 5: 2021 Raft 实现细节](https://mp.weixin.qq.com/s/djjfz2oGosoj7fChEe9AdQ)
+
+六、Golang技术分享
+
+1. [Go函数闭包底层实现](https://mp.weixin.qq.com/s/kfNcrLZlb5LRi6ILsohwUA)
+
+七、真没什么逻辑
+
+1. [Google 数据中心的电力超售 · OSDI &#39;20](https://mp.weixin.qq.com/s/JdS8ZH0g_Elr1Q0i1PKWlw)
+
+八、HHFCodeRv
+
+1. [这可能是最容易理解的 Go Mutex 源码剖析](https://mp.weixin.qq.com/s/irXUkd9CZMInTUTu7pbriQ)
+
+九、CloudNativeCommunity
+
+1. [文末赠书 | 深度解析DDD中台和微服务设计](https://mp.weixin.qq.com/s/038RfEa5NgUSex0OTFQOkw)
  gocn_news-2021-03-25
 # go-news-set-2021-03-25
 ## gocn_news-2021-03-25
