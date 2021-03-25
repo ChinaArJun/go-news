@@ -1,3 +1,17 @@
+ gocn_news-2021-03-25
+# go-news-set-2021-03-25
+## gocn_news-2021-03-25
+- 1.Go Mysql Driver 集成 Seata-Golang 解决分布式事务问题 https://gocn.vip/topics/11831
+
+- 2.对 Go 1.16 io/fs 设计的第一感觉：得劲儿 https://gocn.vip/topics/11825
+
+- 3.深入研究 Go interface 底层实现 https://halfrost.com/go_interface/
+
+- 4.内存管理设计精要 https://draven.co/system-design-memory-management/
+
+- 5.Go Buffer 重用，避免频繁内存分配 https://ningto.com/post/36D5C2DAD3C2BEBD5F601A7A2ED43188
+
+
  go语言中文网(每日资讯)-2021-03-24
 # go-news-set-2021-03-24
 ## go语言中文网(每日资讯)-2021-03-24
