@@ -1,3 +1,49 @@
+ go语言中文网(每日资讯)-2021-03-26
+# go-news-set-2021-03-26
+## go语言中文网(每日资讯)-2021-03-26
+
+
+一、Go语言中文网
+
+1. [Go 构建 CLI 实践: 在 ETL 中使用扇出模式](https://mp.weixin.qq.com/s/4tiiZzr_b4OucAQLFXwLAQ)
+
+2. [RabbitMQ Go教程2——工作队列](https://mp.weixin.qq.com/s/4Jln0-2kMi7bsTdl0qoTRA)
+
+二、亚军进化史
+
+1. [Go技术日报(2021-03-25)——最容易理解的 Go Mutex 源码剖析](https://mp.weixin.qq.com/s/TpIUIS5NS_Ndj4XhuCNNuA)
+
+三、Gopher指北
+
+1. [有趣！一行代码居然无法获取请求的完整URL](https://mp.weixin.qq.com/s/hn3pfcGBG7HyPZnCwTmMhA)
+
+四、腾讯云CDN
+
+1. [专题 | 深挖腾讯云CDN QUIC的性能优化](https://mp.weixin.qq.com/s/cZfZEtnpizmxa66ni5wHnQ)
+
+五、腾讯技术工程
+
+1. [快速实现一个分布式定时器](https://mp.weixin.qq.com/s/ggPftQm2ewGOJwlRDQGgDQ)
+
+六、mohuishou
+
+1. [Go可用性(一) 隔离设计](https://mp.weixin.qq.com/s/9NtAlIh6bfSlA2ILqIzdDQ)
+
+七、MoeLove
+
+1. [Docker 构建镜像实践及原理（下篇）](https://mp.weixin.qq.com/s/TDQxbB0yFzd5PleS3knnEg)
+
+八、k8s技术圈
+
+1. [Pod 拓扑分布约束使用及调度原理](https://mp.weixin.qq.com/s/xyqqCo0qRgAR7vd6NzeQQQ)
+
+九、奇伢云存储
+
+1. [Go 存储基础 — 文件 IO 的姿势](https://mp.weixin.qq.com/s/EkcUJns0gDe8mNgrRMj8Eg)
+
+十、脑子进煎鱼了
+
+1. [难以驾驭的 Go timer，一文带你参透计时器的奥秘](https://mp.weixin.qq.com/s/gxX-q2EvgWZEWe-deRITSw)
  gocn_news-2021-03-26
 # go-news-set-2021-03-26
 ## gocn_news-2021-03-26
