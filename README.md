@@ -1,3 +1,17 @@
+ gocn_news-2021-03-26
+# go-news-set-2021-03-26
+## gocn_news-2021-03-26
+- 1. Golang 号称最快的 Json 解析器速度可达 5623ns/op   https://my.oschina.net/u/3081398/blog/4997334
+
+- 2. Go 语言交叉编译工具 gox   https://juejin.cn/post/6844903865175769102
+
+- 3. go os/exec 简明教程  https://colobu.com/2020/12/27/go-with-os-exec/
+
+- 4. Go 构建 CLI 实践: 在 ETL 中使用扇出模式  https://mp.weixin.qq.com/s/4tiiZzr_b4OucAQLFXwLAQ
+
+- 5. 真正的 Websocket 百万连接，以及 HTTPS 支持  https://gocn.vip/topics/11815
+
+
  go语言中文网(每日资讯)-2021-03-25
 # go-news-set-2021-03-25
 ## go语言中文网(每日资讯)-2021-03-25
