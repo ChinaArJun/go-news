@@ -1,3 +1,27 @@
+ go语言中文网(每日资讯)-2021-03-27
+# go-news-set-2021-03-27
+## go语言中文网(每日资讯)-2021-03-27
+一、Go语言中文网
+
+1. [对 Go 代码进行分析，常用这个技术：AST](https://mp.weixin.qq.com/s/gKnaHxoiBZrBMsXKsz2kvw)
+
+2. [这可能是最容易理解的 Go Mutex 源码剖析**](https://mp.weixin.qq.com/s/BZvfNn_Vre7o2T8BZ4LLMw)
+
+二、亚军进化史
+
+1. [Go技术日报(2021-03-26)——Go 可用性(一) 隔离设计](https://mp.weixin.qq.com/s/4S_tbGNORvFD9NcqOQJ3eQ)
+
+三、InfoQ
+
+1. [一年增加1.2w星，Dapr能否引领云原生中间件的未来？](https://mp.weixin.qq.com/s/KSln4MPWQHICIDeHiY-nWg)
+
+四、光华路程序猿
+
+1. [阅读go源码,你需要了解这几个编译器指示](https://mp.weixin.qq.com/s/HcGFFrjWkBDbwxBKfjn9Dg)
+
+五、Go招聘
+
+1. [360竞对招Go，居然还不加班](https://mp.weixin.qq.com/s/J6ydS_p8KdZ6t8zgnZCV1Q)
  gocn_news-2021-03-27
 # go-news-set-2021-03-27
 ## gocn_news-2021-03-27
