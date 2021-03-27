@@ -1,3 +1,17 @@
+ gocn_news-2021-03-27
+# go-news-set-2021-03-27
+## gocn_news-2021-03-27
+- 1.Intellij 插件新秀【CommentShell】， 让你的注释运行起来 https://gocn.vip/topics/11835
+
+- 2.面对不可避免的故障，我们造了一个 “上帝视角” 的控制台 https://gocn.vip/topics/11837
+
+- 3.Go 存储基础 — 文件 IO 的姿势 https://mp.weixin.qq.com/s/EkcUJns0gDe8mNgrRMj8Eg
+
+- 4.大红大紫的 Golang 真的是后端开发中的万能药吗？ https://bbs.huaweicloud.com/blogs/250592
+
+- 5.Go 可用性 (一) 隔离设计 https://mp.weixin.qq.com/s/9NtAlIh6bfSlA2ILqIzdDQ
+
+
  go语言中文网(每日资讯)-2021-03-26
 # go-news-set-2021-03-26
 ## go语言中文网(每日资讯)-2021-03-26
