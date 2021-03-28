@@ -1,3 +1,32 @@
+ gocn_news-2021-03-28
+# go-news-set-2021-03-28
+## gocn_news-2021-03-28
+- 1.Go 序列化语义 https://alabeduarte.com/the-semantics-of-marshalling-in-go/
+
+- 2.深入 Go nil https://blog.urth.org/2021/03/27/down-the-golang-nil-rabbit-hole/
+
+- 3.ant: 功能丰富的 Go 爬虫框架 https://github.com/yields/ant
+
+- 4.teller: 开源统一密钥管理服务 https://github.com/spectralops/teller
+
+- 5.Walrus: 安全快速的可靠备份实现 https://github.com/Clivern/Walrus
+
+
+ gopherDaily-2021-03-28
+# go-news-set-2021-03-28
+## gopherDaily-2021-03-28
+- 1.掉入Go nil坑 - https://blog.urth.org/2021/03/27/down-the-golang-nil-rabbit-hole/
+- 2.Go、Rust、C++和Zig语言的生产力对比 - https://zserge.com/posts/better-c-benchmark/
+- 3.编写简洁的Go代码 - https://github.com/Pungyeon/clean-go-article
+- 4.Javascript开发人员学Go指南 - https://dev.to/cali3192/learning-go-from-javascript-4n6e
+- 5.使用conda创建go虚拟环境 - https://ostechnix.com/create-golang-virtual-environments-using-conda-in-linux/
+- 6.Go语言基础总结 - https://towardsdev.com/learning-golang-9297e2eee49a
+- 7.在命令行终端测试打字水平的工具 - https://github.com/maaslalani/typer
+- 8.Go MessagePack编解码库 - https://github.com/vmihailenco/msgpack
+- 9.Kubernetes成为基础架构管理的新标准 - https://tanzu.vmware.com/content/blog/kubernetes-as-the-new-standard-for-infrastructure-management
+- 10.任何人都可以用任何编程语言解决的实际项目列表 - https://github.com/karan/Projects
+- 11.通过学习事物的工作原理来提高编程水平 - https://jvns.ca/blog/learn-how-things-work/
+
  go语言中文网(每日资讯)-2021-03-27
 # go-news-set-2021-03-27
 ## go语言中文网(每日资讯)-2021-03-27
