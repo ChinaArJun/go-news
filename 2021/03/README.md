@@ -1,3 +1,36 @@
+ go语言中文网(每日资讯)-2021-03-29
+# go-news-set-2021-03-29
+## go语言中文网(每日资讯)-2021-03-29
+
+一、Go语言中文网
+
+1. [Go 那么多数值类型，应该选哪个？](https://mp.weixin.qq.com/s/zCWzCBnszJ032h5qchk8cA)
+
+2. [RabbitMQ Go客户端教程3—发布/订阅](https://mp.weixin.qq.com/s/nsouScE11fVqelxznEdGhA)
+
+二、亚军进化史
+
+1. [Go技术日报(2021-03-28)——Golang 语言中的非类型安全指针](https://mp.weixin.qq.com/s/srsAMY7Ny1-ubU1Gqq32mw)
+
+三、mohuishou
+
+1. [Go可用性(二) 限流1: 令牌桶原理及使用](https://mp.weixin.qq.com/s/xDk54SE-JPOsokFg12OKfA)
+
+四、微服务实践
+
+1. [一文搞懂如何实现 Go 超时控制](https://mp.weixin.qq.com/s/5Q05d6OwvS-Zj-yNGwoh8A)
+
+五、Go招聘
+
+1. [Go Interview Weekly - 2021/03/28](https://mp.weixin.qq.com/s/iFNVOYHbULoN-J6cFDG7pg)
+
+六、Golang梦工厂
+
+1. [面试官：你能用Go写段代码判断当前系统的存储方式吗？](https://mp.weixin.qq.com/s/ffEsTpO-tyNZFR5navAbdA)
+
+七、Golang技术分享
+
+1. [Go中看似简单的WaitGroup源码设计，竟然暗含这么多知识？](https://mp.weixin.qq.com/s/V2x0Nw3Y8lZxHYJh_yQ0dQ)
  gocn_news-2021-03-29
 # go-news-set-2021-03-29
 ## gocn_news-2021-03-29
