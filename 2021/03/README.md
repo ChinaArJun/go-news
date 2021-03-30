@@ -1,3 +1,17 @@
+ gocn_news-2021-03-30
+# go-news-set-2021-03-30
+## gocn_news-2021-03-30
+- 1.内存管理设计精要 https://mp.weixin.qq.com/s/ytm8UiulueXgFALPjdlGrQ
+
+- 2.Go 网络包默认值下的陷阱 https://martin.baillie.id/wrote/gotchas-in-the-go-network-packages-defaults/
+
+- 3.该如何为 Kubernetes 定制特性 https://mp.weixin.qq.com/s/0XZa2KBubdNtN6sJTonluA
+
+- 4.Go 应用优化指北 https://mp.weixin.qq.com/s/ZTWJjbXfWygUD8Js-fTaBQ
+
+- 5.Go 中的"优雅"的错误处理 https://juejin.cn/post/6944996155277672478
+
+
  go语言中文网(每日资讯)-2021-03-29
 # go-news-set-2021-03-29
 ## go语言中文网(每日资讯)-2021-03-29
