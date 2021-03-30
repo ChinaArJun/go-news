@@ -1,3 +1,49 @@
+ go语言中文网(每日资讯)-2021-03-30
+# go-news-set-2021-03-30
+## go语言中文网(每日资讯)-2021-03-30
+
+
+一、Go语言中文网
+
+1. [对Go 1.16 io/fs设计的第一感觉：得劲儿！](https://mp.weixin.qq.com/s/CMzCHOMeOThzuDMTZzP0AA)
+
+2. [RabbitMQ Go客户端教程4——路由](https://mp.weixin.qq.com/s/NHO3ORUZavqjEXfx_k7W9g)
+
+二、亚军进化史
+
+1. [Go技术日报(2021-03-29)——Goroutine 泄漏防治神器 goleak](https://mp.weixin.qq.com/s/Q3Yp76gJJmlP_ZZm6RAj4w)
+
+三、TechPaper
+
+1. [Go 应用优化指北](https://mp.weixin.qq.com/s/J1PdpX4Mr6crR6cZMAqecQ)
+
+四、polarisxu
+
+1. [Go周刊题解：切片的另类初始化 — 该题正确率出奇的低](https://mp.weixin.qq.com/s/QZdRU7rA93PrJRfSmhACAg)
+
+五、k8s技术圈
+
+1. [Kubernetes APIServer 机制概述](https://mp.weixin.qq.com/s/aPcPx8rZ4nL5hUAgy7aovg)
+
+六、CloudNativeCommunity
+
+1. [分布式系统在 Kubernetes 上的进化](https://mp.weixin.qq.com/s/dtFsp1ano9blR12TcLmY1w)
+
+七、真没什么逻辑
+
+1. [你该如何为 Kubernetes 定制特性](https://mp.weixin.qq.com/s/0XZa2KBubdNtN6sJTonluA)
+
+八、脑子进煎鱼了
+
+1. [手撕 Go 面试官：Go 结构体是否可以比较，为什么？](https://mp.weixin.qq.com/s/HScH6nm3xf4POXVk774jUA)
+
+九、码农桃花源
+
+1. [喜提 Go Contributor](https://mp.weixin.qq.com/s/vMM2tKEGJUproWMhycVtog)
+
+十、Golang技术分享
+
+1. [区区一个单例就想阻止我拿大厂offer？](https://mp.weixin.qq.com/s/2kxEHYJLLi4-0lqmTww0kA)
  gocn_news-2021-03-30
 # go-news-set-2021-03-30
 ## gocn_news-2021-03-30
