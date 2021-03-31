@@ -1,3 +1,52 @@
+ go语言中文网(每日资讯)-2021-03-31
+# go-news-set-2021-03-31
+## go语言中文网(每日资讯)-2021-03-31
+
+一、Go语言中文网
+
+1. [重磅发布：第一本包含泛型的 Go 图书](https://mp.weixin.qq.com/s/8YZzVtdSxegT6K956sf0oA)
+
+2. [RabbitMQ Go客户端教程5——topic](https://mp.weixin.qq.com/s/wZD7D187DmS1RjZuxebbcw)
+
+二、亚军进化史
+
+1. [Go技术日报(2021-03-30)——Go 应用优化指北](https://mp.weixin.qq.com/s/8lcDwohk1UVFJkRIHYrP_w)
+
+三、Gopher指北
+
+1. [今天看了一道很有意思的切片输出面试题（二）](https://mp.weixin.qq.com/s/O5533KWvDkyrsiCpBRP9EA)
+
+四、polarisxu
+
+1. [一本 Go 新书：美国盗版图书这么厉害？](https://mp.weixin.qq.com/s/CSgQDfW9v_-tmbGkkQDqQg)
+
+五、CloudNativeCommunity
+
+1. [手把手教你玩转 Kubeflow on EKS（一）](https://mp.weixin.qq.com/s/1ofdU3kZNQAnOlJC2T98Hg)
+
+六、TonyBai
+
+1. [Go语言中常见的几种反模式[译]](https://mp.weixin.qq.com/s/BKPXIrubvoPCqAhH2Kv3Zw)
+
+七、TechPaper
+
+1. [依赖反转相关](https://mp.weixin.qq.com/s/cahh0DvCl6ua3TsckcYh3g)
+
+八、微服务实践
+
+1. [用 Go + WebSocket 快速实现一个 chat 服务](https://mp.weixin.qq.com/s/8pBKZ8Mx_P2QyCBT_nvNuw)
+
+九、k8s技术圈
+
+1. [kube-apiserver 重启引起的全量对象更新](https://mp.weixin.qq.com/s/aE9sitph2HoLnX4ixl7RtA)
+
+十、奇伢云存储
+
+1. [存储入门进阶推荐：存储技术通关看这几本书](https://mp.weixin.qq.com/s/zyNb5N05un8w5AakAXv8Kg)
+
+十一、Go招聘
+
+1. [风水轮流转：这次大广州 Gopher 走一波，福利还不错哦](https://mp.weixin.qq.com/s/t6-fLG1LPthb13kY1SSh_Q)
  gocn_news-2021-03-31
 # go-news-set-2021-03-31
 ## gocn_news-2021-03-31
