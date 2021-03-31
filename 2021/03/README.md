@@ -1,3 +1,17 @@
+ gocn_news-2021-03-31
+# go-news-set-2021-03-31
+## gocn_news-2021-03-31
+- 1.Go 如何知道 time.Now 的时间 https://tpaschalis.github.io/golang-time-now/
+
+- 2.构建一个超简约的 Docker 镜像运行 Golang App https://dev.to/chseki/build-a-super-minimalistic-docker-image-to-run-your-golang-app-33j0
+
+- 3.Go 中集合的高阶函数 https://sergio-franco.me/posts/higher-order-collections/
+
+- 4.go 实现的 url 短链接服务 https://github.com/adhocore/urlsh
+
+- 5.go 实现的构建虚拟网络工具 https://github.com/gravitl/netmaker
+
+
  go语言中文网(每日资讯)-2021-03-30
 # go-news-set-2021-03-30
 ## go语言中文网(每日资讯)-2021-03-30
