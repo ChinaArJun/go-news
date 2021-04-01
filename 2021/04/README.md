@@ -1,3 +1,50 @@
+ go语言中文网(每日资讯)-2021-04-01
+# go-news-set-2021-04-01
+## go语言中文网(每日资讯)-2021-04-01
+
+一、Go语言中文网
+
+1. [想使用 Go 开发 GUI 项目的可以看看这个](https://mp.weixin.qq.com/s/pkJgXK2tEC7B5KPGMWkA_w)
+
+2. [Go爱好者周刊 87、88期题解](https://mp.weixin.qq.com/s/WRB0lJ_XBBDqei48bvaNKg)
+
+3. [RabbitMQ Go客户端教程6——RPC](https://mp.weixin.qq.com/s/4cSfAFo11mWJhZ9txW3B1A)
+
+二、亚军进化史
+
+1. [Go技术日报(2021-03-31)——用 Go + WebSocket 快速实现一个 chat 服务](https://mp.weixin.qq.com/s/Cm9zCr2umFspNBPmlV2MFQ)
+
+三、luozhiyun很酷
+
+1. [如何编译调试Go runtime源码](https://mp.weixin.qq.com/s/iQ3wnJh6hpBsZVM1ca5B3Q)
+
+四、TechPaper
+
+1. [让微服务失败的 10 个 tips](https://mp.weixin.qq.com/s/eAfjKul0BVgXI0w_ZVTPZA)
+
+五、k8s技术圈
+
+1. [拥抱云原生，基于eBPF技术实现Serverless节点访问K8S Service](https://mp.weixin.qq.com/s/0zOxvNKBtVEDMa_YgAr22Q)
+
+六、CloudNativeCommunity
+
+1. [Kubernetes Scheduler Cache 架构设计源码阅读](https://mp.weixin.qq.com/s/Rx7z6UrhV849aWUj5TUo8Q)
+
+七、真没什么逻辑
+
+1. [2020 年总结 · 渐入佳境](https://mp.weixin.qq.com/s/Nbcrw5kj_uaW7O6DBdzm5Q)
+
+八、mohuishou
+
+1. [Go可用性(三) 限流2: 令牌桶的实现 rate/limt](https://mp.weixin.qq.com/s/7AMTD6fZY6q0_zdBs90tRQ)
+
+九、脑子进煎鱼了
+
+1. [Go 内存泄露之痛，这篇把 Go timer.After 问题根因讲透了！](https://mp.weixin.qq.com/s/KSBdPkkvonSES9Z9iggElg)
+
+十、polarisxu
+
+1. [我无语了，Go 中 +-*/ 四个运算符竟然可以连着用](https://mp.weixin.qq.com/s/kMFfSkKbV7w0lwPOgGK-CQ)
  gocn_news-2021-04-01
 # go-news-set-2021-04-01
 ## gocn_news-2021-04-01
