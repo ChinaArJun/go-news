@@ -1,3 +1,41 @@
+ go语言中文网(每日资讯)-2021-04-02
+# go-news-set-2021-04-02
+## go语言中文网(每日资讯)-2021-04-02
+
+
+一、Go语言中文网
+
+1. [那些想替代 C 的语言怎么样？Go、Rust、C++ 和 Zig 生产力对比](https://mp.weixin.qq.com/s/jUWLmeqwVJyI9HTw66yLiA)
+
+2. [Go 1.16.3 发布](https://mp.weixin.qq.com/s/lOfOw7y3qxqtuGmO-T937A)
+
+3. [RedMonk 编程语言排行榜，说 Go 正走向衰退](https://mp.weixin.qq.com/s/QLoet9MHPCdSdJ3t-Q13Iw)
+
+4. [Go 面试题：滑动窗口技巧](https://mp.weixin.qq.com/s/F0UhJBqMBl8IQCjF10AgvQ)
+
+二、亚军进化史
+
+1. [Go技术日报(2021-04-01)—— 令牌桶的实现 rate/limt](https://mp.weixin.qq.com/s/tWH8FhDZev9Cjfp0weaNTg)
+
+三、polarisxu
+
+1. [「Hello, World」发明者的传奇人生 — 文末送书](https://mp.weixin.qq.com/s/vGDU8okV30XHZCvFEJR4Sg)
+
+四、字节跳动技术团队
+
+1. [火山引擎 Redis 云原生实践](https://mp.weixin.qq.com/s/VCpuZ0lvgSgfvG7voBl9fw)
+
+五、云原生技术爱好者社区
+
+1. [Kubernetes常见面试问题总结](https://mp.weixin.qq.com/s/tgP-Vk8O83UbxlHCfjIHgQ)
+
+六、脑子进煎鱼了
+
+1. [再见 Go 面试官：单核 CPU，开两个 Goroutine，其中一个死循环，会怎么样？](https://mp.weixin.qq.com/s/h27GXmfGYVLHRG3Mu_8axw)
+
+七、Go招聘
+
+1. [西安也是起飞的节奏，大厂狂招Gopher](https://mp.weixin.qq.com/s/Fha7qOzLreG1aoKJ7oFyjA)
  gocn_news-2021-04-02
 # go-news-set-2021-04-02
 ## gocn_news-2021-04-02
