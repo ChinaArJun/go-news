@@ -1,3 +1,32 @@
+ gocn_news-2021-04-02
+# go-news-set-2021-04-02
+## gocn_news-2021-04-02
+- 1.Golang 语言的编程技巧之类型 https://mp.weixin.qq.com/s/NwJY4-QULFT8Cd5R2un6cw
+
+- 2.context 使用不当引发的一个 bug https://mp.weixin.qq.com/s/FkgPzlwJtVUvCL_O7M-_jw
+
+- 3.Go 函数闭包底层实现 https://mp.weixin.qq.com/s/w5aq4PuLG1tT57nRzuzaFw
+
+- 4.go 中 semaphore 源码解读 https://boilingfrog.github.io/2021/04/02/semaphore/
+
+- 5.你能用 Go 写段代码判断当前系统的存储方式吗？ https://mp.weixin.qq.com/s/ffEsTpO-tyNZFR5navAbdA
+
+
+ gopherDaily-2021-04-02
+# go-news-set-2021-04-02
+## gopherDaily-2021-04-02
+- 1.spaghetti：基于Web的交互式的Go包依赖分析工具 - https://github.com/adonovan/spaghetti
+- 2.Go原生支持fuzz test的提案被accept - https://github.com/golang/go/issues/44551
+- 3.用于Go语言开发的Top 10 IDE和工具 -  https://www.mindinventory.com/blog/golang-ide-tools-for-go-development/
+- 4.使用Promtail, Loki, Grafana搭建k8s日志分析系统 - https://itnext.io/logging-in-kubernetes-with-loki-and-the-plg-stack-93b27c90ec34
+- 5.google开源的与容器镜像仓库交互的go包与命令行工具 - https://github.com/google/go-containerregistry
+- 6.go tip版本已经实现基于寄存器的ABI规范(以前是基于栈的) - https://github.com/golang/go/issues/40724#issuecomment-811561715
+- 7.Go 1.16.3和Go 1.15.11 发布 -  https://groups.google.com/g/golang-announce/c/wVRzkWSQpO0/m/EUykHAm0CAAJ
+- 8.Go设计草案：Go漏洞数据库 - https://go.googlesource.com/proposal/+/master/design/draft-vulndb.md
+- 9.使用Go和kotlin重写alda - https://blog.djy.io/why-im-rewriting-alda-in-go-and-kotlin/
+- 10.云提供商的CPU基准测试 - https://thenewstack.io/cpu-benchmarks-for-cloud-providers-intel-vs-amd-vs-amazons-arm-based-graviton2/
+- 11.Go泛型设计又有新简化：约束中的type关键字被去掉 - https://github.com/golang/go/issues/45346
+
  go语言中文网(每日资讯)-2021-04-01
 # go-news-set-2021-04-01
 ## go语言中文网(每日资讯)-2021-04-01
