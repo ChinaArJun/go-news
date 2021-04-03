@@ -1,3 +1,25 @@
+ go语言中文网(每日资讯)-2021-04-03
+# go-news-set-2021-04-03
+## go语言中文网(每日资讯)-2021-04-03
+
+
+一、Go语言中文网
+
+1. [Hugo作者、Go核心团队成员Steve Francia谈诞生13年的Go语言：生态系统、演化与未来[译]](https://mp.weixin.qq.com/s/P5_wFaNgWkoNZKA7w3g_xA)
+
+2. [Go中看似简单的WaitGroup源码设计，竟然暗含这么多知识？](https://mp.weixin.qq.com/s/NYusaV42VyYtMByD-JuA3A)
+
+3. [Go 存储基础 — 文件 IO 的姿势](https://mp.weixin.qq.com/s/kHGxXEz7lahDeXhrDxvmHw)
+
+二、亚军进化史
+
+1. [Go技术日报(2021-04-02)——Go 1.16.3 发布](https://mp.weixin.qq.com/s/YzhYbyFQmDrO90-OT8zhkA)
+
+三、k8s技术圈
+
+1. [Prometheus Operator 安装配置|最新版](https://mp.weixin.qq.com/s/vUsi4OrVopav46QHEBDNsA)
+
+2. [高级 SRE/DevOps 专家 - 理想汽车 | 云原生招聘](https://mp.weixin.qq.com/s/B1d6qBrhiAZNYcLcdluJkA)
  gocn_news-2021-04-03
 # go-news-set-2021-04-03
 ## gocn_news-2021-04-03
