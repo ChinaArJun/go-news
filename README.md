@@ -1,3 +1,33 @@
+ gocn_news-2021-04-03
+# go-news-set-2021-04-03
+## gocn_news-2021-04-03
+- 1.Go map vs switch https://adayinthelifeof.nl/2021/03/04/go-map-vs-switch.html
+
+- 2.Go nil 类型的理论与实践 https://utcc.utoronto.ca/~cks/space/blog/programming/GoNilIsTypedSortOf
+
+- 3.Go http handler 的小细节 https://vladimir.varank.in/notes/2021/03/little-things-of-go-http-handlers/
+
+- 4.一个 Go module 的生命流程 https://jayconrod.com/posts/118/life-of-a-go-module
+
+- 5.Go 自动测试实践 https://dev.to/salesforceeng/intro-to-automated-testing-in-go-4mjl
+
+
+ gopherDaily-2021-04-03
+# go-news-set-2021-04-03
+## gopherDaily-2021-04-03
+- 1.Go 应用优化指北 -  https://mp.weixin.qq.com/s/J1PdpX4Mr6crR6cZMAqecQ
+- 2.在线重加载Go应用 - https://github.com/cosmtrek/air
+- 3.油管视频：理解Go内存分配：栈与堆 - https://www.youtube.com/watch?v=ZMZpH4yT7M0
+- 4.不要在集成测试中使用build tag - https://peter.bourgon.org/blog/2021/04/02/dont-use-build-tags-for-integration-tests.html
+- 5.2021年，Go还值得初学者学习吗 - https://medium.com/geekculture/is-golang-worth-learning-for-beginners-in-2021-2d189ea3419e
+- 6.Go与rabbitmq实例 - https://dev.to/koddr/working-with-rabbitmq-in-golang-by-examples-2dcn
+- 7.semver版本号解析工具 - https://github.com/hashicorp/go-version
+- 8.Omniparser：原生的GoETL解析器，支持提取各种格式的输入数据 - https://github.com/jf-tech/omniparser
+- 9.Argo Workflows 3.0发布 - https://www.cncf.io/blog/2021/04/02/argo-workflows-3-0-released/
+- 10.71张图详解IP 地址、IP 路由、分片和重组、三层转发、ARP、ICMP - https://mp.weixin.qq.com/s/e0MsxZn0-hZ5KIOUF8p6IA
+- 11.单个C源文件的http server - https://unix4lyfe.org/darkhttpd/
+- 12.Go是一门伟大的编程语言 - https://drewdevault.com/2021/04/02/Go-is-a-great-language.html
+
  go语言中文网(每日资讯)-2021-04-02
 # go-news-set-2021-04-02
 ## go语言中文网(每日资讯)-2021-04-02
