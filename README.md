@@ -1,3 +1,31 @@
+ gocn_news-2021-04-04
+# go-news-set-2021-04-04
+## gocn_news-2021-04-04
+- 1.针对前端开发者的 Go 入门指南 https://medium.com/star-gazers/golang-for-frontend-developers-beginner-guide-to-golang-87aa036b932f
+
+- 2.系统受控 - 如何自动化集成测试 https://medium.com/bumble-tech/system-under-control-how-to-automate-integration-tests-52383be28d07
+
+- 3.Go 与 RabbitMQ 集成示例 https://dev.to/koddr/working-with-rabbitmq-in-golang-by-examples-2dcn
+
+- 4.成为更好的 Gopher 值得收藏的一些书签 https://dev.to/rubenwap/must-bookmarks-to-become-good-in-go-ln8
+
+- 5.Go 包依赖分析工具 https://github.com/adonovan/spaghetti
+
+
+ gopherDaily-2021-04-04
+# go-news-set-2021-04-04
+## gopherDaily-2021-04-04
+- 1.大厂Go语法50问 - https://www.readfog.com/a/1631467208759676928
+- 2.基于docker-compose在google云上运行集成测试 - https://threedots.tech/post/running-integration-tests-on-google-cloud-build/
+- 3.利用接口在Go中模拟测试外部API - https://levelup.gitconnected.com/utilizing-the-power-of-interfaces-when-mocking-and-testing-external-apis-in-golang-1178b0db5a32
+- 4.漂亮的终端布局的样式定义(基于TUI) -  https://github.com/charmbracelet/lipgloss
+- 5.分布式操作系统不存在 - https://nivenly.com/lib/2021-04-02-operating-system-interface/
+- 6.Windows 10上不用Docker的Windows容器（使用containerd） - https://www.jamessturtevant.com/posts/Windows-Containers-on-Windows-10-without-Docker-using-Containerd/
+- 7.网络错误配置扫描器 - https://github.com/SpectralOps/netz
+- 8.使用go开发一个区块链：持久化 - https://dev.to/nheindev/building-a-blockchain-in-go-pt-iii-persistence-3884
+- 9.互联网测速命令行工具 - https://github.com/adhocore/fast
+- 10.编程语言引发了隐私问题 - https://www.bleepingcomputer.com/news/security/most-loved-programming-language-rust-sparks-privacy-concerns/
+
  go语言中文网(每日资讯)-2021-04-03
 # go-news-set-2021-04-03
 ## go语言中文网(每日资讯)-2021-04-03
