@@ -1,3 +1,27 @@
+ go语言中文网(每日资讯)-2021-04-04
+# go-news-set-2021-04-04
+## go语言中文网(每日资讯)-2021-04-04
+
+
+一、Go语言中文网
+
+1. [Go语言爱好者周刊：第 89 期 — 泛型又有变动](https://mp.weixin.qq.com/s/XMc_wMGgLgCXRJecGMx93g)
+
+2. [不知道如何组织项目结构，这个项目也许可以给你启发](https://mp.weixin.qq.com/s/PUBshhETz7kcJ-0VNhpvdw)
+
+3. [面试官：你能用Go写段代码判断当前系统的存储方式吗？](https://mp.weixin.qq.com/s/JNef8fGc3jyHqdqgCoYkPg)
+
+二、亚军进化史
+
+1. [Go技术日报(2021-04-03)——揭秘WaitGroup源码设计](https://mp.weixin.qq.com/s/pNM2su7jeBn7UYvEMkY3_A)
+
+三、云原生技术爱好者社区
+
+1. [Linkerd、Consul、Istio、Kuma、Traefik、AWS App服务网格全方位对比](https://mp.weixin.qq.com/s/22OYzOGhygIFU09ofZ1hig)
+
+四、网管叨bi叨
+
+1. [gRPC的平滑关闭和在Kubernetes上的服务摘流方案总结](https://mp.weixin.qq.com/s/lCTyZgSK3b-rJtV9l6PNYA)
  gocn_news-2021-04-04
 # go-news-set-2021-04-04
 ## gocn_news-2021-04-04
