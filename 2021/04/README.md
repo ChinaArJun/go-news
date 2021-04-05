@@ -1,3 +1,33 @@
+ go语言中文网(每日资讯)-2021-04-05
+# go-news-set-2021-04-05
+## go语言中文网(每日资讯)-2021-04-05
+
+
+一、Go语言中文网
+
+1. [为什么你应该慎重考虑使用 Kubernetes](https://mp.weixin.qq.com/s/3Od9u1YUH5KGQvo7Ky3O6w)
+
+2. [Go 语言格式化动词，一篇理清](https://mp.weixin.qq.com/s/SCsxIYvyt5N-tRlwLnECzQ)
+
+二、亚军进化史
+
+1. [Go技日报(2021-04-04)——Gopher 值得收藏的一些书签](https://mp.weixin.qq.com/s/ZGCWngrtey6gclGpj885aQ)
+
+三、k8s技术圈
+
+1. [Traefik SRE 之使用 Prometheus 进行监控报警](https://mp.weixin.qq.com/s/yWtv25Bt2Y7vGSJjJ4Y0KA)
+
+2. [K8S 云平台/Go 工程师/专家 - 小鹏汽车 | 云原生招聘](https://mp.weixin.qq.com/s/WPxFuGZMfCGON02ZvohGCg)
+
+四、Golang Weekly
+
+1. [Golang Weekly Issue 356: April 2, 2021](https://golangweekly.com/issues/356)
+
+2. [Awesome Go Newsletter - Issue 254, Apr 01, 2021 | LibHunt](https://go.libhunt.com/newsletter/254)
+
+五、Go招聘
+
+1. [三月你股了么](https://mp.weixin.qq.com/s/Wv9jSRj_wyKrUUfwbxZ1tw)
  gocn_news-2021-04-05
 # go-news-set-2021-04-05
 ## gocn_news-2021-04-05
