@@ -1,3 +1,32 @@
+ gocn_news-2021-04-05
+# go-news-set-2021-04-05
+## gocn_news-2021-04-05
+- 1.使用 TLS 的 Go HTTPS 服务器 https://eli.thegreenplace.net/2021/go-https-servers-with-tls/
+
+- 2.Go 构建区块链 https://dev.to/nheindev/build-the-hello-world-of-blockchain-in-go-bli
+
+- 3.Go 中的第三方认证集成 https://dev.to/stephenafamo/authenticating-3rd-party-integrations-in-go-ldj
+
+- 4.Go Stringer 代码生成 https://medium.com/a-journey-with-go/go-stringer-command-efficiency-through-code-generation-df49f97f3954
+
+- 5.如何恢复 Go 程序 https://medium.com/a-journey-with-go/go-how-does-a-program-recover-fbbbf27cc31e
+
+
+ gopherDaily-2021-04-05
+# go-news-set-2021-04-05
+## gopherDaily-2021-04-05
+- 1.Go团队针对泛型语法又出“幺蛾子” - 新type set语法替代原type list - https://t.zsxq.com/nY7AeyJ
+- 2.探索kubernetes operator模式 - https://iximiuz.com/en/posts/kubernetes-operator-pattern/
+- 3.如何快速创建Go应用 - https://adhoc.team/2021/03/29/simple-web-app-in-golang/
+- 4.使用ent在两分钟内构建全功能gRPC服务 - https://entgo.io/blog/2021/03/18/generating-a-grpc-server-with-ent/
+- 5.兼容XPath 1.0的Go包 - https://github.com/ChrisTrenkamp/xsel
+- 6.图形化展示go包依赖关系 - https://gographs.io/
+- 7.Teleport：一种身份识别、支持多协议的访问代理 - https://github.com/gravitational/teleport
+- 8.OpenShift安全最佳实践 - https://www.stackrox.com/post/2020/11/openshift-security-best-practices-part-1-of-5-cluster-design/
+- 9.使用docker构建集成开发环境 - https://medium.com/@ls12styler/docker-as-an-integrated-development-environment-95bc9b01d2c1
+- 10.tmux入门 - https://sunainapai.in/blog/get-started-with-tmux/
+- 11.测试Operator SDK并为Kubernetes建立预取机制 - https://itnext.io/testing-the-operator-sdk-and-making-a-prefetch-mechanism-for-kubernetes-7508577efdd7
+
  go语言中文网(每日资讯)-2021-04-04
 # go-news-set-2021-04-04
 ## go语言中文网(每日资讯)-2021-04-04
