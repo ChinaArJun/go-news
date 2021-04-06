@@ -1,3 +1,52 @@
+ go语言中文网(每日资讯)-2021-04-06
+# go-news-set-2021-04-06
+## go语言中文网(每日资讯)-2021-04-06
+
+一、Go语言中文网
+
+1. [Go：使用 Ebiten 在 2D 视频游戏中进行图像渲染](https://mp.weixin.qq.com/s/KMPpwMiAoXoh0eicVjwblA)
+
+2. [Go垃圾回收系列之十一：finalizer的妙用](https://mp.weixin.qq.com/s/E076Svi1EAkEz63d1jVpKw)
+
+二、亚军进化史
+
+1. [Go技术日报(2021-04-05)——图形化展示go包依赖关系](https://mp.weixin.qq.com/s/YnQst2VnoaZh0eGux2rJsA)
+
+三、 MoeLove
+
+1. [深入源码彻底搞懂 Docker 镜像](https://mp.weixin.qq.com/s/AHR_IRAbytB46nCgYvrFiw)
+
+四、ServiceMesher
+
+1. [是否选择多集群 —— 使用服务网格的集群间通信](https://mp.weixin.qq.com/s/Kn4KDlwMAmDvzr-dRv95dw)
+
+五、luozhiyun很酷
+
+1. [一文教你搞懂 Go 中栈操作](https://mp.weixin.qq.com/s/H9ZYnJevZAnFaNsIH2wbjQ)
+
+六、k8s技术圈
+
+1. [API 网关 gRPC-Gateway V2 初探](https://mp.weixin.qq.com/s/Mse5UTek6lUmqBxN5ry6iQ)
+
+七、脑子进煎鱼了
+
+1. [你知道 Go 结构体和结构体指针调用有什么区别吗？](https://mp.weixin.qq.com/s/g-D_eVh-8JaIoRne09bJ3Q)
+
+八、Golang梦工厂
+
+1. [如何平滑切换线上Elasticsearch索引](https://mp.weixin.qq.com/s/8VQxK_Xh-bkVoOdMZs4Ujw)
+
+九、GoOfficialBlog
+
+1. [高性能 Go 代码工坊（Part3)](https://mp.weixin.qq.com/s/74FQ0PB-idCVLa_hKyQuag)
+
+十、微服务实践
+
+1. [极速精简 Go 版 Logstash](https://mp.weixin.qq.com/s/UeeSZi_-ZiiHf3P4tmyszw)
+
+十一、技术岁月
+
+1. [服务注册发现之服务注册中心设计原理与Golang实现](https://mp.weixin.qq.com/s/ZWJBuszbaso1KuE9BjNBHg)
  gocn_news-2021-04-06
 # go-news-set-2021-04-06
 ## gocn_news-2021-04-06
@@ -11,6 +60,20 @@
 
 - 5.让 Go 程序以 systemd 服务运行 https://khanakia.medium.com/golang-running-a-go-binary-as-a-systemd-service-on-ubuntu-18-04-in-10-minutes-without-docker-e5a1e933bb7e
 
+
+ gopherDaily-2021-04-06
+# go-news-set-2021-04-06
+## gopherDaily-2021-04-06
+- 1.Go语言的“十条戒律” - https://bitfieldconsulting.com/golang/commandments
+- 2.pterm: 强大的控制台输出美化包 - https://github.com/pterm/pterm
+- 3.标准库context包探秘 - https://steveazz.xyz/blog/import-context/
+- 4.使用Go构建一个基础区块链 - https://levelup.gitconnected.com/how-to-build-a-basic-blockchain-in-go-c5745ea06456
+- 5.通过goroutine加速你的go应用 - https://betterprogramming.pub/golang-basics-speed-up-your-program-with-goroutines-4ce84945aba8
+- 6.为什么我从wordpress迁移到gohugo - https://sspaeti.com/blog/why-i-moved-away-from-wordpress/
+- 7.packiffer: 跨平台包嗅探器 - https://github.com/massoudasadi/packiffer
+- 8.docuowl: Go实现的文档生产工具 - https://github.com/docuowl/docuowl
+- 9.云原生世界的服务网格 - https://thenewstack.io/service-meshes-in-the-cloud-native-world/
+- 10.Git作为一个NoSql数据库 - https://www.kenneth-truyers.net/2016/10/13/git-nosql-database/
 
  go语言中文网(每日资讯)-2021-04-05
 # go-news-set-2021-04-05
