@@ -1,3 +1,17 @@
+ gocn_news-2021-04-06
+# go-news-set-2021-04-06
+## gocn_news-2021-04-06
+- 1.揭秘腾讯内部 Go Modules Proxy 服务 https://mp.weixin.qq.com/s/GuUHq3uyPiMCQg_G1odAWA
+
+- 2.像大神一样调试 Go https://juejin.cn/post/6947868469270577159
+
+- 3.一文教你搞懂 Go 中栈操作 https://www.luozhiyun.com/archives/513
+
+- 4.Goroutine 实现并发应该思考的问题 https://juejin.cn/post/6947548031793233957
+
+- 5.让 Go 程序以 systemd 服务运行 https://khanakia.medium.com/golang-running-a-go-binary-as-a-systemd-service-on-ubuntu-18-04-in-10-minutes-without-docker-e5a1e933bb7e
+
+
  go语言中文网(每日资讯)-2021-04-05
 # go-news-set-2021-04-05
 ## go语言中文网(每日资讯)-2021-04-05
