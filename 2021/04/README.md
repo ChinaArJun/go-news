@@ -1,3 +1,56 @@
+ go语言中文网(每日资讯)-2021-04-07
+# go-news-set-2021-04-07
+## go语言中文网(每日资讯)-2021-04-07
+
+一、Go语言中文网
+
+1. [使用Go实现可用select监听的队列](https://mp.weixin.qq.com/s/GeM_W3Ea7uHCCgbfrHGHsg)
+
+2. [&quot;go build -X&quot; 的妙用](https://mp.weixin.qq.com/s/nd0ynZfRbgIZktG5TkfWbg)
+
+二、亚军进化史
+
+1. [Go技术日报(2021-04-06)——高性能 Go 代码工坊](https://mp.weixin.qq.com/s/a3-OlgMhkWhoenN1s5C4Rg)
+
+三、MoeLove
+
+1. [K8S 生态周报| Prometheus v2.26 发布, 带来众多实用特性](https://mp.weixin.qq.com/s/w4tqY3G01icJKodD6MF1Cw)
+
+四、吴亲强的深夜食堂
+
+1. [使用 Go 每分钟处理百万请求](https://mp.weixin.qq.com/s/BPCxSYEr6ww2F0b9tqPdSQ)
+
+五、k8s技术圈
+
+1. [kube-scheduler 的 Cache 解析](https://mp.weixin.qq.com/s/xIw4RZUjl2SMzxCRfW3fig)
+
+六、polarisxu
+
+1. [答应我，这次一定彻底搞懂 Go 中的类型别名](https://mp.weixin.qq.com/s/vtgFEXkjaItmkqUzcj64tg)
+
+七、mohuishou
+
+1. [Go可用性(四) 限流3: 漏桶算法](https://mp.weixin.qq.com/s/dJ3hiuA-8BdNF_ENL-WIUg)
+
+八、Golang梦工厂
+
+1. [源码剖析类型断言是如何实现的！附性能损耗测试](https://mp.weixin.qq.com/s/dq5PVHdMBMkbyGSxN28DHA)
+
+九、Golang技术分享
+
+1. [算法系列：广度优先搜索](https://mp.weixin.qq.com/s/p4nDIF6jWTnv5Q8QRKKjpQ)
+
+十、奇伢云存储
+
+1. [存储基础 — 文件描述符 fd 究竟是什么？](https://mp.weixin.qq.com/s/hLq7Pp8CkJD9B-Xqym50dA)
+
+十一、刻舟求荐
+
+1. [第 0002 荐：Fiber，超高性能的Go Web框架](https://mp.weixin.qq.com/s/o70a_zlA43pvbzzbyDXjtg)
+
+十二、Go招聘
+
+1. [gopher们都想有个好未来？那就来这吧](https://mp.weixin.qq.com/s/Le4-3rAjGyFdNyRRUAG4vg)
  gocn_news-2021-04-07
 # go-news-set-2021-04-07
 ## gocn_news-2021-04-07
