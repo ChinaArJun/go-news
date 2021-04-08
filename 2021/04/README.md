@@ -1,3 +1,17 @@
+ gocn_news-2021-04-08
+# go-news-set-2021-04-08
+## gocn_news-2021-04-08
+- 1.Go time.Now 是如何获取当前时间的？ https://tpaschalis.github.io/golang-time-now/
+
+- 2.跟读者聊 Goroutine 泄露的 N 种方法，真刺激！ https://mp.weixin.qq.com/s/ql01K1nOnEZpdbp--6EDYw
+
+- 3.RLock 过程被调出的悲剧 https://mp.weixin.qq.com/s/AGJpvfbB1GoMZ0IRQdFRUQ
+
+- 4.用 vscode 在 k8s 中调试微服务 https://blog.getambassador.io/debugging-go-microservices-in-kubernetes-with-vscode-a36beb48ef1
+
+- 5.Go + gRPC-Gateway(V2) 构建微服务实战系列，小程序登录鉴权服务 https://mp.weixin.qq.com/s/P9WBtE4rZ2wepT5OtLjKGw
+
+
  go语言中文网(每日资讯)-2021-04-07
 # go-news-set-2021-04-07
 ## go语言中文网(每日资讯)-2021-04-07
