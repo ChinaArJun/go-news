@@ -1,3 +1,45 @@
+ go语言中文网(每日资讯)-2021-04-08
+# go-news-set-2021-04-08
+## go语言中文网(每日资讯)-2021-04-08
+
+
+一、Go语言中文网
+
+1. [【文末送书】你知道 Go 之父 Ken&amp;Rob 之前的故事吗？](https://mp.weixin.qq.com/s/BzheVWnEnFNQywaGxMZWDw)
+
+2. [服务注册中心设计原理与Golang实现](https://mp.weixin.qq.com/s/WZ6HG-ZLFiBJLbE29vTr3g)
+
+二、亚军进化史
+
+1. [Go技术日报(2021-04-07)——使用 Go 每分钟处理百万请求](https://mp.weixin.qq.com/s/4EMPHBjsJiasHGqLNQKkOw)
+
+三、Gopher指北
+
+1. [今天看了一道很有意思的切片输出面试题（三）](https://mp.weixin.qq.com/s/qdABTKsNjeG7KpKFRaKMww)
+
+四、polarisxu
+
+1. [Rust 劝退系列 01：打造开发环境](https://mp.weixin.qq.com/s/2GGY_q90NqMd_A2SssOKog)
+
+五、TechPaper
+
+1. [RLock 过程被调出的悲剧](https://mp.weixin.qq.com/s/AGJpvfbB1GoMZ0IRQdFRUQ)
+
+六、脑子进煎鱼了
+
+1. [跟读者聊 Goroutine 泄露的 N 种方法，真刺激！](https://mp.weixin.qq.com/s/ql01K1nOnEZpdbp--6EDYw)
+
+七、xueyuanjun
+
+1. [Go 数据结构和算法篇（十四）：哈希表、哈希函数、哈希冲突和哈希算法](https://mp.weixin.qq.com/s/It1Rtci_A3dwZp1l3ZT90w)
+
+八、k8s技术圈
+
+1. [Go + gRPC-Gateway(V2) 构建微服务实战系列，小程序登录鉴权服务](https://mp.weixin.qq.com/s/P9WBtE4rZ2wepT5OtLjKGw)
+
+九、Go招聘
+
+1. [Baidu职位来啦，高薪不加班还真香](https://mp.weixin.qq.com/s/_lcrbfGZiciKbhnTzwIbgw)
  gocn_news-2021-04-08
 # go-news-set-2021-04-08
 ## gocn_news-2021-04-08
