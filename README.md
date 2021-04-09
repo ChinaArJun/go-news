@@ -1,3 +1,41 @@
+ go语言中文网(每日资讯)-2021-04-09
+# go-news-set-2021-04-09
+## go语言中文网(每日资讯)-2021-04-09
+
+
+一、Go语言中文网
+
+1. [Go 惯用模式：函数选项模式](https://mp.weixin.qq.com/s/58rdkWbWpA4OnvQJF4u_ew)
+
+2. [最清晰易懂的 Go WaitGroup 剖析](https://mp.weixin.qq.com/s/P8Dvy4iAPKywMH6ZlMF19Q)
+
+二、亚军进化史
+
+1. [Go技术日报(2021-04-08)——RLock 过程被调出的悲剧](https://mp.weixin.qq.com/s/3lOpZN7KCks0rUE5yMfbJA)
+
+三、学而思网校技术团队
+
+1. [redis基本原理及缓存应用实践](https://mp.weixin.qq.com/s/WptwD1HPmC0rymZYPyqEWg)
+
+四、CloudNativeCommunity
+
+1. [是否选择多集群 —— 使用服务网格的集群间通信](https://mp.weixin.qq.com/s/pZ2bMCnbt8TBCaoXfDs9QA)
+
+五、k8s技术圈
+
+1. [Prometheus Operator 使用 AlertmanagerConfig 进行报警配置](https://mp.weixin.qq.com/s/bGcYo67lCXIiSZCszZCAUA)
+
+六、多颗糖
+
+1. [【MIT 6.824】学习笔记 6: ZooKeeper 设计原理](https://mp.weixin.qq.com/s/Qk23ADoyCyHijgZi45Haug)
+
+七、polarisxu
+
+1. [GoLand 2021.1 重磅发布：新特性试用报告](https://mp.weixin.qq.com/s/Wt1ADroTJmWUL9bcpZ44pw)
+
+八、Go招聘
+
+1. [高薪不加班的远程工作了解一下？](https://mp.weixin.qq.com/s/eMt7vHflqzbOM27NmSxxVw)
  gocn_news-2021-04-09
 # go-news-set-2021-04-09
 ## gocn_news-2021-04-09
