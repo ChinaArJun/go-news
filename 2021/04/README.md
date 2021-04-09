@@ -1,3 +1,19 @@
+ gocn_news-2021-04-09
+# go-news-set-2021-04-09
+## gocn_news-2021-04-09
+- 1.Go 泛型语法又出 “幺蛾子”：引入 type set 概念和移除 type list 中的 type 关键字
+https://gocn.vip/topics/11895
+
+- 2.Go 程序配置利器-viper 库 https://gocn.vip/topics/11898
+
+- 3.GoLand 2021.1 新增功能 https://www.jetbrains.com/go/promo/whatsnew/
+
+- 4.Go 可用性 (四) 限流 3: 漏桶算法 https://lailin.xyz/post/go-training-week6-4-leaky-bucket.html
+
+- 5.Golang+Protobuf+PixieJS 开发 Web 多人在线射击游戏 (原创翻译)
+https://www.cnblogs.com/hacker-linner/p/14631031.html
+
+
  go语言中文网(每日资讯)-2021-04-08
 # go-news-set-2021-04-08
 ## go语言中文网(每日资讯)-2021-04-08
