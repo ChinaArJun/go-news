@@ -1,3 +1,27 @@
+ go语言中文网(每日资讯)-2021-04-10
+# go-news-set-2021-04-10
+## go语言中文网(每日资讯)-2021-04-10
+
+
+一、Go语言中文网
+
+1. [错过金三，别错过银四：看看这个Go招聘你符合吗？](https://mp.weixin.qq.com/s/MD6a3l6yWoKgiQ8Q1kztBA)
+
+2. [使用 Go 每分钟处理百万请求](https://mp.weixin.qq.com/s/-gKgduM8Cw_GGYyzrzSbXw)
+
+3. [有趣！一行 Go 代码居然无法获取请求的完整URL](https://mp.weixin.qq.com/s/7PnD--vHTQlDqNuINYMoSQ)
+
+二、亚军进化史
+
+1. [Go技术日报(2021-04-09)——GoLand 2021.1 重磅发布](https://mp.weixin.qq.com/s/OMprvyghrgSnF2S19Mbu2A)
+
+三、吴亲强的深夜食堂
+
+1. [etcd 实战基础篇(一)](https://mp.weixin.qq.com/s/Z9flTpcP4I1sAqxwzV_7NQ)
+
+四、TonyBai
+
+1. [Go语言“十诫”[译]](https://mp.weixin.qq.com/s/YcmNN6DwQiI7b0Pj0Co-vg)
  gocn_news-2021-04-10
 # go-news-set-2021-04-10
 ## gocn_news-2021-04-10
