@@ -1,3 +1,32 @@
+ gocn_news-2021-04-10
+# go-news-set-2021-04-10
+## gocn_news-2021-04-10
+- 1.Go 程序配置利器-viper 库 https://gocn.vip/topics/11898
+
+- 2.服务注册中心设计原理与 Golang 实现 https://mp.weixin.qq.com/s/WZ6HG-ZLFiBJLbE29vTr3g#at
+
+- 3.基于 Golang 的云原生日志采集服务设计与实践 https://mp.weixin.qq.com/s/3sCyWg-HwfZ4ymm8T9s4zg#at
+
+- 4.Go 进阶 40:2FA-Google-Authenticator 双因素认证后端实现 https://mojotv.cn/go/golang-2fa
+
+- 5.错误标志 https://npf.io/2021/04/errorflags/
+
+
+ gopherDaily-2021-04-10
+# go-news-set-2021-04-10
+## gopherDaily-2021-04-10
+- 1.使用libbpfgo构建eBPF应用 - https://blog.aquasec.com/libbpf-ebpf-programs
+- 2.错误标记：替代“面向行为进行错误断言”的方案 - https://npf.io/2021/04/errorflags/
+- 3.迈向企业级核心场景的 TiDB 5.0 - https://pingcap.com/blog-cn/tidb-5.0-ga-is-now/
+- 4.Go程序配置利器-viper库 - https://mp.weixin.qq.com/s/_2H6L-pTXrIS1XH3tQvDMQ
+- 5.创建带tls支持的go https server - https://eli.thegreenplace.net/2021/go-https-servers-with-tls/
+- 6.使用go、kafka和eventrouter监视k8s集群事件 - https://hackernoon.com/monitor-your-kubernetes-cluster-events-with-eventrouter-golang-and-kafka-wh2a35l0
+- 7.Go json编解码解析 - http://saidvandeklundert.net/2021-04-02-go-json/
+8.记录一次使用Go和nginx建立gRPC服务时遇到的误导性错误 - https://kennethjenkins.net/posts/go-nginx-grpc/
+- 8.datadog开源的go stack输出解析工具 - https://github.com/DataDog/gostackparse
+- 9.linux内核将支持apple M1 - https://git.kernel.org/pub/scm/linux/kernel/git/soc/soc.git/commit/?h=for-next&id=0d5fe4b31785b732b71e764b55cda5c8d6e3bbbf
+- 10.用树莓派构建构建生长盒, 实时分享植物生长的进展 - https://blog.alexellis.io/iot-growbox/
+
  go语言中文网(每日资讯)-2021-04-09
 # go-news-set-2021-04-09
 ## go语言中文网(每日资讯)-2021-04-09
