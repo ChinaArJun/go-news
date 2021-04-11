@@ -1,3 +1,17 @@
+ gocn_news-2021-04-11
+# go-news-set-2021-04-11
+## gocn_news-2021-04-11
+- 1.荣誉体验官，TiDB 5.0 在等你 https://gocn.vip/topics/11905
+
+- 2.GoLand 2021.1 重磅发布：新特性试用报告 https://studygolang.com/topics/13460
+
+- 3.使用 Go 每分钟处理百万请求 https://mp.weixin.qq.com/s/-gKgduM8Cw_GGYyzrzSbXw
+
+- 4.Go 语言 “十诫”[译] https://mp.weixin.qq.com/s/YcmNN6DwQiI7b0Pj0Co-vg
+
+- 5.rpcx 支持 websocket 协议了 https://colobu.com/2021/04/11/support-websocket-in-rpcx/
+
+
  go语言中文网(每日资讯)-2021-04-11
 # go-news-set-2021-04-11
 ## go语言中文网(每日资讯)-2021-04-11
