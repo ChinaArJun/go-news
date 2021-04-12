@@ -1,3 +1,48 @@
+ go语言中文网(每日资讯)-2021-04-12
+# go-news-set-2021-04-12
+## go语言中文网(每日资讯)-2021-04-12
+
+一、Go语言中文网
+
+1. [极速精简 Go 版 Logstash](https://mp.weixin.qq.com/s/pYmp3ZVWhY_jbQc0mRDu-A)
+
+2. [Go 数据结构和算法篇（一）：链表](https://mp.weixin.qq.com/s/Cn39YN8R6jOJZS-istaTKA)
+
+二、亚军进化史
+
+1. [Go技术日报(2021-04-11)——rpcx支持websocket协议了!](https://mp.weixin.qq.com/s/JzM4lyxfRPutWL5_hHbzEA)
+
+三、CloudNativeCommunity
+
+1. [同程旅行大数据集群在 Kubernetes 上的服务化实践](https://mp.weixin.qq.com/s/iiWFqQ-_WTXJUzIGQ-qhdw)
+
+四、k8s技术圈
+
+1. [Dockerd资源泄露系列 - 内存&amp;FD泄露 - 1](https://mp.weixin.qq.com/s/nADu7VqNGjP00pSep3Do3A)
+
+五、MoeLove
+
+1. [K8S 生态周报| Kubernetes v1.21 发布, 带来新的内存管理器](https://mp.weixin.qq.com/s/zxGHQ8hDmzS4SCDXu8NkcA)
+
+六、微服务实践
+
+1. [更简的并发代码，更强的并发控制](https://mp.weixin.qq.com/s/jpZHqTKD5uukbMrSzzhtUw)
+
+七、GoOfficialBlog
+
+1. [高性能 Go 代码工坊（Part4)](https://mp.weixin.qq.com/s/HEE_9gq11fY8uwqFvrNFYw)
+
+八、分布式实验室
+
+1. [分布式系统在 Kubernetes 上的进化](https://mp.weixin.qq.com/s/10pKYUnw-xUsNl0OTejaMA)
+
+九、五分选手
+
+1. [深入 Go 并发原语 — Channel 底层实现](https://mp.weixin.qq.com/s/VyLyhtJCcLwpwhUpSCqJZA)
+
+十、polarisxu
+
+1. [Rust 劝退系列 02：第一个 Rust 程序](https://mp.weixin.qq.com/s/dUFJMEzOJGwM5YY8cP9MBQ)
  gocn_news-2021-04-11
 # go-news-set-2021-04-11
 ## gocn_news-2021-04-11
