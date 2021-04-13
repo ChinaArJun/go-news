@@ -1,3 +1,45 @@
+ go语言中文网(每日资讯)-2021-04-13
+# go-news-set-2021-04-13
+## go语言中文网(每日资讯)-2021-04-13
+
+
+一、Go语言中文网
+
+1. [把 Go 当脚本语言用](https://mp.weixin.qq.com/s/7Svvbh1BRPkmlpZLpWP8FQ)
+
+2. [深度剖析 Go 的 nil](https://mp.weixin.qq.com/s/GP74nN6ptAwpvwq3BSZxaA)
+
+二、亚军进化史
+
+1. [Go技术日报(2021-04-12)—— Channel 底层实现](https://mp.weixin.qq.com/s/quk0wabAxZpza8F4ytgb6w)
+
+三、真没什么逻辑
+
+1. [CPU 和 GPU - 异构计算的演进与发展](https://mp.weixin.qq.com/s/xVJ_M_2aDxN90lCY9KpSFw)
+
+四、polarisxu
+
+1. [一道 Go 闭包题，面试官说原来自己答错了：面别人也涨知识](https://mp.weixin.qq.com/s/gfyW0pBIHsf2oYluQNbP8A)
+
+五、云原生技术爱好者社区
+
+1. [SRE最佳实践](https://mp.weixin.qq.com/s/OVToFabSR5kHwQjBEmDafQ)
+
+六、Go招聘
+
+1. [Go远程工作越来越多了，真羡慕](https://mp.weixin.qq.com/s/weIMgKlFinQvaqpHKXYi1g)
+
+七、李文周
+
+1. [Go语言中切片操作的那些技巧](https://mp.weixin.qq.com/s/362m-GsKqLmrh5kbHp4Maw)
+
+八、脑子进煎鱼了
+
+1. [详解 Go 程序的启动流程，你知道 g0，m0 是什么吗？](https://mp.weixin.qq.com/s/YK-TD3bZGEgqC0j-8U6VkQ)
+
+九、分布式实验室
+
+1. [etcd分布式锁内存泄露](https://mp.weixin.qq.com/s/tAc-f5_b9MDBJJri7SqA6w)
  gocn_news-2021-04-13
 # go-news-set-2021-04-13
 ## gocn_news-2021-04-13
