@@ -1,3 +1,17 @@
+ gocn_news-2021-04-13
+# go-news-set-2021-04-13
+## gocn_news-2021-04-13
+- 1.Gopher China 2021 开启报名 https://gopherchina.org/
+
+- 2.MixGo v1.1 Go 快速开发标准工具 https://www.oschina.net/news/137106/mixgo-1-1-released
+
+- 3.深入 Go 并发原语 — Channel 底层实现 https://mp.weixin.qq.com/s/VyLyhtJCcLwpwhUpSCqJZA
+
+- 4.高性能 Go 代码工坊（Part4) https://mp.weixin.qq.com/s/HEE_9gq11fY8uwqFvrNFYw
+
+- 5.Go 语言内部包 -- 控制包成员的对外暴露 https://mp.weixin.qq.com/s/XNiP6EpJGEJGVb55ZpI9oQ
+
+
  go语言中文网(每日资讯)-2021-04-12
 # go-news-set-2021-04-12
 ## go语言中文网(每日资讯)-2021-04-12
