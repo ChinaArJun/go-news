@@ -1,3 +1,40 @@
+ go语言中文网(每日资讯)-2021-04-14
+# go-news-set-2021-04-14
+## go语言中文网(每日资讯)-2021-04-14
+
+一、Go语言中文网
+
+1. [又一个 Go 新书出版，送送送](https://mp.weixin.qq.com/s/QBFAwIwYMEJJMloW_yjsBw)
+
+2. [Go 数据结构和算法篇（二）：栈](https://mp.weixin.qq.com/s/Q2Ev1C4P825_9fvUOo2b3A)
+
+二、亚军进化史
+
+1. [Go技术日报(2021-04-13)——flag包的“小陷阱”](https://mp.weixin.qq.com/s/3ItWZFugW_AwZhRGAM0wRQ)
+
+三、polarisxu
+
+1. [大佬的思路很清晰：Go+的设计原来是怎么思考的](https://mp.weixin.qq.com/s/AuJv6wnMbo2iryXvopAFag)
+
+四、TechPaper
+
+1. [从代码自动生成文档](https://mp.weixin.qq.com/s/zM5wX4oPB3XKicZfKCCYhw)
+
+五、腾讯云原生
+
+1. [Dapr | 云原生的抽象与实现](https://mp.weixin.qq.com/s/4HHMVxa3l_gCsltoX4euyg)
+
+六、HHFCodeRv
+
+1. [看过这篇剖析，你还不懂 Go sync.Map 吗？](https://mp.weixin.qq.com/s/kblDTqKlUaTITIppigq9yA)
+
+七、TechPaper
+
+1. [从代码自动生成文档](https://mp.weixin.qq.com/s/zM5wX4oPB3XKicZfKCCYhw)
+
+八、Go招聘
+
+1. [没错，可以全职参与开源语言开发：国人开发的语言 Go+ 团队招人](https://mp.weixin.qq.com/s/9xlQsW5X57fBYLRkwOELxA)
  go语言中文网(每日资讯)-2021-04-13
 # go-news-set-2021-04-13
 ## go语言中文网(每日资讯)-2021-04-13
