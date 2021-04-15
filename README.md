@@ -1,3 +1,49 @@
+ go语言中文网(每日资讯)-2021-04-15
+# go-news-set-2021-04-15
+## go语言中文网(每日资讯)-2021-04-15
+
+
+一、Go语言中文网
+
+1. [Goroutine 开启和退出到底做了什么？](https://mp.weixin.qq.com/s/_ngJ6QfZRK5sGTA-CfsORg)
+
+2. [Go 数据结构和算法篇（三）：队列](https://mp.weixin.qq.com/s/fI_cY7vnMsMTW6q32fuulQ)
+
+二、亚军进化史
+
+1. [Go技术日报(2021-04-14)——Go+的设计原来是怎么思考的](https://mp.weixin.qq.com/s/JZfnnyPUQyhI0lMKMw8IpQ)
+
+三、奇伢云存储
+
+1. [推荐几个优秀的技术分享者，和他们在一起你也会优秀](https://mp.weixin.qq.com/s/jlYoDiFiMHgxgiR5XCcELw)
+
+四、k8s技术圈
+
+1. [Prometheus Operator 对接 Thanos](https://mp.weixin.qq.com/s/E614onyF2acjrke7vYUKMw)
+
+2. [阿里云SLS研发-可观察性方向 | 云原生招聘](https://mp.weixin.qq.com/s/nIbr7nd0uP8yZ0Fo381oVQ)
+
+五、脑子进煎鱼了
+
+1. [用 Go struct 不能犯的一个低级错误！](https://mp.weixin.qq.com/s/K5B2ItkzOb4eCFLxZI5Wvw)
+
+六、TechPaper
+
+1. [大型生产系统的问题定位](https://mp.weixin.qq.com/s/QtHEUzSdRBZpB0Yw3FtTiw)
+ gopherDaily-2021-04-15
+# go-news-set-2021-04-15
+## gopherDaily-2021-04-15
+- 1.给expvarmon插上数据持久化的“翅膀” - https://tonybai.com/2021/04/14/expvarmon-save-and-convert-to-xlsx
+- 2.Dapr | 云原生的抽象与实现 - https://mp.weixin.qq.com/s/4HHMVxa3l_gCsltoX4euyg
+- 3.Go panic惯用法 - https://stonecode.ca/idiomatic-panics/
+- 4.Go实现Couchbase原子计数器 - https://towardsdev.com/atomic-couchbase-counters-golang-817df91c41dc
+- 5.为什么Go可执行文件仍在变得越来越大(2021版) - https://dr-knz.net/go-executable-size-visualization-with-d3-2021.html
+- 6.经典演讲：设计原型 - by Robert Griesemer - https://www.youtube.com/watch?v=vLxX3yZmw5Q
+- 7.docker cli增加compose子命令 - https://docs.docker.com/compose/cli-command/
+- 8.使用ebpf扩展systemd安全特性 - https://kinvolk.io/blog/2021/04/extending-systemd-security-features-with-ebpf/
+- 9.pingme: 可向多个消息平台和电子邮件发送消息或警报的cli工具 - https://github.com/kha7iq/pingme
+- 10.为azure k8s定制core dump策略 - https://blog.nillsf.com/index.php/2020/12/06/customize-core-dump-in-azure-kubernetes/
+
  go语言中文网(每日资讯)-2021-04-14
 # go-news-set-2021-04-14
 ## go语言中文网(每日资讯)-2021-04-14
