@@ -1,3 +1,28 @@
+ go语言中文网(每日资讯)-2021-04-17
+# go-news-set-2021-04-17
+## go语言中文网(每日资讯)-2021-04-17
+
+一、Go语言中文网
+
+1. [用 Golang 实现 RSA 加密和签名（有示例）](https://mp.weixin.qq.com/s/w976zzchogZy8xkWGN--Ww)
+
+2. [Go语言中切片操作的那些技巧](https://mp.weixin.qq.com/s/ElZUEgi-tiU63D4AFw9XMg)
+
+二、亚军进化史
+
+1. [Go技术日报(2021-04-16)——go scheduler 超级总结](https://mp.weixin.qq.com/s/xLDF4MY54qglO1SksMxAfw)
+
+三、图解源码
+
+1. [以应用为中心的云原生2.0白皮书学习笔记](https://mp.weixin.qq.com/s/9qUedU_6oDXpzAgWR07sMw)
+
+四、网管叨bi叨
+
+1. [Golang atomic.Value 的前世今生](https://mp.weixin.qq.com/s/UrLCyT7GTNJLi37sJU2PTg)
+
+五、腾讯云原生
+
+1. [如何使用 OpenTracing 在 TCM 中实现异步消息调用跟踪](https://mp.weixin.qq.com/s/_541vL4nHIXPx_ZKrx362g)
  gocn_news-2021-04-17
 # go-news-set-2021-04-17
 ## gocn_news-2021-04-17
