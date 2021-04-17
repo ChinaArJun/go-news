@@ -1,3 +1,67 @@
+ gocn_news-2021-04-17
+# go-news-set-2021-04-17
+## gocn_news-2021-04-17
+- 1.Golang 实现的 iOS 设备通信工具 https://github.com/electricbubble/gidevice
+
+- 2.在 Go 共享对象下的 python 更快 https://blog.kchung.co/faster-python-with-go-shared-objects/
+
+- 3.什么是 “同步条件” https://dtyler.io/articles/2021/04/13/sync_cond/
+
+- 4.Encore 用于构建分布式系统的 Go 框架 https://github.com/encoredev/encore
+
+- 5.Go 中的 URL 解码 https://gosamples.dev/url-decode/
+
+
+ gopherDaily-2021-04-17
+# go-news-set-2021-04-17
+## gopherDaily-2021-04-17
+- 1.使用go和netrasp管理网络设备 - https://networklore.com/hello-netrasp/
+- 2.email-verifier: 可上生产环境的邮箱地址校验器 - https://github.com/AfterShip/email-verifier
+- 3.分布式应用运行时Dapr是如何在阿里落地的 - https://mp.weixin.qq.com/s/Dsb7rwu5tRAizJ7Wdr23Fw
+- 4.go播客：聊聊Go应用的发布  - https://changelog.com/gotime/173
+- 5.Go应用程序漏洞分析 - https://developers.redhat.com/blog/2021/04/15/vulnerability-analysis-for-golang-applications-with-red-hat-codeready-dependency-analytics/
+- 6.解读如何仅用1台服务器支持百万DAU - https://mp.weixin.qq.com/s/wv19bUZW4U6wjw5DmCg3Yg
+- 7.网络信息收集工具 - https://github.com/edoardottt/scilla
+- 8.使用Terraform部署k8s系列 - https://blog.kasten.io/concepts-behind-terraform-and-kubernetes
+- 9.wasi: 让webassembly走出浏览器 - https://training.linuxfoundation.org/announcements/wasi-bringing-webassembly-way-beyond-browsers
+- 10.在生产环境部署机器学习模型 - https://www.kdnuggets.com/2019/06/approaches-deploying-machine-learning-production.html
+- 11.ftp 50岁了！ - https://www.filestash.app/2021/04/16/ftp-is-50-years-old/
+- 12.为什么linkerd没有使用envoy - https://www.cncf.io/blog/2020/12/11/why-linkerd-doesnt-use-envoy/
+- 13.linus对rust编写内核代码的回复 - https://lkml.org/lkml/2021/4/14/1099
+- 14.使用react和tailwind css实现的ubuntu桌面 - https://vivek9patel.github.io/
+
+ go语言中文网(每日资讯)-2021-04-16
+# go-news-set-2021-04-16
+## go语言中文网(每日资讯)-2021-04-16
+
+
+一、Go语言中文网
+
+1. [大佬的思路很清晰：Go+的设计原来是怎么思考的](https://mp.weixin.qq.com/s/at8L7bM64OmMK9qSAROqsQ)
+
+2. [gopher们都想有个好未来？那就来这吧](https://mp.weixin.qq.com/s/H3uksQ0i4cKfYA24bcIHsw)
+
+3. [Go 数据结构和算法篇（四）：冒泡排序](https://mp.weixin.qq.com/s/NPlesVsgptB7acPfli5vcg)
+
+二、亚军进化史
+
+1. [Go技术日报(2021-04-15)——大型生产系统的问题定位](https://mp.weixin.qq.com/s/2M5QWcffuK3PMPzsCPB47Q)
+
+三、k8s技术圈
+
+1. [Grafana 图表加速神器 - Trickster](https://mp.weixin.qq.com/s/TamLSfT4dVReqBt2_2YTvA)
+
+四、polarisxu
+
+1. [注释竟然还有特殊用途？一文解惑 //go:linkname 指令](https://mp.weixin.qq.com/s/4OlbpQwchWwxnQmSOL6xYA)
+
+五、奇伢云存储
+
+1. [读者问答：Go 编程怎么也有踩内存？](https://mp.weixin.qq.com/s/BJJ9jDUT7oB-B0o_dNmNvQ)
+
+六、Go招聘
+
+1. [当下最流行的全职开源，你不心动吗？](https://mp.weixin.qq.com/s/Tuf4tPRrCJ48Ml5Y6uCXBg)
  go语言中文网(每日资讯)-2021-04-15
 # go-news-set-2021-04-15
 ## go语言中文网(每日资讯)-2021-04-15
