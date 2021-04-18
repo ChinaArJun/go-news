@@ -1,3 +1,33 @@
+ gocn_news-2021-04-18
+# go-news-set-2021-04-18
+## gocn_news-2021-04-18
+- 1.Go 测试的考验与困难 https://changelog.com/gotime/174
+
+- 2.教你自定义 Go 代码静态分析工具 https://developer20.com/custom-go-linter/
+
+- 3.Go 简洁架构示例 https://github.com/bxcodec/go-clean-arch
+
+- 4.支持多种协议的转发代理工具 glider https://github.com/nadoo/glider
+
+- 5.Go 设计模式之策略模式 https://triumph-job.medium.com/strategy-design-pattern-in-golang-722e1b145c5f
+
+
+ gopherDaily-2021-04-18
+# go-news-set-2021-04-18
+## gopherDaily-2021-04-18
+- 1.开发开源数据库的7年经验教训 - https://www.philipotoole.com/7-years-of-open-source-database-development-lessons-learned/
+- 2.Russ Cox指明“Go二进制文件变得越来越大”文章中信息有误 - https://news.ycombinator.com/item?id=26834128
+- 3.gitleaks: 扫描git仓库（或文件）中的敏感信息  - https://github.com/zricethezav/gitleaks
+- 4.Go中实现RSA加密和签名 - https://www.sohamkamani.com/golang/rsa-encryption/
+- 5.Go基于寄存器的ABI规范的改造基本完工，平均性能提升6%!!(MISSING)h(MISSING)ttps://github.com/golang/go/issues/40724#issuecomment-821758073
+- 6.Rancher, Red Hat OpenShift和 Weave Kubernetes 比较 - https://www.weave.works/a-comparison-of-rancher-red-hat-openshift-and-wkp/
+- 7.Go系统字体操作包 - https://github.com/go-swiss/fonts
+- 8.使用go实现一个反向代理 - https://developer20.com/writing-proxy-in-go/
+- 9.处于边缘的容器：它不是你想的那样 - https://blog.cloudflare.com/containers-on-the-edge/
+- 10.git和gitflow实践指南 - https://www.freecodecamp.org/news/practical-git-and-git-workflows/
+- 11.为何我们使用kanban而不是scrum - https://www.cloudzero.com/blog/why-cloudzero-uses-kanban
+- 12.为什么我们使用时序数据库提升安全监控能力 - https://thenewstack.io/why-using-a-time-series-database-improves-security-monitoring/
+
  go语言中文网(每日资讯)-2021-04-17
 # go-news-set-2021-04-17
 ## go语言中文网(每日资讯)-2021-04-17
