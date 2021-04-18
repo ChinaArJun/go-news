@@ -1,3 +1,46 @@
+ go语言中文网(每日资讯)-2021-04-18
+# go-news-set-2021-04-18
+## go语言中文网(每日资讯)-2021-04-18
+
+一、Go语言中文网
+
+1. [GoLand 2021.1 重磅发布：新特性不少，有些不错](https://mp.weixin.qq.com/s/0NjNNLAdZZjx8GPZXR1MjQ)
+
+2. [Go语言爱好者周刊：第 91 期 — Error 和 String 的题目](https://mp.weixin.qq.com/s/tJXF0JD6Dwm66Kl7xUCrRg)
+
+3. [Go 数据结构和算法篇（五）：插入排序](https://mp.weixin.qq.com/s/UV1oelB_h5zx20KCWD-Feg)
+
+二、亚军进化史
+
+1. [Go技术日报(2021-04-17)——切片操作的那些技巧](https://mp.weixin.qq.com/s/ZwlP-wLcStj1NBdAm16LGQ)
+
+三、k8s技术圈
+
+1. [多行日志收集管理搞不定？](https://mp.weixin.qq.com/s/yY6I2vhIn_jziuY4W4GBng)
+
+2. [精选中的精选 Github 项目](https://mp.weixin.qq.com/s/IdmBJCEQ6vm3Gqij2FhNeg)
+
+四、董泽润的技术笔记
+
+1. [时钟源为什么会影响性能](https://mp.weixin.qq.com/s/06SDQLzDprJf2AEaDnX-QQ)
+
+五、GoOfficialBlog
+
+1. [高性能 Go 代码工坊（Part5)](https://mp.weixin.qq.com/s/vn9KPDi2GWC1MzVSIw8xQg)
+
+六、吴亲强的深夜食堂
+
+1. [etcd 实战基础篇(二)](https://mp.weixin.qq.com/s/VCIPmAD5YSWz0DAuFqfwyg)
+
+七、Go招聘
+
+1. [4/12-4/18股文请接收](https://mp.weixin.qq.com/s/NY7wIkLOQiSceGG2m3Lf6w)
+
+八、Golang Weekly
+
+1. [Golang Weekly Issue 358: April 16, 2021](https://golangweekly.com/issues/358)
+
+2. [Awesome Go Newsletter - Issue 256, Apr 15, 2021 | LibHunt](https://go.libhunt.com/newsletter/256)
  gocn_news-2021-04-18
 # go-news-set-2021-04-18
 ## gocn_news-2021-04-18
