@@ -1,3 +1,17 @@
+ gocn_news-2021-04-19
+# go-news-set-2021-04-19
+## gocn_news-2021-04-19
+- 1.hash 表在 go 语言中的实现 https://gocn.vip/topics/11937
+
+- 2.Go 语言内部包 -- 控制包成员的对外暴露 https://mp.weixin.qq.com/s/XNiP6EpJGEJGVb55ZpI9oQ
+
+- 3.gRPC 的平滑关闭和在 Kubernetes 上的服务摘流方案总结 https://mp.weixin.qq.com/s/lCTyZgSK3b-rJtV9l6PNYA
+
+- 4.Golang 语言中基础同步原语 Mutex 和 RWMutex 的区别 https://mp.weixin.qq.com/s/nU-WFszIP1Sk1rC4q5cI1A
+
+- 5.Go 语言中切片操作的那些技巧 https://mp.weixin.qq.com/s/ElZUEgi-tiU63D4AFw9XMg
+
+
  go语言中文网(每日资讯)-2021-04-18
 # go-news-set-2021-04-18
 ## go语言中文网(每日资讯)-2021-04-18
