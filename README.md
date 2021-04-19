@@ -12,6 +12,56 @@
 - 5.Go 语言中切片操作的那些技巧 https://mp.weixin.qq.com/s/ElZUEgi-tiU63D4AFw9XMg
 
 
+ go语言中文网(每日资讯)-2021-04-19
+# go-news-set-2021-04-19
+## go语言中文网(每日资讯)-2021-04-19
+
+
+一、Go语言中文网
+
+1. [转 Go 的 PHPer 总是忘不了 PHP 的好？试试这个开源项目](https://mp.weixin.qq.com/s/o5wHJg8SlylaGJ_YPWu0hg)
+
+2. [Go 数据结构和算法篇（六）：选择排序](https://mp.weixin.qq.com/s/Paqrb2ywjyciwEzfo1VefQ)
+
+二、亚军进化史
+
+1. [Go技术日报(2021-04-18)——高性能 Go 代码工坊（Part5)](https://mp.weixin.qq.com/s/xd0lCPnSvvN9wMOM8K577g)
+
+三、polarisxu
+
+1. [Rust 劝退系列 03：变量](https://mp.weixin.qq.com/s/VheT027N71946GyoT3BxTw)
+
+四、图解源码
+
+1. [统一运维平台的思考](https://mp.weixin.qq.com/s/mLnqR2kwGNiFLL39g-Ml8Q)
+
+五、微服务实践
+
+1. [一文带你更方便的控制 goroutine](https://mp.weixin.qq.com/s/FBo2Ghpb5rBETJP0tFVaXg)
+
+六、码农桃花源
+
+1. [深度阅读之《Mastering Go》](https://mp.weixin.qq.com/s/3JnJskE_bK6AeUSeQThhfg)
+
+七、脑子进煎鱼了
+
+1. [嗯，你觉得 Go 在什么时候会抢占 P？](https://mp.weixin.qq.com/s/WAPogwLJ2BZvrquoKTQXzg)
+
+八、k8s技术圈
+
+1. [揭秘高性能Linux服务器内存池技术是如何实现的](https://mp.weixin.qq.com/s/AkABAitHI_BBlH4AP_2fIQ)
+
+九、远赴星辰
+
+1. [虚拟内存精粹](https://mp.weixin.qq.com/s/Ghu-0Qc9PyEHHmIaRVtMyA)
+
+十、luozhiyun很酷
+
+1. [从栈上理解 Go 语言函数调用](https://mp.weixin.qq.com/s/-xn2i2depcN4uWT3wV63Pw)
+
+十一、Go招聘
+
+1. [我靠！Gopher推荐成功居然给0.5个BTC](https://mp.weixin.qq.com/s/iQpVTT378kHDX9xgIxT7rA)
  go语言中文网(每日资讯)-2021-04-18
 # go-news-set-2021-04-18
 ## go语言中文网(每日资讯)-2021-04-18
