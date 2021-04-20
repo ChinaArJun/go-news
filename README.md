@@ -1,3 +1,43 @@
+ go语言中文网(每日资讯)-2021-04-20
+# go-news-set-2021-04-20
+## go语言中文网(每日资讯)-2021-04-20
+
+
+一、Go语言中文网
+
+1. [Go 中使用别名，简单且高效](https://mp.weixin.qq.com/s/xiSD2cmDC50qncqNL-7fEQ)
+
+2. [Go 数据结构和算法篇（七）：归并排序](https://mp.weixin.qq.com/s/kTLhl3hvbs-R_RR3VX0Xhw)
+
+二、亚军进化史
+
+1. [Go技术日报(2021-04-19)——深度阅读之《Mastering Go》](https://mp.weixin.qq.com/s/FTDS8eX_vUHrl67ZBHSsIQ)
+
+三、Go招聘
+
+1. [广告公司真香，不加班美女还多，文末有彩蛋哦](https://mp.weixin.qq.com/s/QXt72JsZgxl19AyvdHeKcg)
+
+四、薯条的自我修养
+
+1. [Go程序员进化史](https://mp.weixin.qq.com/s/FsTmsNBN7nM3vl5w6R1vJA)
+
+五、CloudNativeCommunity
+
+1. [云原生社区 meetup 第三期杭州站回顾及幻灯片下载](https://mp.weixin.qq.com/s/Ad3TMXmUV9ka7cA-M7zJnA)
+
+六、k8s技术圈
+
+1. [99.99%!!(MISSING)面(MISSING)试中被问的Go语言并发模式，你会如何回答 | 文末送书](https://mp.weixin.qq.com/s/q5AmA6JANvaTYuQ8Hx-kPQ)
+
+2. [开源持续性能剖析平台 Pyroscope](https://mp.weixin.qq.com/s/g5obUptQQwsBcJLLC7e4mg)
+
+七、云加社区
+
+1. [Redis 进阶笔记](https://mp.weixin.qq.com/s/o66KCbJUj4RsgXFjXzLzoQ)
+
+八、polarisxu
+
+1. [我又来推荐免费 Go 新书了：一本用 Go 讲架构的书](https://mp.weixin.qq.com/s/UqTvfvwhIHARnClCJftjMg)
  gocn_news-2021-04-20
 # go-news-set-2021-04-20
 ## gocn_news-2021-04-20
