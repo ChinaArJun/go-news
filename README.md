@@ -1,3 +1,17 @@
+ gocn_news-2021-04-20
+# go-news-set-2021-04-20
+## gocn_news-2021-04-20
+- 1.TiDB 深度解读 Chaos Mesh https://gocn.vip/topics/11945
+
+- 2.Go 语言控制 CPU 占用率呈正弦曲线 https://juejin.cn/post/6953034008351473678
+
+- 3.如何在 Go 中优雅使用 packages https://jonathanseow.medium.com/working-with-packages-in-golang-5f247f49090f
+
+- 4.理解 NSQ consumer https://eriyantovetanusi.medium.com/nsq-consumer-101-b815267b5fec
+
+- 5.Triangula: 基于遗传算法的低多边形效果工具 https://github.com/RH12503/Triangula
+
+
  gocn_news-2021-04-19
 # go-news-set-2021-04-19
 ## gocn_news-2021-04-19
