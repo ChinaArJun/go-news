@@ -1,3 +1,17 @@
+ gocn_news-2021-04-21
+# go-news-set-2021-04-21
+## gocn_news-2021-04-21
+- 1.如何在 Go 中构建可配置的责任链 https://betterprogramming.pub/build-a-configurable-chain-of-responsibility-in-go-80a7cdcd1ab2
+
+- 2.i/o timeout ， 希望你不要踩到这个 net/http 包的坑 https://mp.weixin.qq.com/s/UBiZp2Bfs7z1_mJ-JnOT1Q
+
+- 3.嗯，你觉得 Go 在什么时候会抢占 P？ https://mp.weixin.qq.com/s/WAPogwLJ2BZvrquoKTQXzg
+
+- 4.9 款最佳开源网络监控工具 https://www.metricfire.com/blog/9-best-open-source-network-monitoring-tools
+
+- 5.简单的边缘代理服务器 https://github.com/umputun/reproxy
+
+
  go语言中文网(每日资讯)-2021-04-20
 # go-news-set-2021-04-20
 ## go语言中文网(每日资讯)-2021-04-20
