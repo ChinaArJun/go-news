@@ -1,3 +1,34 @@
+ go语言中文网(每日资讯)-2021-04-21
+# go-news-set-2021-04-21
+## go语言中文网(每日资讯)-2021-04-21
+
+一、Go语言中文网
+
+1. [代码会死循环吗？Go 异步抢占](https://mp.weixin.qq.com/s/NIYxzycAqHzeVSgU7ixhNg)
+
+2. [Go 数据结构和算法篇（八）：快速排序](https://mp.weixin.qq.com/s/XpwVsmG-Fd85T9qE1gFsEw)
+
+二、亚军进化史
+
+1. [Go技术日报(2021-04-20)——Go程序员进化史](https://mp.weixin.qq.com/s/nKv0TEs7U68XWFaraVgpnA)
+
+三、新亮笔记
+
+1. [Go - 一个对新手很友好的项目(带界面)](https://mp.weixin.qq.com/s/UKBFgNcseLO6b-8eFsGHXg)
+
+四、脑子进煎鱼了
+
+1. [生产环境遇到一个 Go 问题，整组人都懵逼了...](https://mp.weixin.qq.com/s/F9II4xc4yimOCSTeKBDWqw)
+
+五、k8s技术圈
+
+1. [Logging Operator - 优雅的云原生日志管理方案 (一)](https://mp.weixin.qq.com/s/01t87UphWxB7XJT8Go4Vgg)
+
+2. [Logging Operator - 优雅的云原生日志管理方案 (二)](https://mp.weixin.qq.com/s/4mcie165w-es7b8YWQVXcQ)
+
+六、奇伢云存储
+
+1. [存储基础 —— 磁盘 IO 为什么总叫你对齐？](https://mp.weixin.qq.com/s/rqq-GgZMMs5gj6p_VJqEVA)
  gocn_news-2021-04-21
 # go-news-set-2021-04-21
 ## gocn_news-2021-04-21
