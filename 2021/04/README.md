@@ -1,3 +1,38 @@
+ go语言中文网(每日资讯)-2021-04-22
+# go-news-set-2021-04-22
+## go语言中文网(每日资讯)-2021-04-22
+
+一、Go语言中文网
+
+1. [图文讲解：Go 中的循环是如何转为汇编的？](https://mp.weixin.qq.com/s/GRkXojUmoC4HuuR8wJ1Cjw)
+
+2. [Go 数据结构和算法篇（九）：二分查找](https://mp.weixin.qq.com/s/Q8HhYaCURrnBAvN6-Rmyug)
+
+二、亚军进化史
+
+1. [GO技术日报(2021-04-21)——Go 异步抢占](https://mp.weixin.qq.com/s/gM5gU7GoJKcASRDCVcmKHw)
+
+三、polarisxu
+
+1. [用 Go 搭建一个自己的照片管理神器](https://mp.weixin.qq.com/s/7rFJKE14cTIIIKI9ahQ38g)
+
+四、腾讯云CDN
+
+1. [大咖聊QUIC——快手CDN架构师沈坤](https://mp.weixin.qq.com/s/YofN_SM-fAL9EgEc9zHQ5Q)
+
+五、k8s技术圈
+
+1. [Fluentd 简明教程](https://mp.weixin.qq.com/s/C9Nq1qI41rqsnfcCbArF1g)
+
+2. [腾讯 PCG 中台容器开发 | 云原生招聘](https://mp.weixin.qq.com/s/qNsrBISMtGSqf3lHAsCbRQ)
+
+六、Go招聘
+
+1. [不加班还不够香？那见明星呢](https://mp.weixin.qq.com/s/UZ8XdmWK43TWFD1pnzSqww)
+
+七、GolangCoutributorClub
+
+1. [Go 语言源码贡献官方指导文档](https://mp.weixin.qq.com/s/dJ0t4owm3ChIljP4hL1e1Q)
  gocn_news-2021-04-22
 # go-news-set-2021-04-22
 ## gocn_news-2021-04-22
