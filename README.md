@@ -1,3 +1,17 @@
+ gocn_news-2021-04-23
+# go-news-set-2021-04-23
+## gocn_news-2021-04-23
+- 1.Golang net/http 性能优化 https://gocn.vip/topics/11970
+
+- 2.Go 中的并发 API 模式 https://marksalpeter.com/concurrent-api-patterns-in-go-52fcb5a9c681
+
+- 3.Go 中的通道  https://juejin.cn/post/6953882304963936263
+
+- 4.Go 中的并发 https://juejin.cn/post/6953632279085776903
+
+- 5.为什么以及如何在 go 中写枚举 https://medium.com/qvault/how-and-why-to-write-enums-in-go-9c1a25649df0
+
+
  go语言中文网(每日资讯)-2021-04-22
 # go-news-set-2021-04-22
 ## go语言中文网(每日资讯)-2021-04-22
