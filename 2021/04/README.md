@@ -1,3 +1,41 @@
+ go语言中文网(每日资讯)-2021-04-23
+# go-news-set-2021-04-23
+## go语言中文网(每日资讯)-2021-04-23
+
+
+一、Go语言中文网
+
+1. [Go 语言如何实现垃圾回收中的 Stop the World (STW)](https://mp.weixin.qq.com/s/0yIlm79EKgIUlL3TW_rcVw)
+
+2. [Go 数据结构和算法篇（十）：二分查找的变形版本](https://mp.weixin.qq.com/s/09ErIc5arIdqzFsWVHmqRw)
+
+二、亚军进化史
+
+1. [Go技术日报(2021-04-22)——大咖聊QUIC](https://mp.weixin.qq.com/s/iaXe1sTmoQ_5KO14QyjFIQ)
+
+三、TechPaper
+
+1. [事故驱动开发](https://mp.weixin.qq.com/s/I20sqkvLuWjVoPMaOZXjhw)
+
+四、polarisxu
+
+1. [世界读书日：分享我的 Go 语言书单](https://mp.weixin.qq.com/s/--Ea9Vz69JpRJBzFKxaxxQ)
+
+五、Go夜读
+
+1. [带你开始探究 Go iota](https://mp.weixin.qq.com/s/MwkeB-6OgoTw2JWFcu7bXA)
+
+六、GolangContributorClub
+
+1. [2021 中国 Go 语言开源贡献者峰会](https://mp.weixin.qq.com/s/-nzjufasWevwrWHf-2_iiA)
+
+七、脑子进煎鱼了
+
+1. [使用 Go defer 要小心这 2 个雷区！](https://mp.weixin.qq.com/s/ZEsWa4xUb0a7tWemVZMXVw)
+
+八、Go招聘
+
+1. [Go 在 AI 领域也火了？这招聘不错，薪资不低](https://mp.weixin.qq.com/s/ePqrEN40ch6NGShHRHPx2Q)
  gocn_news-2021-04-23
 # go-news-set-2021-04-23
 ## gocn_news-2021-04-23
