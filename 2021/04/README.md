@@ -1,3 +1,47 @@
+ go语言中文网(每日资讯)-2021-04-24
+# go-news-set-2021-04-24
+## go语言中文网(每日资讯)-2021-04-24
+
+
+一、Go语言中文网
+
+1. [Go 在 AI 领域也火了？这招聘不错，薪资不低](https://mp.weixin.qq.com/s/eb_Ilz_G7vZHQwCVqLxToQ)
+
+2. [redis 跳表分析并用 Go 实现 — 碾压面试官](https://mp.weixin.qq.com/s/c3mOGotVOzUrl1P8r-PSxA)
+
+3. [源码剖析Go类型断言是如何实现的！附性能损耗测试](https://mp.weixin.qq.com/s/ZpdggO78kTX4bDHyKlzF-g)
+
+二、亚军进化史
+
+1. [Go技术日报(2021-04-23)——站长的Go语言书单](https://mp.weixin.qq.com/s/230JbBZEngEtyNtBE5N03w)
+
+三、polarisxu
+
+1. [true != true？面试官，你坑人！！！](https://mp.weixin.qq.com/s/3cPsMRrsk4CaNAbpx283kw)
+
+四、吴亲强的深夜食堂
+
+1. [在Go中，你犯过这些错误吗](https://mp.weixin.qq.com/s/zMfukmRvVOXl9Fq3nyjgIg)
+
+五、后端技术指南针
+
+1. [Redis 6.0多线程探秘(上)](https://mp.weixin.qq.com/s/KQ_j4-3BP32aBH2-XOIw9Q)
+
+六、五分选手
+
+1. [什么是树状数组？现在就带你研究](https://mp.weixin.qq.com/s/gLne35DARbLIAUTGLPZEAQ)
+
+七、HHFCodeRv
+
+1. [这一次，彻底搞懂 Go Cond](https://mp.weixin.qq.com/s/2NsAl5yEPxwbpyATpuEa3Q)
+
+八、脑子进煎鱼了
+
+1. [一个新细节，Go 1.17 将允许切片转换为数组指针！](https://mp.weixin.qq.com/s/v1czjzlUsaSQTpAOG9Ub3w)
+
+九、Go招聘
+
+1. [愿你我同在阳光下出行，Gophers Coming](https://mp.weixin.qq.com/s/CfXknlNVZbnqP5QHaANVuA)
  gocn_news-2021-04-24
 # go-news-set-2021-04-24
 ## gocn_news-2021-04-24
