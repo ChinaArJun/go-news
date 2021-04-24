@@ -1,3 +1,17 @@
+ gocn_news-2021-04-24
+# go-news-set-2021-04-24
+## gocn_news-2021-04-24
+- 1.Go 语言基础系列（八）：面向对象编程之接口 https://mp.weixin.qq.com/s/cJf660raLfQ4HmSijkD7RA
+
+- 2.go 语言的 31 个坑 https://www.jianshu.com/p/311649bb2894
+
+- 3.Go - 一个对新手很友好的项目 (带界面) https://juejin.cn/post/6954542723747708936
+
+- 4.聊聊 dbsync 的 jobs https://juejin.cn/post/6954359234528018445
+
+- 5.聊聊 dbsync 的 Schedulable https://juejin.cn/post/6953999719672578055
+
+
  go语言中文网(每日资讯)-2021-04-23
 # go-news-set-2021-04-23
 ## go语言中文网(每日资讯)-2021-04-23
