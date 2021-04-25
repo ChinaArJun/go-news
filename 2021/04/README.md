@@ -1,3 +1,39 @@
+ go语言中文网(每日资讯)-2021-04-25
+# go-news-set-2021-04-25
+## go语言中文网(每日资讯)-2021-04-25
+
+
+一、Go语言中文网
+
+1. [Go语言爱好者周刊：第 92 期](https://mp.weixin.qq.com/s/IZo3-G07Us6q_XKi6EXxLg)
+
+2. [Go 数据结构和算法篇（十一）：字符串匹配之 BF 算法](https://mp.weixin.qq.com/s/PYIav0RQSGq8Vcc9JD8_cg)
+
+二、亚军进化史
+
+1. [Go技术日报(2021-04-24)——go 语言的 31 个坑](https://mp.weixin.qq.com/s/zn3iMrW4808zt-44stwgHA)
+
+三、k8s技术圈
+
+1. [应该了解的 10 个 Kubernetes 安全上下文配置](https://mp.weixin.qq.com/s/NFgQrvn_LyU0qQbhMZwDAQ)
+
+2. [招聘 SRE 工程师 - 合合信息 | 云原生招聘](https://mp.weixin.qq.com/s/lSOsp3fyAmfRo0egRPtshg)
+
+四、脑子进煎鱼了
+
+1. [Go 面试官：什么是协程，协程和线程的区别和联系？](https://mp.weixin.qq.com/s/vW5n_JWa3I-Qopbx4TmIgQ)
+
+五、Golang梦工厂
+
+1. [面试官：两个nil比较结果是什么？](https://mp.weixin.qq.com/s/Dt46eoEXXXZc2ymr67_LVQ)
+
+六、TonyBai
+
+1. [Go标准库http与fasthttp服务端性能比较](https://mp.weixin.qq.com/s/aX9_ZAXfDQZQZrkq-6DZew)
+
+七、Go招聘
+
+1. [4/19-4/25股文请接收](https://mp.weixin.qq.com/s/f8MWmVTwfpZBxiUu_stubA)
  gocn_news-2021-04-25
 # go-news-set-2021-04-25
 ## gocn_news-2021-04-25
