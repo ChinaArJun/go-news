@@ -1,3 +1,33 @@
+ gocn_news-2021-04-25
+# go-news-set-2021-04-25
+## gocn_news-2021-04-25
+- 1.rpcx 支持 websocket 协议了! https://colobu.com/2021/04/11/support-websocket-in-rpcx/
+
+- 2.Go 1.17 将允许将切片转换成数组指针 https://utcc.utoronto.ca/~cks/space/blog/programming/GoConvertSliceToArray
+
+- 3.interface 的类型断言是如何实现 https://segmentfault.com/a/119000003989416
+
+- 4.有趣的面试题：Go 语言中 nil 的比较结果 https://segmentfault.com/a/1190000039894167
+
+- 5.Uber 基于 GPU 的开源实时分析引擎 aresdb https://github.com/uber/aresdb
+
+
+ gopherDaily-2021-04-25
+# go-news-set-2021-04-25
+## gopherDaily-2021-04-25
+- 1.微抽象：Go的函数钩子 - https://world.hey.com/mat/tiny-abstractions-function-hooks-in-go-92924f11
+- 2.Java真的比Go性能好吗？ - https://dabase.com/blog/2021/java-vs-go-load-test/
+- 3.kubectl-cost: 展示k8s集群负载情况的kubectl插件工具 - https://github.com/kubecost/kubectl-cost
+- 4.Go服务端渲染引擎与组件 - https://github.com/yuriizinets/go-ssc
+- 5.经典旧文：使用Go从头实现容器 - https://medium.com/@ssttehrani/containers-from-scratch-with-golang-5276576f9909
+- 6.Boyer-Moore高性能字符串搜索算法的go实现 - https://github.com/sarpdag/boyermoore
+- 7.k8s的主主PostgreSQL联邦集群 - https://blog.crunchydata.com/blog/active-active-postgres-federation-on-kubernetes
+- 8.cron表达式解析库 - https://github.com/adhocore/gronx
+- 9.业余编译器编写者的资源 - https://c9x.me/compile/bib/
+- 10.图形化展示Go应用module依赖的详细信息 - https://github.com/nikolaydubina/import-graph
+- 11.管理单体应用与微服务的可靠性：SRE的最佳实践 - https://stackpulse.com/blog/monoliths-vs-microservices-best-practices/
+- 12.我为什么要在2021年使用Go - https://medium.com/@mdcfrancis/why-do-i-write-golang-in-2021-3ab8f2fff31c
+
  go语言中文网(每日资讯)-2021-04-24
 # go-news-set-2021-04-24
 ## go语言中文网(每日资讯)-2021-04-24
