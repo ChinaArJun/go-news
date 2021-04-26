@@ -1,3 +1,40 @@
+ go语言中文网(每日资讯)-2021-04-26
+# go-news-set-2021-04-26
+## go语言中文网(每日资讯)-2021-04-26
+
+一、Go语言中文网
+
+1. [使用 timeout、deadline 和 context 取消参数使 Go net/http 服务更灵活](https://mp.weixin.qq.com/s/Wse5avtLhhtMeBTVRPNwow)
+
+2. [Go 数据结构和算法篇（十二）：字符串匹配之 KMP 算法](https://mp.weixin.qq.com/s/sBz1r5tvEYoX3cqupCdGRA)
+
+二、亚军进化史
+
+1. [Go技术日报(2021-04-25)——协程，协程和线程](https://mp.weixin.qq.com/s/AfRzKFd4j21cLsUY-972GA)
+
+三、吴亲强的深夜食堂
+
+1. [为什么我们需要在  Go 中使用 iota](https://mp.weixin.qq.com/s/HOkquS6bA1I18TyT1lR8zQ)
+
+四、polarisxu
+
+1. [Go 语言一些最佳实践：建议收藏](https://mp.weixin.qq.com/s/75e43zUD4ClpTQGZtZwU2Q)
+
+五、MoeLove
+
+1. [K8S 生态周报| Docker v20.10.6 发布， 修正了 K8S 中 dind 的异常行为](https://mp.weixin.qq.com/s/o--duARxH2AS04S8vCZcNw)
+
+六、CloudNativeCommunity
+
+1. [基准测试五宗罪](https://mp.weixin.qq.com/s/7QfzpQvIK-9hLsQAIcQyCg)
+
+七、Golang梦工厂
+
+1. [有趣的面试题：Go语言字符串的字节长度和字符个数](https://mp.weixin.qq.com/s/p0plkyH1OpiAhjE8Gxvpog)
+
+八、即时通讯技术圈
+
+1. [直播系统聊天技术(四)：百度直播的海量用户实时消息系统架构演进实践](https://mp.weixin.qq.com/s/xUR1_7vfsr8TkcZA72Trvg)
  gocn_news-2021-04-26
 # go-news-set-2021-04-26
 ## gocn_news-2021-04-26
