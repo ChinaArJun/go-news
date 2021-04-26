@@ -1,3 +1,17 @@
+ gocn_news-2021-04-26
+# go-news-set-2021-04-26
+## gocn_news-2021-04-26
+- 1.Go 泛型的示例代码 https://github.com/mattn/go-generics-example
+
+- 2.盘点一下 Go 语言的 “黑暗角落” https://mp.weixin.qq.com/s/XLvWg9kRoiR4WPhjXE5X_g
+
+- 3.golang 面向对象分析 https://www.cnblogs.com/457220157-FTD/p/14703692.html
+
+- 4.使用 Go defer 要小心这 2 个雷区！ https://mp.weixin.qq.com/s/ZEsWa4xUb0a7tWemVZMXVw
+
+- 5.Boyer-Moore 快速字符串搜索算法在 Go 中的实现 https://github.com/sarpdag/boyermoore
+
+
  go语言中文网(每日资讯)-2021-04-25
 # go-news-set-2021-04-25
 ## go语言中文网(每日资讯)-2021-04-25
