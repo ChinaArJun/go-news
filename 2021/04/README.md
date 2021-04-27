@@ -1,3 +1,17 @@
+ gocn_news-2021-04-27
+# go-news-set-2021-04-27
+## gocn_news-2021-04-27
+- 1.基于 getty 的分布式事务框架 seata-golang 通信模型详解 https://blog.51cto.com/u_4313251/2731656
+
+- 2.Go 标准库 http 与 fasthttp 服务端性能比较 https://tonybai.com/2021/04/25/server-side-performance-nethttp-vs-fasthttp/
+
+- 3.Go 可用性 (五) 限流 4: 自适应限流 http://lailin.xyz/post/go-training-week6-4-auto-limiter.html
+
+- 4.Go 实现的云盘系统 https://github.com/eyebluecn/tank
+
+- 5.构建 golang 插件系统的利器--go-plugin https://gocn.vip/topics/11990
+
+
  go语言中文网(每日资讯)-2021-04-26
 # go-news-set-2021-04-26
 ## go语言中文网(每日资讯)-2021-04-26
