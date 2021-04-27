@@ -1,3 +1,45 @@
+ go语言中文网(每日资讯)-2021-04-27
+# go-news-set-2021-04-27
+## go语言中文网(每日资讯)-2021-04-27
+
+
+一、Go语言中文网
+
+1. [图解 g0：特殊的 goroutine](https://mp.weixin.qq.com/s/_Tl1cGTdPxwSF1ctHc1yZg)
+
+2. [Go 数据结构和算法篇（十三）：字符串匹配之 Trie 树](https://mp.weixin.qq.com/s/myq1qAWREN_sKgWwIT_O4w)
+
+二、亚军进化史
+
+1. [Go技术日报(2021-04-26)——Go 语言的 “黑暗角落”](https://mp.weixin.qq.com/s/6PtqhYFJExxLf12ySS19_w)
+
+三、polarisxu
+
+1. [Rust语言24个绝佳框架、项目及资料库](https://mp.weixin.qq.com/s/muLkr6ICfsbsRc-BVVtwGg)
+
+四、脑子进煎鱼了
+
+1. [用 Go map 要注意这 1 个细节，避免依赖他！](https://mp.weixin.qq.com/s/MzAktbjNyZD0xRVTPRKHpw)
+
+五、真没什么逻辑
+
+1. [为什么 Linux 和 macOS 不需要碎片整理](https://mp.weixin.qq.com/s/6UzsOL7NivThJTQOfJDNbQ)
+
+六、百度Geek说
+
+1. [百度商业大规模微服务分布式监控系统——凤睛](https://mp.weixin.qq.com/s/99fESnkMpiJsKJmTdN2G0g)
+
+七、k8s技术圈
+
+1. [使用 EFKLK 搭建 Kubernetes 日志收集工具栈](https://mp.weixin.qq.com/s/lPeYavvFJ6GdivkT0iwTGw)
+
+八、网管叨bi叨
+
+1. [Interceptor拦截器 -- gRPC生态里的中间件](https://mp.weixin.qq.com/s/kHW5t0bqLuJZUNNknBJnAA)
+
+九、Go招聘
+
+1. [一手资源在手，说Go就Go](https://mp.weixin.qq.com/s/t4bxO8PBUf0BLhlWFs-O_A)
  gocn_news-2021-04-27
 # go-news-set-2021-04-27
 ## gocn_news-2021-04-27
