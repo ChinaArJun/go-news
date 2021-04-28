@@ -1,3 +1,41 @@
+ go语言中文网(每日资讯)-2021-04-28
+# go-news-set-2021-04-28
+## go语言中文网(每日资讯)-2021-04-28
+
+
+一、Go语言中文网
+
+1. [Go 语言中 runtime.KeepAlive() 方法的一些随笔](https://mp.weixin.qq.com/s/0-14E7Enk6TsZ1_vifznvA)
+
+2. [在Go中，你犯过这些错误吗](https://mp.weixin.qq.com/s/bzYTYwKN2J6rIMjfYn-eZA)
+
+二、亚军进化史
+
+1. [Go技术日报(2021-04-27)——图解 g0：特殊的 goroutine](https://mp.weixin.qq.com/s/eZYQyWREOFJS6x9-TzfXvA)
+
+三、polarisxu
+
+1. [Rust 劝退系列 04：基本数据类型](https://mp.weixin.qq.com/s/kHVGK2b0oAidORE5C8Yopg)
+
+四、Go招聘
+
+1. [Russ Cox 看不下去了：golang-standards/project-layout 不是 Go 标准布局](https://mp.weixin.qq.com/s/eZrIRO3Etu9vgZi7lkR81A)
+
+五、多颗糖
+
+1. [运行 3000 次都不出错的 MIT 6.824 Raft 实验](https://mp.weixin.qq.com/s/KuiSHx9iObnTtGYh4Gxbpg)
+
+六、Go夜读
+
+1. [性能优化究竟应该怎么做？](https://mp.weixin.qq.com/s/_69pA5aQPhqXCOJpmrSmQQ)
+
+七、逸言
+
+1. [领域驱动架构风格](https://mp.weixin.qq.com/s/nMkxatKgjQLLiEa5fFFxmg)
+
+八、No Headback
+
+1. [《写作的逻辑》简单读书笔记](https://xargin.com/notes-on-logic-writing/)
  gocn_news-2021-04-28
 # go-news-set-2021-04-28
 ## gocn_news-2021-04-28
