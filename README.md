@@ -1,3 +1,17 @@
+ gocn_news-2021-04-28
+# go-news-set-2021-04-28
+## gocn_news-2021-04-28
+- 1.快速 TCP/UDP 通道 https://github.com/jpillora/chisel
+
+- 2.Golang 中并发 API 模式 https://tech.deliveryhero.com/concurrent-api-patterns-in-go/
+
+- 3.图解 g0：特殊的 goroutine https://mp.weixin.qq.com/s/_Tl1cGTdPxwSF1ctHc1yZg
+
+- 4.边开飞机边换引擎？我们造了个新功能保障业务流量无损迁移 https://gocn.vip/topics/11998
+
+- 5.用 Go map 要注意这 1 个细节，避免依赖 https://mp.weixin.qq.com/s/MzAktbjNyZD0xRVTPRKHpw
+
+
  go语言中文网(每日资讯)-2021-04-27
 # go-news-set-2021-04-27
 ## go语言中文网(每日资讯)-2021-04-27
