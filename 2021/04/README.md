@@ -1,3 +1,30 @@
+ gocn_news-2021-04-29
+# go-news-set-2021-04-29
+## gocn_news-2021-04-29
+- 1.GO 重复利用 Prepare 后的 stmt 来提高 MySQL 的执行效率  https://learnku.com/go/t/49736
+
+- 2.到处都是 GO111MODULE，这到底什么？ https://learnku.com/go/t/39086
+
+- 3.谈谈 Redis 的 9 种数据结构以及它们的内部编码实现  https://gobea.cn/blog/detail/OrJRxArd.html
+
+- 4.Golang 服务之坑：too many open files  https://gobea.cn/blog/detail/NoW32Qob.html 
+- 5.为什么 HTTPS 需要 7 次握手以及 9 倍时延  https://draveness.me/whys-the-design-https-latency/
+
+
+ gopherDaily-2021-04-29
+# go-news-set-2021-04-29
+## gopherDaily-2021-04-29
+- 1.Go Json操作终极指南 - https://qvault.io/golang/json-golang/
+- 2.在生产环境使用dapr(分布式应用运行时) - https://blog.dapr.io/posts/2021/02/09/running-dapr-in-production-at-roadwork/
+- 3.加密UDP传输库 - https://github.com/balacode/udpt
+- 4.基于Gorgonia实现的生成式对抗性网络示例 - https://github.com/LdDl/gan-go
+- 5.从头构建一个kubectl plugin - https://www.pixelstech.net/article/1606901393-Build-a-Kubectl-Plugin-from-Scratch
+- 6.kubernetes: 使用拓扑感知路由的高效多区网络 - https://opensource.googleblog.com/2020/11/kubernetes-efficient-multi-zone.html
+- 7.我如何在Go中构造服务 -  https://medium.com/@ott.kristian/how-i-structure-services-in-go-19147ad0e6bd
+- 8.Go语法树入门——开启自制编程语言和编译器之旅 - https://github.com/chai2010/go-ast-book
+- 9.hashicorp go-plugin构建golang插件系统 - https://mp.weixin.qq.com/s/N1BWGheV8ZIpO5L90vaZyg
+- 10.减少aws k8s账单的七个方法 - https://thenewstack.io/7-tips-for-cutting-down-your-aws-kubernetes-bill
+
  go语言中文网(每日资讯)-2021-04-28
 # go-news-set-2021-04-28
 ## go语言中文网(每日资讯)-2021-04-28
