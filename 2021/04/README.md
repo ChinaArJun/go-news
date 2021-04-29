@@ -1,3 +1,41 @@
+ go语言中文网(每日资讯)-2021-04-29
+# go-news-set-2021-04-29
+## go语言中文网(每日资讯)-2021-04-29
+Go相关公众号文章每日推荐【2021-04-29】
+
+一、Go语言中文网
+
+1. [Go 切片的一种有趣内存泄漏方式](https://mp.weixin.qq.com/s/gMt7hY9PEWW0XMt70vI84w)
+
+2. [Go 切片的一种有趣内存泄漏方式](https://mp.weixin.qq.com/s/gMt7hY9PEWW0XMt70vI84w)
+
+二、亚军进化史
+
+1. [Go技术日报(2021-04-28)——在Go中，你犯过这些错误吗](https://mp.weixin.qq.com/s/IovH52ZlEfvOwW1PSrM-3w)
+
+三、码农桃花源
+
+1. [QUIC 协议在蚂蚁落地综述](https://mp.weixin.qq.com/s/PEfz04LHOjVrZK6K45OgzA)
+
+2. [KubeSphere 3.1.0 GA：混合多云走向边缘，让应用无处不在](https://mp.weixin.qq.com/s/jJsldNRijylB_EBUhOXULA)
+
+四、腾讯技术
+
+1. [“鹅厂老司机”谈破局：做自己的破壁人](https://mp.weixin.qq.com/s/UE5T29ZZmnvJ7_WA-ztgEQ)
+
+五、polarisxu
+
+1. [Go 真的也可以进行 GUI 开发：还有这样的图书呢](https://mp.weixin.qq.com/s/2kms7zoK39CL6aVSWrpAbQ)
+
+六、CloudNativeCommunity
+
+1. [Kubernetes 源码图解](https://mp.weixin.qq.com/s/s1vJu7TmANzE4r0se0OF0g)
+
+2. [云原生学院第19直播视频回放](https://mp.weixin.qq.com/s/c3akppn1E1BEfuLEwB-JKg)
+
+七、脑子进煎鱼了
+
+1. [Go 程序崩了？煎鱼教你用 PProf 工具来救火！](https://mp.weixin.qq.com/s/9yLd7kkYzmbCriolhbvK_g)
  gocn_news-2021-04-29
 # go-news-set-2021-04-29
 ## gocn_news-2021-04-29
