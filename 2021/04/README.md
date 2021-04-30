@@ -1,3 +1,49 @@
+ go语言中文网(每日资讯)-2021-04-30
+# go-news-set-2021-04-30
+## go语言中文网(每日资讯)-2021-04-30
+一、Go语言中文网
+
+1. [Go 运行时调度器处理系统调用的巧妙方式](https://mp.weixin.qq.com/s/zyvCj2bC9aTkrFB_J_kQcA)
+
+2. [掌握 cgo 的字符串函数](https://mp.weixin.qq.com/s/RFMKhSmc22GwxeIeI8MAGQ)
+
+二、亚军进化史
+
+1. [Go技术日报(2021-04-29)——QUIC 协议在蚂蚁落地综述](https://mp.weixin.qq.com/s/wboDsOAA_TuOx-rzyWmNnw)
+
+三、奇伢云存储
+
+1. [存储进阶—怎么才能保证 IO 数据的安全？](https://mp.weixin.qq.com/s/2lUjSnidY_RVQ4jNWGHvLw)
+
+四、腾讯云CDN
+
+1. [大咖聊QUIC—腾讯CDN技术总监李丛](https://mp.weixin.qq.com/s/-9JfPnnPL-mM5fNYXVksLw)
+
+五、k8s技术圈
+
+1. [KubeSphere 3.1.0 GA：混合多云走向边缘，让应用无处不在](https://mp.weixin.qq.com/s/lwEMVwJ1h1hL2N8mr3Bj1A)
+
+2. [k8s 内网和办公网络的打通实践](https://mp.weixin.qq.com/s/AHuGtMjfHo7-Wi_CBGiBkQ)
+
+六、polarisxu
+
+1. [五一快乐！Go 团队开始重视安全问题了](https://mp.weixin.qq.com/s/-Zv1QwM1lYNWEvIoUNjmXQ)
+
+七、技术琐话
+
+1. [如何提高代码的扩展性](https://mp.weixin.qq.com/s/KHgaB3K5ikz1caZkpaFZGA)
+
+八、Go招聘
+
+1. [国际电商福利好还不加班，爱了爱了](https://mp.weixin.qq.com/s/T7jhXipYkCezKN9LjK_sEQ)
+
+九、腾讯技术工程​
+
+1. [「直播回放」Go语言并发调度器和网络模型解析 - 知乎](https://www.zhihu.com/zvideo/1371214468270071808)
+
+十、Go夜读
+
+1. [视频回放-#113 性能优化究竟应该怎么做？- By 曹大](https://www.bilibili.com/video/BV1Z64y1m7uc)
  go语言中文网(每日资讯)-2021-04-29
 # go-news-set-2021-04-29
 ## go语言中文网(每日资讯)-2021-04-29
