@@ -1,3 +1,17 @@
+ gocn_news-2021-05-02
+# go-news-set-2021-05-02
+## gocn_news-2021-05-02
+- 1.Open Saves: Google 开源的为游戏设计的云原生存储 https://cloud.google.com/blog/products/media-entertainment/introducing-open-saves
+
+- 2.Go 用户案例: 各领域公司使用案例 https://medium.com/@softkraft/companies-using-golang-by-domain-golang-use-cases-6870b9001e82
+
+- 3.构建强壮的电商 Service Mesh https://resources.fabric.inc/blog/ecommerce-service-mesh
+
+- 4.Go 实现的 Apollo Federation Gateway 替代品 https://github.com/jensneuse/graphql-go-tools
+
+- 5.YoyoGo (web&grpc) 微服务框架 https://gocn.vip/topics/12015
+
+
  go语言中文网(每日资讯)-2021-05-01
 # go-news-set-2021-05-01
 ## go语言中文网(每日资讯)-2021-05-01
