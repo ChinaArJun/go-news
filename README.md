@@ -1,3 +1,39 @@
+ go语言中文网(每日资讯)-2021-05-02
+# go-news-set-2021-05-02
+## go语言中文网(每日资讯)-2021-05-02
+
+
+一、Go语言中文网
+
+1. [Go语言爱好者周刊：第 93 期 — 架构师的自我修炼](https://mp.weixin.qq.com/s/lkNHnIrEPAE-C7p3YK4hFg)
+
+2. [为什么我们需要在  Go 中使用 iota](https://mp.weixin.qq.com/s/ygapABjP6JJ9uBGSf8pc4g)
+
+3. [Go - 一个对新手很友好的项目(带界面)](https://mp.weixin.qq.com/s/vPnOrwnuq0zRISuimNCfnQ)
+
+二、亚军进化史
+
+1. [Go技术日报(2021-05-01)——pprof 的原理与实现](https://mp.weixin.qq.com/s/C4uWiAKyVhC8fJqg4pjSnA)
+
+三、k8s技术圈
+
+1. [使用 Loki 收集 nginx 日志](https://mp.weixin.qq.com/s/5EW8HPlmqZ7XVPD-1lRlSA)
+
+四、polarisxu
+
+1. [五一快乐！又来送书了，节后提升实力](https://mp.weixin.qq.com/s/TQgYP24H_Qgm5BZdGMI1hA)
+
+五、TechPaper
+
+1. [画好图才能做好 PPT](https://mp.weixin.qq.com/s/xai1fWwJiD6rSvIBvzIuog)
+
+六、luozhiyun很酷
+
+1. [Go语言实现Snowflake雪花算法](https://mp.weixin.qq.com/s/V0W5AcN4viWvX_w7yW0dzQ)
+
+七、网管叨bi叨
+
+1. [Goroutine Local Storage的一些实现方案和必要性讨论](https://mp.weixin.qq.com/s/luUxiLZCf_x7ZA1LUlP7sA)
  gocn_news-2021-05-02
 # go-news-set-2021-05-02
 ## gocn_news-2021-05-02
