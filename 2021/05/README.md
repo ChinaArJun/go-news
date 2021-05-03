@@ -1,3 +1,29 @@
+ go语言中文网(每日资讯)-2021-05-03
+# go-news-set-2021-05-03
+## go语言中文网(每日资讯)-2021-05-03
+
+
+一、Go语言中文网
+
+1. [Russ Cox 看不下去了：golang-standards/project-layout 不是 Go 标准布局](https://mp.weixin.qq.com/s/i5zv5CK7YkkcFwzpRdBicg)
+
+2. [Go 笔试题精选 二： 25 道选择题](https://mp.weixin.qq.com/s/xMXRafxVHud1yyz8GVM3GA)
+
+3. [更简的并发代码，更强的并发控制](https://mp.weixin.qq.com/s/zLmlOPYnqmQtv8ZKIu92Gg)
+
+二、k8s技术圈
+
+1. [Promtail Pipeline 日志处理配置](https://mp.weixin.qq.com/s/PPNa7CYk6aaYDcvH9eTw1w)
+
+三、Go招聘
+
+1. [祝大家5.1快乐，4/26-4/30股文请接收](https://mp.weixin.qq.com/s/6PoolfReXr2vz0JNOeDKHw)
+
+四、medium-Syafdia Okta
+
+1. [Go concurrency pattern: Pipeline](https://syafdia.medium.com/go-concurrency-pattern-pipeline-635dfae01af1)
+
+2. [Go concurrency pattern: Worker Pool](https://syafdia.medium.com/go-concurrency-pattern-worker-pool-a437117025b1)
  gocn_news-2021-05-03
 # go-news-set-2021-05-03
 ## gocn_news-2021-05-03
