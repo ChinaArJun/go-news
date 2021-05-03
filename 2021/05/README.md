@@ -1,3 +1,32 @@
+ gocn_news-2021-05-03
+# go-news-set-2021-05-03
+## gocn_news-2021-05-03
+- 1.Go 与 WebAssembly https://www.bradcypert.com/an-introduction-to-targeting-web-assembly-with-golang/
+
+- 2.配置 VSCode 和 Docker 开发调试 Go https://dev.to/andreidascalu/setup-go-with-vscode-in-docker-for-debugging-24ch
+
+- 3.Proposal: Go 漏洞数据库 https://go.googlesource.com/proposal/+/master/design/draft-vulndb.md
+
+- 4.Go Modules 速查表 https://encore.dev/guide/go.mod
+
+- 5.使用 knative 部署 serverless 服务 https://aymen-segni.com/index.php/2020/07/22/deploying-your-serverless-services-on-kubernetes-using-knative/
+
+
+ gopherDaily-2021-05-03
+# go-news-set-2021-05-03
+## gopherDaily-2021-05-03
+- 1.Gopher部落劳动节专属优惠，仅限这5天假期有效，数量有限，先到先得 - https://t.zsxq.com/FQzf6Iq
+- 2.在你的CI/CD管道中使用Docker指南 - https://circleci.com/blog/guide-to-using-docker-for-your-ci-cd-pipelines/
+- 3.Go gRPC初学者指南 - https://www.youtube.com/watch?v=BdzYdN_Zd9Q&feature=youtu.be
+- 4.从头学Go性能剖析 - https://www.youtube.com/watch?v=-twKyx5KU0c
+- 5.Go是后端语言的未来吗 - https://medium.com/@lilligroeneveld/is-go-golang-the-future-of-backend-943b87dc9cdb
+- 6.使用knative在k8s集群上部署serveless服务 - https://aymen-segni.com/index.php/2020/07/22/deploying-your-serverless-services-on-kubernetes-using-knative/
+- 7.在gitpub page上跑sqlite数据库 - https://phiresky.github.io/blog/2021/hosting-sqlite-databases-on-github-pages/
+- 8.bloaty: 一个二进制文件大小剖析工具，对go提供了支持 - https://github.com/google/bloaty/issues/204#event-4673913000
+- 9.动态共享库不是个好东西 - https://lore.kernel.org/lkml/CAHk-=whs8QZf3YnifdLv57+FhBi5_WeNTG1B-suOES=RcUSmQg@mail.gmail.com/
+- 10.Go实现的命令行多协议下载工具 - https://github.com/Imputes/fdlr
+- 11.了解软件开发生命周期的各个阶段 - https://harness.io/blog/devops/software-development-life-cycle/
+
  go语言中文网(每日资讯)-2021-05-02
 # go-news-set-2021-05-02
 ## go语言中文网(每日资讯)-2021-05-02
