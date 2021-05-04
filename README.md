@@ -1,3 +1,31 @@
+ go语言中文网(每日资讯)-2021-05-04
+# go-news-set-2021-05-04
+## go语言中文网(每日资讯)-2021-05-04
+
+
+一、Go语言中文网
+
+1. [Docker 将 “ 跳过更新 ” 设为付费功能，引发网友吐槽](https://mp.weixin.qq.com/s/csGdmpRmy4GATtBUQevxig)
+
+2. [Go语言中常见的几种反模式](https://mp.weixin.qq.com/s/KmKvwc0eeUuKAWASnTHBRA)
+
+3. [谈谈 Kubernetes 的问题和局限性](https://mp.weixin.qq.com/s/ZjRAKzDaMuNJquJBONJe-g)
+
+二、TechPaper
+
+1. [长尾延迟问题的一些解决思路](https://mp.weixin.qq.com/s/y_bQIsKHwyWauwaXB_8fXg)
+
+三、k8s技术圈
+
+1. [Promtail 配置文件说明](https://mp.weixin.qq.com/s/x7qik5HGzngH8rTiusiKMA)
+
+四、分布式实验室
+
+1. [2020 年 CNCF 中国云原生调查报告](https://mp.weixin.qq.com/s/qz0Fe79iBFDMR1KVvPC6Bw)
+
+五、GoOfficialBlog
+
+1. [高性能 Go 代码工坊（Part6)](https://mp.weixin.qq.com/s/1HmYMBvc1uSYE_zVhJITTQ)
  gocn_news-2021-05-04
 # go-news-set-2021-05-04
 ## gocn_news-2021-05-04
