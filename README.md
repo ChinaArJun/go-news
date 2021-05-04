@@ -1,3 +1,33 @@
+ gocn_news-2021-05-04
+# go-news-set-2021-05-04
+## gocn_news-2021-05-04
+- 1.pprof 的原理与实现 https://mp.weixin.qq.com/s/to1g7mk8JuFapDbnqhsFPw
+
+- 2.深入 Go 语言 defer 实现原理 https://www.luozhiyun.com/archives/523
+
+- 3.新细节，Go 1.17 将允许切片转换为数组指针 https://mp.weixin.qq.com/s/v1czjzlUsaSQTpAOG9Ub3w
+
+- 4.Promtail Pipeline 日志处理配置 https://mp.weixin.qq.com/s/PPNa7CYk6aaYDcvH9eTw1w
+
+- 5.文章转视频 text-to-video https://github.com/leoython/text-to-video
+
+
+ gopherDaily-2021-05-04
+# go-news-set-2021-05-04
+## gopherDaily-2021-05-04
+- 1.Gopher部落劳动节专属优惠，仅限这5天假期有效，数量有限，先到先得 - https://t.zsxq.com/FQzf6Iq
+- 2.如何使用Go对helm chart进行单元测试 - https://blog.heyal.co.uk/unit-testing-helm-charts/
+- 3.使用discovery selector在istio服务网格中配置namespace - https://istio.io/latest/blog/2021/discovery-selectors/
+- 4.如何使用Go将一个html文件转换为pdf - https://hackernoon.com/how-to-generate-a-pdf-report-from-html-with-go-p02f33kx
+- 5.用于编写构建流水线的Go库 - https://github.com/goyek/goyek
+- 6.Go版本的github action - https://github.com/marketplace/actions/go-version-action
+- 7.使用自动协调的7种方法，DevOps可以克服可扩展性的挑战 - https://thenewstack.io/7-ways-devops-can-overcome-scalability-challenges-using-automated-orchestration/
+- 8.通过部署etcd集群来解读Kubernetes上的有状态应用程序 - https://blog.harbur.io/demystifying-stateful-apps-on-kubernetes-by-deploying-an-etcd-cluster-b85bf8c16fea
+- 9.使用Tekton为GitHub仓库建立云原生CI/CD的七个步骤 - https://blog.harbur.io/the-seven-steps-to-build-a-cloud-native-ci-cd-for-github-repos-using-tekton-31a445a3bde7
+- 10.使用WebRTC、Websockets和Golang在我的个人网站上建立视频聊天 - https://mattbutterfield.com/blog/2021-05-02-adding-video-chat
+- 11.如何使用SQL来进行快速和有效的数据分析 - https://hakibenita.com/sql-for-data-analysis
+- 12.用蒙特卡洛模拟解决问题的艺术 - https://ggcarvalho.dev/posts/montecarlo/
+
  go语言中文网(每日资讯)-2021-05-03
 # go-news-set-2021-05-03
 ## go语言中文网(每日资讯)-2021-05-03
