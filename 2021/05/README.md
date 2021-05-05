@@ -1,3 +1,31 @@
+ go语言中文网(每日资讯)-2021-05-05
+# go-news-set-2021-05-05
+## go语言中文网(每日资讯)-2021-05-05
+
+
+一、Go语言中文网
+
+1. [假期余额不足：Gopher们该“卷”起来了！读书、送书](https://mp.weixin.qq.com/s/nZ6cVyclkRCj0vOCvbZxUg)
+
+2. [每日一库之实战项目推荐：rosedb](https://mp.weixin.qq.com/s/xl4XFjPwMAkx2F3v18msTg)
+
+3. [有趣的面试题：Go语言字符串的字节长度和字符个数](https://mp.weixin.qq.com/s/KJ6L8RulYnzJv4gzQn-z5A)
+
+二、亚军进化史
+
+1. [Go技术日报(2021-05-04)——高性能 Go 代码工坊（Part6)](https://mp.weixin.qq.com/s/F8p705mxo82GEd8pPaO7hQ)
+
+三、k8s技术圈
+
+1. [开源云原生应用可观测平台 Pixie](https://mp.weixin.qq.com/s/kwmGF01cJOeJ2OIn-DyyGw)
+
+四、吴亲强的深夜食堂
+
+1. [如何成为一个更好的开发者](https://mp.weixin.qq.com/s/ZNZO0AQLwScYFbOardqY4Q)
+
+五、技术琐话
+
+1. [一位老工程师在谷歌工作十年后的总结：宁愿把团队交给别人带](https://mp.weixin.qq.com/s/05lZHs3TrWzMR-xOCI9KTA)
  gocn_news-2021-05-05
 # go-news-set-2021-05-05
 ## gocn_news-2021-05-05
