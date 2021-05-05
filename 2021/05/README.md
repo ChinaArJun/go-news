@@ -1,3 +1,36 @@
+ gocn_news-2021-05-05
+# go-news-set-2021-05-05
+## gocn_news-2021-05-05
+- 1.Golang 中的错误处理 https://gabrieltanner.org/blog/golang-error-handling-definitive-guide
+
+- 2.Go 实现的测试覆盖率分析工具 https://github.com/kjellkvinge/gocover
+
+- 3.用于构建现代 API 的 golang 框架 https://github.com/gocondor/gocondor
+
+- 4.Go 中实现的构建 pipelines 工具 https://github.com/goyek/goyek
+
+- 5.使用 React 和 Go 实现无限滚动 https://dev.to/josh2604/scroll-infinito-con-react-js-y-go-3112
+
+
+ gopherDaily-2021-05-05
+# go-news-set-2021-05-05
+## gopherDaily-2021-05-05
+- 1.Gopher部落劳动节专属优惠，仅限这5天假期有效，数量有限，先到先得 - https://t.zsxq.com/FQzf6Iq
+- 2.Kubernetes的治理、风险和合规性 - https://thenewstack.io/governance-risk-and-compliance-with-kubernetes/
+- 3.不使用分支语句的位操作 - https://mattnakama.com/blog/go-branchless-coding/
+- 4.油管视频：基于docker构建macos上的Go IDE - https://www.youtube.com/watch?v=zy9PUDqCLHQ
+- 5.对分布式跟踪的再思考 - https://encore.dev/blog/tracing-reimagined
+- 6.Go json操作与陷阱 - https://hakaselogs.me/2021-05-03/working-with-json-in-go/
+- 7.使用strings.Builder快速连接字符串 - https://qvault.io/golang/strings-builder-concatenation-golang/
+- 8.Go语言错误处理 - https://gabrieltanner.org/blog/golang-error-handling-definitive-guide
+- 9.实时Kubernetes原生应用观察与诊断 - https://github.com/pixie-labs/pixie
+- 10.为什么Argo CD是GitOps的生命线？ - https://thenewstack.io/why-argo-cd-is-the-lifeline-of-gitops/
+- 11.在多云多集群环境下使用gitops管理k8s - https://www.weave.works/blog/managing-kubernetes-with-gitops-in-a-multi-cluster-multi-cloud-world
+- 12.一个VS Code扩展包，帮助用户可视化、理解并与数据互动 - https://github.com/dynamicwebpaige/thinking-in-data
+- 13.用Pixie收集对Kubernetes应用、服务和网络流量 - https://aws.amazon.com/cn/blogs/opensource/gathering-insights-on-kubernetes-applications-services-and-network-traffic-with-pixie/
+- 14.linux终端工具 - https://ketancmaheshwari.github.io/pdfs/LPT_LISA.pdf
+- 15.OpenTelemetry Trace 1.0就绪 - https://cloud.google.com/blog/products/operations/opentelemetry-specification-enables-standardized-tracing
+
  go语言中文网(每日资讯)-2021-05-04
 # go-news-set-2021-05-04
 ## go语言中文网(每日资讯)-2021-05-04
