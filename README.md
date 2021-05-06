@@ -1,3 +1,60 @@
+ go语言中文网(每日资讯)-2021-05-06
+# go-news-set-2021-05-06
+## go语言中文网(每日资讯)-2021-05-06
+
+
+一、Go语言中文网
+
+1. [Go: 延长变量的生命周期](https://mp.weixin.qq.com/s/S_lO8jQY0TGS7_zvDIUcfw)
+
+2. [echo源码分析](https://mp.weixin.qq.com/s/9FJwmUrqmch9kdjLbldibw)
+
+二、亚军进化史
+
+1. [Go技术日报(2021-05-05)——如何成为一个更好的开发者](https://mp.weixin.qq.com/s/pPnN9ANOI63zGIzOiOEcZA)
+
+三、鸟窝
+
+1. [Go sync.Once的三重门](https://colobu.com/2021/05/05/triple-gates-of-sync-Once/)
+
+四、Go招聘
+
+1. [Go缓存系列之go-cache](https://mp.weixin.qq.com/s/hz7mViPQIwca0mSylfS-ww)
+
+五、多颗糖
+
+1. [Raft 的 Figure 8 讲了什么问题？为什么需要 no-op 日志？](https://mp.weixin.qq.com/s/jzx05Q781ytMXrZ2wrm2Vg)
+
+六、polarisxu
+
+1. [「卷」有理论依据：海勒姆定律—Go又是怎么卷的](https://mp.weixin.qq.com/s/I2Rm1d8LbOQg3V_CFSKgtg)
+
+七、腾讯技术工程
+
+1. [深入剖析虚拟内存工作原理](https://mp.weixin.qq.com/s/c81Fvws0J2tHjcdTgxvv6g)
+
+八、k8s技术圈
+
+1. [Grafana Loki 架构](https://mp.weixin.qq.com/s/dnG4Yye0cP5XtxY0VWiEDg)
+
+九、mohuishou
+
+1. [1. Operator概述: 如何对 Kubernetes 进行扩展](https://mp.weixin.qq.com/s/JX9kt2yg9KsFOsMNxONiew)
+ gopherDaily-2021-05-06
+# go-news-set-2021-05-06
+## gopherDaily-2021-05-06
+- 1.Go语言之禅 - https://mp.weixin.qq.com/s/mKe0w3urHJEe9iYJ7svCuA
+- 2.Go vs. Python: 6个问题决定哪种编程语言最适合你 - https://towardsdatascience.com/golang-vs-python-6-questions-to-decide-which-programming-language-is-best-for-you-cf5aa5902c57
+- 3.高德 Serverless 平台建设及实践 - https://mp.weixin.qq.com/s/xDBYX3cNYmMU28y5m9COUw
+- 4.GitOps 1.0之痛 - https://codefresh.io/devops/pains-gitops-1-0/
+- 5.电子书：The Art of Go - https://read.amazon.com/kp/kshare?asin=B08WYNG6YP&id=rxhdkk7jtnefbk2gej35ogfc6m&reshareId=7VR8WH36061JZXH1AJC5&reshareChannel=system
+- 6.Go与NUMA架构体系 - https://jbd.dev/numa/
+- 7.Open Container Initiative(OCI)发布1.0版本容器规范 - https://opencontainers.org/posts/announcements/2021-05-04-oci-dist-spec-v1/
+- 8.Kubernetes IDE - https://github.com/lensapp/lens
+- 9.2020 年 CNCF 中国云原生调查报告 - https://mp.weixin.qq.com/s/qz0Fe79iBFDMR1KVvPC6Bw
+- 10.使用encore.dev构建bingo游戏后端 - https://eaglewas.me/blog/en/bingo-backend-encore
+- 11.IPCDump：linux进程间通信跟踪工具，基于eBPF - https://github.com/guardicore/IPCDump
+
  go语言中文网(每日资讯)-2021-05-05
 # go-news-set-2021-05-05
 ## go语言中文网(每日资讯)-2021-05-05
