@@ -1,3 +1,61 @@
+ go语言中文网(每日资讯)-2021-05-07
+# go-news-set-2021-05-07
+## go语言中文网(每日资讯)-2021-05-07
+
+
+一、Go语言中文网
+
+1. [期待这个 Go 新特性：让 Go 漏洞无处遁形](https://mp.weixin.qq.com/s/eLV8XM3rJwfKteuhoMh0Mw)
+
+2. [微软粉丝一定喜欢这个 Go 工具](https://mp.weixin.qq.com/s/cqiny6vQhsnOhUSK1sigOw)
+
+3. [echo 源码分析之数据绑定过程](https://mp.weixin.qq.com/s/iKB8-tHtQTIjrWJl0pwZEA)
+
+二、亚军进化史
+
+1. [Go技术日报(2021-05-06)——Go语言之禅](https://mp.weixin.qq.com/s/_l33vS0gSqO96WGyexyXIQ)
+
+三、k8s技术圈
+
+1. [云原生平台开发工程师-新加坡-Shopee | 云原生招聘](https://mp.weixin.qq.com/s/7WqROYTzGfrqh_WmXBH1JA)
+
+四、GolangContributorClub
+
+1. [漫谈Go语言编译器（01）](https://mp.weixin.qq.com/s/0q0k8gGX56SBKJvfMquQkQ)
+
+五、polarisxu
+
+1. [Rust 劝退系列 05：复合数据类型](https://mp.weixin.qq.com/s/dtYnwOy3FkGjnOV7vshzvg)
+
+六、幼麟实验室
+
+1. [深度探索Go语言（一）：装箱](https://mp.weixin.qq.com/s/odFKyj63Jr756HHZOwg2YA)
+
+七、mohuishou
+
+1. [2. Kind: 如何快速搭建本地 K8s 开发环境？](https://mp.weixin.qq.com/s/N5RdUxUx4f58qXKL5ha0OQ)
+
+八、脑子进煎鱼了
+
+1. [上帝视角看 “Go 项目标准布局” 之争](https://mp.weixin.qq.com/s/KnsB9cTGnM0X7hNR9VDzxg)
+
+九、章老师说
+
+1. [《深入理解BFE》对外发布](https://mp.weixin.qq.com/s/8TyaVWz0MZ2MkPDGnB65Gw)
+ gopherDaily-2021-05-07
+# go-news-set-2021-05-07
+## gopherDaily-2021-05-07
+- 1.Go modules速查表 - https://encore.dev/guide/go.mod
+- 2.我学到的关于Go的事情  - https://dev.to/belkheir/things-i-learned-about-go-23p6
+- 3.Go Crash课程：第一部分 - https://dev.to/moficodes/go-crash-course-part-1-18h1
+- 4.深入Go GC源码 - https://zhuanlan.zhihu.com/p/359582221
+- 5.Go 1.16.4和1.15.12发布 - https://groups.google.com/g/golang-announce/c/cu9SP4eSXMc
+- 6.Kubernetes 上如何控制容器的启动顺序？ - https://mp.weixin.qq.com/s/VulB3tiXTRAjYsuWxgU1Zg
+- 7.浅析开源项目之io_uring - https://zhuanlan.zhihu.com/p/361955546
+- 8.kubernetes部署反模式 - https://dev.to/codefreshio/kubernetes-deployment-antipatterns-part-1-2116
+- 9.SigNoz: datadog的开源替代项目，帮助开发人员监控和诊断应用 - https://github.com/SigNoz/signoz
+- 10.分支预测：多少if才算是多？- https://blog.cloudflare.com/branch-predictor/
+
  go语言中文网(每日资讯)-2021-05-06
 # go-news-set-2021-05-06
 ## go语言中文网(每日资讯)-2021-05-06
