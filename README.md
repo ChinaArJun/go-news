@@ -1,3 +1,17 @@
+ gocn_news-2021-05-07
+# go-news-set-2021-05-07
+## gocn_news-2021-05-07
+- 1.Go 1.16.4 和 1.15.12 发布 https://groups.google.com/g/golang-nuts/c/_buc5blnKQw
+
+- 2.新手必备的 Go Module 的 18 个知识 https://zaracooper.github.io/blog/posts/go-module-tidbits/
+
+- 3.使用 WebRTC，WebSockets 和 Go 在我的个人网站中进行视频聊天 https://mattbutterfield.com/blog/2021-05-02-adding-video-chat
+
+- 4.Goroutine Local Storage 的一些实现方案和必要性讨论 https://mp.weixin.qq.com/s/luUxiLZCf_x7ZA1LUlP7sA
+
+- 5.Golang 语言中 kafka 客户端库 sarama https://mp.weixin.qq.com/s/T3dWcf5v1cWMdNbsK3_w2A
+
+
  go语言中文网(每日资讯)-2021-05-07
 # go-news-set-2021-05-07
 ## go语言中文网(每日资讯)-2021-05-07
