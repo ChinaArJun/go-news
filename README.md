@@ -1,3 +1,32 @@
+ gocn_news-2021-05-08
+# go-news-set-2021-05-08
+## gocn_news-2021-05-08
+- 1.Go 枚举最佳实践 https://marcofranssen.nl/how-to-do-enums-in-go
+
+- 2.如何使用 Proto.Cluster 做高可用 https://proto.actor/docs/cluster/intro/clusterintro/
+
+- 3.在 Go 中实现声明式校验 https://hackernoon.com/golang-declarative-validation-made-similar-to-ruby-on-rails-1d2z34c0
+
+- 4.Go 中的无分支编码 https://mattnakama.com/blog/go-branchless-coding/
+
+- 5.不要 mock 数据库连接 https://qvault.io/clean-code/writing-good-unit-tests-dont-mock-database-connections/
+
+
+ gopherDaily-2021-05-08
+# go-news-set-2021-05-08
+## gopherDaily-2021-05-08
+- 1.《深入理解BFE》电子书开源 - https://github.com/baidu/bfe-book
+- 2.新提案：标准库增加slices包，提供关于切片的泛型函数 - https://github.com/golang/go/issues/45955
+- 3.油管视频：用ImmuDB和Go构建防篡改系统 - https://www.youtube.com/watch?v=01_wEMdOp1U
+- 4.Kubernetes的5个admission控制策略的OPEN POLICY AGENT实现 - https://blog.styra.com/blog/open-policy-agent-the-top-5-kubernetes-admission-control-policies
+- 5.Rook: 在Kubernetes上运行ceph的最佳实践 - https://documentation.suse.com/sbp/all/pdf/SBP-rook-ceph-kubernetes_color_en.pdf
+- 6.如何使用CockroachDB在Go应用程序中对JSON数据进行建模 - https://www.cockroachlabs.com/blog/json-go-cockroachdb/
+- 7.用100行Go代码搭建一个简单的终端仿真器 - https://ishuah.com/2021/03/10/build-a-terminal-emulator-in-100-lines-of-go/
+- 8.六个月过去了，godocs.io的当前状态 - https://drewdevault.com/2021/05/07/godocs.io-six-months-later.html
+- 9.新手必备的18个关于go module 小知识 - https://zaracooper.github.io/blog/posts/go-module-tidbits/
+- 10.Go泛型介绍 - https://blogtitle.github.io/go-generics/
+- 11.继DevOps和GitOps之后的下一步是云工程 - https://thenewstack.io/the-next-step-after-devops-and-gitops-is-cloud-engineering-pulumi-says/
+
  gocn_news-2021-05-07
 # go-news-set-2021-05-07
 ## gocn_news-2021-05-07
