@@ -1,3 +1,51 @@
+ go语言中文网(每日资讯)-2021-05-08
+# go-news-set-2021-05-08
+## go语言中文网(每日资讯)-2021-05-08
+
+
+一、Go语言中文网
+
+1. [Go1.16.4 发布](https://mp.weixin.qq.com/s/Iw4LeBgD5xxLtUy3mcws-w)
+
+2. [一个 Go 语言实现的高性能 NoSQL 数据库](https://mp.weixin.qq.com/s/fo_hhABF8leihxSp7YSt2Q)
+
+3. [echo 源码分析之校验器：Validator](https://mp.weixin.qq.com/s/LRF6wC83fbHtELiiym-krQ)
+
+二、亚军进化史
+
+1. [Go技术日报(2021-05-07)——进程和线程的19问](https://mp.weixin.qq.com/s/yljnaWZB-uiy17Bj89ql2Q)
+
+三、微服务实践
+
+1. [ArchSummit架构师峰会-海量并发下的缓存架构设计](https://mp.weixin.qq.com/s/9tblPSzLvEagjlYuA-RnUw)
+
+四、CloudNativeCommunity
+
+1. [Kubernetes API Server 源码图解（续）](https://mp.weixin.qq.com/s/mJzV1964mPMjnLc5pA4A2Q)
+
+五、刘丹冰Aceld
+
+1. [Linux深入理解I/O复用并发模型](https://mp.weixin.qq.com/s/kWDKpgmcOQFjoBAK3LyPTg)
+
+六、k8s技术圈
+
+1. [探索使用 Golang 和 Webassembly 构建一个多人游戏服务器](https://mp.weixin.qq.com/s/YnYrNnTKIaYvY1-baBA_wQ)
+
+七、分布式实验室
+
+1. [图解 Kafka](https://mp.weixin.qq.com/s/JxPsvj7dqBsa1Dmu8yjiJQ)
+
+八、TechPaper
+
+1. [如何避免大规模线上故障](https://mp.weixin.qq.com/s/nG_tanEw8FjNxT6VGrDatA)
+
+九、奇伢云存储
+
+1. [深度剖析 Linux 的 3 种“拷贝”命令](https://mp.weixin.qq.com/s/e-G7o8MtTup8ievdzY501Q)
+
+十、mohuishou
+
+1. [3. KubeBuilder 简明教程](https://mp.weixin.qq.com/s/Y0GwLgz9o2HONkl4FJdlVQ)
  gocn_news-2021-05-08
 # go-news-set-2021-05-08
 ## gocn_news-2021-05-08
