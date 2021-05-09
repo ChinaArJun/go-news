@@ -1,3 +1,38 @@
+ go语言中文网(每日资讯)-2021-05-09
+# go-news-set-2021-05-09
+## go语言中文网(每日资讯)-2021-05-09
+
+一、Go语言中文网
+
+1. [Go语言爱好者周刊：第 94 期 — 这道题目别不会](https://mp.weixin.qq.com/s/_La7pqzLreCl50-9ASoBkQ)
+
+2. [goproxy 源码分析](https://mp.weixin.qq.com/s/qVIzxuu8yZv7arfr2E8Cmg)
+
+二、亚军进化史
+
+1. [Go技术日报(2021-05-08)——Go1.16.4 发布](https://mp.weixin.qq.com/s/Qv1WU-2JgMR1XeJZYXURyQ)
+
+三、k8s技术圈
+
+1. [使用 Loki 收集 Traefik 日志](https://mp.weixin.qq.com/s/L-dGf4dwr7b8hz4IM0qg8A)
+
+四、云原生技术爱好者社区
+
+1. [谈谈对K8S CNI、CRI和CSI插件的理解](https://mp.weixin.qq.com/s/vLfWUiZuap9RWjFuPfqMEg)
+
+五、TechPaper
+
+1. [nocode 和 lowcode](https://mp.weixin.qq.com/s/gvCQqNFaGSWCJv9XHMl94A)
+
+六、GoUpUp
+
+1. [Go 每日一库之 bytebufferpool](https://mp.weixin.qq.com/s/SVqpZubE_X4W8uAwmNV79w)
+
+七、Go招聘
+
+1. [面试官：Go 结构体是否可以比较，为什么？](https://mp.weixin.qq.com/s/S2nVZ-xmHqsTOyQp7jWWSg)
+
+2. [五一假期的股文来咯](https://mp.weixin.qq.com/s/oTqguz5KwHVky-3cXt8hLQ)
  gocn_news-2021-05-09
 # go-news-set-2021-05-09
 ## gocn_news-2021-05-09
