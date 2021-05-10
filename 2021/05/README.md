@@ -1,3 +1,17 @@
+ gocn_news-2021-05-10
+# go-news-set-2021-05-10
+## gocn_news-2021-05-10
+- 1.利用 NATS JetStream 构建分布式事件流系统 https://shijuvar.medium.com/building-distributed-event-streaming-systems-in-go-with-nats-jetstream-3938e6dc7a13
+
+- 2.100 行 Golang 代码构建一个简单的终端仿真器 https://ishuah.com/2021/03/10/build-a-terminal-emulator-in-100-lines-of-go
+
+- 3.编写简单的 CLI 程序：Python vs Go https://dev.to/jidicula/writing-a-simple-cli-program-python-vs-go-59kf
+
+- 4.如何使用 Go，Maroto 和 GoFakeIt 创建 PDF https://dev.to/divrhino/creating-a-pdf-with-go-maroto-gofakeit-3c7m
+
+- 5.一个用 Go 编写的类似 cowsay 的开源程序 weebsay https://github.com/irevenko/weebsay
+
+
  go语言中文网(每日资讯)-2021-05-09
 # go-news-set-2021-05-09
 ## go语言中文网(每日资讯)-2021-05-09
