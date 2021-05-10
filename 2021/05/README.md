@@ -1,3 +1,51 @@
+ go语言中文网(每日资讯)-2021-05-10
+# go-news-set-2021-05-10
+## go语言中文网(每日资讯)-2021-05-10
+
+
+一、Go语言中文网
+
+1. [图解 Go 内存管理分配](https://mp.weixin.qq.com/s/bMr4lZgf-Fn1oaOSPPSDIQ)
+
+2. [Go 刷 leetcode 之任务调度器](https://mp.weixin.qq.com/s/oI441vsKhYninXJjg3t3yA)
+
+二、亚军进化史
+
+1. [Go技术日报(2021-05-09)——Go 实现各类限流](https://mp.weixin.qq.com/s/7tv3hiEVYoKPaMLc6MmM-g)
+
+三、k8s技术圈
+
+1. [自己动手实现一个 kubectl exec](https://mp.weixin.qq.com/s/VmEcIYfsUbgh-p4RCssGFQ)
+
+四、CloudNativeCommunity
+
+1. [云上细粒度访问管理的参考架构](https://mp.weixin.qq.com/s/3sfWGKFa1POMFcWYJbk6Ug)
+
+五、脑子进煎鱼了
+
+1. [Go 工程师必学：Go 大杀器之跟踪剖析 trace](https://mp.weixin.qq.com/s/7DY0hDwidgx0zezP1ml3Ig)
+
+2. [Go并发编程 — sync.Once 单实例模式的思考](https://mp.weixin.qq.com/s/nMHNujmbIx7uMqMtjUMTvQ)
+
+六、mohuishou
+
+1. [4. kustomize 简明教程](https://mp.weixin.qq.com/s/JDsDOYaACgyt97-Nz5ScDw)
+
+七、火山引擎开发者社区
+
+1. [我在字节跳动研发数据库｜火山引擎开发者社区 Meetup 讲师访谈](https://mp.weixin.qq.com/s/npNxiAQ2Y-It-syfm3oSQg)
+
+八、GoUpUp
+
+1. [你不知道的 Go 之 slice](https://mp.weixin.qq.com/s/aOIp7jeBWubT-u85vQJxzA)
+
+九、微服务实践
+
+1. [缓存系统稳定性 - 架构师峰会演讲实录](https://mp.weixin.qq.com/s/o0qUY5zUjBQuOkx_4XGB6Q)
+
+十、TechPaper
+
+1. [微服务的灾难](https://mp.weixin.qq.com/s/bY2s7wjfggSt77kj8exYLQ)
  gocn_news-2021-05-10
 # go-news-set-2021-05-10
 ## gocn_news-2021-05-10
