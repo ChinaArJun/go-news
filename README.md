@@ -1,3 +1,33 @@
+ gocn_news-2021-05-11
+# go-news-set-2021-05-11
+## gocn_news-2021-05-11
+- 1.轻轻松松打印网页并生成 pdf 文档  https://colobu.com/2021/05/05/generate-pdf-for-a-web-page-by-using-chromedp/
+
+- 2.Go 1.16 的 signal.NotifyContext 让你的服务重启更优雅  https://juejin.cn/post/6960578101755510798
+
+- 3.一种持锁被调度的情况  https://xargin.com/schedule-when-holding-lock-causes-latency-spike/
+
+- 4.assembly 完全解析：https://segmentfault.com/a/1190000039978109?utm_source=tag-newest
+
+- 5.strace 的 10 个命令 https://colobu.com/2021/04/30/strace-commands-for-troubleshooting-and-debugging-linux/
+
+
+ gopherDaily-2021-05-11
+# go-news-set-2021-05-11
+## gopherDaily-2021-05-11
+- 1.使eBPF工作在windows操作系统上 - https://cloudblogs.microsoft.com/opensource/2021/05/10/making-ebpf-work-on-windows/
+- 2.油管视频：调试你的Go test代码：用printf还是delve - https://www.youtube.com/watch?v=nmNVd7FbSYs
+- 3.如何在你的本地项目中使用未发布的Go module - https://iaziz786.com/blog/use-unpublished-go-modules
+- 4.Prometheus监控告警规则大全 - https://awesome-prometheus-alerts.grep.to/
+- 5.dblab: 支持与PostgreSQL和MySQL交互的终端命令行工具 - https://github.com/danvergara/dblab
+- 6.终端应用的自动黑暗模式 by vim-go作者 - https://arslan.io/2021/02/15/automatic-dark-mode-for-terminal-applications/
+- 7.另一个开源的容器平台 - https://github.com/sylabs/singularity
+- 8.在Go中没有一个完美的切片克隆方案 - https://github.com/go101/go101/wiki/There-is-not-a-perfect-slice-clone-way-in-Go
+- 9.理解nil接口类型与值为nil的接口变量 - https://trstringer.com/go-nil-interface-and-interface-with-nil-concrete-value/
+- 10.微软Teams的命令行终端UI工具 - https://github.com/fossteams/teams-cli
+- 11.Kubernetes GUI大全 - http://kokizzu.blogspot.com/2021/03/kubernetes-gui.html
+- 12.如何做出你的第一个开源贡献 - https://dev.to/codesandboxio/how-to-make-your-first-open-source-contribution-2oim
+
  go语言中文网(每日资讯)-2021-05-10
 # go-news-set-2021-05-10
 ## go语言中文网(每日资讯)-2021-05-10
