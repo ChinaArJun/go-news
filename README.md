@@ -1,3 +1,43 @@
+ go语言中文网(每日资讯)-2021-05-11
+# go-news-set-2021-05-11
+## go语言中文网(每日资讯)-2021-05-11
+
+
+一、Go语言中文网
+
+1. [unsafe 包真的不安全吗？](https://mp.weixin.qq.com/s/rIqkKNUecvnZ6gadThf4gg)
+
+2. [go-callvis 源码分析](https://mp.weixin.qq.com/s/dUXXGd8hqEhKE_Cj4EY2Lw)
+
+二、亚军进化史
+
+1. [Go技术日报(2021-05-10)——缓存系统稳定性](https://mp.weixin.qq.com/s/Jukr1P_NWksTdOPRGpHRcQ)
+
+三、幼麟实验室
+
+1. [深度探索Go语言（二）：动态派发](https://mp.weixin.qq.com/s/fhpKBRqhRAxFnESQ4vTbWQ)
+
+四、polarisxu
+
+1. [再一次看到了 Go 的节制：int128 类型要不要支持？](https://mp.weixin.qq.com/s/5uW2rcIEhFPCCTPqrhwOow)
+
+五、Go招聘
+
+1. [Go 笔试题精选 三： 19 道填空题](https://mp.weixin.qq.com/s/5Zd1DmQGDvjMySOUf7eFMg)
+
+六、taowen
+
+1. [在提赋能之前，先想想这5个问题](https://mp.weixin.qq.com/s/V8l7S7A-kRF_WDb7tlJJ0Q)
+
+2. [代码无可避免腐化是因为这 5 个原因](https://mp.weixin.qq.com/s/IzDgV6AmK-2ph1ctcz9liA)
+
+七、mohuishou
+
+1. [5. kubebuilder 实战: CRUD](https://mp.weixin.qq.com/s/UDA55y5RCpzyDvfSfs9d2w)
+
+八、鸟窝
+
+1. [实现无限缓存的channel](https://colobu.com/2021/05/11/unbounded-channel-in-go/)
  gocn_news-2021-05-11
 # go-news-set-2021-05-11
 ## gocn_news-2021-05-11
