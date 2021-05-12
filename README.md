@@ -1,3 +1,54 @@
+ go语言中文网(每日资讯)-2021-05-12
+# go-news-set-2021-05-12
+## go语言中文网(每日资讯)-2021-05-12
+
+一、Go语言中文网
+
+1. [Go：跨团队协作时如何共享对象](https://mp.weixin.qq.com/s/zJaruocUDSzld8ttDyawng)
+
+2. [template源码分析](https://mp.weixin.qq.com/s/HqcaFEXgQbcRyjYjI6oKGQ)
+
+二、mohuishou
+
+1. [6. kubebuilder 实战: status &amp; event](https://mp.weixin.qq.com/s/JuRlClCX7TnQKaW-Rr3Z7g)
+
+三、亚军进化史
+
+1. [Go技术日报(2021-05-11)——实现无限缓存的channel](https://mp.weixin.qq.com/s/bx_cWcT2MSBic6yV7Zq9bg)
+
+四、吴亲强的深夜食堂
+
+1. [如何优雅地实现并发编排任务](https://mp.weixin.qq.com/s/M88-VS_H7o754mw5Ra7BYg)
+
+五、k8s技术圈
+
+1. [Prometheus 二次开发之 API 接口](https://mp.weixin.qq.com/s/K7ERtE2KKflYSA9KJOukYg)
+
+六、云加社区
+
+1. [从TDSQL，看分布式数据库的技术之美](https://mp.weixin.qq.com/s/CbzlPmGJCQKi3UmvwjFC1Q)
+
+七、polarisxu
+
+1. [Go Team Leader — rsc大神新开源了一个库，增强模板功能](https://mp.weixin.qq.com/s/3DFejimkPY9tg9QQL2QTqw)
+
+八、Go招聘
+
+1. [Wow，联通数科也招Gopher了](https://mp.weixin.qq.com/s/tVY3AuUOYEnMKi7Km4eBCw)
+
+九、脑子进煎鱼了
+
+1. [Go 数组比切片好在哪？](https://mp.weixin.qq.com/s/zp1vdhGukEYKpzAdPt--Mw)
+
+2. [Go 缓存系列之 go-cache](https://mp.weixin.qq.com/s/dKlfwJ69s3fUBWYIV57hyg)
+
+十、奇伢云存储
+
+1. [Go 存储基础 — 内存结构体怎么写入文件？](https://mp.weixin.qq.com/s/mfNz7r76vZOOgiMSmuVeJA)
+
+十一、码农桃花源
+
+1. [深度解密Go语言之基于信号的抢占式调度](https://mp.weixin.qq.com/s/ESfbVoCGUIdpwFOfGyvz1w)
  gocn_news-2021-05-12
 # go-news-set-2021-05-12
 ## gocn_news-2021-05-12
