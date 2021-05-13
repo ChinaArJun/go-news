@@ -1,3 +1,43 @@
+ go语言中文网(每日资讯)-2021-05-13
+# go-news-set-2021-05-13
+## go语言中文网(每日资讯)-2021-05-13
+
+
+一、Go语言中文网
+
+1. [面试官：聊聊 defer 的工作原理。。。](https://mp.weixin.qq.com/s/oWlQU9c9z11CHdOwOMOHxA)
+
+2. [深度解密Go语言之基于信号的抢占式调度](https://mp.weixin.qq.com/s/xdhv24Lh-7smOT5ESw2dBw)
+
+二、亚军进化史
+
+1. [Go技术日报(2021-05-12)——跳出Go module的泥潭](https://mp.weixin.qq.com/s/Wgm33pXqt3i5NWUyZthllQ)
+
+三、董泽润的技术笔记
+
+1. [聊聊如何做技术分享](https://mp.weixin.qq.com/s/iRe1aGShDBeVhLhOSHwbMQ)
+
+四、polarisxu
+
+1. [Uber 使用 Go 的规模这么大？！都自己定制的 Go 编译器了](https://mp.weixin.qq.com/s/MO0WNlwecDVLx4QfWklamA)
+
+五、微服务实践
+
+1. [如何让消息队列达到最大吞吐量？](https://mp.weixin.qq.com/s/Y1qWYdzNs8EXCFu_DtBH9g)
+
+六、Go招聘
+
+1. [薪资比肩北上广，你会考虑回老家吗？急招哦](https://mp.weixin.qq.com/s/koCxSjX8tXMMY3Yn8c4KpA)
+
+七、mohuishou
+
+1. [7. kubebuilder 进阶: 测试](https://mp.weixin.qq.com/s/tcLIx3E0LyRkNhPO0U8zmg)
+
+八、薯条的自我修养
+
+1. [从0.5到1用golang上线一个web项目](https://mp.weixin.qq.com/s/ZqbDY3IjtH2s5_oeDvhQVQ)
+
+2. [从0到0.5用golang写一个web项目](https://mp.weixin.qq.com/s/XXLFwlmOUaD7a3hftYCd2A)
  gocn_news-2021-05-13
 # go-news-set-2021-05-13
 ## gocn_news-2021-05-13
