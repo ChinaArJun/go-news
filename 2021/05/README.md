@@ -1,3 +1,17 @@
+ gocn_news-2021-05-13
+# go-news-set-2021-05-13
+## gocn_news-2021-05-13
+- 1.译文 Go 的抢占式调度 https://gocn.vip/topics/12062
+
+- 2.深度解密 Go 语言之基于信号的抢占式调度 https://mp.weixin.qq.com/s/ESfbVoCGUIdpwFOfGyvz1w
+
+- 3.使用 Golang 的交叉编译 https://linux.cn/article-13385-1.html
+
+- 4.Go 无分支编码 https://mattnakama.com/blog/go-branchless-coding/
+
+- 5.Go 数组比切片好在哪？ https://mp.weixin.qq.com/s/zp1vdhGukEYKpzAdPt--Mw
+
+
  go语言中文网(每日资讯)-2021-05-12
 # go-news-set-2021-05-12
 ## go语言中文网(每日资讯)-2021-05-12
