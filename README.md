@@ -1,3 +1,17 @@
+ gocn_news-2021-05-14
+# go-news-set-2021-05-14
+## gocn_news-2021-05-14
+- 1.熔断原理与实现 Golang 版 https://blog.51cto.com/u_15175878/2774901
+
+- 2.Golang 语言中怎么拦截系统信号和优雅退出 http server？ https://mp.weixin.qq.com/s/yvK42TntdzAI9S6kBFFZ-w
+
+- 3.关于如何组织 Go 项目结构的思考 https://changelog.com/posts/on-go-application-structure
+
+- 4.kubernetes 问题排查: 系统时间被修改导致 sandbox 冲突 https://mp.weixin.qq.com/s/DJMrRBP237BE69pTyrKmnQ
+
+- 5.可汗学院 Go 语言实践 https://blog.khanacademy.org/half-a-million-lines-of-go/
+
+
  go语言中文网(每日资讯)-2021-05-13
 # go-news-set-2021-05-13
 ## go语言中文网(每日资讯)-2021-05-13
