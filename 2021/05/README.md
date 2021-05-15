@@ -1,3 +1,35 @@
+ go语言中文网(每日资讯)-2021-05-15
+# go-news-set-2021-05-15
+## go语言中文网(每日资讯)-2021-05-15
+
+
+一、Go语言中文网
+
+1. [面试官：说说unsafe.Pointer和uintptr的区别和联系](https://mp.weixin.qq.com/s/l-ZQws4SH4QsvMhmJddiww)
+
+2. [http.Client的连接行为控制详解](https://mp.weixin.qq.com/s/2fAj_8vEQYLxddllqjsYFg)
+
+3. [你不知道的 Go 之 slice](https://mp.weixin.qq.com/s/-VRyRg9d-65lNTFRPvoCLw)
+
+二、亚军进化史
+
+1. [go每日新闻(2021-05-14)——Go语言内存分配](https://mp.weixin.qq.com/s/wembkRjdv8IErolT4IpnCg)
+
+三、云原生技术爱好者社区
+
+1. [说说常见数据库及中间件的主从设计](https://mp.weixin.qq.com/s/EXTdTsOcCuWpaNXOATpGFQ)
+
+四、Gopher指北
+
+1. [i/o timeout ， 希望你不要踩到这个net/http包的坑](https://mp.weixin.qq.com/s/AKhRFKgs-I46Lnqhbk6Iog)
+
+五、一手代码一首诗
+
+1. [Common anti-patterns in Go](https://mp.weixin.qq.com/s/k-Use24-UCB3y_hV0tihVg)
+
+六、大魏分享
+
+1. [服务注册中心和配置中心的选择](https://mp.weixin.qq.com/s/4gOoYI9GsfauCcDoq_6Wxw)
  gocn_news-2021-05-15
 # go-news-set-2021-05-15
 ## gocn_news-2021-05-15
