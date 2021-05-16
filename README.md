@@ -1,3 +1,32 @@
+ gocn_news-2021-05-16
+# go-news-set-2021-05-16
+## gocn_news-2021-05-16
+- 1.http.Client 的连接行为控制详解 https://mp.weixin.qq.com/s/2fAj_8vEQYLxddllqjsYFg
+
+- 2.unsafe.Pointer 和 uintptr 的区别和联系 https://mp.weixin.qq.com/s/l-ZQws4SH4QsvMhmJddiww
+
+- 3.Common anti-patterns in Go https://mp.weixin.qq.com/s/k-Use24-UCB3y_hV0tihVg
+
+- 4.详解 http.Handle 与 http.HandleFunc 区别 https://ckarchive.com/b/75u7h8h730p5
+
+- 5.i/o timeout ， 希望你不要踩到这个 net/http 包的坑 https://mp.weixin.qq.com/s/AKhRFKgs-I46Lnqhbk6Iog
+
+
+ gopherDaily-2021-05-16
+# go-news-set-2021-05-16
+## gopherDaily-2021-05-16
+- 1.当GOPATH与go module相遇时的混乱情况 - https://arxiv.org/pdf/2102.12105.pdf
+- 2.使用NATS作为http.RoundTripper的实现 - https://github.com/ripienaar/nats-roundtripper
+- 3.油管视频：用net包建立一个DIY代理 - https://www.youtube.com/watch?v=J4J-A9tcjcA
+- 4.使用Telepresence 2进行Kubernetes调试和本地开发 - https://codefresh.io/kubernetes-tutorial/telepresence-2-local-development/
+- 5.Kubernetes the Hard Way (azure版) - https://github.com/carlosonunez/kubernetes-the-hard-way-on-azure
+- 6.像top那样的容器度量数据采集工具 - https://github.com/bcicen/ctop
+- 7.UTF-8历史 by Rob Pike - http://doc.cat-v.org/bell_labs/utf-8_history
+- 8.10分钟内学会go - https://www.codingholygrail.com/learn-go-in-10-mins
+- 9.为Go项目逐步构建优化的Docker镜像 - https://www.codingholygrail.com/build-docker-image-for-golang-projects
+- 10.软件测试的角色 - https://blog.thundra.io/4-software-testing-roles
+- 11.在Rust中做不了的事情（以及该怎么做）- https://blog.logrocket.com/what-you-cant-do-in-rust-and-what-to-do-instead/
+
  go语言中文网(每日资讯)-2021-05-15
 # go-news-set-2021-05-15
 ## go语言中文网(每日资讯)-2021-05-15
