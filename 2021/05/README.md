@@ -1,3 +1,47 @@
+ go语言中文网(每日资讯)-2021-05-16
+# go-news-set-2021-05-16
+## go语言中文网(每日资讯)-2021-05-16
+
+
+一、Go语言中文网
+
+1. [单机内存内缓存怎么做？go-cache 了解下](https://mp.weixin.qq.com/s/LzfLySMPtbCO91q87UKRcQ)
+
+2. [Go语言爱好者周刊：第 95 期 — 自信点，这道题一定会](https://mp.weixin.qq.com/s/yBUlIhhGNSDUv7_J8Y0NmA)
+
+3. [从0写一个 Go Web 服务 (上)](https://mp.weixin.qq.com/s/vNUBJERfgmeV_qk_cdFoVQ)
+
+二、亚军进化史
+
+1. [Go技术日报(2021-05-15)——服务注册中心和配置中心的选择](https://mp.weixin.qq.com/s/iRvT2ye1P_7JNnT6qQkE0Q)
+
+三、GoOfficialBlog
+
+1. [高性能 Go 代码工坊（Part7)](https://mp.weixin.qq.com/s/ptUH-9dvRlA558SNakIbFQ)
+
+四、k8s技术圈
+
+1. [使用 Loki 进行日志报警(二)](https://mp.weixin.qq.com/s/wO0w1f8ptZf4Rv1KQ6I1sw)
+
+五、网管叨bi叨
+
+1. [用Kubernetes搭建Etcd集群和WebUI](https://mp.weixin.qq.com/s/AkIvkW22dvqcdFXkiTpv8Q)
+
+六、吴亲强的深夜食堂
+
+1. [Leetcode:House Robber II](https://mp.weixin.qq.com/s/-mUMeklJdajaSxlpqJB0MA)
+
+七、幼麟实验室
+
+1. [深度探索Go语言（三）：动态派发](https://mp.weixin.qq.com/s/XLj_AKqETZy4cUBNiNZPBw)
+
+八、polarisxu
+
+1. [通过例子，让你彻底搞懂微服务的演化过程](https://mp.weixin.qq.com/s/wWBlrjUUn-tx0v7ZTkha1g)
+
+九、Go招聘
+
+1. [5月你好，第二股来喽](https://mp.weixin.qq.com/s/onnAaqM8GoaphEtZ-KHO6g)
  gocn_news-2021-05-16
 # go-news-set-2021-05-16
 ## gocn_news-2021-05-16
