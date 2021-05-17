@@ -1,3 +1,49 @@
+ go语言中文网(每日资讯)-2021-05-17
+# go-news-set-2021-05-17
+## go语言中文网(每日资讯)-2021-05-17
+
+
+一、Go语言中文网
+
+1. [也许是你从来没用过的利器：GODEBUG](https://mp.weixin.qq.com/s/lqOs34aMs7AYCxM_Jv0Hug)
+
+2. [从0开发上线一个web项目（下）](https://mp.weixin.qq.com/s/W5lHCgA_SzzyCoDaHDmz1Q)
+
+二、亚军进化史
+
+1. [Go技术日报(2021-05-16)——高性能 Go 代码工坊（Part7)](https://mp.weixin.qq.com/s/RdrLC5r8mOCnWRjVqPi3-A)
+
+三、luozhiyun很酷
+
+1. [如何打造高性能的 Go 缓存库](https://mp.weixin.qq.com/s/G8LJ1HBuWoQfWV2dILi6Rg)
+
+四、Go夜读
+
+1. [【本周四预告】JetBrains GoLand 2021.1 新特性介绍](https://mp.weixin.qq.com/s/9DbBwdkBvECl11jSd-hbYw)
+
+五、奇伢云存储
+
+1. [用 Go struct 不能犯的一个低级错误！](https://mp.weixin.qq.com/s/EKbsUwLABjpadxPZ9AJGTg)
+
+六、Golang梦工厂
+
+1. [Go语言中new和make你使用哪个来分配内存？](https://mp.weixin.qq.com/s/XJ9O9O4KS3LbZL0jYnJHPg)
+
+七、k8s技术圈
+
+1. [同步secret和config到指定namespace](https://mp.weixin.qq.com/s/i1fI58MhbWnPx7RFftLXkg)
+
+八、微服务实践
+
+1. [缓存数据一致性 - 架构师峰会演讲实录](https://mp.weixin.qq.com/s/DhIv9RACxa5igJTYg4N1mA)
+
+九、mohuishou
+
+1. [9. kubebuilder 进阶: 源码分析](https://mp.weixin.qq.com/s/mlpNUwoqcNdT0kAowb_zrQ)
+
+十、Go招聘
+
+1. [咱Gopher好香啊，输入法、搜索Top行业招Gopher，还不快到碗里来？](https://mp.weixin.qq.com/s/HY4CpoPqXroMhJJ250quZQ)
  gocn_news-2021-05-17
 # go-news-set-2021-05-17
 ## gocn_news-2021-05-17
