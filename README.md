@@ -1,3 +1,19 @@
+ gocn_news-2021-05-17
+# go-news-set-2021-05-17
+## gocn_news-2021-05-17
+- 1.如何管理多版本的 go   https://lakefs.io/managing-multiple-go-versions-with-go/
+
+- 2.一个 SQL 数据库只使用了 2000 行 golang 代码并且没有任何第三方依赖 https://github.com/auxten/go-sqldb
+
+- 3.使用 go 开发一个监控剪贴板的服务  https://www.reddit.com/r/golang/comments/ncsnj2/monitoring_clipboard_as_service_with_go/
+
+- 4. Gorm 复杂关系举例：  https://github.com/harranali/gorm-relationships-examples
+
+- 5.写了 500，000 行 go 代码之后  https://blog.khanacademy.org/half-a-million-lines-of-go
+
+- 6.* GopherChina 全部日程出炉 https://gc.gocn.vip
+
+
  go语言中文网(每日资讯)-2021-05-16
 # go-news-set-2021-05-16
 ## go语言中文网(每日资讯)-2021-05-16
