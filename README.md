@@ -1,3 +1,49 @@
+ go语言中文网(每日资讯)-2021-05-18
+# go-news-set-2021-05-18
+## go语言中文网(每日资讯)-2021-05-18
+
+
+一、Go语言中文网
+
+1. [写了50万行Go代码是一种什么样的体验？](https://mp.weixin.qq.com/s/pzoTAl8xA9sefI_Ckpv8PA)
+
+2. [国外似乎更喜欢几分钟学会系列：10分钟能学会 Go 吗？](https://mp.weixin.qq.com/s/ot7l6p_h5OEtpz-gDgwsyA)
+
+3. [用Kubernetes搭建Etcd集群和WebUI](https://mp.weixin.qq.com/s/NaU4N22vlQ2aIvxtwsYPfQ)
+
+二、亚军进化史
+
+1. [Go技术日报(2021-05-17)——如何打造高性能的 Go 缓存库](https://mp.weixin.qq.com/s/FBRNkhODBia1TJBr4dwP3g)
+
+三、GoUpUp
+
+1. [你不知道的 Go 之 string](https://mp.weixin.qq.com/s/_R_2xJxSN8GRbgS-n3xApg)
+
+四、polarisxu
+
+1. [推荐一位高产的 Go 开源库作者](https://mp.weixin.qq.com/s/NlbUsovyqlIfnY9xQE-crA)
+
+五、k8s技术圈
+
+1. [Loki 查询语言 LogQL 使用](https://mp.weixin.qq.com/s/0dXT0fIreZk6_4ZL4S8lHg)
+
+六、Go招聘
+
+1. [Go缓冲系列之-free-cache](https://mp.weixin.qq.com/s/SwGTdFe9AgHPGqkDbZoUjQ)
+
+2. [券商公司招Gopher，不会炒股你觉得还有戏嘛？](https://mp.weixin.qq.com/s/MdBxyU7bfeuQzrUZS7YZzw)
+
+七、mohuishou
+
+1. [10. 总结](https://mp.weixin.qq.com/s/BJHTn2j2QiR5SgKErTiLzw)
+
+八、HHFCodeRv
+
+1. [Go sync.Pool 浅析](https://mp.weixin.qq.com/s/MTf_4WEvCnCMKeQC_Wm_xw)
+
+九、脑子进煎鱼了
+
+1. [一口气搞懂 Go sync.map 所有知识点](https://mp.weixin.qq.com/s/8aufz1IzElaYR43ccuwMyA)
  gocn_news-2021-05-18
 # go-news-set-2021-05-18
 ## gocn_news-2021-05-18
