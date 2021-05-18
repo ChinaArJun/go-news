@@ -1,3 +1,17 @@
+ gocn_news-2021-05-18
+# go-news-set-2021-05-18
+## gocn_news-2021-05-18
+- 1.强大的模糊测试工具 go-fuzz https://gocn.vip/topics/12075
+
+- 2.单机内存内缓存怎么做？go-cache 了解下 https://mp.weixin.qq.com/s/LzfLySMPtbCO91q87UKRcQ
+
+- 3.深度探索 Go 语言（三）：动态派发 https://mp.weixin.qq.com/s/XLj_AKqETZy4cUBNiNZPBw
+
+- 4.golang 日期与时间完全指南 https://qvault.io/golang/golang-date-time/
+
+- 5.GopherChina 全部议程和讲师出炉了  https://mp.weixin.qq.com/s/G_M4yw6VCTfF03b2L21ZGQ
+
+
  go语言中文网(每日资讯)-2021-05-17
 # go-news-set-2021-05-17
 ## go语言中文网(每日资讯)-2021-05-17
