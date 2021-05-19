@@ -1,3 +1,43 @@
+ go语言中文网(每日资讯)-2021-05-19
+# go-news-set-2021-05-19
+## go语言中文网(每日资讯)-2021-05-19
+
+
+一、Go语言中文网
+
+1. [小函数的调用开销需要考虑吗？Go 内联了解下](https://mp.weixin.qq.com/s/nW0Cye1G_A72fm7MuBAM1A)
+
+2. [LeetCode 啥题都有：Go 刷「打家劫舍」](https://mp.weixin.qq.com/s/IOC4uUXkT0QcgmguKPwehQ)
+
+二、亚军进化史
+
+1. [Go技术日报(2021-05-18)——你不知道的 Go 之 string](https://mp.weixin.qq.com/s/6QlUlYwg06xBc572I0XznQ)
+
+三、董泽润的技术笔记
+
+1. [什么是好的一致性 hash 实现](https://mp.weixin.qq.com/s/5p--sMUfy4Kw7piw8heicA)
+
+四、polarisxu
+
+1. [盘点那些使用 Go 语言的国外公司](https://mp.weixin.qq.com/s/_3ef_wwuZG2BC9AHBjYGew)
+
+五、k8s技术圈
+
+1. [记一次 Kubernetes 节点内核问题排查](https://mp.weixin.qq.com/s/mDHXC98NU4_zBMUtuK6_HA)
+
+六、奇伢云存储
+
+1. [在Linux上，使用time优雅的统计程序运行时间](https://mp.weixin.qq.com/s/ugI6gXdRzgyFJOVvAKP41g)
+
+2. [深入理解mmap 0拷贝技术](https://mp.weixin.qq.com/s/ZmZdolLuZyiZOpiAzDqRlw)
+
+七、ServiceMesher
+
+1. [Istio 1.10 发布及官网改版](https://mp.weixin.qq.com/s/Lq6zF90FR-ohT9ON-88Z_Q)
+
+八、Go招聘
+
+1. [辣妹子、辣火锅、辣个工作，咱Gopher都值得拥有](https://mp.weixin.qq.com/s/wzb6YDt1BBw62X0MfTPOCg)
  gocn_news-2021-05-19
 # go-news-set-2021-05-19
 ## gocn_news-2021-05-19
