@@ -1,3 +1,34 @@
+ gocn_news-2021-05-19
+# go-news-set-2021-05-19
+## gocn_news-2021-05-19
+- 1.进程内缓存助你提高并发能力 https://gocn.vip/topics/12091
+
+- 2.Chaos Mesh® 在腾讯——腾讯互娱混沌工程实践 https://gocn.vip/topics/12092
+
+- 3.pprof++: 一个带有硬件监控的 Go Profiler https://mp.weixin.qq.com/s/-BSzD_wIEjHnHbs0xnsHXA
+
+- 4.graphjin: 基于数据库快速生成 GraphQL 服务器 https://github.com/dosco/graphjin
+
+- 5.Gmocker: 使用 JSON 文件生成 mock 服务器 https://github.com/Ananto30/mocker
+
+
+ gopherDaily-2021-05-19
+# go-news-set-2021-05-19
+## gopherDaily-2021-05-19
+- 1.使用Viper和Consul来配置Go应用程序 - https://bencane.com/2021/05/18/using-viper-with-consul-to-configure-go-apps/
+- 2.利用Go进行游戏开发和运营 - https://technology.riotgames.com/news/leveraging-golang-game-development-and-operations
+- 3.油管视频：在Go中为Ethereum构建系统 - https://www.youtube.com/watch?v=oXgcPKhQy6w
+- 4.以太坊将于未来几个月完成向Proof-of-Stake的过渡，能耗将至少减少99.95%!!(MISSING)h(MISSING)ttps://blog.ethereum.org/2021/05/18/country-power-no-more/
+- 5.argocd的消息通知引擎 - https://github.com/argoproj-labs/argocd-notifications
+- 6.kubewarden: kubernetes policy引擎 - https://www.kubewarden.io/
+- 7.云原生远景：可观察性和分析 - https://thenewstack.io/the-cloud-native-landscape-observability-and-analysis/
+- 8.Envoy宣布支持Windows平台 - https://blog.envoyproxy.io/general-availability-of-envoy-on-windows-267e4544994a
+- 9.KOps增加了对Calico的eBPF数据平面的支持 - https://thenewstack.io/kops-adds-support-for-calicos-ebpf-dataplane/
+- 10.云部署模式：解释和比较5种主要模式 - https://launchdarkly.com/blog/cloud-deployment-models-explaining-and-comparing-the/
+- 11.构建和可视化你的第一个机器人：使用Duckiebot和Foxglove Studio开始学习机器人技术 - https://foxglove.dev/blog/building-and-visualizing-your-first-robot
+- 12.1Password支持linux - https://blog.1password.com/welcoming-linux-to-the-1password-family/
+- 13.为什么特性管理是软件交付的未来 - https://thenewstack.io/why-feature-management-is-the-future-of-software-delivery/
+
  go语言中文网(每日资讯)-2021-05-18
 # go-news-set-2021-05-18
 ## go语言中文网(每日资讯)-2021-05-18
