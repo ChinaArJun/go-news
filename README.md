@@ -1,3 +1,39 @@
+ go语言中文网(每日资讯)-2021-05-20
+# go-news-set-2021-05-20
+## go语言中文网(每日资讯)-2021-05-20
+
+
+一、Go语言中文网
+
+1. [优化 Golang 服务来减少 40%!!(MISSING)以(MISSING)上的 CPU](https://mp.weixin.qq.com/s/dgVv6p8HQtc-krPGEdU2cQ)
+
+2. [fuckdb 新功能上线，开箱即用、更加强大的代码生成器](https://mp.weixin.qq.com/s/ysOlv8xsc7wF7cPcV5pu7g)
+
+二、亚军进化史
+
+1. [Go技术日报(2021-05-19)——pprof++: 一个带有硬件监控的 Go Profiler](https://mp.weixin.qq.com/s/3xtuxe6fi_9hWsdoLGJGew)
+
+三、脑子进煎鱼了
+
+1. [Go 面试官问我如何实现面向对象？](https://mp.weixin.qq.com/s/2x4Sajv7HkAjWFPe4oD96g)
+
+2. [一文搞懂缓存系统稳定性](https://mp.weixin.qq.com/s/eNLB1BKZi4L3aNxbL0TqWQ)
+
+四、k8s技术圈
+
+1. [kubernetes 平台开发者的几个小技巧](https://mp.weixin.qq.com/s/RVYJd_3xzDps-1xFwtl01g)
+
+五、polarisxu
+
+1. [周刊题解：常量表达式这个规则应该了解下](https://mp.weixin.qq.com/s/8fG0OMvwKziMSRs8bZFj2Q)
+
+六、腾讯技术工程
+
+1. [企业微信万亿级日志检索系统](https://mp.weixin.qq.com/s/opxvlddsSQctb3nwcxaW_g)
+
+七、码农桃花源
+
+1. [曹大带我学 Go（1）——调度的本质](https://mp.weixin.qq.com/s/5E5V56wazp5gs9lrLvtopA)
  go语言中文网(每日资讯)-2021-05-19
 # go-news-set-2021-05-19
 ## go语言中文网(每日资讯)-2021-05-19
