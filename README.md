@@ -1,3 +1,17 @@
+ gocn_news-2021-05-20
+# go-news-set-2021-05-20
+## gocn_news-2021-05-20
+- 1.初探 Go 代码混淆 https://mp.weixin.qq.com/s/q9xUFQ7HdHAis70WrFHuOQ
+
+- 2.优化 Golang 服务减少 40%!!(MISSING)以(MISSING)上的 CPU https://mp.weixin.qq.com/s/dgVv6p8HQtc-krPGEdU2cQ
+
+- 3.Go 实现 bridge 设计模式 https://www.smartscribs.com/bridge-design-pattern-in-golang/
+
+- 4.Go 模板引擎 templ https://adrianhesketh.com/2021/05/18/introducing-templ/
+
+- 5.使用 Viper 和 Consul 配置 Go 应用 https://bencane.com/2021/05/18/using-viper-with-consul-to-configure-go-apps/
+
+
  go语言中文网(每日资讯)-2021-05-20
 # go-news-set-2021-05-20
 ## go语言中文网(每日资讯)-2021-05-20
