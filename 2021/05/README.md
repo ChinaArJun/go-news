@@ -1,3 +1,17 @@
+ gocn_news-2021-05-22
+# go-news-set-2021-05-22
+## gocn_news-2021-05-22
+- 1.利用 eBPF 支撑大规模 Kubernetes Service https://mp.weixin.qq.com/s/BJHzU4LxLdLnNzOnAqIptg
+
+- 2.Golang 中的适配器设计模式 https://www.smartscribs.com/adapter-design-pattern-in-golang/
+
+- 3.【深度】阿里巴巴万级规模 K8s 集群全局高可用体系之美 https://gocn.vip/topics/12079
+
+- 4.假如 Go 能说话，听听 GMP 的心声 https://mp.weixin.qq.com/s/Tgf-JU9YDume4jRHex65NA
+
+- 5.小函数的调用开销需要考虑吗? https://mp.weixin.qq.com/s/nW0Cye1G_A72fm7MuBAM1A
+
+
  gocn_news-2021-05-21
 # go-news-set-2021-05-21
 ## gocn_news-2021-05-21
