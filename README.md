@@ -1,3 +1,43 @@
+ go语言中文网(每日资讯)-2021-05-22
+# go-news-set-2021-05-22
+## go语言中文网(每日资讯)-2021-05-22
+
+
+一、Go语言中文网
+
+1. [用Go实现一个直播系统难吗？看看这个开源项目](https://mp.weixin.qq.com/s/5YPp7WFgVfPlGxim7tmQ5A)
+
+二、
+
+1. [Go语言数据争用与race原理](https://mp.weixin.qq.com/s/gGGg6wqQX5b1kEOeRbTQlA)
+
+三、Go语言中文网
+
+1. [Go 标准库之 unsafe 包详解](https://mp.weixin.qq.com/s/Pj4Q_8sj2pCmXe2cHNqdvw)
+
+四、亚军进化史
+
+1. [Go技术日报(2021-05-21)——细谈Go变量的内存分布](https://mp.weixin.qq.com/s/linOKTZYmM9MqPEPQ8h7cw)
+
+五、新亮笔记
+
+1. [Go - 开箱即用，WEB 界面一键安装，没有项目经验，可以拿这个练手](https://mp.weixin.qq.com/s/6RlAb7iWc3Tj6g7ttiBoRQ)
+
+六、k8s技术圈
+
+1. [Loki 源码分析之日志写入](https://mp.weixin.qq.com/s/9BKZvNANqGJwziygytJ1ag)
+
+七、吴亲强的深夜食堂
+
+1. [无限缓冲的channel(1)](https://mp.weixin.qq.com/s/ETfrSqQczbW2SnaFjoUx0A)
+
+八、分布式实验室
+
+1. [基于 Kubernetes 的微服务项目设计与实现](https://mp.weixin.qq.com/s/BjDx-pDQsuj6p_X01Vw92g)
+
+九、奇伢云存储
+
+1. [假如 Go 能说话，听听 GMP 的心声](https://mp.weixin.qq.com/s/Tgf-JU9YDume4jRHex65NA)
  gocn_news-2021-05-22
 # go-news-set-2021-05-22
 ## gocn_news-2021-05-22
