@@ -1,3 +1,32 @@
+ gocn_news-2021-05-24
+# go-news-set-2021-05-24
+## gocn_news-2021-05-24
+- 1.懂得取舍才是缓存设计的真谛 https://my.oschina.net/kevwan/blog/5056791
+
+- 2.immudb v1.0 released https://www.codenotary.com/blog/immudb-release-1-0/
+
+- 3.你知道 Goroutine 是怎么来的吗？ https://mp.weixin.qq.com/s/DZavvanPnRwZMPU-5_wOeg
+
+- 4.分布式链路跟踪中的 traceid 和 spanid 代表什么？ https://mp.weixin.qq.com/s/eKbFYwnH4vwgWm6_5sWs3w
+
+- 5.Dart Flutter 数据库 ObjectBox 1.0 版本 https://objectbox.io/dart-flutter-database-1_0-release/
+
+
+ gopherDaily-2021-05-24
+# go-news-set-2021-05-24
+## gopherDaily-2021-05-24
+- 1.区块链可扩展性的局限 by 以太坊之父 - https://vitalik.ca/general/2021/05/23/scaling.html
+- 2.学习golang.org/x/sync下的包 - https://ketansingh.me/posts/golang-x-sync/
+- 3.什么是可观察性 by Brendan Gregg - http://www.brendangregg.com/blog/2021-05-23/what-is-observability.html
+- 4.Uber API网关的架构 - https://eng.uber.com/architecture-api-gateway/
+- 5.Uber API网关的演化史- https://eng.uber.com/gatewayuberapi/
+- 6.在Go 1.16中如何嵌入静态资源文件 - https://www.josephspurrier.com/how-to-embed-assets-in-go-1-16
+- 7.Zadig：一个云原生、分布式、面向开发者的持续交付产品 - https://github.com/koderover/zadig
+- 8.给Kubernetes服务提供人类可懂的注解 - https://kubernetes.io/blog/2021/04/20/annotating-k8s-for-humans/
+- 9.Kubernetes应用程序的预检工具，并支持捆绑其他框架 - https://github.com/replicatedhq/troubleshoot
+- 10.使用kubernetes自定义资源(CRD)来管理我们的短暂环境 - https://medium.com/beamdental/using-kubernetes-custom-resources-to-manage-our-ephemeral-environments-f298610893e1
+- 11.使用Kubeadm在Ubuntu virtualbox上安装kubernetes集群 - https://kosyfrances.com/kubernetes-cluster/
+
  go语言中文网(每日资讯)-2021-05-23
 # go-news-set-2021-05-23
 ## go语言中文网(每日资讯)-2021-05-23
