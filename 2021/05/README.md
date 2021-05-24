@@ -12,6 +12,56 @@
 - 5.Dart Flutter 数据库 ObjectBox 1.0 版本 https://objectbox.io/dart-flutter-database-1_0-release/
 
 
+ go语言中文网(每日资讯)-2021-05-24
+# go-news-set-2021-05-24
+## go语言中文网(每日资讯)-2021-05-24
+
+
+一、Go语言中文网
+
+1. [Go 中为什么应该使用接口](https://mp.weixin.qq.com/s/KqXI9ekYAZYd5oYmhqFH8Q)
+
+2. [图解Go sync.Pool](https://mp.weixin.qq.com/s/aiOjUcN89nxwEUJzVNkl3A)
+
+二、亚军进化史
+
+1. [Go技术日报(2021-05-23)——深入 Go 中各个高性能 JSON 解析库](https://mp.weixin.qq.com/s/f6vIa8cUMutZ2nxAM6XqPA)
+
+三、奇伢云存储
+
+1. [自制文件系统 — 01 文件系统的样子](https://mp.weixin.qq.com/s/0FpQGDzFh_D7IJi6z7oXjg)
+
+四、Go招聘
+
+1. [贝壳找房找Gopher咯，快到壳里来。](https://mp.weixin.qq.com/s/JyHCNufE7jYPd20nTH4jlw)
+
+五、luozhiyun很酷
+
+1. [深入 Go 中各个高性能 JSON 解析库](https://mp.weixin.qq.com/s/FBT5QN_Pja6vRntWY0wFeA)
+
+六、Go夜读
+
+1. [【预告】理论结合实践详解 b+ 树存储引擎（innodb、boltdb、buntdb）](https://mp.weixin.qq.com/s/lAD6GmqjElmgXduSDA6kAg)
+
+七、微服务实践
+
+1. [懂得取舍才是缓存设计的真谛](https://mp.weixin.qq.com/s/CWV_rssaz3fTvi7AqEo92w)
+
+八、脑子进煎鱼了
+
+1. [详解 Go 空结构体的 3 种使用场景](https://mp.weixin.qq.com/s/zbYIdB0HlYwYSQRXFFpqSg)
+
+九、薯条的自我修养
+
+1. [配置化系统中的图模型](https://mp.weixin.qq.com/s/ZDW9mg_iYI6a8dkpo31Sdw)
+
+十、码农桃花源
+
+1. [曹大带我学 Go（2）—— 迷惑的 goroutine 执行顺序](https://mp.weixin.qq.com/s/WWfm7Ui7g_gGlb8XkIZigg)
+
+十一、mohuishou
+
+1. [Go可用性(六) 熔断](https://mp.weixin.qq.com/s/b5Wi1TqFVCCmpjvfmUcQBQ)
  gopherDaily-2021-05-24
 # go-news-set-2021-05-24
 ## gopherDaily-2021-05-24
