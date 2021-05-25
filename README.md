@@ -12,6 +12,57 @@
 - 5.Linux 中的 macOS 子系统 lima https://github.com/AkihiroSuda/lima
 
 
+ go语言中文网(每日资讯)-2021-05-25
+# go-news-set-2021-05-25
+## go语言中文网(每日资讯)-2021-05-25
+
+一、Go语言中文网
+
+1. [gRPC 可以不用 pb 而使用 JSON 吗？](https://mp.weixin.qq.com/s/oQ4aG0pIJmQFQd2TKGxsXg)
+
+2. [什么？无限缓冲 channel。。。](https://mp.weixin.qq.com/s/0TJRcbaWlfwEjbKMKAxNAQ)
+
+二、亚军进化史
+
+1. [Go技术日报(2021-05-24)——你知道 Goroutine 是怎么来的吗？](https://mp.weixin.qq.com/s/3pX86YbojfsO9VR8wefiUQ)
+
+三、MoeLove
+
+1. [K8S 生态周报| Cilium v1.10.0 有史以来性能最优](https://mp.weixin.qq.com/s/qJ7HQ2BVS6DEO6sPTJzeAA)
+
+2. [最强 CNI 基准测试：Cilium 网络性能分析](https://mp.weixin.qq.com/s/NR7gDpp2i5gCRRwZjxaASA)
+
+四、Go招聘
+
+1. [Go：发现两个好资源](https://mp.weixin.qq.com/s/fdt1rlpx43YmjW-SGCF1qA)
+
+五、k8s技术圈
+
+1. [使用kubebuilder开发简单的Operator](https://mp.weixin.qq.com/s/uhOIPfTs4o5MDKbdhh_kEQ)
+
+六、polarisxu
+
+1. [我这样升级 Go 版本，你呢？](https://mp.weixin.qq.com/s/jEhX5JHAo9L6iD3N54x6aA)
+
+七、CloudNativeCommunity
+
+1. [B 站直播 | Istio 开源四周年回顾与展望](https://mp.weixin.qq.com/s/tYIP1_s1jHXu6j4mjLuJIw)
+
+八、Go夜读
+
+1. [【北京】Opera 招聘 Go 工程师](https://mp.weixin.qq.com/s/nP8P-0hcAYrr6zvKOIo3gw)
+
+九、图解源码
+
+1. [PAAS平台开发的自我救赎](https://mp.weixin.qq.com/s/0vuneQ-rweCZ-kKLvhe_6g)
+
+十、GoUpUp
+
+1. [Go 每日一库之 fasttemplate](https://mp.weixin.qq.com/s/uNE94IBUmTp2PJ4boFz8OQ)
+
+十一、分布式实验室
+
+1. [60道重要的Kubernetes面试题](https://mp.weixin.qq.com/s/G1kNSmXLaAzAOQ-ja2pKVQ)
  gocn_news-2021-05-24
 # go-news-set-2021-05-24
 ## gocn_news-2021-05-24
