@@ -1,3 +1,17 @@
+ gocn_news-2021-05-25
+# go-news-set-2021-05-25
+## gocn_news-2021-05-25
+- 1.Go 编码安全指南 https://github.com/Tencent/secguide/blob/main/Go%!!(MISSING)E(MISSING)5%!!(MISSING)A(MISSING)E%!E(MISSING)5%!A(MISSING)8%!!(MISSING)E(MISSING)6%!!(MISSING)C(MISSING)%!E(MISSING)5%!!(MISSING)D(MISSING)%!!(MISSING)m(MISSING)d
+
+- 2.私钥安全分发工具 cocert https://github.com/Dentrax/cocert
+
+- 3.两年 Go 经验学到的东西 https://sayedalesawy.hashnode.dev/top-5-lessons-i-learned-while-working-with-go-for-two-years
+
+- 4.Go 如何进行栈追踪 https://github.com/DataDog/go-profiler-notes/blob/main/stack-traces.md
+
+- 5.Linux 中的 macOS 子系统 lima https://github.com/AkihiroSuda/lima
+
+
  gocn_news-2021-05-24
 # go-news-set-2021-05-24
 ## gocn_news-2021-05-24
