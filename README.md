@@ -1,3 +1,17 @@
+ gocn_news-2021-05-26
+# go-news-set-2021-05-26
+## gocn_news-2021-05-26
+- 1.如何运行并行功能测试 https://medium.com/fiverr-engineering/running-parallel-functional-tests-2f6609bfbf4e
+
+- 2.Go 中一些不曾注意的点 https://arash-cordi.medium.com/dark-corners-of-go-4e29aafcd4b9
+
+- 3.如何像专家一样编写 Golang 基准测试 https://hackernoon.com/how-to-write-benchmarks-in-golang-like-an-expert-0w1834gs
+
+- 4.详解 Go 空结构体的 3 种使用场景 https://mp.weixin.qq.com/s/zbYIdB0HlYwYSQRXFFpqSg
+
+- 5.Promtheus rules lint 工具 https://github.com/cloudflare/pint
+
+
  gocn_news-2021-05-25
 # go-news-set-2021-05-25
 ## gocn_news-2021-05-25
