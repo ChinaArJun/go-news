@@ -1,3 +1,51 @@
+ go语言中文网(每日资讯)-2021-05-26
+# go-news-set-2021-05-26
+## go语言中文网(每日资讯)-2021-05-26
+
+
+一、Go语言中文网
+
+1. [为什么Go程序占用那么大的虚拟内存？](https://mp.weixin.qq.com/s/tkAWtSJ4ebAUcQG9AmeXWA)
+
+2. [你不知道的 Go 之 string](https://mp.weixin.qq.com/s/6miIgsZN_Fh79Aixv5BlTg)
+
+二、亚军进化史
+
+1. [Go技术日报(2021-05-25)——Go 编码安全指南](https://mp.weixin.qq.com/s/9cu9R-7E1wqmCVg7O2hC8Q)
+
+三、脑子进煎鱼了
+
+1. [又吵起来了，Go 是传值还是传引用？](https://mp.weixin.qq.com/s/qsxvfiyZfRCtgTymO9LBZQ)
+
+2. [Go 编程怎么也有踩内存？](https://mp.weixin.qq.com/s/tXAP8_U63QLNj1h0ZMvXPw)
+
+四、云原生技术爱好者社区
+
+1. [kubectl debug | 调试Kubernetes的最简方法](https://mp.weixin.qq.com/s/8uN2MySGlgxTed5vwqfFlA)
+
+五、polarisxu
+
+1. [果然，连流程控制都这么另类](https://mp.weixin.qq.com/s/tO8CFBDZ2UsOonqARxOQUA)
+
+六、CloudNativeCommunity
+
+1. [带你走进云原生技术：云原生开放运维体系探索和实践](https://mp.weixin.qq.com/s/zasjqGBDjyeg91jVaa5Xwg)
+
+七、微服务实践
+
+1. [通用连接池帮你解决资源管理难题](https://mp.weixin.qq.com/s/X-xzEzlVrEKYo78eiHwDKw)
+
+八、Go 101
+
+1. [Go 1.17新特性](https://mp.weixin.qq.com/s/T14M_s5qOA6LKvWGgNa0Ow )
+
+九、吴亲强的深夜食堂
+
+1. [无限缓冲的channel(2)](https://mp.weixin.qq.com/s/wDrOBRaPqHx6g-Ir-Yx8kA)
+
+十、Go招聘
+
+1. [跟着Go圈女神一起管理时间](https://mp.weixin.qq.com/s/cbVh_dg0AqJRkeHMCZHGIQ)
  gocn_news-2021-05-26
 # go-news-set-2021-05-26
 ## gocn_news-2021-05-26
