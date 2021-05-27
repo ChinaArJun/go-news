@@ -1,3 +1,42 @@
+ go语言中文网(每日资讯)-2021-05-27
+# go-news-set-2021-05-27
+## go语言中文网(每日资讯)-2021-05-27
+
+一、Go语言中文网
+
+1. [如何让 Go 的缓存库 BigCache 更好用？](https://mp.weixin.qq.com/s/Zn1rP18GtmZsbaRnRfJ8ug)
+
+2. [在 Go 语言中，有时 nil 并不是一个 nil](https://mp.weixin.qq.com/s/_REGCKxs0ymIdZXN5a6Tgg)
+
+二、亚军进化史
+
+1. [Go技术日报(2021-05-26)——Go 1.17新特性](https://mp.weixin.qq.com/s/ot_48XSupyyZwfhXaz1vNA)
+
+三、k8s技术圈
+
+1. [AWS 容器服务的安全实践](https://mp.weixin.qq.com/s/GYMXc4HXBGOGgA_7mdenhA)
+
+2. [骚操作，这款工具可以把Kubernetes集群打包成一个镜像](https://mp.weixin.qq.com/s/ssZSMqogjP6CTOKOOR2e5Q)
+
+四、云加社区
+
+1. [总结 Kafka 背后的优秀设计](https://mp.weixin.qq.com/s/dfOP2MeBOqFqg_BdcJCYug)
+
+五、董泽润的技术笔记
+
+1. [硬核！如何在容器中做时间漫游者](https://mp.weixin.qq.com/s/PtYKA-lviJO6A2sXfEaNWA)
+
+六、码农桃花源
+
+1. [曹大带我学 Go（3）—— 如何用汇编打同事的脸](https://mp.weixin.qq.com/s/2Y3qPkysRLaWDcIyLOerZg)
+
+七、Go招聘
+
+1. [华顺信安招Gopher](https://mp.weixin.qq.com/s/xQoEj43nRNkW_g4caLs3XA)
+
+八、mohuishou
+
+1. [Go可用性(七) 总结: 一张图串联可用性知识点](https://mp.weixin.qq.com/s/OXopl6FpwtE6P-k0GEP9qA)
  gocn_news-2021-05-27
 # go-news-set-2021-05-27
 ## gocn_news-2021-05-27
