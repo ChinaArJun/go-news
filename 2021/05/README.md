@@ -1,3 +1,44 @@
+ go语言中文网(每日资讯)-2021-05-28
+# go-news-set-2021-05-28
+## go语言中文网(每日资讯)-2021-05-28
+
+一、Go语言中文网
+
+1. [Go：近期两个开源免费好资源](https://mp.weixin.qq.com/s/wXrIztN5MXsNvBKg2LR3hA)
+
+2. [再次探讨 Go 的无限缓冲的channel](https://mp.weixin.qq.com/s/wZNLOywbQWdju_-7TN_48Q)
+
+3. [读者问答：Go 编程怎么也有内存问题？](https://mp.weixin.qq.com/s/51xEfULa1cWaltkTkg1cUA)
+
+二、亚军进化史
+
+1. [Go技术日报(2021-05-27)——Go可用性(七) 总结](https://mp.weixin.qq.com/s/rWD5H4JHVLcka0Xl7z1jOw)
+
+三、Go招聘
+
+1. [validator库你知多少？govalidator了解一下](https://mp.weixin.qq.com/s/FnvvREHWeN1UdRliFjxQ9A)
+
+2. [睡前故事|用Bitmap与AST做一个配置化时长系统](https://mp.weixin.qq.com/s/th5HgpibwZkRlj1EzxmMTw)
+
+四、Go夜读
+
+1. [理论结合实践详解 B+ 树存储引擎（PPT）（多图）](https://mp.weixin.qq.com/s/aSNdEkNdeCAC7O6b3coo-A)
+
+五、奇伢云存储
+
+1. [图解 | epoll怎么实现的](https://mp.weixin.qq.com/s/XW561JURm5zxsXHnD1lV6A)
+
+六、薯条的自我修养
+
+1. [硬核！如何在容器中做时间漫游者](https://mp.weixin.qq.com/s/dTVwpi60_URx1P9c1OPEug)
+
+七、k8s技术圈
+
+1. [Pod Terminating 状态排查](https://mp.weixin.qq.com/s/IattDivoyFSWCq26IV457g)
+
+八、杨旭技术专栏
+
+1. [Go 简单分布式系统 3.1 业务服务（1）](https://mp.weixin.qq.com/s/GzoMpMIUWtM2qNFp5xNiWQ)
  go语言中文网(每日资讯)-2021-05-27
 # go-news-set-2021-05-27
 ## go语言中文网(每日资讯)-2021-05-27
