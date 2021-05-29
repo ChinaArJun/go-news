@@ -1,3 +1,16 @@
+ gocn_news-2021-05-29
+# go-news-set-2021-05-29
+## gocn_news-2021-05-29
+- 1.dubbo-go v3 版本 go module 踩坑记 https://gocn.vip/topics/12136
+
+- 2.Go 高性能系列教程：读懂 pprof 生成的报告 https://gocn.vip/topics/12134
+
+- 3.K8s 工作负载图表工具 https://github.com/Trois-Six/k8s-diagrams
+
+- 4.灵活的 Go http client 库-Sling https://mp.weixin.qq.com/s/liCnGt0-me4cv-1WAJSSBQ
+
+- 5.go web client 单元测试实践 chttps://dev.to/chen/practical-unit-testing-web-client-in-go-1o2m
+
  go语言中文网(每日资讯)-2021-05-28
 # go-news-set-2021-05-28
 ## go语言中文网(每日资讯)-2021-05-28
