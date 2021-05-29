@@ -1,3 +1,35 @@
+ go语言中文网(每日资讯)-2021-05-29
+# go-news-set-2021-05-29
+## go语言中文网(每日资讯)-2021-05-29
+
+
+一、Go语言中文网
+
+1. [国外竟然有这么多公司使用 Go](https://mp.weixin.qq.com/s/fKXIBfxvk1wgZMujuz9hWA)
+
+2. [Go 中如何让消息队列达到最大吞吐量？](https://mp.weixin.qq.com/s/K9qZVNP4AKsHNcrDyZq_eA)
+
+3. [Go 每日一库之 gotalk](https://mp.weixin.qq.com/s/VnpQilljVokGssECVyFjWw)
+
+二、亚军进化史
+
+1. [Go技术日报(2021-05-28)——validator库你知多少？](https://mp.weixin.qq.com/s/raQG5PZkxtOu9Qg2P_KO0w)
+
+三、k8s技术圈
+
+1. [Istio 完败？Linkerd 和 Istio 基准测试](https://mp.weixin.qq.com/s/7A7eXQONpiNdCrfwt1HfhQ)
+
+四、分布式实验室
+
+1. [9 种开源的服务网格比较](https://mp.weixin.qq.com/s/3XwKE1pLgMkiH7xuQix25w)
+
+五、aoho求索
+
+1. [如何在 Go-kit 和 Service Mesh 中进行服务注册与发现？](https://mp.weixin.qq.com/s/TZoq5CRQ_QIYTG4W_cU4dg)
+
+六、Go招聘
+
+1. [这可能是最容易理解的 Go Mutex 源码剖析](https://mp.weixin.qq.com/s/XUOQqQ-CRPJ9oxpharxPuQ)
  gocn_news-2021-05-29
 # go-news-set-2021-05-29
 ## gocn_news-2021-05-29
