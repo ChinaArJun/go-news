@@ -1,3 +1,51 @@
+ go语言中文网(每日资讯)-2021-05-30
+# go-news-set-2021-05-30
+## go语言中文网(每日资讯)-2021-05-30
+
+
+一、Go语言中文网
+
+1. [发现了众多 Go 好书](https://mp.weixin.qq.com/s/x6h8xpbn9kuV2wlk-wtULA)
+
+2. [Go语言爱好者周刊：第 97 期](https://mp.weixin.qq.com/s/6kXbi8OyubJv6opOomb4zg)
+
+3. [Go小知识：%!!(MISSING)v(MISSING) %!!(MISSING)v(MISSING) %!!(MISSING)v(MISSING)的区别](https://mp.weixin.qq.com/s/g4qgn1b_LvpvMqRZD-k8LA)
+
+二、亚军进化史
+
+1. [Go技术日报(2021-05-29)——读懂 pprof 生成的报告](https://mp.weixin.qq.com/s/OmUrwjFiQ99DJFaFgRfi4Q)
+
+三、k8s技术圈
+
+1. [优化 Kubernetes 横向扩缩容 HPA](https://mp.weixin.qq.com/s/x_yID1QFt8vV7ioy_o5LlA)
+
+四、后端技术指南针
+
+1. [Go语言内存逃逸之谜](https://mp.weixin.qq.com/s/zm5rp4DkgrWIduZAMhzNzA)
+
+五、奇伢云存储
+
+1. [图解 数据安全的3 种 IO 姿势](https://mp.weixin.qq.com/s/a-SQgKzVYVmJ-qWUXy7c8A)
+
+六、网管叨bi叨
+
+1. [在容器里设置GOMAXPROCS的正确姿势](https://mp.weixin.qq.com/s/kbZsJncgVZv30_TwVrLyLQ)
+
+七、一手代码一首诗
+
+1. [深挖Map的读写性能](https://mp.weixin.qq.com/s/quNpj1MQQwWCKeEENGinUg)
+
+八、TechPaper
+
+1. [消息队列解耦是骗小孩儿的](https://mp.weixin.qq.com/s/O0KGm3nVUSWMSKwHlPiJpg)
+
+九、Go招聘
+
+1. [五月最后1股—MySQL 是怎么实现 ACID 的](https://mp.weixin.qq.com/s/YUSbm0T6si-EqK2-wNLh8g)
+
+十、polarisxu
+
+1. [Go1.17这个新特性竟然是6年前提出来的](https://mp.weixin.qq.com/s/8Ju2-daS0s-esDAezP-lZw)
  gocn_news-2021-05-30
 # go-news-set-2021-05-30
 ## gocn_news-2021-05-30
