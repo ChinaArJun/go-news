@@ -1,3 +1,17 @@
+ gocn_news-2021-05-31
+# go-news-set-2021-05-31
+## gocn_news-2021-05-31
+- 1.GM 到 GMP，Golang 经历了什么？ https://mp.weixin.qq.com/s/RR3ducI2gK7JuLAzeILRzg#at
+
+- 2.Go 语言如何实现可重入锁？ https://mp.weixin.qq.com/s/wBp4k7pJLNeSzyLVhGHLEA
+
+- 3.如何使用 Golang 进行测试驱动开发 https://medium.com/@jilsonfreddy/how-to-do-test-driven-development-using-golang-unit-testing-945256aa45cf
+
+- 4.Go 性能工具备忘录 https://steveazz.xyz/blog/go-performance-tools-cheat-sheet
+
+- 5.字节跳动的 JSON 处理库 https://github.com/bytedance/sonic
+
+
  go语言中文网(每日资讯)-2021-05-30
 # go-news-set-2021-05-30
 ## go语言中文网(每日资讯)-2021-05-30
