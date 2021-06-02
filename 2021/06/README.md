@@ -1,3 +1,17 @@
+ gocn_news-2021-06-02
+# go-news-set-2021-06-02
+## gocn_news-2021-06-02
+- 1.OpenKruise v0.9.0 版本发布：新增 Pod 重启、删除防护等重磅功能 https://gocn.vip/topics/12146
+
+- 2.Go 正则表达式库之 commonregex https://gocn.vip/topics/12143
+
+- 3.使用 httputil 反向代理在单个端口上托管 gRPC REST 和 HTML https://medium.com/james-reads-public-cloud-technology-blog/using-a-httputil-reverse-proxy-to-host-grpc-rest-html-on-a-single-port-9d3f629762b7
+
+- 4.Go 泛型在函数式编程中的应用 https://ani.dev/2021/05/25/functional-programming-in-go-with-generics/
+
+- 5.从数据库创建 gRPC 服务器 https://github.com/walterwanderley/xo-grpc
+
+
  go语言中文网(每日资讯)-2021-06-01
 # go-news-set-2021-06-01
 ## go语言中文网(每日资讯)-2021-06-01
