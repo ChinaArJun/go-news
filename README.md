@@ -1,3 +1,53 @@
+ go语言中文网(每日资讯)-2021-06-03
+# go-news-set-2021-06-03
+## go语言中文网(每日资讯)-2021-06-03
+
+
+一、Go语言中文网
+
+1. [Go: stringer 命令，通过代码生成提高效率](https://mp.weixin.qq.com/s/Ik3PxNRbddtbm6E-Xo_rdA)
+
+2. [详解并发编程基础之原子操作(atomic包)](https://mp.weixin.qq.com/s/-KE6jNKkVxNrm-e3laibzw)
+
+二、亚军进化史
+
+1. [Go技术日报(2021-06-02)——从数据库创建 gRPC 服务器](https://mp.weixin.qq.com/s/JqM9c9vW6nkwQH9gcVQojg)
+
+三、新亮笔记
+
+1. [函数的不定参数你是这样用吗？](https://mp.weixin.qq.com/s/jvSbZ0_g_EFqaR2TmjjO8w)
+
+四、taowen
+
+1. [如何不 Review 每一行代码，同时保持代码不被写乱？](https://mp.weixin.qq.com/s/UtBkJYpQHIvRQ_AQnzxxMw)
+
+五、码农桃花源
+
+1. [假如 Go 能说话，听听 GMP 的心声](https://mp.weixin.qq.com/s/eHXAPQkzwMTaLVrXESowBg)
+
+六、CloudNativeCommunity
+
+1. [直播回放 | Istio 大咖说第 2 期：从微服务架构到 Istio—— 架构升级实践分享](https://mp.weixin.qq.com/s/huZaJVK5qXVrQFfDlha5zQ)
+
+七、polarisxu
+
+1. [惊！这个 Go 开源项目号称「不改一行代码做秒杀」](https://mp.weixin.qq.com/s/NSJmV-hBucaXoBAfD3TKLA)
+
+八、云加社区
+
+1. [超全代码！详解Go中内存分配源码实现](https://mp.weixin.qq.com/s/_SYT7zWqvFnfH02cHFOgow)
+
+九、腾讯技术工程
+
+1. [十个问题理解Linux epoll工作原理](https://mp.weixin.qq.com/s/h3CBZt2KEA-ScXFSKHaRBg)
+
+十、脑子进煎鱼了
+
+1. [详解 Go 团队不建议用的 unsafe.Pointer](https://mp.weixin.qq.com/s/8qtHdw2JiRQ1cXlzbJ0ANA)
+
+十一、Go招聘
+
+1. [一文带你由浅入深地解读Zap的高性能](https://mp.weixin.qq.com/s/Qc5tGELKPZOA9LEBOEkuow)
  gocn_news-2021-06-03
 # go-news-set-2021-06-03
 ## gocn_news-2021-06-03
