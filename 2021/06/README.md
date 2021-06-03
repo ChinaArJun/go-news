@@ -1,3 +1,16 @@
+ gocn_news-2021-06-03
+# go-news-set-2021-06-03
+## gocn_news-2021-06-03
+- 1.基于 cdp 协议开发的浏览器自动化工具 rod  https://go-rod.github.io/i18n/zh-CN/#/get-started/README
+
+- 2.Go 重构和转换工具  https://github.com/uber-go/gopatch#gopatch
+3.开发小应用的 jetbrains 插件 tinygo   https://blog.jetbrains.com/go/2021/06/02/tinygo-for-tiny-applications-discover-a-new-plugin-for-goland/
+
+- 3.使用 httputil 反向代理工具将 grpc rest & html 绑定到一个端口上  https://medium.com/james-reads-public-cloud-technology-blog/using-a-httputil-reverse-proxy-to-host-grpc-rest-html-on-a-single-port-9d3f629762b7
+
+- 4.Pre-commit-golang 支持 revive 了 https://github.com/TekWizely/pre-commit-golang/releases/tag/v0.8.3
+
+
  gocn_news-2021-06-02
 # go-news-set-2021-06-02
 ## gocn_news-2021-06-02
