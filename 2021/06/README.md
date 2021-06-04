@@ -1,3 +1,47 @@
+ go语言中文网(每日资讯)-2021-06-04
+# go-news-set-2021-06-04
+## go语言中文网(每日资讯)-2021-06-04
+
+
+一、Go语言中文网
+
+1. [Go1.16.5 发布](https://mp.weixin.qq.com/s/-dYlKTEWuGTqIQYKQ3sETQ)
+
+2. [用 cgo 生成用于 cgo 的 C 兼容的结构体](https://mp.weixin.qq.com/s/bqUPN6wwua4x2_FOwyzkYg)
+
+3. [详解并发编程之sync.Once的实现(附上三道面试题)](https://mp.weixin.qq.com/s/S4xnlFgnU0kM3h1gOv774g)
+
+二、脑子进煎鱼了
+
+1. [一道 Go 闭包题，面试官说原来自己答错了：面别人也涨知识](https://mp.weixin.qq.com/s/OLgsdhXGEMltmjcpTW2ICw)
+
+三、董泽润的技术笔记
+
+1. [你真的了解 timeout 嘛？](https://mp.weixin.qq.com/s/GihBqN5m0vGxxvFdHWRc7Q)
+
+2. [格步科技招聘](https://mp.weixin.qq.com/s/h_EvR33U3c0bRQCIkkr7xQ)
+
+四、GoUpUp
+
+1. [Go 每日一库之 ants](https://mp.weixin.qq.com/s/ysG0q9LIYgWHIoY_LK-W9A)
+
+五、polarisxu
+
+1. [被黑惨了：一句话，说明自己会 Go，咋整？](https://mp.weixin.qq.com/s/igB7Zl-InaWdDCAX7OdVWQ)
+
+六、Go招聘
+
+1. [详解 Go 空结构体的 3 种使用场景](https://mp.weixin.qq.com/s/8NJLe_11uvu22HfDjKqKjQ)
+
+2. [小博居然被表白](https://mp.weixin.qq.com/s/Vc0QBmFVh5ct6ttTMqc-_w)
+
+七、taowen
+
+1. [噢，你的代码像一坨翔。然后呢？](https://mp.weixin.qq.com/s/mHDY9RbTAjsArqX3S5jxNw)
+
+八、吴亲强的深夜食堂
+
+1. [i/o timeout ， 希望你不要踩到这个net/http包的坑](https://mp.weixin.qq.com/s/Isjv1fTYd0m8yrjONINsWw)
  gocn_news-2021-06-04
 # go-news-set-2021-06-04
 ## gocn_news-2021-06-04
