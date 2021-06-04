@@ -1,3 +1,12 @@
+ gocn_news-2021-06-04
+# go-news-set-2021-06-04
+## gocn_news-2021-06-04
+- 1.Go 1.16.5 和 Go 1.15.13 发布 https://groups.google.com/g/golang-announce/c/RgCMkAEQjSI/m/r_EP-NlKBgAJ
+- 2.自动测试工具 Fuzzing 发布 beta  https://blog.golang.org/fuzz-beta
+- 3.OpenYurt v0.4.0 新特性发布：高效地管理边缘存储资源  https://gocn.vip/topics/12152
+- 4.stringer 命令，通过代码生成提高效率  https://mp.weixin.qq.com/s/Ik3PxNRbddtbm6E-Xo_rdA
+- 5.假如 Go 能说话，听听 GMP 的心声 https://mp.weixin.qq.com/s/eHXAPQkzwMTaLVrXESowBg
+
  go语言中文网(每日资讯)-2021-06-03
 # go-news-set-2021-06-03
 ## go语言中文网(每日资讯)-2021-06-03
