@@ -1,3 +1,29 @@
+ go语言中文网(每日资讯)-2021-06-05
+# go-news-set-2021-06-05
+## go语言中文网(每日资讯)-2021-06-05
+
+
+一、Go语言中文网
+
+1. [Go实战项目：打造一个七牛云图片处理服务](https://mp.weixin.qq.com/s/SEVpbHyhohX8tpX130T7lQ)
+
+2. [Go 中的动态作用域变量是什么鬼？](https://mp.weixin.qq.com/s/bU6U5LfRsPLAN7DSoVkbUA)
+
+3. [Leetcode 上的小偷太难了！！](https://mp.weixin.qq.com/s/xdEDhpTT9lyeyJZIXxduGQ)
+
+二、亚军进化史
+
+1. [Go技术日报(2021-06-04)——Go 1.16.5 和 Go 1.15.13 发布](https://mp.weixin.qq.com/s/cIhuWRAyTkXqdz7iswj4Ng)
+
+2. [Go技术日报(2021-06-03)——Go 重构和转换工具](https://mp.weixin.qq.com/s/iVhk1EdzQvWboQXdf8HiAA)
+
+三、k8s技术圈
+
+1. [在 Kubernetes 上使用 Spinnaker 构建部署流水线](https://mp.weixin.qq.com/s/znkK6mJw3JNhUNkeEeRDrg)
+
+四、云原生技术爱好者社区
+
+1. [使用Kubernetes重新思考系统架构并减轻技术债务](https://mp.weixin.qq.com/s/BFf2MQQYUpNu8xZ-QqMcMw)
  gocn_news-2021-06-05
 # go-news-set-2021-06-05
 ## gocn_news-2021-06-05
