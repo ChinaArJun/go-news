@@ -1,3 +1,17 @@
+ gocn_news-2021-06-05
+# go-news-set-2021-06-05
+## gocn_news-2021-06-05
+- 1.vtprotobuf: 高性能 gogoprotobuf 替代品，兼容 ProtoBuf APIv2 https://vitess.io/blog/2021-06-03-a-new-protobuf-generator-for-go/
+
+- 2.『每周译 Go』Go 内存管理概述 https://mp.weixin.qq.com/s/PNRhtdS_gZVTtrkkRmx7yA
+
+- 3.LazyLRU 应用至生产环境 https://medium.com/bluecore-engineering/lazylru-laughing-all-the-way-to-production-19d2a053c3cb
+
+- 4.GoLand 发布 2021.2 EAP build #2 https://blog.jetbrains.com/go/2021/06/04/goland-2021-2-eap-build-2-is-here/
+
+- 5.photoprism：开源的 Google Photos 替代品 https://github.com/photoprism/photoprism
+
+
  go语言中文网(每日资讯)-2021-06-04
 # go-news-set-2021-06-04
 ## go语言中文网(每日资讯)-2021-06-04
