@@ -1,3 +1,35 @@
+ go语言中文网(每日资讯)-2021-06-06
+# go-news-set-2021-06-06
+## go语言中文网(每日资讯)-2021-06-06
+
+
+一、Go语言中文网
+
+1. [Go1.17这个新特性竟然是6年前提出来的](https://mp.weixin.qq.com/s/7OY_2FRpD0QvzuWTACVqyw)
+
+2. [Go语言爱好者周刊：第 98 期 — 附上期题解](https://mp.weixin.qq.com/s/MAaCJGqJlf9cY_c1Urtadw)
+
+3. [你不知道的 Go 之 const](https://mp.weixin.qq.com/s/EKnphU752SY1vp_O_qY1ag)
+
+二、亚军进化史
+
+1. [Go技术日报(2021-06-05)——Go 内存管理概述](https://mp.weixin.qq.com/s/08ROk0QSZopAL6wZMN715A)
+
+三、k8s技术圈
+
+1. [Kubernetes 资源对象序列化实现](https://mp.weixin.qq.com/s/fJf1mtCR49XO7BOUn2FRTg)
+
+四、爱倒腾的程序员
+
+1. [人均估值5000万RMB，53岁程序员能做到的，你也能！](https://mp.weixin.qq.com/s/iT-wWGskSJdtAkJsOLJWuw)
+
+五、董泽润的技术笔记
+
+1. [我用kafka两年踩过的一些非比寻常的坑](https://mp.weixin.qq.com/s/18qn85grHRF7iIVobJVUwA)
+
+六、Go招聘
+
+1. [股友问：Kafka为什么会丢消息，如何解决呢？](https://mp.weixin.qq.com/s/qv4-KuUfv1UwuDzcFahW4w)
  gocn_news-2021-06-06
 # go-news-set-2021-06-06
 ## gocn_news-2021-06-06
