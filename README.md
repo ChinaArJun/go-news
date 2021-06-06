@@ -1,3 +1,17 @@
+ gocn_news-2021-06-06
+# go-news-set-2021-06-06
+## gocn_news-2021-06-06
+- 1.详解 Go 团队不建议用的 unsafe.Pointer https://mp.weixin.qq.com/s/8qtHdw2JiRQ1cXlzbJ0ANA
+
+- 2.新 Goland 插件支持 TinyGo https://blog.jetbrains.com/go/2021/06/02/tinygo-for-tiny-applications-discover-a-new-plugin-for-goland/
+
+- 3.使用 go-i18n 实现国际化 https://lokalise.com/blog/go-internationalization-using-go-i18n/
+
+- 4.awesome-go-orms https://github.com/d-tsuji/awesome-go-orms
+
+- 5.Go 实现终端 slide 展示工具 https://github.com/maaslalani/slides
+
+
  go语言中文网(每日资讯)-2021-06-05
 # go-news-set-2021-06-05
 ## go语言中文网(每日资讯)-2021-06-05
