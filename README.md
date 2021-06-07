@@ -1,3 +1,17 @@
+ gocn_news-2021-06-07
+# go-news-set-2021-06-07
+## gocn_news-2021-06-07
+- 1.Code Review 引发的 Golang Memory Model 深入思考 https://juejin.cn/post/6970513766509182984
+
+- 2.Go 高性能系列教程之一：基准测试 https://gocn.vip/topics/12126
+
+- 3.监控是手段，而不是目的  https://www.robustperception.io/monitoring-is-a-means-not-an-end
+
+- 4.Calico 路由反射模式权威指南 https://mp.weixin.qq.com/s/hLiI9fsPQ7w4PS2ALff09g
+
+- 5.从栈上理解 Go 语言函数调用 https://www.cnblogs.com/luozhiyun/p/14844710.html
+
+
  go语言中文网(每日资讯)-2021-06-06
 # go-news-set-2021-06-06
 ## go语言中文网(每日资讯)-2021-06-06
