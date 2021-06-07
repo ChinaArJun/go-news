@@ -1,3 +1,51 @@
+ go语言中文网(每日资讯)-2021-06-07
+# go-news-set-2021-06-07
+## go语言中文网(每日资讯)-2021-06-07
+
+
+一、Go语言中文网
+
+1. [Go 调度器的任务窃取（Work-Stealing）](https://mp.weixin.qq.com/s/trBAi976eaaTDcSzpAqPkQ)
+
+2. [通过实例理解Go逃逸分析](https://mp.weixin.qq.com/s/bR9shJGRXsRHJhh-GcY83A)
+
+二、亚军进化史
+
+1. [Go技术日报(2021-06-06)——微服务拆分之道](https://mp.weixin.qq.com/s/GgBhnYS1KYFHq4mzgIFj7w)
+
+三、脑子进煎鱼了
+
+1. [Go 凭什么不支持三元运算符？](https://mp.weixin.qq.com/s/LmHR7Y674dSo-Xa0tajL_w)
+
+2. [一文搞懂如何实现 Go 超时控制](https://mp.weixin.qq.com/s/S4d9CJYmViJT8EbhyNCIMg)
+
+四、Golang梦工厂
+
+1. [神奇的init函数](https://mp.weixin.qq.com/s/y-H0y1ahq8a_TgJ4c4otuQ)
+
+五、杨旭技术专栏
+
+1. [Go 简单分布式系统 3.3 服务发现（1）](https://mp.weixin.qq.com/s/QoDwEbl02nSHjRci8yRbyQ)
+
+六、Go招聘
+
+1. [Golang 并发编程核心篇 —— 内存可见性](https://mp.weixin.qq.com/s/vvKNAarcc3kz1hz9o4B1ZQ)
+
+七、腾讯技术工程
+
+1. [​手把手教你如何进行 Golang 单元测试](https://mp.weixin.qq.com/s/N5wby-aWWEPc7mHN_lN3lQ)
+
+八、云加社区
+
+1. [主干开发、主干发布，CI 如何为大型项目提供最优解？](https://mp.weixin.qq.com/s/mQihX1VbEEArHpcx6s5KFQ)
+
+九、奇伢云存储
+
+1. [自制文件系统 —— 03 Go实战：hello world 的文件系统](https://mp.weixin.qq.com/s/Yf6yBoEQe6ijMlPgZ6P2sA)
+
+十、码农桃花源
+
+1. [曹大带我学 Go（5）—— 哪里来的 goexit](https://mp.weixin.qq.com/s/xrDZ2Z7KkHL0vZ3k6KGcyg)
  gocn_news-2021-06-07
 # go-news-set-2021-06-07
 ## gocn_news-2021-06-07
