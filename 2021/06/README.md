@@ -1,3 +1,57 @@
+ go语言中文网(每日资讯)-2021-06-08
+# go-news-set-2021-06-08
+## go语言中文网(每日资讯)-2021-06-08
+
+
+一、Go语言中文网
+
+1. [字节跳动打造的轮子：Go 表单验证器](https://mp.weixin.qq.com/s/Oc90iCYyZGj5uDKhj8eGWw)
+
+2. [Go1.16 中的新函数 signal.NotifyContext 怎么用？](https://mp.weixin.qq.com/s/LLKgeGmhU_GpQQeivEvi1g)
+
+3. [Go 每日一库之 reflect](https://mp.weixin.qq.com/s/3kE_M9jKTG14t3KIlkqhgA)
+
+二、亚军进化史
+
+1. [Go技术日报(2021-06-07)——如何进行 Golang 单元测试](https://mp.weixin.qq.com/s/FJ26X5wrqFqB7XJEgMsV5w)
+
+三、码农桃花源
+
+1. [一个高逼格的 Go 招聘](https://mp.weixin.qq.com/s/lFrmy68XTF79kO3iCD9l6A)
+
+2. [你真的了解 timeout 吗？](https://mp.weixin.qq.com/s/SllMlL_94cir-x8Hw9D-8g)
+
+四、k8s技术圈
+
+1. [云原生 CI/CD 框架 Tekton 初体验](https://mp.weixin.qq.com/s/ZI9vWJ4giVsMhxZYHjjd5A)
+
+五、杨旭技术专栏
+
+1. [Go 简单分布式系统 3.4 服务发现（2）](https://mp.weixin.qq.com/s/dLtyKjJ5_p0aiyx9BMGEYg)
+
+2. [Go 简单分布式系统 3.5 服务发现（3）](https://mp.weixin.qq.com/s/SQbOS1xRECM2Oa-tXjEkfw)
+
+六、GoUpUp
+
+1. [Go 每日一库之 ants（源码赏析）](https://mp.weixin.qq.com/s/a84T6Hpbrhop7vQA01N1Bg)
+
+七、GolangContributorClub
+
+1. [2021 中国 Go 语言开源贡献者峰会预告](https://mp.weixin.qq.com/s/-FWxWGVJEVe8JPPcGqHxgw)
+
+八、HHFCodeRv
+
+1. [Go timer 是如何被调度的？](https://mp.weixin.qq.com/s/iseiQ20eIUR9i02fy1tFhg)
+
+九、polarisxu
+
+1. [一本花了2.5年写成的Go免费在线图书](https://mp.weixin.qq.com/s/Z97eT7FrqeJhygQwKvJaIw)
+
+十、Go招聘
+
+1. [一文带你深究无线缓冲channel的实现](https://mp.weixin.qq.com/s/7P3Gn7JFvMWUh0iuNExPKA)
+
+2. [东南亚最大的外卖出行公司招聘，这福利，酸了，酸了](https://mp.weixin.qq.com/s/wynt1zdgsRJywFva_gE5dA)
  gocn_news-2021-06-08
 # go-news-set-2021-06-08
 ## gocn_news-2021-06-08
