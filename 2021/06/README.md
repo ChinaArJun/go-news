@@ -1,3 +1,17 @@
+ gocn_news-2021-06-08
+# go-news-set-2021-06-08
+## gocn_news-2021-06-08
+- 1.在 Golang 中创建自定义应用程序 logger https://jilsonfreddy.medium.com/create-a-custom-application-logger-in-golang-cdd11ba106d5
+
+- 2.在 Go 1.16+ 中构建 GUI 桌面应用程序 https://blog.ctrlshiftmake.com/build-tray-gui-desktop-application-go
+
+- 3.Go 实现为以太坊智能合约创建绑定 https://www.metachris.com/2021/05/creating-go-bindings-for-ethereum-smart-contracts/
+
+- 4.Go 中简单、可定制、分级且高效的日志记录 https://github.com/ermanimer/log
+
+- 5.Go 实现的发送原始 HTTP 请求的基准测试和压力测试工具 https://github.com/utkusen/reqstress
+
+
  go语言中文网(每日资讯)-2021-06-07
 # go-news-set-2021-06-07
 ## go语言中文网(每日资讯)-2021-06-07
