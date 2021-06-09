@@ -1,3 +1,16 @@
+ gocn_news-2021-06-09
+# go-news-set-2021-06-09
+## gocn_news-2021-06-09
+- 1.Go 语言中的零拷贝优化 https://developer.51cto.com/art/202106/665738.htm
+
+- 2.Go timer 是如何被调度的？ https://mp.weixin.qq.com/s/iseiQ20eIUR9i02fy1tFhg
+
+- 3.relite6.0.0 设计，让集群更具鲁棒性 https://www.philipotoole.com/rqlite-6-0-0-building-for-the-future/
+
+- 4.terraform v1.0.0 正式发布: 兼容性更好,稳定性更强 https://www.terraform.io/docs/language/v1-compatibility-promises.html
+
+- 5.小技巧分享：在 Go 如何实现枚举？ hhttps://mp.weixin.qq.com/s/4jvhRQvKlMiYweSOG6xCrA
+
  go语言中文网(每日资讯)-2021-06-08
 # go-news-set-2021-06-08
 ## go语言中文网(每日资讯)-2021-06-08
