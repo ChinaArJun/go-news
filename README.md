@@ -1,3 +1,61 @@
+ go语言中文网(每日资讯)-2021-06-09
+# go-news-set-2021-06-09
+## go语言中文网(每日资讯)-2021-06-09
+
+
+一、Go语言中文网
+
+1. [编写友好的Go命令行应用程序](https://mp.weixin.qq.com/s/qOhdWkIG5lZG6hV7QHIsaQ)
+
+2. [优雅地处理Go错误真是一门学问啊！](https://mp.weixin.qq.com/s/_7AHxKJjiS2CRPM8dxdU1Q)
+
+二、亚军进化史
+
+1. [Go技术日报(2021-06-08)——ants源码赏析](https://mp.weixin.qq.com/s/thPxVIT7-X0nccK4px3oPQ)
+
+三、GoUpUp
+
+1. [你不知道的 Go 之 pprof](https://mp.weixin.qq.com/s/pSD2k1uNH9WFZumw24I4uQ)
+
+四、脑子进煎鱼了
+
+1. [小技巧分享：在 Go 如何实现枚举？](https://mp.weixin.qq.com/s/4jvhRQvKlMiYweSOG6xCrA)
+
+2. [答应我，这次一定彻底搞懂 Go 中的类型别名](https://mp.weixin.qq.com/s/pd4KyjikYtZ6UX9jDpYdPw)
+
+五、GoOfficialBlog
+
+1. [Golang Fuzzing is Beta Ready](https://mp.weixin.qq.com/s/wR3B50lh5-CK5Zs9-zNnDg)
+
+六、polarisxu
+
+1. [match 是什么语法？PHP8 也加了](https://mp.weixin.qq.com/s/jUZkFMaC5FThEMHICBwllg)
+
+2. [灵魂拷问：Go 语言这个变量到底分配到哪里了？](https://mp.weixin.qq.com/s/nlpeaMsG90PQ-X44j6mKSg)
+
+七、APISIX云原生微服务网关
+
+1. [开源 API 网关架构分析](https://mp.weixin.qq.com/s/L3X3xfGggjf52a8GofFHEQ)
+
+2. [开源 API 网关架构分析](https://mp.weixin.qq.com/s/L3X3xfGggjf52a8GofFHEQ)
+
+八、杨旭技术专栏
+
+1. [Go 简单分布式系统 3.6 服务发现（4）依赖变化的通知](https://mp.weixin.qq.com/s/Gk43o-85uxbJbgSP7lJomg)
+
+九、码农桃花源
+
+1. [深度解密 Go math/rand](https://mp.weixin.qq.com/s/zQq9lEDLGPh7shvJLm0AuQ)
+
+十、远赴星辰
+
+1. [Go 语言中的零拷贝优化](https://mp.weixin.qq.com/s/SnO_pl8WUmWY9RBFZF7-rA)
+
+十一、Go招聘
+
+1. [东南亚最大的外卖出行公司招聘，这福利，酸了，酸了](https://mp.weixin.qq.com/s/wynt1zdgsRJywFva_gE5dA)
+
+2. [Top云厂商招Gopher，你看你行吗？](https://mp.weixin.qq.com/s/GE05WZBz2SqlwswUhZaJ-Q)
  gocn_news-2021-06-09
 # go-news-set-2021-06-09
 ## gocn_news-2021-06-09
