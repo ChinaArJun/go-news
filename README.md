@@ -1,3 +1,57 @@
+ go语言中文网(每日资讯)-2021-06-10
+# go-news-set-2021-06-10
+## go语言中文网(每日资讯)-2021-06-10
+
+
+一、Go语言中文网
+
+1. [Go：内存管理与内存清理](https://mp.weixin.qq.com/s/gTk2UcVCv4a0xuP44oqZhg)
+
+2. [Go看源码必会知识之unsafe包](https://mp.weixin.qq.com/s/dulgHWM-mjrYIdD9nHZyYg)
+
+二、亚军进化史
+
+1. [Go技术日报(2021-06-09)——在 Go 如何实现枚举？](https://mp.weixin.qq.com/s/3qiPaTI3GlDO_ygolZ9wpw)
+
+三、polarisxu
+
+1. [漫画：寻找无序数组的第k大元素（文末送书）](https://mp.weixin.qq.com/s/ycZ8Lh1mjzlrfZoN8lRvEQ)
+
+四、Cloud Native Community
+
+1. [《Istio 大咖说》第3期直播回放|如何让 Istio 变得更为高效和智能](https://mp.weixin.qq.com/s/k3tj6n6lcWfAbu_8k9l5eg   )
+
+五、k8s技术圈
+
+1. [或许这是目前为止最好的 Git 教程了](https://mp.weixin.qq.com/s/MsAO29B05AizHHuOQe_p3g)
+
+六、码农桃花源
+
+1. [曹大带我学 Go（6）—— 技术之外](https://mp.weixin.qq.com/s/OHljMca3k7m__puOUCrrtA)
+
+七、luozhiyun很酷
+
+1. [全网最牛X的！MySQL两阶段提交串讲！没有之一！](https://mp.weixin.qq.com/s/NNRH4TQcCQr4aQw7Cm6zLg)
+
+八、Golang来啦
+
+1. [gRPC入门指南 — 简单RPC（一）](https://mp.weixin.qq.com/s/GnDKAx9bLe90h0rvCQYb6g)
+
+九、奇伢云存储
+
+1. [面试题：mysql 一棵 B+ 树能存多少条数据？](https://mp.weixin.qq.com/s/ItFtW9OLt-x-J--IVzvJ_A)
+
+2. [TCP 连接的前世今生](https://mp.weixin.qq.com/s/f3rDqiDe4isTIBx-RPPN4g)
+
+十、新亮笔记
+
+1. [分享两个在开发中需注意的小点](https://mp.weixin.qq.com/s/-QCG61vh6NVJUWz6tOY7Gw)
+
+十一、Go招聘
+
+1. [一文教你搞懂 Go 中栈操作](https://mp.weixin.qq.com/s/hU6Xmp5zeh9vgUEV5otjWg)
+
+2. [kubernetes面试相关总结(下)](https://mp.weixin.qq.com/s/Tc292lVE1Lue267N5RdunA)
  gocn_news-2021-06-10
 # go-news-set-2021-06-10
 ## gocn_news-2021-06-10
