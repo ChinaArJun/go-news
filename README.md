@@ -1,3 +1,30 @@
+ gocn_news-2021-06-11
+# go-news-set-2021-06-11
+## gocn_news-2021-06-11
+- 1.Go 1.17 beta 1 发布 (泛型支持) https://groups.google.com/g/golang-dev/c/TfpiXhSOMRM/m/wROPV0blAgAJ 
+- 2.如何使用 GitHub Actions 自动发布你的 Go 二进制应用 https://web3.coach/golang-github-actions-release-binaries-tutorial
+
+- 3.Go、WebAssembly、HTTP 请求和 Promises https://withblue.ink/2020/10/03/go-webassembly-http-requests-and-promises.html
+
+- 4.GraphQL 聚合网关 Bramble https://github.com/movio/bramble
+
+- 5.最后测试开发模式介绍 https://bitfieldconsulting.com/golang/test-last-development
+
+
+ gopherDaily-2021-06-11
+# go-news-set-2021-06-11
+## gopherDaily-2021-06-11
+- 1.Go 1.17beta1发布 - https://groups.google.com/g/golang-dev/c/TfpiXhSOMRM/m/wROPV0blAgAJ
+- 2.使用Go加快Postgres集成测试的速度 - https://www.maragu.dk/blog/speeding-up-postgres-integration-tests-in-go/
+- 3.播客：以不寻常的方式使用Go - https://changelog.com/gotime/183
+- 4.Harbor operator 1.0发布 - https://www.cncf.io/blog/2021/06/09/harbor-operator-1-0-is-available-now/
+- 5.使用Go编写简单的蒙特卡洛模拟 - https://itnext.io/write-simple-monte-carlo-simulation-5ceb4c9b0eb3
+- 6.Go官方语言服务器gopls发布 v0.7.0 - https://github.com/golang/tools/releases/tag/gopls/v0.7.0
+- 7.以TDD的方式用Go实现排序算法 - https://alabeduarte.com/test-driven-algorithms/sorting/
+- 8.经典旧文：为什么Go不是好语言 - https://yager.io/programming/go.html
+- 9.在Kubernetes上如何进行数据库变更的蓝绿部署 - https://piotrminkowski.com/2021/02/18/blue-green-deployment-with-a-database-on-kubernetes/
+- 10.开发人员无法修复不良的管理 - https://iism.org/article/developers-can-t-fix-bad-management-57
+
  go语言中文网(每日资讯)-2021-06-10
 # go-news-set-2021-06-10
 ## go语言中文网(每日资讯)-2021-06-10
