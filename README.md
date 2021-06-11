@@ -1,3 +1,47 @@
+ go语言中文网(每日资讯)-2021-06-11
+# go-news-set-2021-06-11
+## go语言中文网(每日资讯)-2021-06-11
+
+
+一、Go语言中文网
+
+1. [go test 的这些用途你都懂吗？](https://mp.weixin.qq.com/s/rt737Zdt30sYw9Fk-5n71A)
+
+2. [源码剖析sync.WaitGroup(文末思考题你能解释一下吗?)](https://mp.weixin.qq.com/s/xT2NdxyMAyRteqtjQbbbyg)
+
+二、亚军进化史
+
+1. [Go技术日报(2021-06-10)——一文教你搞懂 Go 中栈操作](https://mp.weixin.qq.com/s/g_wo4KL5DIQ-7P-ea4ZzTw)
+
+三、奇伢云存储
+
+1. [图解｜进程怎么绑定 CPU](https://mp.weixin.qq.com/s/mbyHJNVyN_0mV5efa2DAXg)
+
+四、学而思网校技术团队
+
+1. [学而思网校直播课堂业务容器化演进](https://mp.weixin.qq.com/s/qsLld2ECUNdhsMLeXfYlDA)
+
+五、polarisxu
+
+1. [不怕烂尾！决定组织翻译这本 Go 图书](https://mp.weixin.qq.com/s/ry-qn0-7GuS0qb6ylU_4qA)
+
+六、脑子进煎鱼了
+
+1. [推荐一位 Go 布道师，另附几百道 Go 面试题](https://mp.weixin.qq.com/s/eHPKzXe5Dmw4rygd3uQ1_A)
+
+七、GoUpUp
+
+1. [Go 每日一库之 tunny](https://mp.weixin.qq.com/s/yXmnijfusgHhJiqXWlw54Q)
+
+八、腾讯技术工程
+
+1. [为什么磁盘存储引擎用 b+树来作为索引结构？](https://mp.weixin.qq.com/s/8gDVqlywLBl-MZa6XrtXug)
+
+九、Go招聘
+
+1. [运维开发有点香哦，广州Gopher这下又有福了](https://mp.weixin.qq.com/s/g737LlDDxsEnQDTd6wgy5Q)
+
+2. [kubernetes面试相关总结(下)](https://mp.weixin.qq.com/s/Tc292lVE1Lue267N5RdunA)
  gocn_news-2021-06-11
 # go-news-set-2021-06-11
 ## gocn_news-2021-06-11
