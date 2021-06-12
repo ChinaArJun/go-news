@@ -1,3 +1,31 @@
+ gocn_news-2021-06-12
+# go-news-set-2021-06-12
+## gocn_news-2021-06-12
+- 1.Go 实现正向代理服务器 https://juejin.cn/post/6972563525361369125
+
+- 2.编写友好的 Go 命令行应用程序 https://mp.weixin.qq.com/s/qOhdWkIG5lZG6hV7QHIsaQ
+
+- 3.你不知道的 Go 之 const https://mp.weixin.qq.com/s/EKnphU752SY1vp_O_qY1ag
+
+- 4.Go 高性能系列教程之五：内存和垃圾回收 https://gocn.vip/topics/12186
+
+- 5.Go Race Detector with ThreadSanitizer https://medium.com/a-journey-with-go/go-race-detector-with-threadsanitizer-8e497f9e42db
+
+
+ gopherDaily-2021-06-12
+# go-news-set-2021-06-12
+## gopherDaily-2021-06-12
+- 1.Go代码静态分析实战指南 -  https://github.com/amit-davidson/GopherCon2021IsraelStaticAnalysisWorkshop
+- 2.vagrant 3.0将使用Go重写 - https://www.hashicorp.com/blog/toward-vagrant-3-0
+- 3.如何使用Goland升级一个module的major版本号 - https://blog.jetbrains.com/go/2021/06/11/how-to-increment-the-major-version-of-a-go-module-using-goland/
+- 4.使用Go实现GraphQL服务器 - https://eli.thegreenplace.net/2021/rest-servers-in-go-part-7-graphql/
+- 5.Go 2D游戏引擎ebiten支持任天堂Switch游戏机 - https://ebiten.org/blog/nintendo_switch.html
+- 6.Go WebAssembly与Javascript的互操作 - https://withblue.ink/2020/10/03/go-webassembly-http-requests-and-promises.html
+- 7.使用本地Go库的Flutter - https://openprivacy.ca/discreet-log/09-flutter-with-native-go-libraries/
+- 8.通过测试学习Go - https://quii.gitbook.io/learn-go-with-tests/
+- 9.油管视频：使用eBPF跟踪Go代码 - https://www.youtube.com/watch?v=f1jr9nR25EA
+- 10.Go代码整洁之道 - https://dev.to/gopher/clean-go-code-53hn
+
  go语言中文网(每日资讯)-2021-06-11
 # go-news-set-2021-06-11
 ## go语言中文网(每日资讯)-2021-06-11
