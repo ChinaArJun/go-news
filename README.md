@@ -1,3 +1,41 @@
+ go语言中文网(每日资讯)-2021-06-12
+# go-news-set-2021-06-12
+## go语言中文网(每日资讯)-2021-06-12
+
+
+一、Go语言中文网
+
+1. [Go1.17 Beta1 发布](https://mp.weixin.qq.com/s/2UeuFECPBoxh2nUDxohVNg)
+
+2. [也许是 Go Context 最佳实践](https://mp.weixin.qq.com/s/8iBQWs7LAXEMCoXc5PpSaQ)
+
+3. [源码剖析sync.Cond(条件变量的实现机制）](https://mp.weixin.qq.com/s/uD_3C43zPqWI-VKfQfAzTw)
+
+二、亚军进化史
+
+1. [Go技术日报(2021-06-11)——Go 1.17beta1发布](https://mp.weixin.qq.com/s/lcZZfN6C7KPD0HadEKwi9Q)
+
+三、奇伢云存储
+
+1. [网络排障全景指南手册v1.0精简版pdf 发布](https://mp.weixin.qq.com/s/fR46xxkoGvMltV-8F0pMxA)
+
+2. [i/o timeout ， 希望你不要踩到这个net/http包的坑](https://mp.weixin.qq.com/s/5cVM5vM4zmltwb77p4NZKQ)
+
+四、k8s技术圈
+
+1. [为什么集群需要 Overlay 网络](https://mp.weixin.qq.com/s/a1omUj17yNVUuymh6DYpRQ)
+
+五、polarisxu
+
+1. [Go图书翻译：一个好消息，一个坏消息](https://mp.weixin.qq.com/s/wbXEq7NwxHkMIGBbY_dKUQ)
+
+六、杨旭技术专栏
+
+1. [Go 简单分布式系统 4.2 服务状态监控](https://mp.weixin.qq.com/s/kDd-BuDrKkV2odMoskmqzg)
+
+七、网管叨bi叨
+
+1. [分布式锁实现原理与最佳实践](https://mp.weixin.qq.com/s/M92bQQ4ESeE-RkiPiu-oRw)
  gocn_news-2021-06-12
 # go-news-set-2021-06-12
 ## gocn_news-2021-06-12
