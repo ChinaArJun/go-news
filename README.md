@@ -1,3 +1,45 @@
+ go语言中文网(每日资讯)-2021-06-13
+# go-news-set-2021-06-13
+## go语言中文网(每日资讯)-2021-06-13
+
+
+一、Go语言中文网
+
+1. [我这样升级 Go 版本，你呢？](https://mp.weixin.qq.com/s/pra9g1nIbzRnZ9KhodUGMw)
+
+2. [Go语言爱好者周刊：第 99 期 — 端午节快乐](https://mp.weixin.qq.com/s/TSgv-UStXC0NTqHwIk8YGg)
+
+3. [Go 模糊测试是什么？官方博文讲解](https://mp.weixin.qq.com/s/ypn17Ty74pWbhLSArmpbuQ)
+
+二、亚军进化史
+
+1. [Go技术日报(2021-06-11)——Go 1.17beta1发布](https://mp.weixin.qq.com/s/lcZZfN6C7KPD0HadEKwi9Q)
+
+三、奇伢云存储
+
+1. [编程思考：对象生命周期的问题](https://mp.weixin.qq.com/s/6GEj1XmkX731yw4kDuPYaQ)
+
+四、polarisxu
+
+1. [站长8年前的Go代码竟然进大厂的项目里了](https://mp.weixin.qq.com/s/-j8ohEXPS6d6wqvQZxDz5g)
+
+五、Go招聘
+
+1. [端午安康—Go中如何实现文件监听？文末有红包彩蛋o](https://mp.weixin.qq.com/s/5kqmigJRCvvrhKLKBoW4SQ)
+ gopherDaily-2021-06-13
+# go-news-set-2021-06-13
+## gopherDaily-2021-06-13
+- 1.Python vs Go:哪一个是最好的，为什么？- https://techbiason.com/go-vs-python/
+- 2.gitops成熟度模型 - https://www.weave.works/blog/the-gitops-maturity-model
+- 3.提高Kubernetes可理解性的5个技巧 - https://www.rookout.com/blog/5-tips-to-improve-kubernetes-understandability
+- 4.异步和持久化的推送通知服务，支持APNS、FCM、网络推送、Telegram和电子邮件 - https://github.com/pennersr/shove
+- 5.用OpenTracing、Jaeger和Ingress-NGINX在Kubernetes中设置分布式追踪功能 - https://awkwardferny.medium.com/setting-up-distributed-tracing-with-opentelemetry-jaeger-in-kubernetes-ingress-nginx-cfdda7d9441d
+- 6.Orkestra：一个云原生的发布编排和生命周期管理（LCM）平台 - https://github.com/Azure/orkestra
+- 7.使用kubeadm在Ubuntu的VirtualBox上创建一个Kubernetes 1.20集群 - https://kosyfrances.com/kubernetes-cluster/
+- 8.cve-2021-31440: 使用eBPF的Kubernetes容器漏洞 - https://www.tigera.io/blog/cve-2021-31440-kubernetes-container-escape-using-ebpf/
+- 9.你真的需要redis吗？如果只用PostgreSQL就可以实现呢？- https://spin.atomicobject.com/2021/02/04/redis-postgresql/
+- 10.vscode增加remote repositories插件，可直接从GitHub上浏览甚至编辑任何GitHub repo而无需先pull源码 - https://code.visualstudio.com/blogs/2021/06/10/remote-repositories
+
  go语言中文网(每日资讯)-2021-06-12
 # go-news-set-2021-06-12
 ## go语言中文网(每日资讯)-2021-06-12
