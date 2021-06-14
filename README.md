@@ -1,3 +1,17 @@
+ gocn_news-2021-06-14
+# go-news-set-2021-06-14
+## gocn_news-2021-06-14
+- 1.Go 高性能系列教程之六：一些建议和实践 https://gocn.vip/topics/12187
+
+- 2.Go 模糊测试 beta 版准备好了 https://mp.weixin.qq.com/s/wR3B50lh5-CK5Zs9-zNnDg
+
+- 3.go 学习笔记（二）派生类型 https://mp.weixin.qq.com/s/HAkcgwnLy3W2XT4YRXYcJg
+
+- 4.聊聊 Go 并发安全 https://mp.weixin.qq.com/s/ybW8sW7Xq6XpqQzMQlIlHA
+
+- 5.Go 语言学习路线来啦 https://mp.weixin.qq.com/s/aU5WqMxVS2vgGLGedZEu7w
+
+
  go语言中文网(每日资讯)-2021-06-14
 # go-news-set-2021-06-14
 ## go语言中文网(每日资讯)-2021-06-14
