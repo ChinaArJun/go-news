@@ -1,3 +1,65 @@
+ go语言中文网(每日资讯)-2021-06-14
+# go-news-set-2021-06-14
+## go语言中文网(每日资讯)-2021-06-14
+
+
+一、Go语言中文网
+
+1. [Go就这待遇？2021年6月程序员工资排行榜](https://mp.weixin.qq.com/s/HTb0R7qrAP5ElZFchaHCjw)
+
+2. [鸭子类型 vs 结构化类型 vs 标称类型？Go是哪种？](https://mp.weixin.qq.com/s/IITCKfywi-9FUq47fq4Iuw)
+
+3. [聊聊 Go 并发安全](https://mp.weixin.qq.com/s/ybW8sW7Xq6XpqQzMQlIlHA)
+
+二、亚军进化史
+
+1. [Go技术日报(2021-06-12)——分布式锁实现原理与最佳实践](https://mp.weixin.qq.com/s/1Mm-ip0J4DZXCekZG3Emaw)
+
+2. [Go技术日报(2021-06-13)——Go 高性能之建议和实践](https://mp.weixin.qq.com/s/MEc_XQgzZfb7Ttt1_T2cQA)
+
+三、码农桃花源
+
+1. [使用 litmus 验证内存重排](https://mp.weixin.qq.com/s/WOYC7KskgVOtBUc2WLqXkA)
+
+四、luozhiyun很酷
+
+1. [fasthttp：比net/http快十倍的Go框架(server 篇)](https://mp.weixin.qq.com/s/pbuMkiPCcif5871CdLcehA)
+
+五、董泽润的技术笔记
+
+1. [开发搞跨 redis 的一万种方法](https://mp.weixin.qq.com/s/YKAEjPVABpSxyxLieyqPsg)
+
+六、后端技术指南针
+
+1. [如何科学破解慢SQL?](https://mp.weixin.qq.com/s/OOh1G1DvtQ3-dEIXEKuWtw)
+
+七、奇伢云存储
+
+1. [这 7 个 Linux 命令，你是怎么来使用的？](https://mp.weixin.qq.com/s/yi-0hB9i7Q2XpXHouZ7pnQ)
+
+2. [动图图解！既然IP层会分片，为什么TCP层也还要分段？](https://mp.weixin.qq.com/s/LkuDO0Wc2c4ksgukO2NFqA)
+
+八、Pearl的仲夏夜之梦
+
+1. [深入理解Linux IO模型(二)](https://mp.weixin.qq.com/s/6AXO0mY2xSiQ7140f9UJuQ)
+
+九、Go招聘
+
+1. [面试官：如何避免Go变量被GC？](https://mp.weixin.qq.com/s/JkTVv52WZXhP3KDH1eNLPg)
+ gopherDaily-2021-06-14
+# go-news-set-2021-06-14
+## gopherDaily-2021-06-14
+- 1.所有设计模式的Go实现代码与流程图 - https://dev.to/gopher/go-all-design-patterns-code-with-workflow-ea1
+- 2.油管视频：Go中我从来不用的东西 - https://www.youtube.com/watch?v=5DVV36uqQ4E&list=PLEcwzBXTPUE9V1o8mZdC9tNnRZaTgI-1P&index=9
+- 3.trivy: 一个针对容器镜像、Git存储库和文件系统的漏洞扫描器，适用于CI - https://github.com/aquasecurity/trivy
+- 4.充分发挥Helm模板的作用 - https://blog.flant.com/advanced-helm-templating/
+- 5.基于角色的访问控制（RBAC），支持数据库持久化 - https://github.com/harranali/authority
+- 6.oracle推出terraform课程 - https://blogs.oracle.com/developers/learn-terraform-today-on-oci
+- 7.OpenTelemetry与可观察性的未来 - https://thenewstack.io/splunk-opentelemetry-and-the-future-of-observability/
+- 8.Argo CD和OpenShift如何为开发者实现GitOps - https://thenewstack.io/how-argo-cd-and-openshift-enable-gitops-for-developers/
+- 9.如何处理命令行中的密码 - https://smallstep.com/blog/command-line-secrets/
+- 10.计算机科学家的git原理指南 - https://eagain.net/articles/git-for-computer-scientists/
+
  go语言中文网(每日资讯)-2021-06-13
 # go-news-set-2021-06-13
 ## go语言中文网(每日资讯)-2021-06-13
