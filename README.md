@@ -1,3 +1,51 @@
+ go语言中文网(每日资讯)-2021-06-15
+# go-news-set-2021-06-15
+## go语言中文网(每日资讯)-2021-06-15
+
+
+一、Go语言中文网
+
+1. [GoLand 2021.2 EAP 发布](https://mp.weixin.qq.com/s/YKuur9QjU6BFnuHqqW5xDw)
+
+2. [图解 Go 逃逸分析](https://mp.weixin.qq.com/s/80pv2gpnbKMPNLDr3dnSCA)
+
+3. [高并发系统的限流策略：漏桶和令牌桶(附Go源码剖析)](https://mp.weixin.qq.com/s/w1z5nDZmb-bYV4E66e2rzw)
+
+二、亚军进化史
+
+1. [Go技术日报(2021-06-14)——Go 语言学习路线来啦](https://mp.weixin.qq.com/s/ZsucDNBf0NXA6th09_31jg)
+
+三、脑子进煎鱼了
+
+1. [Go 存储基础 — 内存结构体怎么写入文件？](https://mp.weixin.qq.com/s/Jeo23MdIljMr3X8sGs_nvA)
+
+四、mohuishou
+
+1. [localhost 就一定是 localhost 么?](https://mp.weixin.qq.com/s/DhuEN4XncTHtITyXAnmhug)
+
+五、MoeLove
+
+1. [K8S 生态周报| Docker v20.10.7 发布，修复了死锁和容器启动失败的问题](https://mp.weixin.qq.com/s/NudSiti0IADkpkoPcpGUeg)
+
+六、polarisxu
+
+1. [搭建了一个Go官网](https://mp.weixin.qq.com/s/7lkBRmjEkElvqHmJVVBWwQ)
+
+七、云加社区
+
+1. [分布式一致性算法Raft](https://mp.weixin.qq.com/s/9JnMQjjqb1Tjg3SUrRWoBQ)
+
+八、Go招聘
+
+1. [招聘：Golang 工程师  年薪40-100万，没有996和007！](https://mp.weixin.qq.com/s/rC44vuhx7p473rgkVk1Nyw)
+
+九、GoUpUp
+
+1. [为 tunny 提交的一次 PR](https://mp.weixin.qq.com/s/hxRaFtpMgvbTAfMfn70S5Q)
+
+十、Golang梦工厂
+
+1. [面试中如果这样写二分查找！](https://mp.weixin.qq.com/s/bLuqKWnTGlcxyhVK1913FQ)
  gocn_news-2021-06-15
 # go-news-set-2021-06-15
 ## gocn_news-2021-06-15
