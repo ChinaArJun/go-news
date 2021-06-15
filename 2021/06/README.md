@@ -1,3 +1,17 @@
+ gocn_news-2021-06-15
+# go-news-set-2021-06-15
+## gocn_news-2021-06-15
+- 1.从零学 Go：列表与字典 https://juejin.cn/post/6972316925795762183
+
+- 2.Go 1.16 如何使用 go:embed 资源文件内嵌功能 https://blog.jetbrains.com/go/2021/06/09/how-to-use-go-embed-in-go-1-16/
+
+- 3.Golang 如何调度你的程序的 https://juejin.cn/post/6972893426425528357
+
+- 4.初探 Golang ReverseProxy 源码 https://coderdao.github.io/2021/06/13/%!!(MISSING)E(MISSING)5%!D(MISSING)%!!(MISSING)E(MISSING)6%!!(MISSING)E(MISSING)%!!(MISSING)A(MISSING)2-ReverseProxy-%!!(MISSING)E(MISSING)6%!!(MISSING)B(MISSING)A%!E(MISSING)7%!!(MISSING)A(MISSING)0%!!(MISSING)/(MISSING)
+
+- 5.在终端以幻灯片方式阅读 Markdown 文件 https://github.com/maaslalani/slides
+
+
  gocn_news-2021-06-14
 # go-news-set-2021-06-14
 ## gocn_news-2021-06-14
