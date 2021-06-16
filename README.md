@@ -1,3 +1,61 @@
+ go语言中文网(每日资讯)-2021-06-16
+# go-news-set-2021-06-16
+## go语言中文网(每日资讯)-2021-06-16
+
+
+一、Go语言中文网
+
+1. [Go：字符串以及转换优化](https://mp.weixin.qq.com/s/PbmhUrfNu3slmnVyRK_KRw)
+
+2. [Go问题实战：时钟源为什么会影响性能](https://mp.weixin.qq.com/s/-czIqAldLTM4rp63g6O-Og)
+
+二、亚军进化史
+
+1. [Go技术日报(2021-06-15)——图解 Go 逃逸分析](https://mp.weixin.qq.com/s/FfYQLjJ_cGppz8K_cN3SpQ)
+
+三、Go夜读
+
+1. [【本周四】第 116 期理论结合实践详解 LSM 树存储引擎（bitcask、moss、leveldb 等）](https://mp.weixin.qq.com/s/wddlMDTtedXcvYZK76j_gA)
+
+四、腾讯云原生
+
+1. [一篇文章带你搞懂 etcd 3.5 的核心特性](https://mp.weixin.qq.com/s/mhHPyCAmdbT5wXF0vBiGzQ)
+
+五、腾讯技术工程
+
+1. [一文带你理解云原生](https://mp.weixin.qq.com/s/yX0hgIOLuaKsAcrWfOfcUQ)
+
+六、CloudNativeCommunity
+
+1. [知名图片分享平台 Pinterest 如何有把握地扩展 Kubernetes](https://mp.weixin.qq.com/s/gzImUEAxLKTNjY_JFraODg)
+
+七、k8s技术圈
+
+1. [使用 kube-vip 搭建高可用 Kubernetes 集群](https://mp.weixin.qq.com/s/yNYWOY9HWvLuVPmT9XZInw)
+
+八、董泽润的技术笔记
+
+1. [Rust 居然允许变量 shadowing](https://mp.weixin.qq.com/s/CL40UIHgxam3KQ0iqMVHGA)
+
+2. [深度剖析 Go 的 nil](https://mp.weixin.qq.com/s/0WhlsrMk_-wBHsUldZ60sg)
+
+九、网管叨bi叨
+
+1. [详解Redis的架构演化之路（附16张图解）](https://mp.weixin.qq.com/s/NjFVo0ht9tk1g9fOkHniTA)
+
+十、Go招聘
+
+1. [厉害了我的Go!   快来看看这份书单吧！](https://mp.weixin.qq.com/s/-ADK6w-eOighcjUfmhFCkg)
+
+十一、GoUpUp
+
+1. [Go 每日一库之 bubbletea](https://mp.weixin.qq.com/s/Hwlxbm1hQ5HfzA3yakg1Ig)
+
+十二、脑子进煎鱼了
+
+1. [我要提高 Go 程序健壮性，Fuzzing 来了！](https://mp.weixin.qq.com/s/zdsrmlwVR0bP1Q_Xg_VlpQ)
+
+2. [一文带你由浅入深地解读 Go Zap 的高性能](https://mp.weixin.qq.com/s/zqYNu2uTJe1UXiWvm98dOw)
  gocn_news-2021-06-16
 # go-news-set-2021-06-16
 ## gocn_news-2021-06-16
