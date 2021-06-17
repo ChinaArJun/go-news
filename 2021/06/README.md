@@ -1,3 +1,51 @@
+ go语言中文网(每日资讯)-2021-06-17
+# go-news-set-2021-06-17
+## go语言中文网(每日资讯)-2021-06-17
+
+
+一、Go语言中文网
+
+1. [从一道题讲起：Go 的不可寻址值和切片](https://mp.weixin.qq.com/s/mY_Tf2M-su-urHw2ItbC1A)
+
+2. [女朋友问我：你知道Go语言参数传递是传值还是传引用吗？](https://mp.weixin.qq.com/s/f7tCrLn3Iah6WB5ANqmCsA)
+
+二、亚军进化史
+
+1. [Go技术日报(2021-06-16)——详解Redis的架构演化之路](https://mp.weixin.qq.com/s/yMVEW2rzwg_5ApX-BcGu-Q)
+
+三、polarisxu
+
+1. [Go1.17 新特性之切片变数组](https://mp.weixin.qq.com/s/cl-Qsj6oK_6MKuMZHSDV5Q)
+
+四、脑子进煎鱼了
+
+1. [回答我，停止 Goroutine 有几种方法？](https://mp.weixin.qq.com/s/tN8Q1GRmphZyAuaHrkYFEg)
+
+2. [招聘：Go 工程师  年薪40-100万，没有996和007！](https://mp.weixin.qq.com/s/ncXdLQA4muB9WRGPZa9YzA)
+
+五、HHFCodeRv
+
+1. [localhost 就一定是 localhost 么?](https://mp.weixin.qq.com/s/I69v_lX-Wx7jxx9ddjT2Og)
+
+六、码农桃花源
+
+1. [通过实例理解 Go 逃逸分析](https://mp.weixin.qq.com/s/wNIX6LeHnBsl1UQuRtmC1g)
+
+七、k8s技术圈
+
+1. [创建 Tekton 流水线](https://mp.weixin.qq.com/s/M08CrTEeriZwvNCjlaZdkg)
+
+八、好未来技术
+
+1. [服务网格在网校平台研发部的实践和思考](https://mp.weixin.qq.com/s/Lbu228IknOJy6lmhTxFtcQ)
+
+九、mohuishou
+
+1. [Go timer 是如何被调度的？](https://mp.weixin.qq.com/s/YXYCmypE5qCK2SG342tcpg)
+
+十、Go招聘
+
+1. [全球语音视频云服务提供商ZEGO招聘](https://mp.weixin.qq.com/s/SYxgH3o2gzMON1dTGvvMvQ)
  gocn_news-2021-06-17
 # go-news-set-2021-06-17
 ## gocn_news-2021-06-17
