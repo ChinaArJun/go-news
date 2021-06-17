@@ -1,3 +1,17 @@
+ gocn_news-2021-06-17
+# go-news-set-2021-06-17
+## gocn_news-2021-06-17
+- 1.译文 Go 性能工具小抄 https://gocn.vip/topics/12198
+
+- 2.徒手用 Go 写个 Redis 服务器（Godis）https://www.cnblogs.com/xueweihan/p/14891859.html
+
+- 3.Go 所有设计模式的流程图与代码实现 https://dev.to/gopher/go-all-design-patterns-code-with-workflow-ea1
+
+- 4.详解 Go 程序的启动流程，你知道 g0，m0 是什么吗？ https://eddycjy.com/posts/go/go-bootstrap0/
+
+- 5.一篇文章带你搞懂 etcd 3.5 的核心特性 https://mp.weixin.qq.com/s/AYdDdFfJMRvaye0Esh7ImQ
+
+
  go语言中文网(每日资讯)-2021-06-16
 # go-news-set-2021-06-16
 ## go语言中文网(每日资讯)-2021-06-16
