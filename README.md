@@ -1,3 +1,17 @@
+ gocn_news-2021-06-18
+# go-news-set-2021-06-18
+## gocn_news-2021-06-18
+- 1.Golang 开发的一站式云原生 PaaS 平台 https://github.com/erda-project/erda
+
+- 2.深度剖析 Go 的 nil https://mp.weixin.qq.com/s/0WhlsrMk_-wBHsUldZ60sg
+
+- 3.浅入深解读 Go Zap 的高性能 https://mp.weixin.qq.com/s/zqYNu2uTJe1UXiWvm98dOw
+
+- 4.我要提高 Go 程序健壮性，Fuzzing 来了 https://mp.weixin.qq.com/s/zdsrmlwVR0bP1Q_Xg_VlpQ
+
+- 5.Go 问题实战：时钟源为什么会影响性能 https://mp.weixin.qq.com/s/-czIqAldLTM4rp63g6O-Og
+
+
  go语言中文网(每日资讯)-2021-06-17
 # go-news-set-2021-06-17
 ## go语言中文网(每日资讯)-2021-06-17
