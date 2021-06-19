@@ -1,3 +1,17 @@
+ gocn_news-2021-06-19
+# go-news-set-2021-06-19
+## gocn_news-2021-06-19
+- 1.Golang 的自然语言处理包   https://pkg.go.dev/github.com/james-bowman/nlp
+
+- 2.把 vue.js 应用打包进 golang   https://hackandsla.sh/posts/2021-06-18-embed-vuejs-in-go/
+
+- 3.一个高性能 http benchemark 工具拥有实时的 web ui 和命令行展示 https://github.com/six-ddc/plow
+
+- 4. 类似于 curl 但是是用于 grpc 的，跟 grpc server 交互的命令行工具 https://github.com/fullstorydev/grpcurl
+
+- 5. 一个商业级别的构建部署监控平台  https://github.com/erda-project/erda
+
+
  gocn_news-2021-06-18
 # go-news-set-2021-06-18
 ## gocn_news-2021-06-18
