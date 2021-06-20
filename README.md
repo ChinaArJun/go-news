@@ -1,3 +1,37 @@
+ go语言中文网(每日资讯)-2021-06-20
+# go-news-set-2021-06-20
+## go语言中文网(每日资讯)-2021-06-20
+
+
+一、Go语言中文网
+
+1. [搭建了一个Go官网](https://mp.weixin.qq.com/s/S21fFc0U3K8ZPJx_vbeX2w)
+
+2. [Go语言爱好者周刊：第 100 期 — 父亲节快乐](https://mp.weixin.qq.com/s/ZC4HS1cssK1nal9VuGP6-A)
+
+二、薯条的编程修养
+
+1. [Mutex和上厕所居然有这么多异曲同工之妙](https://mp.weixin.qq.com/s/wh_JIPxmo1V2gm6AeK4idQ)
+
+三、亚军进化史
+
+1. [Go技术日报(2021-06-19)——基于fasthttp实现的高性能http压测工具](https://mp.weixin.qq.com/s/Y4_735gdz-Fv9lX0T_fY9w)
+
+四、k8s技术圈
+
+1. [使用 Tekton Sidecar 实现 Docker IN Docker 构建](https://mp.weixin.qq.com/s/3cWv3Djmr84ysU9GBzZbSQ)
+
+五、有赞技术团队
+
+1. [有赞TCP网络编程最佳实践](https://tech.youzan.com/you-zan-tcpwang-luo-bian-cheng-zui-jia-shi-jian/)
+
+六、云原生技术爱好者社区
+
+1. [A Big Picture of Kubernetes](https://mp.weixin.qq.com/s/xMlvQzfgFZGgghV31tTVyw)
+
+七、Go招聘
+
+1. [股友说：Redis 主从复制就这？另外下周股什么，留言区告诉我](https://mp.weixin.qq.com/s/W1bsgGVfHURYUuAUlfenjg)
  gocn_news-2021-06-20
 # go-news-set-2021-06-20
 ## gocn_news-2021-06-20
