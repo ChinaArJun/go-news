@@ -1,3 +1,53 @@
+ go语言中文网(每日资讯)-2021-06-21
+# go-news-set-2021-06-21
+## go语言中文网(每日资讯)-2021-06-21
+
+
+一、Go语言中文网
+
+1. [为什么 Go 关心 unsafe.Pointer 和 uintptr 之间的差别](https://mp.weixin.qq.com/s/v37jHYwt-msNIwIntlRZPg)
+
+2. [Go：你真的了解 timeout 嘛？](https://mp.weixin.qq.com/s/dbZYwa7a9Q6I6-tb7T44QQ)
+
+二、亚军进化史
+
+1. [Go技术日报(2021-06-20)——有赞TCP网络编程最佳实践](https://mp.weixin.qq.com/s/qBNZAGmlzbeN-bk-1AoRRw)
+
+三、k8s技术圈
+
+1. [阿里云容器服务-Kubernetes高级工程师 | 云原生招聘](https://mp.weixin.qq.com/s/TElu3901a77Kr3KvgWsRew)
+
+四、Go招聘
+
+1. [灵魂一问：unsafe 包真的不安全吗？](https://mp.weixin.qq.com/s/PtAWvFrEUC8qXT3b46F7Rg)
+
+五、CloudNativeCommunity
+
+1. [蚂蚁开源多运行时项目 Layotto 简介](https://mp.weixin.qq.com/s/IkvsQqpyCTVhnXOfUXswcA)
+
+六、脑子进煎鱼了
+
+1. [漫谈 MQ：要消息队列（MQ）有什么用？](https://mp.weixin.qq.com/s/UrAJrUBKHNG7-UAabsqLZA)
+
+2. [我无语了，Go 中 +-*/ 四个运算符竟然可以连着用](https://mp.weixin.qq.com/s/8GRq6At23fMho3BKkylcGw)
+
+七、董泽润的技术笔记
+
+1. [一次有趣的 Docker 容器网络排查](https://mp.weixin.qq.com/s/LtgGcS9b8X-TqbfaLfBldQ)
+
+2. [小技巧！如何用 systemtap 排查问题](https://mp.weixin.qq.com/s/f9bPJOW2OR-vwp5DlZsDZQ)
+
+八、PingCAP
+
+1. [TiDB 在网易游戏的应用实践](https://mp.weixin.qq.com/s/Zh6baRekrZSDWYtFna8ZZg)
+
+九、Go夜读
+
+1. [理论结合实践详解 lsm 树存储引擎（bitcask、moss、leveldb 等） PPT （多图）](https://mp.weixin.qq.com/s/QxTtNdtkrJxRhaxUEKTqSg)
+
+十、奇伢云存储
+
+1. [自制文件系统 — 04 HelloFS 进阶 分布式加密文件系统](https://mp.weixin.qq.com/s/rxabk_o5YuSko8SM8EdouA)
  gocn_news-2021-06-21
 # go-news-set-2021-06-21
 ## gocn_news-2021-06-21
