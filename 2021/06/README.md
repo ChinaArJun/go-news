@@ -1,3 +1,17 @@
+ gocn_news-2021-06-21
+# go-news-set-2021-06-21
+## gocn_news-2021-06-21
+- 1.一切皆有可能——Golang 中的” ThreadLocal“库 https://mp.weixin.qq.com/s/CPthQSqUIO-u-VkTQSMVXA
+
+- 2.Golang 整洁接口最佳实践 https://mp.weixin.qq.com/s/eNoZTfh3L7mT-501g04YWQ
+
+- 3.使用 Github Action 自动发布 Go 程序 https://web3.coach/golang-github-actions-release-binaries-tutorial
+
+- 4.column: 位图索引高性能列式内存数据库 https://github.com/kelindar/column
+
+- 5.有赞 TCP 网络编程最佳实践 https://tech.youzan.com/you-zan-tcpwang-luo-bian-cheng-zui-jia-shi-jian/
+
+
  go语言中文网(每日资讯)-2021-06-20
 # go-news-set-2021-06-20
 ## go语言中文网(每日资讯)-2021-06-20
