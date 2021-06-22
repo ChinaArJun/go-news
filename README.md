@@ -12,6 +12,60 @@
 - 5.在 Golang 中是锁或 Channel 还是 Atomic https://mp.weixin.qq.com/s/DNFAcTLtXO5UEkSZ-zCOKg
 
 
+ go语言中文网(每日资讯)-2021-06-22
+# go-news-set-2021-06-22
+## go语言中文网(每日资讯)-2021-06-22
+
+
+一、Go语言中文网
+
+1. [Go项目推荐：一个快速安全的批量重命名开源工具](https://mp.weixin.qq.com/s/QOfLjr1RllbT0BPdqNNOzA)
+
+2. [一文讲懂 Go 服务的优雅重启和更新](https://mp.weixin.qq.com/s/_yIwbQCNxO-9CJvPqCAd1w)
+
+3. [在你的 Android 手机上运行 Golang 程序](https://mp.weixin.qq.com/s/EFHmjoTh0ji9Zc_YS6aPoQ)
+
+二、亚军进化史
+
+1. [Go技术日报(2021-06-21)——Golang 整洁接口最佳实践](https://mp.weixin.qq.com/s/BMBRD7m8WabCTp5eOhgrLw)
+
+三、Golang来啦
+
+1. [gRPC入门指南 — 服务端流式RPC（二）](https://mp.weixin.qq.com/s/f2-yA_Q9wPOClndKEwakMw)
+
+四、polarisxu
+
+1. [Go1.17 快报之标准库越来越注重易用性](https://mp.weixin.qq.com/s/6MWl8eT0KetLpLql_YLf4A)
+
+2. [难以驾驭的 Go timer，一文带你参透计时器的奥秘](https://mp.weixin.qq.com/s/a481CXU6VymHTH8OOVimGQ)
+
+五、脑子进煎鱼了
+
+1. [编程思考：对象生命周期的问题](https://mp.weixin.qq.com/s/Hoy9cqHe9RZqEA5T9Dys5w)
+
+六、MoeLove
+
+1. [为什么我们需要一个容器镜像的包管理器](https://mp.weixin.qq.com/s/91jhyW5UrKLH12RYKSXBGQ)
+
+七、高可用架构
+
+1. [dubbogo 是如何炼成的？](https://mp.weixin.qq.com/s/attVemCAHybGm9xli9JlUw)
+
+八、Go夜读
+
+1. [Go 1.17 因安全问题修改的 URL query parsing](https://mp.weixin.qq.com/s/LM2zzbk1lr7KC0bV801qTw)
+
+九、GoUpUp
+
+1. [Go 每日一库之 ozzo-validation](https://mp.weixin.qq.com/s/TWlmXSl8xH5gMj0ziIkuYg)
+
+十、TGO鲲鹏会
+
+1. [B站数据平台负责人毛剑：从管理到下一线，优秀管理者应具备什么样的素质？](https://mp.weixin.qq.com/s/zyl5pjPiyE4FgCNH0HK2VA)
+
+十一、Go招聘
+
+1. [网易游戏招聘Gopher，这福利有点香哦](https://mp.weixin.qq.com/s/8ZVpsngJC2_GxfhD4mj3AQ)
  go语言中文网(每日资讯)-2021-06-21
 # go-news-set-2021-06-21
 ## go语言中文网(每日资讯)-2021-06-21
