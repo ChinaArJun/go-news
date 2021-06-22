@@ -1,3 +1,17 @@
+ gocn_news-2021-06-22
+# go-news-set-2021-06-22
+## gocn_news-2021-06-22
+- 1.向 Go 编译器开发代码 https://medium.com/trendyol-tech/contributing-the-go-compiler-adding-new-tilde-operator-f66d0c6cff7
+
+- 2.Go 减少内存分配 https://chris124567.github.io/2021-06-21-go-performance/
+
+- 3.Go 1.17 因安全问题修改的 URL query parsing https://mp.weixin.qq.com/s/LM2zzbk1lr7KC0bV801qTw
+
+- 4.Go 自然语言检测库 https://github.com/pemistahl/lingua-go
+
+- 5.在 Golang 中是锁或 Channel 还是 Atomic https://mp.weixin.qq.com/s/DNFAcTLtXO5UEkSZ-zCOKg
+
+
  go语言中文网(每日资讯)-2021-06-21
 # go-news-set-2021-06-21
 ## go语言中文网(每日资讯)-2021-06-21
