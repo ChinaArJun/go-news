@@ -1,3 +1,17 @@
+ gocn_news-2021-06-23
+# go-news-set-2021-06-23
+## gocn_news-2021-06-23
+- 1.如何在 Go 中正确使用基本身份验证 https://www.alexedwards.net/blog/basic-authentication-in-go
+
+- 2.Go 处理错误的方式 https://www.bacancytechnology.com/blog/golang-error-handling
+
+- 3.Go 实现的用于与源代码一起版本控制数据的工具 https://github.com/kevin-hanselman/dud/
+
+- 4.GO 抓取网页信息 https://javarustacean.wordpress.com/2021/06/21/web-scrapping-in-go/
+
+- 5.Go 实时 Web UI 和终端显示的高性能 HTTP 基准测试工具 https://github.com/six-ddc/plow
+
+
  gocn_news-2021-06-22
 # go-news-set-2021-06-22
 ## gocn_news-2021-06-22
