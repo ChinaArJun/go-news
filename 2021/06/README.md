@@ -1,3 +1,61 @@
+ go语言中文网(每日资讯)-2021-06-23
+# go-news-set-2021-06-23
+## go语言中文网(每日资讯)-2021-06-23
+
+
+一、Go语言中文网
+
+1. [Go：随机数是怎样产生的？](https://mp.weixin.qq.com/s/lg0LhtK4CiM7-OC790aYCQ)
+
+2. [Go 语言保姆级教程（2021版上）](https://mp.weixin.qq.com/s/Q4mHlT3jjsh-D_PTgmPUvA)
+
+二、亚军进化史
+
+1. [Go技术日报(2021-06-22)——毛老师的管理之道](https://mp.weixin.qq.com/s/JmpBIeZqVdGiEydVY10_kA)
+
+三、码农桃花源
+
+1. [Go gomaxprocs 调高引起调度性能损耗](https://mp.weixin.qq.com/s/k9Zg3ji4Hp8dmYEkqx-gAg)
+
+四、腾讯技术工程
+
+1. [一文深入理解 Kubernetes](https://mp.weixin.qq.com/s/OXiqHvWJkmqz7FbclDd1jA)
+
+五、董泽润的技术笔记
+
+1. [小技巧！k8s 环境下调试服务](https://mp.weixin.qq.com/s/dSCNm-Yh1UQyaBz_J33UWQ)
+
+2. [Strace 解决性能问题案例一则](https://mp.weixin.qq.com/s/B7WWNNwZ23kVeXP8ufLnAQ)
+
+六、奇伢云存储
+
+1. [深度好文：进程和线程这 19 个问题太强了](https://mp.weixin.qq.com/s/wTicQwTu8Ta8gLv2fZ3rCA)
+
+七、k8s技术圈
+
+1. [GitLab 触发 Tekton 任务构建](https://mp.weixin.qq.com/s/Pc0DhHLtg-_n5vQ-IfzDCQ)
+
+八、云原生玩码部落
+
+1. [了解一下Go中的&quot;sb&quot;代码？](https://mp.weixin.qq.com/s/jXHqpNkTs6SwB9_JDIl85Q)
+
+九、MoeLove
+
+1. [开源项目的 5 年长跑，runc v1.0 终于正式发布！](https://mp.weixin.qq.com/s/NbJ8rsUBMNCyEygUqaxXpA)
+
+十、网管叨bi叨
+
+1. [Go语言的IO库那么多，我该怎么选？](https://mp.weixin.qq.com/s/TtN6NZ8hQ2AIf0C8wVzkjA)
+
+十一、脑子进煎鱼了
+
+1. [Go 缓冲系列之-free-cache](https://mp.weixin.qq.com/s/VmPIW6HhVrDyeADiRmkC_Q)
+
+十二、Go招聘
+
+1. [回答我，停止 Goroutine 有几种方法？](https://mp.weixin.qq.com/s/5y4Njz0tTLrO9rLPmbBT2A)
+
+2. [待遇比肩字节的招聘，你要来挑战嘛？](https://mp.weixin.qq.com/s/xv0dme8y2N9-R_ulmrfbpw)
  gocn_news-2021-06-23
 # go-news-set-2021-06-23
 ## gocn_news-2021-06-23
