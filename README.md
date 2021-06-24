@@ -1,3 +1,17 @@
+ gocn_news-2021-06-24
+# go-news-set-2021-06-24
+## gocn_news-2021-06-24
+- 1.使用 Go 泛型的函数式编程 https://gocn.vip/topics/12233
+
+- 2.一文读懂 eBPF 对 Kubernetes 可观测的重要性 https://mp.weixin.qq.com/s/xsCvDbCuVyn6kT2BFtHAjg
+
+- 3.Golang 语言中的 channel 实现原理 https://mp.weixin.qq.com/s/6Q4lqlIBWl2g-EqU-M-rHw
+
+- 4.Go 性能工具小抄 https://gocn.vip/topics/12198
+
+- 5.23 种设计模式的 Go 语言实现（二）https://bbs.huaweicloud.com/blogs/280291
+
+
  go语言中文网(每日资讯)-2021-06-23
 # go-news-set-2021-06-23
 ## go语言中文网(每日资讯)-2021-06-23
