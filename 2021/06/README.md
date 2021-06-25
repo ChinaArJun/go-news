@@ -1,3 +1,31 @@
+ gocn_news-2021-06-25
+# go-news-set-2021-06-25
+## gocn_news-2021-06-25
+- 1.项目中如何内嵌 Submodule https://medium.com/@RashadAnsari/working-with-go-sub-module-as-a-library-93e5db59a0f2
+
+- 2.Go 语言微服务开发快速上手指南 https://kaushalprajapati-25586.medium.com/golang-project-starter-60bfbbe63845
+
+- 3.为你的 Go 应用创建轻量级 Docker 镜像 http://www.cnblogs.com/you-men/p/14929232.html
+
+- 4.TDD 是如何帮助我们更好地开发 Go 代码,原理与实践 https://changelog.com/gotime/185
+
+- 5.Google 提出开源软件漏洞处理框架 https://security.googleblog.com/2021/06/announcing-unified-vulnerability-schema.html
+
+
+ gopherDaily-2021-06-25
+# go-news-set-2021-06-25
+## gopherDaily-2021-06-25
+- 1.黑带Go程序员 - https://bitfieldconsulting.com/golang/black-belt
+- 2.谷歌宣布宣布开放源代码的统一漏洞模式 - https://security.googleblog.com/2021/06/announcing-unified-vulnerability-schema.html
+- 3.容忍容器镜像仓库的故障 - https://blog.kintone.io/entry/neco-registry
+- 4.红帽：人为错误是导致Kubernetes安全事故的主要原因 - https://thenewstack.io/red-hat-human-error-a-leading-cause-of-kubernetes-security-mishaps/
+- 5.分布式追踪是个麻烦事，原因在此 - https://thenewstack.io/distributed-tracing-is-a-hassle-heres-why/
+- 6.字节开源的高性能json编解码包 - https://github.com/bytedance/sonic
+- 7.深度 | 字节跳动微服务架构体系演进 - https://zhuanlan.zhihu.com/p/382833278
+- 8.JWT对用户会话是危险的–有一个解决方案 - https://redislabs.com/blog/json-web-tokens-jwt-are-dangerous-for-user-sessions/
+- 9.Windows 11介绍 - https://blogs.windows.com/windowsexperience/2021/06/24/introducing-windows-11/
+- 10.随着区块链炒作的消退，开发者对以太坊进行了认真的研究 - https://thenewstack.io/as-blockchain-hype-fades-developers-give-ethereum-a-serious-look/
+
  gocn_news-2021-06-24
 # go-news-set-2021-06-24
 ## gocn_news-2021-06-24
