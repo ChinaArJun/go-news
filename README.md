@@ -1,3 +1,47 @@
+ go语言中文网(每日资讯)-2021-06-26
+# go-news-set-2021-06-26
+## go语言中文网(每日资讯)-2021-06-26
+
+
+一、Go语言中文网
+
+1. [Go 问题排查实战: 请求无响应](https://mp.weixin.qq.com/s/-RmAIuPwT-bAwdKriwMg-w)
+
+2. [小技巧！Mac 环境下编译 Go 服务](https://mp.weixin.qq.com/s/XQ2D5OpxkUSH2V_MR3Htmg)
+
+3. [Go：神奇的init函数](https://mp.weixin.qq.com/s/xag2pzC8LDqhcjcXeNxVrA)
+
+二、亚军进化史
+
+1. [Go技术日报(2021-06-25)——Go语言微服务开发快速上手指南](https://mp.weixin.qq.com/s/ZgPRQm3Cuy-fHXTQq3hTYw)
+
+2. [Go技术日报(2021-06-24)——Go gctrace引起 runtime 调度阻塞](https://mp.weixin.qq.com/s/w5HP-zMO3RZ-VMv7parFDw)
+
+三、k8s技术圈
+
+1. [KubeSphere Helm 应用仓库源码分析](https://mp.weixin.qq.com/s/aXN-VHomqYuivch1hOrV4w)
+
+四、云原生技术爱好者社区
+
+1. [工业互联网大数据中心使用 KubeEdge 实践](https://mp.weixin.qq.com/s/iM8AUzvdhNuDA1yHYcfLHQ)
+
+五、码农桃花源
+
+1. [参加了 Go 贡献者大会](https://mp.weixin.qq.com/s/p7Ggli11gC8xkoxMi9UXaQ)
+
+六、Pearl的仲夏夜之梦
+
+1. [浅析Golang的调度器(一)](https://mp.weixin.qq.com/s/X1-zYDjINmJEWFYhBzSvEQ)
+
+2. [《Kubernetes In Action》阅读笔记(二)](https://mp.weixin.qq.com/s/Ik3MSHBbmitAq8qt7B3joQ)
+
+七、luozhiyun很酷
+
+1. [1.深入TiDB：初见TiDB](https://mp.weixin.qq.com/s/25OMDwCiXxbWytnHrV_gBQ)
+
+八、Go招聘
+
+1. [带有WebUI的HTTP Benchmark小工具你用过吗？](https://mp.weixin.qq.com/s/JQA4Noq2FQYISKJRwtl99A)
  gocn_news-2021-06-26
 # go-news-set-2021-06-26
 ## gocn_news-2021-06-26
