@@ -1,3 +1,45 @@
+ go语言中文网(每日资讯)-2021-06-27
+# go-news-set-2021-06-27
+## go语言中文网(每日资讯)-2021-06-27
+
+
+一、Go语言中文网
+
+1. [Go1.17 快报之标准库的易用性](https://mp.weixin.qq.com/s/aE81r1Wc9a41b9GUsZ2qvw)
+
+2. [Go语言爱好者周刊：第 101 期 — Go Team 休假两周。。。](https://mp.weixin.qq.com/s/oM61Mk0Ut6xgPjKV8TeLLg)
+
+3. [Go timer 是如何被调度的？](https://mp.weixin.qq.com/s/eRWPdWWBDyc9TZHB3u197Q)
+
+二、亚军进化史
+
+1. [Go技术日报(2021-06-26)——分布式锁实现原理与最佳实践](https://mp.weixin.qq.com/s/AvEIWwa6cpDHoqr7F2g5ZA)
+
+三、新亮笔记
+
+1. [我是怎么写 Git Commit message 的？](https://mp.weixin.qq.com/s/PuYEiaI4T3VFJMhi-_qQ8w)
+
+四、k8s技术圈
+
+1. [使用 Tekton 重构自动化流水线](https://mp.weixin.qq.com/s/2tS_SsYYr5lm-BYpLw88ig)
+
+五、polarisxu
+
+1. [这个好：Go 中国开发者团队](https://mp.weixin.qq.com/s/_qigE7lAYMln-aayUzscWA)
+
+六、GoUpUp
+
+1. [Go 每日一库之 resty](https://mp.weixin.qq.com/s/ye9hlsGP9q-CkTCChZOY2g)
+
+七、golang算法架构leetcode技术php
+
+1. [Gopher China2021大会观感(day2)](https://mp.weixin.qq.com/s/EO0qsCBHVPl-HQb3HhS4Cg)
+
+2. [Gopher China2021大会首日观感](https://mp.weixin.qq.com/s/O2-ronZUyl6JjHbNobnt-g)
+
+八、Go招聘
+
+1. [为什么Redis集群有16384个槽？](https://mp.weixin.qq.com/s/dDlOLTHDYt1nr0Ke_tVRtg)
  go语言中文网(每日资讯)-2021-06-26
 # go-news-set-2021-06-26
 ## go语言中文网(每日资讯)-2021-06-26
