@@ -1,3 +1,57 @@
+ go语言中文网(每日资讯)-2021-06-28
+# go-news-set-2021-06-28
+## go语言中文网(每日资讯)-2021-06-28
+
+
+一、Go语言中文网
+
+1. [在 Golang 中使用 -w 和 -s 标志](https://mp.weixin.qq.com/s/aPP1Eb6jEJS7oKy4KZLI4g)
+
+2. [Go 监听信号退出并回收资源](https://mp.weixin.qq.com/s/Ca5ZG33NgIkKPSyVivwdsg)
+
+二、亚军进化史
+
+1. [Go技术日报(2021-06-27)——Gopher China2021大会观感](https://mp.weixin.qq.com/s/pM-5gXM2B1gxnQwoXIOGRA)
+
+三、k8s技术圈
+
+1. [K8s遇上Jenkins&amp;制品库](https://mp.weixin.qq.com/s/gjMZhVPhROPA49KFVcMgjA)
+
+四、奇伢云存储
+
+1. [自制文件系统 —— 05 总结：一切都为了狙击“文件”](https://mp.weixin.qq.com/s/x7WZmFULZ1AKXu6Kgw0P-Q)
+
+五、polarisxu
+
+1. [推荐三个Go实战开源项目](https://mp.weixin.qq.com/s/v_wonIeuxQWT_qPTGv7GIw)
+
+六、TonyBai
+
+1. [通过实例理解Go Execution Tracer](https://mp.weixin.qq.com/s/L7HiqA02g-l-b2pD6aRtbw)
+
+七、董泽润的技术笔记
+
+1. [我看 Gopher China 2021](https://mp.weixin.qq.com/s/Velw1jpnmsbX44G9CSBL3A)
+
+八、Golang梦工厂
+
+1. [学习channel设计：从入门到放弃](https://mp.weixin.qq.com/s/E2XwSIXw1Si1EVSO1tMW7Q)
+
+九、章老师说
+
+1. [Gopher China 分享：深入理解BFE](https://mp.weixin.qq.com/s/m8lXEnGIcApe8mrlNUmmCw)
+
+十、TechPaper
+
+1. [Gopher China 2021](https://mp.weixin.qq.com/s/m_qmqOKmRNqW5omrJ6ZxsA)
+
+十一、Pearl的仲夏夜之梦
+
+1. [浅析Golang的内存管理(一)](https://mp.weixin.qq.com/s/Y8m3tOOpUMFQGyq897oYiA)
+
+十二、Go招聘
+
+1. [Aibee开放大量Golang职位，快来和小姐姐做同事喽！](https://mp.weixin.qq.com/s/MD71qYFeCXQOrRgRvbgjUQ)
  go语言中文网(每日资讯)-2021-06-27
 # go-news-set-2021-06-27
 ## go语言中文网(每日资讯)-2021-06-27
