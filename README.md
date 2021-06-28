@@ -1,3 +1,17 @@
+ gocn_news-2021-06-28
+# go-news-set-2021-06-28
+## gocn_news-2021-06-28
+- 1.100 个 Go 经典错误 https://medium.com/solvingalgo/100-go-mistakes-2022-4debd9449a72
+
+- 2.减少你的 Go 程序内存占用 https://chris124567.github.io/2021-06-21-go-performance/
+
+- 3.深入浅出 Go 并发工作池 https://itnext.io/explain-to-me-go-concurrency-worker-pool-pattern-like-im-five-e5f1be71e2b0
+
+- 4.具有位图索引的内存列存储工具 column https://github.com/kelindar/column
+
+- 5.单机限流器 time/rate 库 https://gocn.vip/topics/12239
+
+
  go语言中文网(每日资讯)-2021-06-28
 # go-news-set-2021-06-28
 ## go语言中文网(每日资讯)-2021-06-28
