@@ -1,3 +1,48 @@
+ go语言中文网(每日资讯)-2021-06-30
+# go-news-set-2021-06-30
+## go语言中文网(每日资讯)-2021-06-30
+
+一、Go语言中文网
+
+1. [知乎热议：java太卷了，要不要转go啊？](https://mp.weixin.qq.com/s/Hb41qkaUTaXCCZrhQSO0QQ)
+
+2. [validator库你知多少？govalidator了解一下](https://mp.weixin.qq.com/s/AYfMAfHbFX40EQyLMbQ5EQ)
+
+3. [小技巧！k8s 环境下调试服务](https://mp.weixin.qq.com/s/cfMC02OgArnxgPrjAM_4NQ)
+
+二、亚军进化史
+
+1. [Go技术日报(2021-06-29)——深入理解Kafka的设计思想](https://mp.weixin.qq.com/s/xRfXGJVyXGvHlnycUH8xlA)
+
+三、polarisxu
+
+1. [这本 Go 新书挺期待的](https://mp.weixin.qq.com/s/ZDMHec34ixqMaVo365InHg)
+
+四、APISIX云原生微服务网关
+
+1. [差之毫厘：etcd 3 完美支持 HTTP 访问？](https://mp.weixin.qq.com/s/BS69w8aJdK2B6IJYN4g0AQ)
+
+五、后端技术指南针
+
+1. [图解|深入理解跳表及其在Redis中的应用](https://mp.weixin.qq.com/s/0Pm1n-tHGSRUht8bWVGjWQ)
+
+六、鸟窝
+
+1. [深入Go Module之go.mod文件解析](https://colobu.com/2021/06/28/dive-into-go-module-1/)
+
+2. [深入Go Module之讨厌的v2](https://colobu.com/2021/06/28/dive-into-go-module-2/)
+
+七、HHFCodeRv
+
+1. [开发中的一些坑](https://mp.weixin.qq.com/s/HR3ZrByrc50Pl3B52lvJcQ)
+
+八、Golang来啦
+
+1. [gRPC入门指南 — 双向流式RPC（四）](https://mp.weixin.qq.com/s/a5QxxEoyVwq-lnJR8dLlAA)
+
+九、Go招聘
+
+1. [Go中的error居然可以这样封装](https://mp.weixin.qq.com/s/q2VrY8ksNsmYzvqhUNv72A)
  go语言中文网(每日资讯)-2021-06-29
 # go-news-set-2021-06-29
 ## go语言中文网(每日资讯)-2021-06-29
