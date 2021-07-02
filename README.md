@@ -1,3 +1,17 @@
+ gocn_news-2021-07-02
+# go-news-set-2021-07-02
+## gocn_news-2021-07-02
+- 1.『每周译 Go』硬件内存模型 https://mp.weixin.qq.com/s/t0mWCya8DH0hXl21viAIRA
+
+- 2.函数传递指针真的比传值效率高吗 https://juejin.cn/post/6979939230810112030
+
+- 3.请不要使用==符号比较哈希密码 https://nowhereref.com/posts/please-dont-use-equal-operator-when-comparing-password-hashes/
+
+- 4.Gopher China 2021 https://mp.weixin.qq.com/s/m_qmqOKmRNqW5omrJ6ZxsA
+
+- 5.听说 Mutex 源码是出名的不好看，我不信，来试一下 https://mp.weixin.qq.com/s/kTlpaV22vaprJSEZy8KPsw
+
+
  gocn_news-2021-07-01
 # go-news-set-2021-07-01
 ## gocn_news-2021-07-01
