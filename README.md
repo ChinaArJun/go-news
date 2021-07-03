@@ -1,3 +1,17 @@
+ gocn_news-2021-07-03
+# go-news-set-2021-07-03
+## gocn_news-2021-07-03
+- 1.如何实现跨设备的双向连接？ Labo 涂鸦鸿蒙亲子版分布式开发技术分享 https://gocn.vip/topics/12264
+
+- 2.徒手用 Go 写个 Redis 服务器 https://mp.weixin.qq.com/s/zK_As1RklzwSEV0hlf2fZw
+
+- 3.从头开始编写时间序列数据库引擎 https://nakabonne.dev/posts/write-tsdb-from-scratch/
+
+- 4.用于音乐创作的基于文本的编程语言 Alda2 发布 https://blog.djy.io/announcing-alda-2/
+
+- 5.Google Map Android SDK 自定义 Marker，InfoWindow https://juejin.cn/post/6980556734234361887
+
+
  go语言中文网(每日资讯)-2021-07-02
 # go-news-set-2021-07-02
 ## go语言中文网(每日资讯)-2021-07-02
