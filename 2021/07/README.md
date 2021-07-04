@@ -1,3 +1,17 @@
+ gocn_news-2021-07-04
+# go-news-set-2021-07-04
+## gocn_news-2021-07-04
+- 1.Golang 中的一些非常规优化 https://mp.weixin.qq.com/s/X7OU9JjSThB5IZF_KVT1Jg
+
+- 2.使用 tableflip 实现应用的优雅热升级 https://gocn.vip/topics/12270
+
+- 3.netlink 是 Go 和内核模块之间优秀的通信兵 https://gocn.vip/topics/12268
+
+- 4.在 go 中实现一个 worker-pool https://mp.weixin.qq.com/s/0-cbZVAWgiTWIEcd4bInQA
+
+- 5.亿级系统的 Redis 缓存如何设计 https://mp.weixin.qq.com/s/bkXnbQIpI_GdX4BHkAhPUA
+
+
  go语言中文网(每日资讯)-2021-07-03
 # go-news-set-2021-07-03
 ## go语言中文网(每日资讯)-2021-07-03
