@@ -1,3 +1,39 @@
+ go语言中文网(每日资讯)-2021-07-04
+# go-news-set-2021-07-04
+## go语言中文网(每日资讯)-2021-07-04
+
+
+一、Go语言中文网
+
+1. [一本 Go 新书](https://mp.weixin.qq.com/s/GfZxuc6zTVaeuAxmtQN_fQ)
+
+2. [Go语言爱好者周刊：第 102 期](https://mp.weixin.qq.com/s/Sjeb3j1Un2mO-m_J-u1oNw)
+
+3. [通过 Go 学习浮点数精度](https://mp.weixin.qq.com/s/ezMI6SZnb9uTrbmBu5EUDw)
+
+二、亚军进化史
+
+1. [Go技术日报(2021-07-02)——你真的了解 Load Balance 嘛？](https://mp.weixin.qq.com/s/QiN8bMAvLQz0wgFfAbCgXQ)
+
+2. [Go技术日报(2021-07-03)——亿级系统的Redis缓存如何设计？？？](https://mp.weixin.qq.com/s/w21MZ5wBa6Ruw0uG8Hfo5Q)
+
+三、奇伢云存储
+
+1. [堆排序，怎么个堆法？](https://mp.weixin.qq.com/s/IWI3Gy_KhAshFiZaeaKl6w)
+
+2. [Go timer 是如何被调度的？](https://mp.weixin.qq.com/s/F8-74FozAqD2dPkw9HrDHQ)
+
+四、云原生技术爱好者社区
+
+1. [关于多集群Kubernetes的一些思考](https://mp.weixin.qq.com/s/haBM1BSDWLhRYBJH4cJHvA)
+
+五、TechPaper
+
+1. [Go 语言中的一些非常规优化](https://mp.weixin.qq.com/s/X7OU9JjSThB5IZF_KVT1Jg)
+
+六、鸟窝
+
+1. [深入Go Module之未说的秘密](https://colobu.com/2021/07/04/dive-into-go-module-3/)
  gocn_news-2021-07-04
 # go-news-set-2021-07-04
 ## gocn_news-2021-07-04
