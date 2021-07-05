@@ -1,3 +1,28 @@
+ gocn_news-2021-07-05
+# go-news-set-2021-07-05
+## gocn_news-2021-07-05
+- 1.自建的视频网站管理器，支持 b 站，YouTube  https://github.com/horahoradev/horahora
+
+
+  golang pipeline 实战 https://itnext.io/golang-pipeline-in-practise-6007dafbb85f
+
+简单 web 框架 dragon  https://github.com/azerothyang/dragon
+
+ golang 实现的 spotify 客户端  https://github.com/brianstrauch/spotify-cli
+
+ mock mongo-go-driver  https://medium.com/@victor.neuret/mocking-the-official-mongo-golang-driver-5aad5b226a78
+
+
+
+- 2.  golang pipeline 实战 https://itnext.io/golang-pipeline-in-practise-6007dafbb85f
+
+- 3.简单 web 框架 dragon  https://github.com/azerothyang/dragon
+
+- 4. golang 实现的 spotify 客户端  https://github.com/brianstrauch/spotify-cli
+
+- 5. mock mongo-go-driver  https://medium.com/@victor.neuret/mocking-the-official-mongo-golang-driver-5aad5b226a78
+
+
  go语言中文网(每日资讯)-2021-07-04
 # go-news-set-2021-07-04
 ## go语言中文网(每日资讯)-2021-07-04
