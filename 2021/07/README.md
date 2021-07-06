@@ -1,3 +1,51 @@
+ go语言中文网(每日资讯)-2021-07-06
+# go-news-set-2021-07-06
+## go语言中文网(每日资讯)-2021-07-06
+
+
+一、Go语言中文网
+
+1. [Go开源实战项目推荐：用来练手挺好](https://mp.weixin.qq.com/s/UJXbqcH9bO7utZJxXxWgUg)
+
+2. [如何选择一门编程语言](https://mp.weixin.qq.com/s/M-NlM8lzzL7IZJMNi0hIIw)
+
+3. [你真的了解 Load Balance 嘛](https://mp.weixin.qq.com/s/90nd-rh2P4QJF8fDPu3CVg)
+
+二、CloudNativeCommunity
+
+1. [云原生社区 meetup 第五期成都站视频及 PPT 分享](https://mp.weixin.qq.com/s/_Uf9dLa5yH5LpQcQgWAc8A)
+
+三、TonyBai
+
+1. [使用go-metrics在Go应用中增加度量](https://mp.weixin.qq.com/s/pFTLGOsyl5DgohbSTBSr-w)
+
+四、亚军进化史
+
+1. [Go技术日报(2021-07-05)——从零构建一个并发文件下载器](https://mp.weixin.qq.com/s/d8kwhR5OK4RZs7CGRCKYpg)
+
+五、polarisxu
+
+1. [小技巧分享：在 Go 如何实现枚举？](https://mp.weixin.qq.com/s/JJ2XmFK28FJwzhD-mYk8Iw)
+
+六、董泽润的技术笔记
+
+1. [真实环境下大内存 Go 服务性能优化一例](https://mp.weixin.qq.com/s/jGGCccMOx4s5asG2IXWNMQ)
+
+七、腾讯技术
+
+1. [技术人员的修炼手册](https://mp.weixin.qq.com/s/hK8i1Vl5xdFRX2SnNCUDKg)
+
+八、yifhao
+
+1. [几行代码为老板省百万-某高并发服务GOGC及UDP Pool优化](https://mp.weixin.qq.com/s/EuJ3Pw0s24Nr1h2edn5Sgg)
+
+九、脑子进煎鱼了
+
+1. [Go 中的 error 居然可以这样封装](https://mp.weixin.qq.com/s/-X8MKIQFRXmENsdwyRXcCg)
+
+十、Go招聘
+
+1. [在Go中如何用Redlock实现分布式锁呢？](https://mp.weixin.qq.com/s/e8sUwTBfgzXdCXd3ViCNdw)
  gocn_news-2021-07-06
 # go-news-set-2021-07-06
 ## gocn_news-2021-07-06
