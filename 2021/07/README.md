@@ -1,3 +1,17 @@
+ gocn_news-2021-07-06
+# go-news-set-2021-07-06
+## gocn_news-2021-07-06
+- 1.GopherChina 2021 Ian 说完整泛型实现将在 Go1.18 发布 (会议实录) https://mp.weixin.qq.com/s/RFfa-A0DomH2pXz4arAVnA
+
+- 2.ADBTuiFM-基于 tui 的 ADB 文件管理器  https://github.com/darkhz/adbtuifm
+
+- 3.Semverbot 用 GoLang 编写的 semver 版本管理 CLI 工具 https://github.com/restechnica/semverbot
+
+- 4.多 Goroutine 如何优雅处理错误？https://mp.weixin.qq.com/s/NX6kVJP-RdUzcCmG2MF31w
+
+- 5.优化 Golang 分布式行情推送的性能瓶颈  https://mp.weixin.qq.com/s/DF8GeW2Nx3s9yjzcvEunJA
+
+
  go语言中文网(每日资讯)-2021-07-05
 # go-news-set-2021-07-05
 ## go语言中文网(每日资讯)-2021-07-05
