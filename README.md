@@ -1,3 +1,17 @@
+ gocn_news-2021-07-07
+# go-news-set-2021-07-07
+## gocn_news-2021-07-07
+- 1.开启云原生 MOSN 新篇章 — 融合 Envoy 和 Golang 生态 https://mp.weixin.qq.com/s/ioewVcwiB5QA8w3A3gaikg
+
+- 2.Go 中性能测试可以是令人惊讶的 https://leveluppp.ghost.io/benchmarks-in-go-can-be-surprising/
+
+- 3.构建 Splitz：Razorpay 的大规模线上测试平台 https://engineering.razorpay.com/building-splitz-razorpays-platform-for-high-scale-experimentation-c917fe15d8f6
+
+- 4.entgo 中自动生成 GraphQL 过滤器https://entgo.io/blog/2021/07/01/automatic-graphql-filter-generation/
+
+- 5.dtm: 国人开源的分布式事务框架 https://github.com/yedf/dtm
+
+
  go语言中文网(每日资讯)-2021-07-06
 # go-news-set-2021-07-06
 ## go语言中文网(每日资讯)-2021-07-06
