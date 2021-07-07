@@ -1,3 +1,55 @@
+ go语言中文网(每日资讯)-2021-07-07
+# go-news-set-2021-07-07
+## go语言中文网(每日资讯)-2021-07-07
+
+
+一、Go语言中文网
+
+1. [在 5 分钟之内部署一个 Go 应用](https://mp.weixin.qq.com/s/ENKYHrWv_Ayz2XdjvQ3sVQ)
+
+2. [Go 每日一库之 ants 源码赏析](https://mp.weixin.qq.com/s/bs0ayyio--xCZZI0paY-Lw)
+
+二、亚军进化史
+
+1. [Go技术日报(2021-07-06)——多 Goroutine 如何优雅处理错误？](https://mp.weixin.qq.com/s/-GBg3Aes7foWSpCasvi8DA)
+
+三、MoeLove
+
+1. [开源中国专访张晋涛：从Web开发者到中国首位K8s ingress-nginx reviewer](https://mp.weixin.qq.com/s/yvP58J8NrUhWW3KEfH4gow)
+
+四、polarisxu
+
+1. [Rust 劝退系列 09：函数](https://mp.weixin.qq.com/s/nrGagd49cIucvq-ULR9Oow)
+
+五、董泽润的技术笔记
+
+1. [Go cmd 服务无法退出的小坑](https://mp.weixin.qq.com/s/mdc8c5Bd0LfLd4fP6SMAsQ)
+
+六、Go夜读
+
+1. [rosedb 及存储模型（PPT及参考资料）](https://mp.weixin.qq.com/s/MzBfTuqIaz2ny1B54-iYfw)
+
+七、CloudNativeCommunity
+
+1. [如何选择最佳的 Kubernetes 集群自动伸缩策略](https://mp.weixin.qq.com/s/hgw_yjCsNKPo7hP01FfSJQ)
+
+八、码农桃花源
+
+1. [高并发场景下 disk io 引发的高时延问题](https://mp.weixin.qq.com/s/e3peaNGwIuNkldvnP0pDug)
+
+2. [开启云原生 MOSN 新篇章 — 融合 Envoy 和 Golang 生态](https://mp.weixin.qq.com/s/dqdt3-nJdu7Y2rABbyksMA)
+
+九、网管叨bi叨
+
+1. [给，你要的Go学习路线图来啦](https://mp.weixin.qq.com/s/lTD6I_Aq_JR0pE_W3dTHnw)
+
+十、Go招聘
+
+1. [gRPC服务注册发现及负载均衡的实现方案与源码解析](https://mp.weixin.qq.com/s/fLmK1CRWxpPoJvcUaZK-LA)
+
+十一、吴亲强的深夜食堂
+
+1. [为什么把 dig 迁移到 wire](https://mp.weixin.qq.com/s/ZAHInPGKT4UZqzmfkqUCMQ)
  gocn_news-2021-07-07
 # go-news-set-2021-07-07
 ## gocn_news-2021-07-07
