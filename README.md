@@ -1,3 +1,17 @@
+ gocn_news-2021-07-08
+# go-news-set-2021-07-08
+## gocn_news-2021-07-08
+- 1.私有化仓库的 GO 模块使用实践 https://zhuanlan.zhihu.com/p/384621827
+
+- 2.Go 阅读清单 https://github.com/qichengzx/gopher-reading-list-zh_CN
+
+- 3.sync.RWMutex 实现和使用说明 https://sreramk.medium.com/go-sync-rwmutex-internals-and-usage-explained-9eb15865bba
+
+- 4.Go 使用 WasmEdge 嵌入 WASM https://www.secondstate.io/articles/extend-golang-app-with-webassembly-rust/
+
+- 5.go-doudou 去中心化微服务敏捷开发框架 https://github.com/unionj-cloud/go-doudou
+
+
  go语言中文网(每日资讯)-2021-07-07
 # go-news-set-2021-07-07
 ## go语言中文网(每日资讯)-2021-07-07
