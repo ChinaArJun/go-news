@@ -1,3 +1,37 @@
+ go语言中文网(每日资讯)-2021-07-08
+# go-news-set-2021-07-08
+## go语言中文网(每日资讯)-2021-07-08
+
+
+一、Go语言中文网
+
+1. [类似 Go 中的表格驱动测试的步骤驱动评估](https://mp.weixin.qq.com/s/saIuPyEW_yFNrcnP8qG0LQ)
+
+2. [你不知道的 Go 之 pprof](https://mp.weixin.qq.com/s/w6mx89xggITalSOHvx4vPA)
+
+二、亚军进化史
+
+1. [Go技术日报(2021-07-07)——dtm: 国人开源的分布式事务框架](https://mp.weixin.qq.com/s/AGPt0LV5VCXFIiz0jEZ_gA)
+
+三、CloudNativeCommunity
+
+1. [如何调试 Kubernetes 中的微服务 ——proxy、sidecar 还是 service mesh？](https://mp.weixin.qq.com/s/cPmlXiKDtqFBWRc-Wg5Ypw)
+
+四、luozhiyun很酷
+
+1. [endless 如何实现不停机重启 Go 程序？](https://mp.weixin.qq.com/s/VQdRsb-uL2XKB2N0cW6chQ)
+
+五、k8s技术圈
+
+1. [Tekton 与 Argo CD 结合实现 GitOps](https://mp.weixin.qq.com/s/8jCdM3w3rDpAxLuDkLHn8g)
+
+六、脑子进煎鱼了
+
+1. [微服务的灾难：拆的很爽，但服务太小...](https://mp.weixin.qq.com/s/QxxOeOZPiKAXGc73D8wqXA)
+
+七、polarisxu
+
+1. [网友很强大，发现了Go并发下载的Bug](https://mp.weixin.qq.com/s/g_v9ZOotpMfvgQtM5GqB-g)
  gocn_news-2021-07-08
 # go-news-set-2021-07-08
 ## gocn_news-2021-07-08
