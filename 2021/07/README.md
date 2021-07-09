@@ -1,3 +1,37 @@
+ go语言中文网(每日资讯)-2021-07-09
+# go-news-set-2021-07-09
+## go语言中文网(每日资讯)-2021-07-09
+
+
+一、Go语言中文网
+
+1. [详解 Go 语言 Protobuf 之 Message](https://mp.weixin.qq.com/s/Q8peFKy8Ftv21E4qmjNCXQ)
+
+2. [Go cmd 服务无法退出的小坑](https://mp.weixin.qq.com/s/4FEt052_CmWCkWLecOgxWg)
+
+二、polarisxu
+
+1. [搞 Go 要了解的 2 个 Header，你知道吗？](https://mp.weixin.qq.com/s/PszksqM4-c-mhQt-TUsMSQ)
+
+三、脑子进煎鱼了
+
+1. [给，你要的 Go 学习路线图来啦](https://mp.weixin.qq.com/s/ZQDr_f0-7yOptOQr46dvQQ)
+
+四、牛儿吃草仗剑天涯
+
+1. [一文读懂 分布式链路追踪系统 Jaeger](https://mp.weixin.qq.com/s/IdAQT3tNsCsGFwOXLf7Anw)
+
+五、网管叨bi叨
+
+1. [学习channel设计：从入门到放弃](https://mp.weixin.qq.com/s/wWF27OnOUf-GM0UKDfrqUA)
+
+六、Go招聘
+
+1. [关于Go Test这些小技巧，Gopher应该知道](https://mp.weixin.qq.com/s/HzET8y7lRa7NzJhB49ATtg)
+
+七、董泽润的技术笔记
+
+1. [弱智的 MySQL NULL](https://mp.weixin.qq.com/s/hmro3mAmEWDgpanH3DsPpQ)
  go语言中文网(每日资讯)-2021-07-08
 # go-news-set-2021-07-08
 ## go语言中文网(每日资讯)-2021-07-08
