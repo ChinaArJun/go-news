@@ -1,3 +1,65 @@
+ go语言中文网(每日资讯)-2021-07-11
+# go-news-set-2021-07-11
+## go语言中文网(每日资讯)-2021-07-11
+
+
+一、Go语言中文网
+
+1. [微软牛逼：招 Go 编译器全职开发人员](https://mp.weixin.qq.com/s/9hMU4FbTVGQZDwZ7Cdd67A)
+
+2. [Go语言爱好者周刊：第 103 期 — Go 实现的聊天机器人](https://mp.weixin.qq.com/s/-ZJ7lUIYj-7gA22CKlXGLg)
+
+3. [面试官：你能聊聊string和[]byte的转换吗？](https://mp.weixin.qq.com/s/gl7bM4M1b2howHnplop8FA)
+
+二、亚军进化史
+
+1. [Go技术日报(2021-07-09)——关于 Golang 的 4 个小秘密](https://mp.weixin.qq.com/s/0k5dY_TMsnYtdU0ZYjdk4w)
+
+2. [Go技术日报(2021-07-08)——Go 阅读清单](https://mp.weixin.qq.com/s/hQkN3lfExcN0kmLboL87Iw)
+
+三、TechPaper
+
+1. [为什么大公司里的垃圾系统也能保持稳定](https://mp.weixin.qq.com/s/BVg_vK8QTDzvD9MNm23qfg)
+
+四、k8s技术圈
+
+1. [Argo Rollouts 实现蓝绿/金丝雀发布](https://mp.weixin.qq.com/s/vTzrNUrG3UvAIQUfbSruow)
+
+五、HHFCodeRv
+
+1. [连接一个 IP 不存在的主机时，握手过程是怎样的？](https://mp.weixin.qq.com/s/wMzC1iD5hjIwKadHxRBIDQ)
+
+六、分布式实验室
+
+1. [2021 年 Kubernetes 的开发者工具：Helm、Kustomize 和 Skaffold](https://mp.weixin.qq.com/s/-OuKPLp82q4i9s1dkyUAVA)
+ gocn_news-2021-07-10
+# go-news-set-2021-07-10
+## gocn_news-2021-07-10
+- 1.简单灵活的 Go 健康检查库 https://github.com/alexliesenfeld/health
+
+- 2.Go 的 WorkerPools 实现
+
+- 3.硬件内存模型 https://research.swtch.com/hwmm
+
+- 4.从头编写一个时间序列的数据库引擎 https://nakabonne.dev/posts/write-tsdb-from-scratch/
+
+- 5.Go 实现的一个快速的 HTML 有害内容 XSS 清除库 https://github.com/microcosm-cc/bluemonday
+
+
+ gopherDaily-2021-07-10
+# go-news-set-2021-07-10
+## gopherDaily-2021-07-10
+- 1.长文！编程语言内存模型 by Russ Cox - https://research.swtch.com/plmm
+- 2.深入Go Module之未说的秘密 - https://colobu.com/2021/07/04/dive-into-go-module-3/
+- 3.使用反馈控制优化goroutines的数量 - https://blog.monochromegane.com/blog/2019/07/25/gophercon_2019_kaburaya/
+- 4.一个goroutine的大小 - https://tpaschalis.github.io/goroutines-size/
+- 5.Go netpoll I/O 多路复用构建原生网络模型之源码深度解析 - https://www.infoq.cn/article/boEavgkIqmvcj8qJNBxk
+- 6.Go: sync.RWMutex的原理和使用说明 - https://sreramk.medium.com/go-sync-rwmutex-internals-and-usage-explained-9eb15865bba#d1f6-c1e9f1b394e4
+- 7.关于在Go中实现并发安全计数器的方法汇总 - https://brunocalza.me/there-are-many-ways-to-safely-count/
+- 8.油管视频：实现Go worker池 - https://www.youtube.com/watch?v=1iBj5qVyfQA
+- 9.一个私人证书机构（X.509和SSH）和ACME服务器用于安全的自动证书管理 - https://github.com/smallstep/certificates
+- 10.播客：聊聊即将于go 1.17加入Go的Fuzzing - https://changelog.com/gotime/187
+
  go语言中文网(每日资讯)-2021-07-09
 # go-news-set-2021-07-09
 ## go语言中文网(每日资讯)-2021-07-09
