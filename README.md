@@ -1,3 +1,65 @@
+ go语言中文网(每日资讯)-2021-07-12
+# go-news-set-2021-07-12
+## go语言中文网(每日资讯)-2021-07-12
+
+
+一、Go语言中文网
+
+1. [Go 微服务中的熔断器和重试](https://mp.weixin.qq.com/s/4-n-mpSPrT8kbxRT1qv0Xw)
+
+2. [Go 每日一库之 tunny](https://mp.weixin.qq.com/s/Qvh_-TI3Dglp3-ddqC_L1A)
+
+二、亚军进化史
+
+1. [Go技术日报(2021-07-10)——使用反馈控制优化goroutines的数量](https://mp.weixin.qq.com/s/xQrfb071auTY3uahnlwNPg)
+
+2. [Go技术日报(2021-07-11)——为什么大公司里的垃圾系统也能保持稳定](https://mp.weixin.qq.com/s/SMwW1zL0wnDHODJWsoD0pQ)
+
+三、脑子进煎鱼了
+
+1. [一起聊聊 Go Context 的正确使用姿势](https://mp.weixin.qq.com/s/5JDSqNIimNrgm5__Z4FNjw)
+
+2. [Go项目实战：从零构建一个并发文件下载器](https://mp.weixin.qq.com/s/28CjAeINvlvNqLXP0g2oMw)
+
+四、Golang梦工厂
+
+1. [编程模式之Go如何实现装饰器](https://mp.weixin.qq.com/s/B_VYr3I525-vjHgzfW3Jhg)
+
+五、网管叨bi叨
+
+1. [试了试Docker桌面应用自带的K8s集群，一个字“简单”](https://mp.weixin.qq.com/s/Bq2Yckr6QkqFC7i7MCMhGA)
+
+六、Golang技术分享
+
+1. [你有考虑过defer Close() 的风险吗](https://mp.weixin.qq.com/s/7J6zEj_5gksZbFy0ANlvwg)
+
+七、李文周
+
+1. [Go结构体的内存对齐](https://mp.weixin.qq.com/s/gYL9nKIXEKgnZP8BHNADAA)
+
+八、董泽润的技术笔记
+
+1. [Rust 让人迷惑的 “借用”](https://mp.weixin.qq.com/s/F7nkdhUed-M2bhWnN3hiEg)
+
+九、奇伢云存储
+
+1. [Linux fd 系列 — eventfd 是什么？](https://mp.weixin.qq.com/s/7pp3_XdJoffrw9dxoCmnSw)
+
+十、码农桃花源
+
+1. [Go 超时引发大量 fin-wait2](https://mp.weixin.qq.com/s/eePELhDUfUZbHD72SuqmYw)
+
+十一、k8s技术圈
+
+1. [KubeVela 上手体验 - 让云端应用交付更加丝滑](https://mp.weixin.qq.com/s/Xmn8SIPhgU50_UK5ZjP9GA)
+
+十二、polarisxu
+
+1. [这个工具真好：看看你的Go项目依赖有无漏洞](https://mp.weixin.qq.com/s/pzCefw0g82f6fNqiW3wqEg)
+
+十三、Go招聘
+
+1. [Go日志库zero-log大解剖](https://mp.weixin.qq.com/s/knayd7gQSChyDfSJCxh3uA)
  go语言中文网(每日资讯)-2021-07-11
 # go-news-set-2021-07-11
 ## go语言中文网(每日资讯)-2021-07-11
