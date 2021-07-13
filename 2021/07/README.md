@@ -1,3 +1,31 @@
+ gocn_news-2021-07-13
+# go-news-set-2021-07-13
+## gocn_news-2021-07-13
+- 1.Go 1.16.6 and Go 1.15.14 are released https://groups.google.com/g/golang-announce/c/n9FxMelZGAQ/m/4ZhvTx0dAQAJ
+
+- 2.更新 Go 内存模型 https://research.swtch.com/gomm
+
+- 3.Go 依赖注入：为什么把 dig 迁移到 wire https://mp.weixin.qq.com/s/bHXRSpiIhycoQLN5oz0QMA
+
+- 4.编程模式之 Go 如何实现装饰器 https://mp.weixin.qq.com/s/B_VYr3I525-vjHgzfW3Jhg
+
+- 5.Go 不是 C，所以没有极快的方法来合并切片 https://github.com/go101/go101/wiki/Go-is-not-C,-so-there-is-not-an-extreme-fast-way-to-merge-slices
+
+
+ gopherDaily-2021-07-13
+# go-news-set-2021-07-13
+## gopherDaily-2021-07-13
+- 1.更新Go内存模型 by Russ Cox - https://research.swtch.com/gomm
+- 2.Go 1.16.6和1.15.14发布 - https://groups.google.com/g/golang-announce/c/n9FxMelZGAQ/m/4ZhvTx0dAQAJ
+- 3.Hashicorp开源cap：一个认证包的集合 - https://github.com/hashicorp/cap
+- 4.Go的典型项目目录结构的历史与原因 - https://www.reddit.com/r/golang/comments/oiwht8/reasoninghistory_of_gos_typical_project_directory/
+- 5.使用Istio和Kind的多集群流量镜像 - https://piotrminkowski.com/2021/07/12/multicluster-traffic-mirroring-with-istio-and-kind/
+- 6.理解Go类型嵌入 - https://octo.vmware.com/golang-embedding/
+- 7.成为更好的Go开发者的7个课题（和GitHub存储库) - https://dev.to/avelino/7-subjects-and-github-repositories-to-become-a-better-go-developer-3kb3
+- 8.在Go项目中运行的便捷命令 - https://github.com/nikolaydubina/go-recipes
+- 9.2D游戏引擎Ebiten作者的8年心路历程（日语) - https://note.com/hajimehoshi/n/nc09751f2dbf9
+- 10.在混合云和多云之间做出选择时需要考虑的问题 - https://thenewstack.io/what-to-consider-when-choosing-between-hybrid-and-multicloud/
+
  go语言中文网(每日资讯)-2021-07-12
 # go-news-set-2021-07-12
 ## go语言中文网(每日资讯)-2021-07-12
