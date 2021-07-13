@@ -1,3 +1,53 @@
+ go语言中文网(每日资讯)-2021-07-13
+# go-news-set-2021-07-13
+## go语言中文网(每日资讯)-2021-07-13
+
+
+一、Go语言中文网
+
+1. [图解 Go 协程，操作系统线程和 CPU 管理](https://mp.weixin.qq.com/s/INW0vr9_9cQhbTBR5ho0Sw)
+
+2. [Go 依赖注入：为什么把 dig 迁移到 wire](https://mp.weixin.qq.com/s/bHXRSpiIhycoQLN5oz0QMA)
+
+二、亚军进化史
+
+1. [Go技术日报(2021-07-12)——grpc基本概念](https://mp.weixin.qq.com/s/vxni2e0UPXQTPzrm-l7_HA)
+
+三、k8s技术圈
+
+1. [Prometheus 存储层的演进](https://mp.weixin.qq.com/s/TaE2mfJMHLMnw-NLYZRqhA)
+
+四、Golang梦工厂
+
+1. [大厂Golang语法50问!](https://mp.weixin.qq.com/s/gp-4KCc0JcuSA05jXpVYuA)
+
+五、HHFCodeRv
+
+1. [我为什么从 C++ 转到了 Go ?](https://mp.weixin.qq.com/s/2jEwYZJYQLtBYO5pq4bhwA)
+
+六、polarisxu
+
+1. [Rust + Go 双剑合璧：WebAssembly 领域应用](https://mp.weixin.qq.com/s/501wCGxATJ0J7kGZqsKiJw)
+
+2. [Go1.16.6 发布：又一个小问题引发安全 Bug](https://mp.weixin.qq.com/s/s1q6YKzFX0FLec394es-0g)
+
+七、董泽润的技术笔记
+
+1. [如何用 Go 实现 JIT Compiler](https://mp.weixin.qq.com/s/ubxfUg9qAqlBmi-Yw0H-fw)
+
+2. [一文解惑 //go:linkname 指令](https://mp.weixin.qq.com/s/0rOBzMeFHKS0MLRtYGhHvw)
+
+八、Go夜读
+
+1. [Go 紧急修复 crypto/tls 安全问题](https://mp.weixin.qq.com/s/WC0VSOzDk5XTXcc5tLP6fg)
+
+九、Go语言进阶
+
+1. [日志库的使用姿势](https://mp.weixin.qq.com/s/rqmrkUiDtorzEIN00ObbLg)
+
+十、腾讯云中间件
+
+1. [Kratos技术系列｜从Kratos设计看Go微服务工程实践](https://mp.weixin.qq.com/s/ZCoc3qA_r1fKzPOURA2V2g)
  gocn_news-2021-07-13
 # go-news-set-2021-07-13
 ## gocn_news-2021-07-13
