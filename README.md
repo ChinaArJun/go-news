@@ -1,3 +1,31 @@
+ gocn_news-2021-07-15
+# go-news-set-2021-07-15
+## gocn_news-2021-07-15
+- 1.编写高质量的 Go benchmarks 并不容易 https://github.com/go101/go101/wiki/Writing-qualified-Go-benchmarks-is-not-easy
+
+- 2.安全计数的多种方式 https://brunocalza.me/there-are-many-ways-to-safely-count/
+
+- 3.Go 中的流水线模式 https://ketansingh.me/posts/pipeline-pattern-in-go-part-1/
+
+- 4.探究 sync.RWMutex https://sreramk.medium.com/go-sync-rwmutex-internals-and-usage-explained-9eb15865bba#d1f6-c1e9f1b394e4
+
+- 5.轻量级依赖注入框架 di https://github.com/go-tk/di
+
+
+ gopherDaily-2021-07-14
+# go-news-set-2021-07-14
+## gopherDaily-2021-07-14
+- 1.编程语言内存模型[译] -  https://colobu.com/2021/07/11/Programming-Language-Memory-Models/
+- 2.livekit: Go实现的基于WebRTC的分布式视频/音频聊天室 - https://github.com/livekit/livekit-server
+- 3.testza: Go的全功能测试框架! 支持断言、mock、输出捕捉等 - https://github.com/MarvinJWendt/testza/
+- 4.Go http router框架横向对比 - https://benhoyt.com/writings/go-routing/
+- 5.WebAssembly旨在消除文件系统 - https://thenewstack.io/webassembly-aims-to-eliminate-the-file-system/
+- 6.改善Kubernetes开发的有用工具 - https://blog.usejournal.com/useful-tools-for-better-kubernetes-development-87820c2b9435
+- 7.gan-go: 通过Gorgonia在Go中使用生成对抗性网络(GAN) - https://github.com/LdDl/gan-go
+- 8.用WasmEdge和YoMo进行实时数据流的AI推理 - https://www.secondstate.io/articles/yomo-wasmedge-real-time-data-streams/
+- 9.Go-clean-template：用于Go服务的clean architecture模板 - https://evrone.com/go-clean-template
+- 10.代码搜索的未来 by sourcegraph (刚获得由安德烈森 · 霍洛维茨领投的1.25亿刀D轮投资)- https://about.sourcegraph.com/blog/the-future-of-code-search/
+
  go语言中文网(每日资讯)-2021-07-13
 # go-news-set-2021-07-13
 ## go语言中文网(每日资讯)-2021-07-13
