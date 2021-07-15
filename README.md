@@ -1,3 +1,51 @@
+ go语言中文网(每日资讯)-2021-07-15
+# go-news-set-2021-07-15
+## go语言中文网(每日资讯)-2021-07-15
+
+
+一、Go语言中文网
+
+1. [Go 项目从 Travis 迁移至 GitHub Actions](https://mp.weixin.qq.com/s/P8-ob4F70J03Hv_CQvJVcw)
+
+2. [Go结构体的内存对齐](https://mp.weixin.qq.com/s/qHeM_eJ33m-vH6CmqUYnOg)
+
+二、亚军进化史
+
+1. [Go技术日报(2021-07-14)——Go1.16.6 发布](https://mp.weixin.qq.com/s/a6Qrnn5yirQUl70kP47r3w)
+
+三、k8s技术圈
+
+1. [Argo Rollouts 基于 Analysis 的渐进式发布](https://mp.weixin.qq.com/s/13HOX1j0DcjdH8v8-IVUKA)
+
+四、Golang梦工厂
+
+1. [赏析Singleflight设计](https://mp.weixin.qq.com/s/JUkxGbx1Ufpup3Hx08tI2w)
+
+五、polarisxu
+
+1. [Rust 所有权很难？这个开源工具帮你理解](https://mp.weixin.qq.com/s/ga5EES5wxfvQscJJaw97fw)
+
+六、董泽润的技术笔记
+
+1. [再批 MySQL JSON](https://mp.weixin.qq.com/s/nIpzfpggA1VWNiRBZVTm1A)
+
+七、码农桃花源
+
+1. [曹大带我学 Go（7）—— 如何优雅地指定配置项](https://mp.weixin.qq.com/s/qwzhLKnSAYlRT7oeE93CPg)
+
+八、脑子进煎鱼了
+
+1. [微服务的灾难：折磨人的环境！](https://mp.weixin.qq.com/s/h2tC7X1SEdX2tPnzCV_hWw)
+
+2. [Go1.16.6 发布：又一个小问题引发安全 Bug](https://mp.weixin.qq.com/s/6vxsF2N9LbswnIYCGMsXeQ)
+
+九、网管叨bi叨
+
+1. [用Kubernetes搭建便携式开发环境之MongoDB](https://mp.weixin.qq.com/s/99Bp1GouUKoZVZ6_uF7msw)
+
+十、Go招聘
+
+1. [详解 Go 程序的启动流程，你知道 g0，m0 是什么吗？](https://mp.weixin.qq.com/s/1cKn0fhd_b_kh4Oy3UvYMA)
  gocn_news-2021-07-15
 # go-news-set-2021-07-15
 ## gocn_news-2021-07-15
