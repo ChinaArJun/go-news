@@ -1,3 +1,17 @@
+ gocn_news-2021-07-17
+# go-news-set-2021-07-17
+## gocn_news-2021-07-17
+- 1.Golang 官方认可的 websocket 库-gorilla/websocket  https://gocn.vip/topics/12349
+
+- 2.Go 内存模型  https://colobu.com/2021/07/13/Updating-the-Go-Memory-Model/
+
+- 3.如何提高缓存系统的内存利用率和可扩展性   https://draveness.me/papers-segcache/
+
+- 4.浅谈 Protobuf 编码  https://mp.weixin.qq.com/s/enDUynhZ1Pnzg_4xEjR21A
+
+- 5.深入浅出 Linux 惊群：现象、原因和解决方案  https://mp.weixin.qq.com/s/dQWKBujtPcazzw7zacP1lg
+
+
  go语言中文网(每日资讯)-2021-07-15
 # go-news-set-2021-07-15
 ## go语言中文网(每日资讯)-2021-07-15
