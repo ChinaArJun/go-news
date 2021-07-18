@@ -1,3 +1,37 @@
+ go语言中文网(每日资讯)-2021-07-18
+# go-news-set-2021-07-18
+## go语言中文网(每日资讯)-2021-07-18
+
+
+一、Go语言中文网
+
+1. [一顿操作猛如虎：Rust 能避免 Go 的 Bug？](https://mp.weixin.qq.com/s/qxgTsATqGLjx89d9rE2Vmg)
+
+2. [golang freecache源码分析](https://mp.weixin.qq.com/s/NYRtl17VzULs7nxkSKeX7w)
+
+3. [被遗弃在角落里的 sync.Cond](https://mp.weixin.qq.com/s/zJofjmLaOBQkshMeTPi1HQ)
+
+二、亚军进化史
+
+1. [Go技术日报(2021-07-17)——赏析 Singleflight 设计](https://mp.weixin.qq.com/s/tVG_D32jkUK74GuPGT7igw)
+
+三、云原生技术爱好者社区
+
+1. [深入研究Docker联合文件系统](https://mp.weixin.qq.com/s/ygRW_0ZNSeArr-2MQHv07A)
+
+四、小白debug
+
+1. [面试官：熔断降级原理是什么？](https://mp.weixin.qq.com/s/5UKIzlQmOoPjf6M2hjPOzQ)
+
+五、Go夜读
+
+1. [LSM 派系（不仅 LSM TREE）存储模型概述（上篇）](https://mp.weixin.qq.com/s/0V9O7urr5Zmgps-U24eknQ)
+
+2. [LSM 派系（不仅 LSM TREE）存储模型概述（下篇）](https://mp.weixin.qq.com/s/Iegl1i8-cNCGrtwQTqoEPA)
+
+六、奇伢云存储
+
+1. [逻辑是怎样炼成的？](https://mp.weixin.qq.com/s/ki6GTw2s1IzTPxwX_N5IQg)
  gocn_news-2021-07-18
 # go-news-set-2021-07-18
 ## gocn_news-2021-07-18
