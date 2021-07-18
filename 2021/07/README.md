@@ -1,3 +1,17 @@
+ gocn_news-2021-07-18
+# go-news-set-2021-07-18
+## gocn_news-2021-07-18
+- 1.[译] 更新 Go 内存模型 https://colobu.com/2021/07/13/Updating-the-Go-Memory-Model/
+
+- 2.Go 实现的网状 VPN https://www.samlewis.me/2021/07/creating-mesh-vpn-tool-for-fun/
+
+- 3.Cobra + Client-go 实现 K8s 自定义插件开发 https://juejin.cn/post/6983324056502140964
+
+- 4.谷歌云 serverless 跑 gRPC 和 gRPC Web Serverless 服务  https://blog.gendocu.com/posts/grpc-on-google-cloud/
+
+- 5.Go sync 包如何控制并发？ https://juejin.cn/post/6986067019334418468
+
+
  gocn_news-2021-07-17
 # go-news-set-2021-07-17
 ## gocn_news-2021-07-17
