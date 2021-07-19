@@ -1,3 +1,30 @@
+ gocn_news-2021-07-19
+# go-news-set-2021-07-19
+## gocn_news-2021-07-19
+- 1.面试官：小松子知道什么是内联函数吗？ https://mp.weixin.qq.com/s/t4-LXNF8l4OWM3jiqizdew
+
+- 2.一文搞懂 Go 语言的 plugin https://tonybai.com/2021/07/19/understand-go-plugin
+
+- 3.Go 程序内存分配过多？试试本文的方法 https://mp.weixin.qq.com/s/nQMgB76ecuF86TtO1NjiOA
+
+- 4.字节跳动开发的高性能非阻塞 I/O 网络框架，专注于 RPC 场景 https://github.com/cloudwego/netpoll
+
+- 5.Gort 是为 chatops 从头设计的聊天机器人框架 https://github.com/getgort/gort
+
+
+ gopherDaily-2021-07-19
+# go-news-set-2021-07-19
+## gopherDaily-2021-07-19
+- 1.Gorse：一个开箱即用的开源推荐系统 - https://github.com/zhenghaoz/gorse
+- 2.Go管道线模式实现第二部分 - https://ketansingh.me/posts/pipeline-pattern-in-go-part-2/
+- 3.根据公开的GitHub存储库，最受欢迎的编程语言 - https://www.reddit.com/r/dataisbeautiful/comments/om66b5/oc_most_popular_programming_languages_according/
+- 4.Gort是一个从头开始为聊天机器人设计的go框架 - https://github.com/getgort/gort
+- 5.Mesh VPN是如何工作的？用Go编写我自己的VPN工具来寻找答案 - https://www.samlewis.me/2021/07/creating-mesh-vpn-tool-for-fun/
+- 6.深入理解sync.Map工作原理 - https://sreramk.medium.com/go-inside-sync-map-how-does-sync-map-work-internally-97e87b8e6bf
+- 7.使用公司内部的Kubernetes金丝雀控制器逐步发布代码 - https://doordash.engineering/2021/04/14/gradual-code-releases-using-an-in-house-kubernetes-canary-controller/
+- 8.Linux I/O 原理和 Zero-copy 技术全面揭秘 - https://strikefreedom.top/linux-io-and-zero-copy
+- 9.学习Go语言的21个理由 - https://www.golang4us.com/2020/10/why-learn-go.html
+
  go语言中文网(每日资讯)-2021-07-18
 # go-news-set-2021-07-18
 ## go语言中文网(每日资讯)-2021-07-18
