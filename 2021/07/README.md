@@ -1,3 +1,61 @@
+ go语言中文网(每日资讯)-2021-07-19
+# go-news-set-2021-07-19
+## go语言中文网(每日资讯)-2021-07-19
+
+
+一、Go语言中文网
+
+1. [听说过对 Go map 做 GC 吗？](https://mp.weixin.qq.com/s/fTyfcBhRGNo3Q3Gl12_XNw)
+
+2. [echo 框架解析客户端IP的坑](https://mp.weixin.qq.com/s/uhmAe4cxVa7-3O6RITQVYA)
+
+二、亚军进化史
+
+1. [Go技术日报(2021-07-18)——面试官：熔断降级原理是什么？](https://mp.weixin.qq.com/s/sS3DimpYAZk1UEVzSbAUPw)
+
+三、luozhiyun很酷
+
+1. [2.深入TiDB：入口代码分析及调试 TiDB](https://mp.weixin.qq.com/s/4tIVJP0DR5dfb9fOG-iOuA)
+
+四、polarisxu
+
+1. [厉害了我的 Go：国人开源的推荐系统](https://mp.weixin.qq.com/s/eN5I067dJpvUIVT7V5YUAA)
+
+五、CloudNativeCommunity
+
+1. [服务网格联网：使用案例、最佳实践和顶级服务网格选择比较](https://mp.weixin.qq.com/s/JicqKtuNlZ1FsuHyx-EjLw)
+
+六、Golang梦工厂
+
+1. [面试官：小松子知道什么是内联函数吗？](https://mp.weixin.qq.com/s/t4-LXNF8l4OWM3jiqizdew)
+
+七、k8s技术圈
+
+1. [镜像搬运工具 Skopeo 使用](https://mp.weixin.qq.com/s/tj0niGcJ2nmpQQoh_wyGAA)
+
+八、董泽润的技术笔记
+
+1. [Rust 让人难以理解的 lifetime](https://mp.weixin.qq.com/s/tX4ghbGuY3p25t1HofPCIg)
+
+2. [深入理解 Linux 的 epoll 机制](https://mp.weixin.qq.com/s/m48o56BigLUp1RgmWySfKA)
+
+九、脑子进煎鱼了
+
+1. [微服务的灾难：测试越来越痛苦...](https://mp.weixin.qq.com/s/ogi_pnmzRsjA5pic1arEjw)
+
+2. [Go程序内存分配过多？试试本文的方法](https://mp.weixin.qq.com/s/zBHPYJWnGf67Ex8i4cV8Eg)
+
+十、码农桃花源
+
+1. [曹大带我学 Go（8）—— 一个打点引发的事故](https://mp.weixin.qq.com/s/8puLJSJ3GeXnmDlMxdzGgQ)
+
+十一、Golang来啦
+
+1. [gRPC入门指南 — 通过TLS建立安全连接（五）](https://mp.weixin.qq.com/s/Qa3YZcfl-JaJ6iQd3mXptQ)
+
+十二、Go招聘
+
+1. [助力你成为更好Gopher的7个Go库](https://mp.weixin.qq.com/s/UWrs05EoIapwSCS11aJH7w)
  gocn_news-2021-07-19
 # go-news-set-2021-07-19
 ## gocn_news-2021-07-19
