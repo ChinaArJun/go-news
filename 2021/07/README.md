@@ -1,3 +1,51 @@
+ go语言中文网(每日资讯)-2021-07-20
+# go-news-set-2021-07-20
+## go语言中文网(每日资讯)-2021-07-20
+
+
+一、Go语言中文网
+
+1. [Go语言爱好者周刊：第 104 期 — Go1.17 RC1发布](https://mp.weixin.qq.com/s/xlEeovtq9hSRsEdx7kwhAw)
+
+2. [golang benchmark源码分析](https://mp.weixin.qq.com/s/n9x4FxFLOwG8FMNIqI8e1Q)
+
+二、亚军进化史
+
+1. [Go技术日报(2021-07-19)——国人开源的推荐系统](https://mp.weixin.qq.com/s/tW5Hx3rJixamIHQvUu-osQ)
+
+三、脑子进煎鱼了
+
+1. [网友很强大，发现了Go并发下载的Bug](https://mp.weixin.qq.com/s/Kd4np83CKEOLQ3K0eWxlKg)
+
+四、网管叨bi叨
+
+1. [我用休眠做并发控制，搞垮了下游服务](https://mp.weixin.qq.com/s/ZjDnYTBH6Wyn3k8MbZqGOw)
+
+五、k8s技术圈
+
+1. [记一次 K8S 排错实战过程](https://mp.weixin.qq.com/s/aO-f8wHu6EOB2le-nRD7gA)
+
+六、MoeLove
+
+1. [直播预告｜云原生场景下企业API 网关选型及落地实践](https://mp.weixin.qq.com/s/zGpesHBm3hOCIarG4Q8xWQ)
+
+2. [图解 Deployment Controller 工作流程](https://mp.weixin.qq.com/s/T7X-_dKV1qx2eNG-wtaT3Q)
+
+七、polarisxu
+
+1. [为什么 Go map 和 slice 是非线性安全的？](https://mp.weixin.qq.com/s/lD6kI6ZT_ZqBfC-13kFfnw)
+
+八、微服务实践
+
+1. [一文搞懂一致性hash的原理和实现](https://mp.weixin.qq.com/s/dpwC4TAAO1CdlPWIC_KFUg)
+
+九、GoUpUp
+
+1. [Go 每日一库之 gorilla/mux](https://mp.weixin.qq.com/s/aCj8VjYtcthVOJNfWefFBA)
+
+十、Go招聘
+
+1. [面试题：如何更新 Go Module 项目的依赖 — 解决问题的方法很重要](https://mp.weixin.qq.com/s/WJqwndZ3ORy8tlX6Kl6cWQ)
  gocn_news-2021-07-20
 # go-news-set-2021-07-20
 ## gocn_news-2021-07-20
