@@ -1,3 +1,17 @@
+ gocn_news-2021-07-20
+# go-news-set-2021-07-20
+## gocn_news-2021-07-20
+- 1.Go 每日一库之 gorilla/mux https://segmentfault.com/a/1190000040371581
+
+- 2.PHP 转 Go 速学手册 https://mp.weixin.qq.com/s/aC0P3OfwrQ5VamQIyj9Kxg
+
+- 3.深度分析 Golang sync.Pool 底层原理 https://www.cyhone.com/articles/think-in-sync-pool/
+
+- 4.一文搞懂一致性 hash 的原理和实现 https://gocn.vip/topics/12361
+
+- 5.《2021 开发者生态系统现状》https://blog.jetbrains.com/zh-hans/blog/2021/07/16/the-state-of-developer-ecosystem-2021/
+
+
  go语言中文网(每日资讯)-2021-07-19
 # go-news-set-2021-07-19
 ## go语言中文网(每日资讯)-2021-07-19
