@@ -1,3 +1,17 @@
+ gocn_news-2021-07-21
+# go-news-set-2021-07-21
+## gocn_news-2021-07-21
+- 1.使用 TiDB 构建实时应用 https://gocn.vip/topics/12365
+
+- 2.100 Go Mistackes：How to Avoid Them https://gocn.vip/topics/12364
+
+- 3.用 Go 轻松完成一个 TCC 分布式事务，保姆级教程 https://gocn.vip/topics/12363
+
+- 4.Go 并发下载的 Bug https://mp.weixin.qq.com/s/Kd4np83CKEOLQ3K0eWxlKg
+
+- 5.记一次 K8S 排错实战过程 https://mp.weixin.qq.com/s/aO-f8wHu6EOB2le-nRD7gA
+
+
  go语言中文网(每日资讯)-2021-07-20
 # go-news-set-2021-07-20
 ## go语言中文网(每日资讯)-2021-07-20
