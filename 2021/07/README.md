@@ -1,3 +1,31 @@
+ gocn_news-2021-07-22
+# go-news-set-2021-07-22
+## gocn_news-2021-07-22
+- 1.sync.Map 内部是如何工作的    https://sreramk.medium.com/go-inside-sync-map-how-does-sync-map-work-internally-97e87b8e6bf
+
+- 2.numb 数字与单位转换工具  https://github.com/nkanaev/numb
+
+- 3.vim go 视频教程 
+
+- 4. 实现优雅重启的工具 endless   https://github.com/fvbock/endless
+
+- 5. 纯 go 实现的 telegram 客户端  https://github.com/gotd/td
+
+
+ gopherDaily-2021-07-22
+# go-news-set-2021-07-22
+## gopherDaily-2021-07-22
+- 1.Go实现的音视频聊天平台livekit的性能优化实践 - https://blog.livekit.io/going-beyond-a-single-core-4a464d20d17a
+- 2.Hotswap:建立在go plugin基础上的go语言代码热更解决方案 - https://github.com/edwingeng/hotswap/blob/main/README.zh-CN.md
+- 3.在Go中进行灵活的mocking测试 - https://medium.com/safetycultureengineering/flexible-mocking-for-testing-in-go-f952869e34f5
+- 4.我们是如何建立EGo的 - https://blog.edgeless.systems/how-we-built-ego-c02220360503
+- 5.torpar是Torrent Paradise的TUI Go客户端，Torrent Paradise是去中心化的DHT Torrent搜索网站 - https://github.com/varbhat/torpar
+- 6.etcd如何在有Kubernetes和没有Kubernetes的情况下工作 - https://learnk8s.io/etcd-kubernetes
+- 7.用链式结构简化raft - https://decentralizedthoughts.github.io/2021-07-17-simplifying-raft-with-chaining/
+- 8.Kubernetes是我们这一代的Multics - http://www.oilshell.org/blog/2021/07/blog-backlog-2.html
+- 9.创建你自己的mysqld exporter - https://percona.community/blog/2021/07/21/create-your-own-exporter-in-go/
+- 10.从C、C++和Rust中使用WebAssembly线程 - https://web.dev/webassembly-threads/
+
  gocn_news-2021-07-21
 # go-news-set-2021-07-21
 ## gocn_news-2021-07-21
