@@ -1,3 +1,45 @@
+ go语言中文网(每日资讯)-2021-07-22
+# go-news-set-2021-07-22
+## go语言中文网(每日资讯)-2021-07-22
+
+
+一、Go语言中文网
+
+1. [使用 Hugo 和 Github Pages 创建你的开发者作品集](https://mp.weixin.qq.com/s/SN_Ulgoa1N3gBnSSKB13vA)
+
+2. [gRPC入门指南 — 简单RPC（一）](https://mp.weixin.qq.com/s/FidFpVSY1QRqCwFf3YvNsQ)
+
+二、亚军进化史
+
+1. [Go技术日报(2021-07-21)—— 开始积累自己的工具库](https://mp.weixin.qq.com/s/IlmuaDeSydCkezUWhUmSKA)
+
+三、奇伢云存储
+
+1. [浅析 Go  IO 的知识框架](https://mp.weixin.qq.com/s/JniBMBw__WLbYtigj3eiXQ)
+
+四、脑子进煎鱼了
+
+1. [面试官：小松子知道什么是内联函数吗？](https://mp.weixin.qq.com/s/TaiRDMt0yaG89meT0eaghw)
+
+五、董泽润的技术笔记
+
+1. [Grab 格步北京 7月31 号线下招聘会](https://mp.weixin.qq.com/s/WIxEHAV6_S98fCmdvZrrJw)
+
+六、polarisxu
+
+1. [用 Go 造一个 Redis：推荐两个开源项目供参考](https://mp.weixin.qq.com/s/-xtreimiPbOuiq_bbsA3KA)
+
+七、GoOfficialBlog
+
+1. [深入理解 Kubernetes Deletion](https://mp.weixin.qq.com/s/14Y5oOeb38SNCZ67v0f2TA)
+
+八、Xargin
+
+1. [曹大的Go 语言笔记](https://go.xargin.com/)
+
+九、Go招聘
+
+1. [Go 群友提问：Goroutine 数量控制在多少合适，会影响 GC 和调度？](https://mp.weixin.qq.com/s/JCMr09WjWZz5FGiZWHkr0A)
  gocn_news-2021-07-22
 # go-news-set-2021-07-22
 ## gocn_news-2021-07-22
