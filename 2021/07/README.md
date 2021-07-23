@@ -1,3 +1,31 @@
+ gocn_news-2021-07-23
+# go-news-set-2021-07-23
+## gocn_news-2021-07-23
+- 1.浅析 Go IO 的知识框架 https://mp.weixin.qq.com/s/JniBMBw__WLbYtigj3eiXQ
+
+- 2.使用 Hugo 和 Github Pages 创建你的开发者作品集  https://mp.weixin.qq.com/s/SN_Ulgoa1N3gBnSSKB13vA
+
+- 3.WebAssembly 运行时 wasmer-go  https://github.com/mattn/gowasmer
+
+- 4.JSON 转 GO Struct、SQL 转 GORM  https://www.printlove.cn/tools/json2go/
+
+- 5.基于 golang 实现的 waf  https://github.com/jptosso/coraza-waf
+
+
+ gopherDaily-2021-07-23
+# go-news-set-2021-07-23
+## gopherDaily-2021-07-23
+- 1.Go提案在标准库中增加泛型版set包与maps包 - https://github.com/golang/go/discussions/47330
+- 2.追寻内心快乐：Hashicorp创始人回归快乐的开发工程师角色 - https://www.hashicorp.com/blog/mitchell-s-new-role-at-hashicorp
+- 3.用Web Assembly构建分布式服务的Go框架 - https://github.com/madflojo/tarmac
+- 4.gowasmer：wasm_exec.js文件的一个移植，它假定WebAssembly的运行时是wasmer-go - https://github.com/mattn/gowasmer
+- 5.使用Ent的数据库锁技术 - https://entgo.io/blog/2021/07/22/database-locking-techniques-with-ent/
+- 6.Coraza WAF：一个兼容go modsecurity的web应用防火墙库 - https://github.com/jptosso/coraza-waf
+- 7.Dolt: 用外键合并分支 - https://www.dolthub.com/blog/2021-07-20-merging-branches-with-foreign-keys/
+- 8.用于谷歌云托管数据库的认证代理 - https://github.com/kloeckner-i/db-auth-gateway
+- 9.你在DevSecOps成熟度曲线上的位置？ - https://thenewstack.io/where-are-you-on-the-devsecops-maturity-curve/
+- 10.Facebook的MySQL 8.0迁移实践 - https://engineering.fb.com/2021/07/22/data-infrastructure/mysql/
+
  go语言中文网(每日资讯)-2021-07-22
 # go-news-set-2021-07-22
 ## go语言中文网(每日资讯)-2021-07-22
