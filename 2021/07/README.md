@@ -1,3 +1,17 @@
+ gocn_news-2021-07-24
+# go-news-set-2021-07-24
+## gocn_news-2021-07-24
+- 1.livekit 的 WebRTC 多核性能优化实践 https://blog.livekit.io/going-beyond-a-single-core-4a464d20d17a
+
+- 2.在 Go 中进行灵活的 mocking 测试 https://medium.com/safetycultureengineering/flexible-mocking-for-testing-in-go-f952869e34f5
+
+- 3.基于 ent 的数据库锁功能 https://entgo.io/blog/2021/07/22/database-locking-techniques-with-ent/
+
+- 4.Github 为 Go 社区提供供应链安全功能 https://github.blog/2021-07-22-github-supply-chain-security-features-go-community/
+
+- 5.gowasmer: Go 编译 WASM 辅助工具，以方便运行于非浏览器环境 https://github.com/mattn/gowasmer
+
+
  gocn_news-2021-07-23
 # go-news-set-2021-07-23
 ## gocn_news-2021-07-23
