@@ -1,3 +1,17 @@
+ gocn_news-2021-07-25
+# go-news-set-2021-07-25
+## gocn_news-2021-07-25
+- 1.分析和优化 Go 程序内存使用 https://medium.com/safetycultureengineering/analyzing-and-improving-memory-usage-in-go-46be8c3be0a8
+
+- 2.Github 支持 Go 依赖库安全审查 https://github.blog/2021-07-22-github-supply-chain-security-features-go-community/
+
+- 3.Go 网络程序支持更新不中断服务 https://wutch.medium.com/zero-downtime-api-in-golang-d5b6a52cc0ed
+
+- 4.NodeJs 和 go 中使用 consul 做服务发现 https://juejin.cn/post/6988411873985036325
+
+- 5.chapel 语言 vs Go  https://benchmarksgame-team.pages.debian.net/benchmarksgame/fastest/chapel-go.html
+
+
  gocn_news-2021-07-24
 # go-news-set-2021-07-24
 ## gocn_news-2021-07-24
