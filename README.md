@@ -1,3 +1,53 @@
+ go语言中文网(每日资讯)-2021-07-25
+# go-news-set-2021-07-25
+## go语言中文网(每日资讯)-2021-07-25
+
+
+一、Go语言中文网
+
+1. [Go语言爱好者周刊：第 105 期](https://mp.weixin.qq.com/s/vpa9VavhrhObOM__6L6ZXw)
+
+2. [GitHub 显示，Go 排名第 4 了，有视频为证！](https://mp.weixin.qq.com/s/Y_9TN9XxlQjfa9oXenjpxg)
+
+3. [Go1.17 新特性：新版构建约束](https://mp.weixin.qq.com/s/lgwdFgNdtMPZ_4u-ktt3RA)
+
+二、k8s技术圈
+
+1. [如何化解 Kubernetes 网络的复杂性？](https://mp.weixin.qq.com/s/_uQZlD7MtpqacqyxCZ4m1g)
+
+三、机智的程序员小熊
+
+1. [Go语言：i/o timeout ， 希望你不要踩到这个net/http包的坑](https://mp.weixin.qq.com/s/OI1TXa3JeSdMJV4aM19ZJw)
+
+2. [极简Go语言玩算法：hot100-easy高频（二）](https://mp.weixin.qq.com/s/v0aUWbIKLS8XIgxvpgtGHQ)
+
+四、小白debug
+
+1. [面试高频：Go语言死锁与goroutine泄露问题谈论](https://mp.weixin.qq.com/s/fQzh20WpD_OhX7HUElaYGg)
+
+五、章老师说
+
+1. [《万亿级流量转发 - BFE核心技术与实现》开始预售](https://mp.weixin.qq.com/s/JR5Y8dN9gUsFi2W5VY_VhA)
+
+六、TechPaper
+
+1. [都 2021 了，你还忘记关闭 http body?](https://mp.weixin.qq.com/s/CcnW7FvY1yzU4HI-QK7ymQ)
+
+七、脑子进煎鱼了
+
+1. [浅析 Go  IO 的知识框架](https://mp.weixin.qq.com/s/vYR_QRCoqB5fiwQJY1roOg)
+
+八、码农桃花源
+
+1. [MQ 正在变成臭水沟](https://mp.weixin.qq.com/s/k0D-6uZ8CfjGX6rRGZFEdw)
+
+九、GoUpUp
+
+1. [Go 每日一库之 gorilla/securecookie](https://mp.weixin.qq.com/s/iLujqBgOFSUMNnaKv9f_xg)
+
+十、Go招聘
+
+1. [我看JetBrains面向2021开发者生态系统调查](https://mp.weixin.qq.com/s/lIAj7GThgT2AWV57KIYXhA)
  gocn_news-2021-07-25
 # go-news-set-2021-07-25
 ## gocn_news-2021-07-25
