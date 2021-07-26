@@ -1,3 +1,17 @@
+ gocn_news-2021-07-26
+# go-news-set-2021-07-26
+## gocn_news-2021-07-26
+- 1.Go 中的.NET LINQ 功能 https://github.com/ahmetb/go-linq
+
+- 2.在 Go 中构建事件驱动的应用程序 https://github.com/ThreeDotsLabs/watermill/
+
+- 3.Go 实现的 protobuf 文件生成器 https://github.com/p1gd0g/rediloper
+
+- 4.Go 用于带注释的 TODO 注释的静态代码分析器 https://github.com/preslavmihaylov/todocheck/tree/v0.4.0
+
+- 5.Go 语言的调试器 Delve https://github.com/go-delve/delve
+
+
  go语言中文网(每日资讯)-2021-07-25
 # go-news-set-2021-07-25
 ## go语言中文网(每日资讯)-2021-07-25
