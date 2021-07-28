@@ -1,3 +1,54 @@
+ go语言中文网(每日资讯)-2021-07-28
+# go-news-set-2021-07-28
+## go语言中文网(每日资讯)-2021-07-28
+
+一、Go语言中文网
+
+1. [JetBrains 发布 2021 调查报告：Go 是最想学习的语言](https://mp.weixin.qq.com/s/FdEOv5cyvHnUhl5smCifig)
+
+2. [Go爱好者周刊题解：关于 len 函数的问题](https://mp.weixin.qq.com/s/8rt0546rBZYh9WW-CyhmeA)
+
+3. [gRPC入门指南 — 客户端流式RPC（三）](https://mp.weixin.qq.com/s/BTe8-_6oP5DOw3D5j4DQ9Q)
+
+二、亚军进化史
+
+1. [Go技术日报(2021-07-27)——全网最全的Go书单来喽](https://mp.weixin.qq.com/s/qtLcKg_o6pbCwz2Yfdgqwg)
+
+三、Golang梦工厂
+
+1. [Go cmd 服务无法退出的小坑](https://mp.weixin.qq.com/s/22C2387AYz980Ye_0w_E1A)
+
+四、码农桃花源
+
+1. [你真的了解泛型 Generic 嘛？](https://mp.weixin.qq.com/s/7XuPNDZixXd4_I_b9rJnZA)
+
+五、董泽润的技术笔记
+
+1. [读者提问：反射是如何获取结构体成员信息的？](https://mp.weixin.qq.com/s/Buubo2WCQw-o6wCqOWHTSw)
+
+六、xueyuanjun
+
+1. [Go 数据结构和算法篇（十五）：二叉树的定义和存储](https://mp.weixin.qq.com/s/iIc9AB65H3VsQVBvANHKvQ)
+
+七、脑子进煎鱼了
+
+1. [学会使用 GDB 调试 Go 代码](https://mp.weixin.qq.com/s/O9Ngzgg9xfHMs5RSK5wHQQ)
+
+2. [Linux 编辑器之神 vim 的 IO 存储原理](https://mp.weixin.qq.com/s/Y1I6Yl4XTFw5uqae6nYkXA)
+
+八、polarisxu
+
+1. [全网最全的Go书单来喽](https://mp.weixin.qq.com/s/2IEN4ftrmxU9Va0-cuVmbA)
+
+九、机智的程序员小熊
+
+1. [讲透Go中的并发接收控制结构select](https://mp.weixin.qq.com/s/qtUYE4PNCh1gkV6H_NzryA)
+
+2. [字节跳动高频算法TopK](https://mp.weixin.qq.com/s/eoXqpCzdtmh84MH2LXMZ-g)
+
+十、Golang来啦
+
+1. [使用Go语言时，谨防锁拷贝！](https://mp.weixin.qq.com/s/zLbd0PclO9g6W0dg7pT3AQ)
  gocn_news-2021-07-28
 # go-news-set-2021-07-28
 ## gocn_news-2021-07-28
