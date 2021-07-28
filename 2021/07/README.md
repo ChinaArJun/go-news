@@ -1,3 +1,34 @@
+ gocn_news-2021-07-28
+# go-news-set-2021-07-28
+## gocn_news-2021-07-28
+- 1.Go 经典阻塞式 TCP 协议流解析的实践 https://tonybai.com/2021/07/28/classic-blocking-network-tcp-stream-protocol-parsing-practice-in-go
+
+- 2.学会使用 GDB 调试 Go 代码 https://mp.weixin.qq.com/s/O9Ngzgg9xfHMs5RSK5wHQQ
+
+- 3.【译】GitHub 为 Go 社区带来供应链安全功能 https://gocn.vip/topics/12386
+
+- 4.Go cmd 服务无法退出的小坑 https://mp.weixin.qq.com/s/22C2387AYz980Ye_0w_E1A
+
+- 5.powerproto: 一款多功能 proto 工具 https://github.com/storyicon/powerproto
+
+
+ gopherDaily-2021-07-28
+# go-news-set-2021-07-28
+## gopherDaily-2021-07-28
+- 1.Go基于IO多路复用的TCP协议流解析实践 - https://t.zsxq.com/fiqZRNb
+- 2.将Go作为Rust中的脚本语言 - https://github.com/oxfeeefeee/goscript
+- 3.Go经典阻塞式TCP协议流解析的实践 - https://tonybai.com/2021/07/28/classic-blocking-network-tcp-stream-protocol-parsing-practice-in-go/
+- 4.分布式应用运行时dapr发布v1.3.0 - https://blog.dapr.io/posts/2021/07/27/dapr-v1.3-is-now-available/
+- 5.用于生产的动态Go仪表盘 - https://www.youtube.com/watch?v=Uk1hscXhlY0
+- 6.AKS与Calico网络政策 - https://joachim8675309.medium.com/aks-with-calico-network-policies-8cdfa996e6bb
+- 7.实时可视化Go进程度量数据 - https://nakabonne.dev/posts/gosivy/
+- 8.go实现的chip8模拟器 - https://github.com/anthonygedeon/chip8
+- 9.AKS与Calico网络策略 - https://joachim8675309.medium.com/aks-with-calico-network-policies-8cdfa996e6bb
+- 10.对比strftime的Go Datetime速查表 - https://dev.to/coolgoose/golang-datetime-cheatsheet-from-strftime-3j5
+- 11.为什么options模式对安全有好处  - https://www.youtube.com/watch?v=eyVDTmB9tpE
+- 12.MIT公开课：软件系统的性能工程 - https://www.youtube.com/playlist?list=PLUl4u3cNGP63VIBQVWguXxZZi0566y7Wf
+- 13.可观察性设计和架构：基本原理 - https://thenewstack.io/observability-design-and-architecture-the-fundamentals/
+
  go语言中文网(每日资讯)-2021-07-27
 # go-news-set-2021-07-27
 ## go语言中文网(每日资讯)-2021-07-27
