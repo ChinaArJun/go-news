@@ -1,3 +1,49 @@
+ go语言中文网(每日资讯)-2021-07-29
+# go-news-set-2021-07-29
+## go语言中文网(每日资讯)-2021-07-29
+
+
+一、Go语言中文网
+
+1. [Go：语法糖的代价](https://mp.weixin.qq.com/s/-lps3sl-riDOLxUIUyIrWA)
+
+2. [超实用的 gRPC 客户端调试工具](https://mp.weixin.qq.com/s/dG49wTV2UAXQUC-KQ9ggBA)
+
+二、董泽润的技术笔记
+
+1. [TCP 连接的前世今生](https://mp.weixin.qq.com/s/v8Z1NlDUreVa0kViAt85Sg)
+
+三、奇伢云存储
+
+1. [32 道 MySQL 面试题总结（含答案解析）](https://mp.weixin.qq.com/s/ex-mtzT15rQJ565U-q9l4w)
+
+四、polarisxu
+
+1. [Go开源项目推荐：500行代码确认请求时间花在哪](https://mp.weixin.qq.com/s/s2JJFKl5GRWuWynfPdr7Ow)
+
+五、TechPaper
+
+1. [《微服务架构设计模式》的一点总结](https://mp.weixin.qq.com/s/TLZR252J7EHcR8h_vEsXrA)
+
+六、Go编程点滴
+
+1. [Go语言学习路线 - 7.进阶篇:一名软件工程师的价值沉淀](https://mp.weixin.qq.com/s/ivA5Z2-cPTDs9Zjd87rpAg)
+
+七、xueyuanjun
+
+1. [Go 数据结构和算法篇（十六）：二叉树的遍历](https://mp.weixin.qq.com/s/NeOdEynfgGC5ZaC6yGIcjQ)
+
+八、脑子进煎鱼了
+
+1. [JetBrains 发布 2021调查报告：咱Gopher不爱做饭？？？](https://mp.weixin.qq.com/s/Bdnwu3iAoBBqwOMKmL7GAw)
+
+九、Golang来啦
+
+1. [一个 demo 学会 workerPool](https://mp.weixin.qq.com/s/YCl7r7l3Ty3wbnImVWRLxg)
+
+十、Go招聘
+
+1. [京东零售|系统优化部虚位以待，就等你来优化](https://mp.weixin.qq.com/s/djXRa861KB7WsNDXaO_lrQ)
  gocn_news-2021-07-29
 # go-news-set-2021-07-29
 ## gocn_news-2021-07-29
