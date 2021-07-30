@@ -1,3 +1,33 @@
+ gocn_news-2021-07-30
+# go-news-set-2021-07-30
+## gocn_news-2021-07-30
+- 1.进程、线程、协程对 CPU 的消耗 https://mp.weixin.qq.com/s/h_7sNnkmywUgToTYByp2Jg
+
+- 2.微服务架构模式的一点总结  https://xargin.com/microservices-patterns/
+
+- 3.讲的是切片，但好像又不只是切片  https://segmentfault.com/a/1190000040426126
+
+- 4.快速实现一个分布式定时器  https://mp.weixin.qq.com/s/ggPftQm2ewGOJwlRDQGgDQ
+
+- 5.字节跳动在 Go 网络库上的实践  https://mp.weixin.qq.com/s/wSaJYg-HqnYY4SdLA2Zzaw
+
+
+ gopherDaily-2021-07-30
+# go-news-set-2021-07-30
+## gopherDaily-2021-07-30
+- 1.播客：如何在Go中犯错 - https://changelog.com/gotime/190
+- 2.GoLand 2021.2发布，支持Go 1.17特性 - https://blog.jetbrains.com/go/2021/07/29/goland-2021-2-has-been-released/
+- 3.用Facebook Ent生成一个完全可用的Go CRUD HTTP API - https://entgo.io/blog/2021/07/29/generate-a-fully-working-go-crud-http-api-with-ent/
+- 4.你真的需要一个服务网格么 - https://www.tigera.io/blog/do-you-really-need-a-service-mesh/
+- 5.Go语言的数据科学实践：解决要给多少小费的问题 - https://www.ardanlabs.com/blog/2021/07/go-data-science-how-much-tip.html
+- 6.用纯Go语言与LLVM IR交互的库 - https://github.com/llir/llvm
+- 7.一个用Go编写的基于堆栈的微小虚拟机 - https://github.com/regeda/expr
+- 8.微服务的未来？更多的抽象 - https://thenewstack.io/the-future-of-microservices-more-abstractions/
+- 9.为什么Kubernetes和云原生会成为大厂标配 - https://mp.weixin.qq.com/s/n-ELC73BP3iT4cMrQtxGGQ
+- 10.CNCF项目带来服务网格的互操作性和基准 - https://thenewstack.io/cncf-projects-bring-service-mesh-interoperability-benchmarks
+- 11.Prometheus Alertmanager的警报仪表板 - https://github.com/prymitive/karma
+- 12.用gqlgen构建Go Graphql API - https://levelup.gitconnected.com/lets-go-and-build-graphql-api-with-gqlgen-bfea2f346ea1
+
  go语言中文网(每日资讯)-2021-07-29
 # go-news-set-2021-07-29
 ## go语言中文网(每日资讯)-2021-07-29
