@@ -1,3 +1,18 @@
+ gopherDaily-2021-07-31
+# go-news-set-2021-07-31
+## gopherDaily-2021-07-31
+- 1.Go基于I/O多路复用的TCP协议流解析实践 - https://tonybai.com/2021/07/31/io-multiplexing-model-tcp-stream-protocol-parsing-practice-in-go
+- 2.揭开Go中HTTP Handler的神秘面纱 - https://medium.com/geekculture/demystifying-http-handlers-in-golang-a363e4222756
+- 3.用Go进行音频编程 - https://www.youtube.com/watch?v=3-PGN23rjzA
+- 4.K8s容器中的时区 - https://zhimin-wen.medium.com/timezones-in-k8s-container-ca22f24d2f42
+- 5.Go集成测试框架，用于Kong Kubernetes APIs和控制器 - https://github.com/Kong/kubernetes-testing-framework
+- 6.用Go和WebAssembly构建的粒子模拟 - https://github.com/mvrilo/go-particles
+- 7.使用ArgoCD的多集群GitOps - https://www.infracloud.io/blogs/multicluster-gitops-argocd/
+- 8.研究结果：顶尖机构测试软件的6种方式 - https://thenewstack.io/research-findings-6-ways-top-organizations-test-software/
+- 9.用git bisect run在半小时内找到内核性能退坡的方法 - https://ldpreload.com/blog/git-bisect-run
+- 10.为什么你的庞大的技术团队没有交付成果 - https://blog.usejournal.com/why-your-huge-tech-team-isnt-delivering-3851be27712c
+- 11.Honeycomb高绩效团队的秘诀 - https://changelog.com/shipit/11
+
  gocn_news-2021-07-30
 # go-news-set-2021-07-30
 ## gocn_news-2021-07-30
