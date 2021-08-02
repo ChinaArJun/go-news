@@ -1,3 +1,57 @@
+ go语言中文网(每日资讯)-2021-08-02
+# go-news-set-2021-08-02
+## go语言中文网(每日资讯)-2021-08-02
+
+
+一、Go语言中文网
+
+1. [Go 程序中的非 Go 后缀文件](https://mp.weixin.qq.com/s/1-2CP-S3apnHP0hMR6E1SA)
+
+2. [gRPC入门指南 — 通过TLS建立安全连接（五）](https://mp.weixin.qq.com/s/sewEgpDI4Vx_z1esQh79Ug)
+
+二、亚军进化史
+
+1. [Go技术日报(2021-08-01)——帮助发现 Go 项目漏洞的工具](https://mp.weixin.qq.com/s/Zer-j_ocCKRFL2Cx7z-XSw)
+
+三、Golang来啦
+
+1. [你拥有的最宝贵的财富是什么？](https://mp.weixin.qq.com/s/FqlqBs6_cViNt579tXugUQ)
+
+2. [Go开源项目推荐：500行代码确认请求时间花在哪](https://mp.weixin.qq.com/s/4QPtRbIIyyo5q9Cc-RCpDw)
+
+四、polarisxu
+
+1. [这个行业也用 Go？内推一个 Go 职位](https://mp.weixin.qq.com/s/o-mOyKterK44KskFLnBEgA)
+
+五、Golang梦工厂
+
+1. [面试官：小松子来聊一聊内存逃逸](https://mp.weixin.qq.com/s/MepbrrSlGVhNrEkTQhfhhQ)
+
+六、董泽润的技术笔记
+
+1. [你适合做救火队长嘛？](https://mp.weixin.qq.com/s/CIH5QxIqrV_H0Bt42IurXA)
+
+2. [深度剖析 Linux cp 的秘密](https://mp.weixin.qq.com/s/Hc2h0s3zeEIcYd6UnIqAOg)
+
+七、吴亲强的深夜食堂
+
+1. [两款 go 开发实用工具](https://mp.weixin.qq.com/s/TXfAZYOTABdSY-Jq8Igaag)
+
+八、脑子进煎鱼了
+
+1. [我周末参加了个互联网架构大会！](https://mp.weixin.qq.com/s/YDzJHN1AOO5edCc0ydJqag)
+
+九、xueyuanjun
+
+1. [Go 常见算法面试题篇（一）：反转单链表](https://mp.weixin.qq.com/s/t5yZrMSzB_poBe8G3hC-ag)
+
+十、wegoer
+
+1. [学Go不迷路，第一波Go大佬来袭。](https://mp.weixin.qq.com/s/ui2avQlobhw-H6tsCq2a6w)
+
+十一、Go招聘
+
+1. [你负责的服务熔断了，还不赶紧进来看看。](https://mp.weixin.qq.com/s/plCS0Zv8U27Us4AED5M-nQ)
  gocn_news-2021-08-01
 # go-news-set-2021-08-01
 ## gocn_news-2021-08-01
