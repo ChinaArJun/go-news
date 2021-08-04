@@ -1,3 +1,17 @@
+ gocn_news-2021-08-04
+# go-news-set-2021-08-04
+## gocn_news-2021-08-04
+- 1.GO 1.17 发布 RC2 https://groups.google.com/g/golang-announce/c/yk30ovJGXWY
+
+- 2.使用 Go DIY pprof 配置文件 https://www.polarsignals.com/blog/posts/2021/08/03/diy-pprof-profiles-using-go/
+
+- 3.Go 如何计算 len()? https://tpaschalis.github.io/golang-len/
+
+- 4.优化故事：为大型 Golang 应用程序构建代码扫描器 https://nationalcybersecuritynews.today/an-optimisation-story-building-a-code-scanner-for-large-golang-apps-linux-linuxsecurity/
+
+- 5.Golang 中的实用 DDD：值对象 https://levelup.gitconnected.com/practical-ddd-in-golang-value-object-4fc97bcad70
+
+
  go语言中文网(每日资讯)-2021-08-03
 # go-news-set-2021-08-03
 ## go语言中文网(每日资讯)-2021-08-03
