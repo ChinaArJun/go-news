@@ -1,3 +1,17 @@
+ gocn_news-2021-08-05
+# go-news-set-2021-08-05
+## gocn_news-2021-08-05
+- 1.TiDB 海量 region 集群调优实践 https://gocn.vip/topics/12413
+
+- 2.用 Go 实现类似 Nginx 的 Access Log https://mp.weixin.qq.com/s/gif7zEB0FnyYtQABpxf20Q
+
+- 3.多 Goroutine 如何优雅处理错误 https://mp.weixin.qq.com/s/ziAuAhYY1VHd4kv3C5R5dA
+
+- 4.自动化接口测试实践经验 https://mp.weixin.qq.com/s/WrfaCt39Jb4vViKB2-qynw
+
+- 5.Istio 安全最佳实践 https://mp.weixin.qq.com/s/mwZXKLHROwPhsoOhaG_79A
+
+
  gocn_news-2021-08-04
 # go-news-set-2021-08-04
 ## gocn_news-2021-08-04
