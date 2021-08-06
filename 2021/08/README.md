@@ -1,3 +1,51 @@
+ go语言中文网(每日资讯)-2021-08-06
+# go-news-set-2021-08-06
+## go语言中文网(每日资讯)-2021-08-06
+
+
+一、Go语言中文网
+
+1. [TIOBE 发布 8 月编程语言榜单：Go 排名如何？](https://mp.weixin.qq.com/s/oNZOZlrAT3kr2bx8ynIexw)
+
+2. [图解 Go 微服务熔断器](https://mp.weixin.qq.com/s/otZDTUkUc5AqKcMaYPsf_w)
+
+3. [两款 go 开发实用工具](https://mp.weixin.qq.com/s/JWex3x0s9lWqGsJoj2ZBvw)
+
+二、亚军进化史
+
+1. [Go技术日报(2021-08-05)——使用Go语言时，谨防锁拷贝！](https://mp.weixin.qq.com/s/nagYqzexFmEmjWUEP1GDEA)
+
+三、polarisxu
+
+1. [推荐一本开源图书：Rust 性能手册](https://mp.weixin.qq.com/s/r5sh9AsezQX42w4uoTEdSA)
+
+四、奇伢云存储
+
+1. [Linux fd 系列 — socket fd 是什么？](https://mp.weixin.qq.com/s/Ytw_N5zeLH50ItdgAsv3nA)
+
+五、小白debug
+
+1. [Go 的json 解析标准库竟然存在这样的陷阱？](https://mp.weixin.qq.com/s/OyiF57PcMQjeoGpShEgidQ)
+
+六、k8s技术圈
+
+1. [Dapr 在阿里云原生的实践](https://mp.weixin.qq.com/s/iSqsLPiaL7booy4IGB6BVg)
+
+七、CloudNativeCommunity
+
+1. [直播回放|破解 Kubernetes 应用开发困局——实时热加载和一键 Debug](https://mp.weixin.qq.com/s/DDASZTkz-7F7yt8k7IdbAg)
+
+八、xueyuanjun
+
+1. [Go 常见算法面试题篇（二）：在 O(1) 时间内删除单链表结点](https://mp.weixin.qq.com/s/f4LI8jORy0nkryPHfjuOQA)
+
+九、董泽润的技术笔记
+
+1. [int make 居然不是关键字？](https://mp.weixin.qq.com/s/OxLtvOPyeYMV34EDEXEFlA)
+
+十、Go招聘
+
+1. [急招急招，格步科技|广告部门开放大量高级职位](https://mp.weixin.qq.com/s/lW6Lx98Jf2muTgu6mEuZxg)
  gocn_news-2021-08-06
 # go-news-set-2021-08-06
 ## gocn_news-2021-08-06
