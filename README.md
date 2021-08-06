@@ -1,3 +1,17 @@
+ gocn_news-2021-08-06
+# go-news-set-2021-08-06
+## gocn_news-2021-08-06
+- 1.一个交互式的 mysql/postgresql 客户端  https://github.com/danvergara/dblab
+
+- 2.一个 C 转换为 Go 的工具  https://github.com/gotranspile/cxgo
+
+- 3.多 Goroutine 如何优雅处理错误 https://mp.weixin.qq.com/s/ziAuAhYY1VHd4kv3C5R5dA
+
+- 4.Go 语言 css 解析器  https://github.com/mmcdole/gofeed
+
+- 5.Go 语言与科学  http://kestrel.nmt.edu/~raymond/software/go_notes/go.html
+
+
  gocn_news-2021-08-05
 # go-news-set-2021-08-05
 ## gocn_news-2021-08-05
