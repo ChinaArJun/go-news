@@ -1,3 +1,43 @@
+ go语言中文网(每日资讯)-2021-08-08
+# go-news-set-2021-08-08
+## go语言中文网(每日资讯)-2021-08-08
+
+
+一、Go语言中文网
+
+1. [Go1.16.7 发布，同时离 Go1.17 发布不远了](https://mp.weixin.qq.com/s/XpO2QZAhp4Q0dLAkLO9vXg)
+
+2. [Go语言爱好者周刊：第 107 期 — Statck Overflow 2021调查结果](https://mp.weixin.qq.com/s/TIoadA80kqj9iON6KpQ8rg)
+
+3. [Go 数据结构和算法篇（十六）：二叉树的遍历](https://mp.weixin.qq.com/s/c-m3xnRteS-QKeJU2wbVXg)
+
+二、k8s技术圈
+
+1. [Linux 虚拟网络设备之 tun/tap](https://mp.weixin.qq.com/s/VgC7DiZEyCRamFs_Fix1lw)
+
+三、架构之家
+
+1. [图解：消息传输的架构模式](https://mp.weixin.qq.com/s/xrhZnb_HiquVLdMfBxcxNw)
+
+四、polarisxu
+
+1. [Go 的时间格式化为什么是 2006-01-02 15:04:05？](https://mp.weixin.qq.com/s/f3VWaUGseWX6NCA2KGT-pw)
+
+五、小白debug
+
+1. [Golang unsafe.Pointer使用原则以及 uintptr 隐藏的坑](https://mp.weixin.qq.com/s/z_Pqf1jLHyk5zswVzvIZtQ)
+
+六、Golang技术分享
+
+1. [errgroup：并发任务 goroutine 的传播控制](https://mp.weixin.qq.com/s/qqva2Tj2qijWv_YCplWZ8A)
+
+七、幼麟实验室
+
+1. [深度探索Go语言：同步（一）](https://mp.weixin.qq.com/s/fkKmQ05idbTtBWcGATrWfQ)
+
+八、Go招聘
+
+1. [Stack Overflow 2021报告出炉：最想学榜单，Go排第4](https://mp.weixin.qq.com/s/3pN4EHmTqZhkm3B9wF2Rwg)
  gocn_news-2021-08-08
 # go-news-set-2021-08-08
 ## gocn_news-2021-08-08
