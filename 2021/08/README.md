@@ -1,3 +1,17 @@
+ gocn_news-2021-08-08
+# go-news-set-2021-08-08
+## gocn_news-2021-08-08
+- 1.在 Go 中使用高阶函数进行 Mock https://medium.com/@tahasevim231/mocking-with-high-order-functions-in-go-b76d5a3103d2
+
+- 2.pomerium: 开源的 SSO 网关 https://github.com/pomerium/pomerium
+
+- 3.pgen: 新的基于代码生成的 ORM 库 https://medium.com/opendoor-labs/announcing-pggen-a-golang-orm-alternative-a34191f614c8
+
+- 4.Go pre-commit 检查 https://github.com/TekWizely/pre-commit-golang
+
+- 5.monibuca: 开源的流媒体服务器开发框架 https://github.com/langhuihui/monibuca
+
+
  gocn_news-2021-08-07
 # go-news-set-2021-08-07
 ## gocn_news-2021-08-07
