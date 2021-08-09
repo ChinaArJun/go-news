@@ -1,3 +1,34 @@
+ gocn_news-2021-08-09
+# go-news-set-2021-08-09
+## gocn_news-2021-08-09
+- 1.编写与优化 Go 代码 (一) https://mp.weixin.qq.com/s/zv7gjs9w7d5brE-7_e1JOw
+
+- 2.译｜What “accept interfaces, return structs” means in Go https://www.cyningsun.com/08-08-2021/go-accept-interfaces-return-structs.html
+
+- 3.Golang 语言中怎么提升 JSON 编解码的性能？ https://mp.weixin.qq.com/s/wkqk1cgYKWnbIsHqoTA5UA
+
+- 4.HTTP context 生命周期 https://developer20.com/http-connection-livetime/
+
+- 5.Golang 实现 RTP https://segmentfault.com/a/1190000040483316
+
+
+ gopherDaily-2021-08-09
+# go-news-set-2021-08-09
+## gopherDaily-2021-08-09
+- 1.在Go中编写可测试的代码 - https://www.youtube.com/watch?v=4h39Oi_PxR4
+- 2.在Go中，nil == nil真的为true？ - https://www.pixelstech.net/article/1628407126-Will-nil-==-nil-be-true-in-GoLang
+- 3.蚂蚁集团万级规模K8s集群etcd高可用建设之路 - https://zhuanlan.zhihu.com/p/396335220
+- 4.纯go实现的存储引擎pebble介绍，CockroachDB在新版本中将使用pebble替代rocksdb - https://zhuanlan.zhihu.com/p/264825380
+- 5.在Python和Go中开始使用Libsodium(NaCl库) - https://developer.okta.com/blog/2021/08/05/libsodium-encryption-go-python
+- 6.用go开发Minecraft服务器 - https://medium.com/@michalkowal567/drinking-coffee-and-developing-minecraft-server-in-golang-47cfc8d6955e
+- 7.服务网格实现的对比矩阵 - https://layer5.io/service-mesh-landscape
+- 8.一步步从docker compose迁移到k8s - https://loft.sh/blog/docker-compose-to-kubernetes-step-by-step-migration
+- 9.在Kubernetes中快速开发和测试而不破坏东西 - https://blog.kasten.io/move-fast-and-test-in-kubernetes-without-breaking-things
+- 10.最快的编程语言？戴夫带你”寻找答案 - https://thenewstack.io/the-fastest-programming-language-daves-garage-seeks-the-answer/
+- 11.万维网30岁了 - https://www.w3.org/blog/2021/08/30-years-on-from-introducing-the-web-to-the-world/
+- 12.搜索引擎架构演化 - http://highscalability.com/blog/2021/8/2/evolution-of-search-engines-architecture-algolia-new-search.html
+- 13.Go base64编码简介 - https://cmmorrow.medium.com/an-introduction-to-base64-encoding-716cdccc58ce
+
  go语言中文网(每日资讯)-2021-08-08
 # go-news-set-2021-08-08
 ## go语言中文网(每日资讯)-2021-08-08
