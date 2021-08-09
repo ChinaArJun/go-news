@@ -1,3 +1,49 @@
+ go语言中文网(每日资讯)-2021-08-09
+# go-news-set-2021-08-09
+## go语言中文网(每日资讯)-2021-08-09
+
+
+一、Go语言中文网
+
+1. [一个 Go 工具包揽一切 SQL 数据库客户端](https://mp.weixin.qq.com/s/FgY-MP0rIQVLW8Mi2BF61Q)
+
+2. [Go 数据结构和算法篇（十七）：二叉排序树](https://mp.weixin.qq.com/s/cbFRvW46-1af3Mm_PEyWsg)
+
+二、亚军进化史
+
+1. [Go技术日报(2021-08-08)——图解：消息传输的架构模式](https://mp.weixin.qq.com/s/GsL6iDzFoxOg8L4b-Dzqew)
+
+三、小白debug
+
+1. [Linux入门的基础知识点汇总，有这篇就够了](https://mp.weixin.qq.com/s/G_Fv9tstrlaJ36G7i3GvWw)
+
+四、菜鸟Miao
+
+1. [举例来学cond原语](https://mp.weixin.qq.com/s/dMfO3tTnzz6nrRppdxRr3g)
+
+五、polarisxu
+
+1. [图解 Go 微服务熔断器](https://mp.weixin.qq.com/s/ik_Dnjzmdm_tDbWBbJ_LDg)
+
+六、新亮笔记
+
+1. [关于分布式事务的理解](https://mp.weixin.qq.com/s/TCnvd9xsrL5yJfkbE02_3w)
+
+七、码农桃花源
+
+1. [曹大带我学 Go（11）—— 从 map 的 extra 字段谈起](https://mp.weixin.qq.com/s/SGv5vuh9aU2mqViC4Kj0YQ)
+
+八、后端研究所
+
+1. [图解|高性能服务器设计之缓存系统一致性](https://mp.weixin.qq.com/s/cZQZ-xrdg2nvwDGimqhAtg)
+
+九、脑子进煎鱼了
+
+1. [Go 提案：增加泛型版 slices 和 maps 新包](https://mp.weixin.qq.com/s/D7u7nxixctoFIL-Pch0zvw)
+
+十、TechPaper
+
+1. [编写与优化 Go 代码(一)](https://mp.weixin.qq.com/s/zv7gjs9w7d5brE-7_e1JOw)
  gocn_news-2021-08-09
 # go-news-set-2021-08-09
 ## gocn_news-2021-08-09
