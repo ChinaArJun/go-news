@@ -1,3 +1,32 @@
+ gocn_news-2021-08-11
+# go-news-set-2021-08-11
+## gocn_news-2021-08-11
+- 1.如何在 Golang 应用程序中使用结构化 JSON 日志记录 https://betterprogramming.pub/how-to-use-structured-json-logging-in-golang-applications-7fc5e2751dbd
+
+- 2.go-pg postgresql 库模型和占位符 https://gocn.vip/topics/12434
+
+- 3.Kubectl 插件可使用 tcpdump 和 wireshark 对 kubernetes pod 的探测 https://github.com/eldadru/ksniff
+
+- 4.Go 实现的开源推荐系统服务 https://github.com/zhenghaoz/gorse
+
+- 5.Go 更有效的网络通信 arpc https://github.com/lesismal/arpc
+
+
+ gopherDaily-2021-08-11
+# go-news-set-2021-08-11
+## gopherDaily-2021-08-11
+- 1.如何才能成功将Python切换到Go - https://itnext.io/opinionated-view-on-python-project-evolution-975b859ff2d6
+- 2.Virgo：一种基于图形的配置语言 - https://matt-rickard.com/virgo-lang/
+- 3.一文告诉你如何帮助测试Go语言Beta公测版与RC候选发布版 - https://tonybai.com/2021/08/11/how-to-test-go-beta-or-rc
+- 4.用Go构建SaaS - https://goingwithgo.com/2021/08/building-saas-with-golang-dominic-st-pierre/
+- 5.staticbackend: 一个轻量级的Firebase替代品，你可以自行托管。没有供应商的锁定，你的数据保持在你的控制之中 - https://github.com/staticbackendhq/core
+- 6.两个拷贝的故事: 记一次Go代码性能优化 - https://storj.io/blog/a-tale-of-two-copies
+- 7.用Wails和Vue创建一个桌面应用程序 - https://dev.to/lucasnevespereira/build-a-desktop-app-with-wails-vue-251d
+- 8.在Go中使用高阶函数进行mock - https://medium.com/@tahasevim231/mocking-with-high-order-functions-in-go-b76d5a3103d2
+- 9.vscode的go notebook插件 - https://marketplace.visualstudio.com/items?itemName=gobookdev.gobook&WT.mc_id=devcloud-00000-cxa
+- 10.高效程序员的六个命令行工具 - https://earthly.dev/blog/command-line-tools/
+- 11.Go加密蠕虫提供15%!!(MISSING)的(MISSING)性能提升 - https://threatpost.com/golang-cryptomining-worm-speed-boost/168456/
+
  go语言中文网(每日资讯)-2021-08-09
 # go-news-set-2021-08-09
 ## go语言中文网(每日资讯)-2021-08-09
