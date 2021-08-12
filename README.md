@@ -1,3 +1,53 @@
+ go语言中文网(每日资讯)-2021-08-12
+# go-news-set-2021-08-12
+## go语言中文网(每日资讯)-2021-08-12
+
+
+一、Go语言中文网
+
+1. [CGO：关于回调函数和指针的传递](https://mp.weixin.qq.com/s/_IMBRrqkf2EQGfBWaLhCOg)
+
+2. [Go 常见算法面试题篇（二）：在 O(1) 时间内删除单链表结点](https://mp.weixin.qq.com/s/ECLJnmkRvXAUeITdyusdMQ)
+
+二、亚军进化史
+
+1. [Go技术日报(2021-08-11)——如何基于DDD构建微服务架构](https://mp.weixin.qq.com/s/TKD0EEzJivTG8OW2nMPEHA)
+
+三、k8s技术圈
+
+1. [一文搞定 Containerd 的使用](https://mp.weixin.qq.com/s/--t74RuFGMmTGl2IT-TFrg)
+
+四、脑子进煎鱼了
+
+1. [翻译了一篇关于Go编译器的文章](https://mp.weixin.qq.com/s/3w-Pa9m4ws2an5xdJaOwVA)
+
+五、Go招聘
+
+1. [聊聊unsafe.Pointer和uintptr的区别和联系【文末送书】](https://mp.weixin.qq.com/s/h2USJlENgOYoEtIuvMidlw)
+
+六、xueyuanjun
+
+1. [Go 常见算法面试题篇（三）：高效调整数组数值顺序](https://mp.weixin.qq.com/s/JY0uwTWqPbfDllUgD3QaeA)
+
+七、章老师说
+
+1. [BFE和Nginx有什么差异？- 转发模型的对比](https://mp.weixin.qq.com/s/ieDssI3dKpuiYLs6jHdkBQ)
+
+八、董泽润的技术笔记
+
+1. [Go interface 原理剖析--类型转换](https://mp.weixin.qq.com/s/hFoxszSYI7YfpLv1NdofLg)
+
+九、HHFCodeRv
+
+1. [Goland 这些实操技巧，你可能还不会！](https://mp.weixin.qq.com/s/mrCQyw_dR5VYzf8ejyvHfA)
+
+十、polarisxu
+
+1. [Go 第三方库推荐：类型转换如此简单](https://mp.weixin.qq.com/s/NFiVI1Xu-jIAU2MZxxwe2Q)
+
+十一、GoUpUp
+
+1. [Go 每日一库之 testify](https://mp.weixin.qq.com/s/4H66WsEHaDt5enkROiYgOQ)
  gocn_news-2021-08-12
 # go-news-set-2021-08-12
 ## gocn_news-2021-08-12
