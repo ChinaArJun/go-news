@@ -1,3 +1,29 @@
+ gocn_news-2021-08-12
+# go-news-set-2021-08-12
+## gocn_news-2021-08-12
+- 1.手把手 Golang 实现静态图像与视频流人脸识别 https://blog.csdn.net/agora_cloud/article/details/119522891
+
+- 2.Golang 中如何正确的使用 sarama 包操作 Kafka？ https://www.cnblogs.com/wishFreedom/p/15131600.html
+
+- 3.nil == nil 是 true 吗？ https://www.pixelstech.net/article/1628407126-Will-nil-==-nil-be-true-in-GoLang
+
+- 4.Golang 实现 RTP https://blog.csdn.net/agora_cloud/article/details/119495522
+
+- 5.使用 Golang 实践 BDD 风格测试 https://levelup.gitconnected.com/implementation-of-behavioral-driven-development-bdd-using-golang-d33073243722
+
+
+ gopherDaily-2021-08-12
+# go-news-set-2021-08-12
+## gopherDaily-2021-08-12
+- 1.Go+ v1.0.0-beta1发布，所有语法都已经实现 - https://github.com/goplus/gop
+- 2.用Go实现JIRA云工作流程的自动化 - https://betterprogramming.pub/automate-jira-cloud-workflow-with-golang-2de29828aad6
+- 3.netmaker: 安全、快速的私人网络将任何计算机连接在一起，并从一个中央服务器管理多个网络 - https://github.com/gravitl/netmaker
+- 4.通过实例学习Go：第5部分–用Go创建一个Game Boy Advance（GBA）游戏 - https://dev.to/aurelievache/learning-go-by-examples-part-5-create-a-game-boy-advance-gba-game-in-go-5944
+- 5.Kubernetes存储架构中最大的缺口？- https://thenewstack.io/whats-the-biggest-gap-in-kubernetes-storage-architecture/
+- 6.寻找并修复Go中的内存泄漏 - https://dev.to/googlecloud/finding-and-fixing-memory-leaks-in-go-1k1h
+- 7.利用合成监控避免Kubernetes集群的中断 - https://www.cncf.io/blog/2021/08/10/avoiding-kubernetes-cluster-outages-with-synthetic-monitoring/
+- 8.你是否有成为架构师的意愿 - https://thenewstack.io/do-you-have-the-empathy-to-make-the-move-to-architect/
+
  gocn_news-2021-08-11
 # go-news-set-2021-08-11
 ## gocn_news-2021-08-11
