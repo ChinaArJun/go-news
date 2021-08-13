@@ -1,3 +1,67 @@
+ go语言中文网(每日资讯)-2021-08-13
+# go-news-set-2021-08-13
+## go语言中文网(每日资讯)-2021-08-13
+
+
+一、Go语言中文网
+
+1. [全面讲解 Go 中的 interface{}](https://mp.weixin.qq.com/s/pfYTRuJSw5Pkm6Co9bawhw)
+
+2. [Go标准库flag包的“小陷阱”](https://mp.weixin.qq.com/s/z_QL507HzMMXTt1h9AW0Tw)
+
+二、亚军进化史
+
+1. [Go技术日报(2021-08-12)——如何正确的使用 sarama 包操作 Kafka？](https://mp.weixin.qq.com/s/DYN-huFnTxCLCaQBZEoxkw)
+
+三、Go招聘
+
+1. [Go 提案：增加泛型版 slices 和 maps 新包](https://mp.weixin.qq.com/s/cOs6gKEtVM4hVRMr5kvm5A)
+
+2. [土拨鼠的高质量朋友们](https://mp.weixin.qq.com/s/5mTkdiSnfdO-9HfMwv56YA)
+
+四、polarisxu
+
+1. [官方文档：Go编译的四个阶段](https://mp.weixin.qq.com/s/3PfUde60Swv106eNdrcvfA)
+
+五、机智的程序员小熊
+
+1. [小熊其实干了4年SRE，而不自知，揭秘SRE工资为什么高！](https://mp.weixin.qq.com/s/55LwlSomAcpFe_SXtSmqMA)
+
+六、HHFCodeRv
+
+1. [你适合做救火队长嘛？](https://mp.weixin.qq.com/s/MwIn1y90LM1lNgaoxXXZ1g)
+
+2. [你适合做救火队长嘛？](https://mp.weixin.qq.com/s/MwIn1y90LM1lNgaoxXXZ1g)
+
+七、ServiceMesher
+
+1. [Istio 1.11 发布](https://mp.weixin.qq.com/s/vuTQ8G4ZMT_ntnw4FfAOyg)
+
+八、码农桃花源
+
+1. [Go udp 的高性能优化](https://mp.weixin.qq.com/s/K6vipdVn4EqEtUzpo2QKxg)
+
+2. [程序员使用谷歌搜索的十种技巧](https://mp.weixin.qq.com/s/pzljPRlt7YhaKtNmXfDsow)
+
+九、飞雪无情
+
+1. [Caddy实战（七）| 反向代理中的健康检查](https://mp.weixin.qq.com/s/1yDIu5dRYa1EBBwhGDI-PQ)
+ gopherDaily-2021-08-13
+# go-news-set-2021-08-13
+## gopherDaily-2021-08-13
+- 1.Go Web应用的常见反模式 - https://threedots.tech/post/common-anti-patterns-in-go-web-applications/
+- 2.Google使用哪些Go module - https://askgit.substack.com/p/which-go-modules-does-google-use
+- 3.用Prometheus构建可观察的Ent应用 - https://entgo.io/blog/2021/08/12/building-observable-ent-application-with-prometheus/
+- 4.Go并发数据结构 - https://github.com/puzpuzpuz/xsync
+- 5.处理defer函数中的错误 - https://trstringer.com/golang-deferred-function-error-handling/
+- 6.播客：Go与数据流处理 - https://changelog.com/gotime/192
+- 7.为React+Go项目提供最简单的Docker文件 - https://medium.com/geekculture/the-easiest-dockerfile-for-react-go-projects-9ef4668bf337
+- 8.用Terraform在Linode上配置Kubernetes集群 - https://learnk8s.io/terraform-lke
+- 9.如何合理调整Kubernetes的资源限制 - https://sysdig.com/blog/kubernetes-resource-limits/
+- 10.网络上SQL的未来 - https://jlongster.com/future-sql-web
+- 11.ZeroVer: 基于0的版本管理, 最受欢迎的软件版本管理方案 - https://0ver.org/
+- 12.github基于密码的身份认证方式已经关闭 - https://github.blog/changelog/2021-08-12-git-password-authentication-is-shutting-down/
+
  go语言中文网(每日资讯)-2021-08-12
 # go-news-set-2021-08-12
 ## go语言中文网(每日资讯)-2021-08-12
