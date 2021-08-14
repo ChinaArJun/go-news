@@ -1,3 +1,17 @@
+ gocn_news-2021-08-14
+# go-news-set-2021-08-14
+## gocn_news-2021-08-14
+- 1.Go Web 应用中常见的反模式 https://www.4async.com/2021/08/common-anti-patterns-in-go-web-applications/
+
+- 2.什么是事件建模 https://www.4async.com/2021/07/introducing-event-modeling/
+
+- 3.译文 Go 语言是如何计算 len() 的? https://gocn.vip/topics/12437
+
+- 4.把命令包装进 Go https://developer20.com/wrapping-commands-with-go/
+
+- 5.C 到 Go 的代码转换工具 cxgo https://github.com/gotranspile/cxgo
+
+
  go语言中文网(每日资讯)-2021-08-13
 # go-news-set-2021-08-13
 ## go语言中文网(每日资讯)-2021-08-13
