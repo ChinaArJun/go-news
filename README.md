@@ -1,3 +1,32 @@
+ gocn_news-2021-08-15
+# go-news-set-2021-08-15
+## gocn_news-2021-08-15
+- 1.Go 并发编程 — 结构体多字段的原子操作 https://mp.weixin.qq.com/s/fU7AihsT8KXSkZLUx105yg
+
+- 2.十大编码陷阱和提示 https://www.pixelstech.net/article/1625372508-Top-10-Go-Coding-Traps-and-Tips
+
+- 3.推荐三个实用的 Go 开发工具  https://juejin.cn/post/6996103313531863048
+
+- 4.Go：为您的文档提供自动测试的示例  https://dev.to/hzoltan/go-tested-documentation-1cbm
+
+- 5.在 Go 中查找和修复内存泄漏  https://dev.to/googlecloud/finding-and-fixing-memory-leaks-in-go-1k1h
+
+
+ gopherDaily-2021-08-15
+# go-news-set-2021-08-15
+## gopherDaily-2021-08-15
+- 1.Go 1.17：使用基于寄存器的调用惯例 - https://t.zsxq.com/U3nIUNZ
+- 2.一文搞定 Containerd 的使用 - https://mp.weixin.qq.com/s/--t74RuFGMmTGl2IT-TFrg
+- 3.编程一万小时的反思 - https://www.oschina.net/news/154219/reflections-on-10000-hours-of-programming
+- 4.经典样式的Go包文档 - https://godocs.io/std
+- 5.纯Go编写的ELF文件解析库 - https://github.com/hnts/goelftools
+- 6.在Go中有效地编写单元测试的5个半技巧 - https://betterprogramming.pub/5-and-a-half-techniques-for-effectively-writing-unit-tests-in-go-1b87b94abd21
+- 7.两年来的更新：为Kubernetes建立一个开源市场 - https://blog.alexellis.io/kubernetes-marketplace-two-year-update/
+- 8.使用MQTT和Grafana Live将实时传感器数据串联到Grafana上 - https://grafana.com/blog/2021/08/12/streaming-real-time-sensor-data-to-grafana-using-mqtt-and-grafana-live/
+- 9.5个原因使Go成为一个好的创业语言 - https://towardsdatascience.com/5-reasons-that-makes-golang-a-good-first-startup-language-28f27356c48a
+- 10.Sysdig 2021 容器安全和使用报告 - https://mp.weixin.qq.com/s/KC4BqUffmItfhZGPL3HgSw
+- 11.如何在Ubuntu 20.04上使用NFS服务器 - https://www.linode.com/docs/guides/using-an-nfs-server-on-ubuntu2004/
+
  gocn_news-2021-08-14
 # go-news-set-2021-08-14
 ## gocn_news-2021-08-14
