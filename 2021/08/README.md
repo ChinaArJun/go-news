@@ -1,3 +1,91 @@
+ go语言中文网(每日资讯)-2021-08-16
+# go-news-set-2021-08-16
+## go语言中文网(每日资讯)-2021-08-16
+
+
+一、Go语言中文网
+
+1. [Go 每日一库：让等待心里更有底](https://mp.weixin.qq.com/s/wEal_e_aE_0eOlgGE-1Txg)
+
+2. [惊！Go里面居然有这样精妙的小函数！](https://mp.weixin.qq.com/s/kROprpgG21vD8gRkvjicQQ)
+
+二、亚军进化史
+
+1. [Go技术日报(2021-08-15)——Google 的 “行星级” cron 系统](https://mp.weixin.qq.com/s/agg6CZovjQo3SdtsB9dJzQ)
+
+三、欧长坤
+
+1. [Eliminating A Source of Measurement Errors in Benchmarks](https://mp.weixin.qq.com/s/Xj5NqdEht_uhVSKju-JMzg)
+
+四、新亮笔记
+
+1. [分布式事务之最终一致性实现方案](https://mp.weixin.qq.com/s/icVCxJ4n2lUQ30yOGYtADg)
+
+五、Golang技术分享
+
+1. [师弟，给力！](https://mp.weixin.qq.com/s/RXr2eWtgATc3PkM0vzlL0w)
+
+六、polarisxu
+
+1. [有更新的动力了](https://mp.weixin.qq.com/s/NtMc9q-rEuOlYE6eUh3T6g)
+
+七、董泽润的技术笔记
+
+1. [线上真实问题：如何正确设置保活](https://mp.weixin.qq.com/s/EmawKOftz0OAnMd2ydcOgQ)
+
+八、脑子进煎鱼了
+
+1. [Go 插件系统，一个凉了快半截的特性？](https://mp.weixin.qq.com/s/Gp2KdHohxX6T8ROtLOw4qA)
+
+九、Golang技术分享
+
+1. [师弟，给力！](https://mp.weixin.qq.com/s/RXr2eWtgATc3PkM0vzlL0w)
+
+十、奇伢云存储
+
+1. [Linux fd 系列 — 定时器 timerfd 是什么？](https://mp.weixin.qq.com/s/cAu42eqHPzk6fXIIeirwhg)
+
+十一、CloudNativeCommunity
+
+1. [微服务的未来 —— 更多层抽象](https://mp.weixin.qq.com/s/Ys0bFB7v2payCIuHDnDpSA)
+
+十二、Go招聘
+
+1. [面试官问我聚簇和非聚簇索引的区别，我居然没答上来](https://mp.weixin.qq.com/s/2RPDe9QMSGloQ2Kiv-m6eQ)
+ go语言中文网(每日资讯)-2021-08-15
+# go-news-set-2021-08-15
+## go语言中文网(每日资讯)-2021-08-15
+
+
+一、Go语言中文网
+
+1. [送 5 本 Go 语言新书](https://mp.weixin.qq.com/s/UN83VroSlvgh1-723q_ShQ)
+
+2. [Go语言爱好者周刊：第 108 期 — 一道 sync.WaitGroup 题目](https://mp.weixin.qq.com/s/lcYdNXqvRhRuDdV013tS-Q)
+
+3. [Go 常见算法面试题篇（三）：高效调整数组数值顺序](https://mp.weixin.qq.com/s/bHxEk0ONwk4MhE58DT0F-g)
+
+二、k8s技术圈
+
+1. [使用 OPA 实现 Kubernetes Pod 安全策略](https://mp.weixin.qq.com/s/8vkdDbUBRCoeFcVw2s5LCg)
+
+三、董泽润的技术笔记
+
+1. [Go 并发编程 — 结构体多字段的原子操作](https://mp.weixin.qq.com/s/fU7AihsT8KXSkZLUx105yg)
+
+四、奇伢云存储
+
+1. [开发搞跨 redis 的一万种方法](https://mp.weixin.qq.com/s/MlKWxG4-znYbpq_NzHhfPQ)
+
+2. [Goland 这些实操技巧，你可能还不会！](https://mp.weixin.qq.com/s/Pbd7K2jQvPgyXcTCwXwOhA)
+
+五、TechPaper
+
+1. [Google 的 “行星级” cron 系统](https://mp.weixin.qq.com/s/0xwn-wHrmVFTAGkLZGZv9Q)
+
+六、polarisxu
+
+1. [GoLand 2021.3 路线图发布：为支持 Go1.18 做准备](https://mp.weixin.qq.com/s/cnzioGAb8I_G4oJLlFLTmA)
  gocn_news-2021-08-15
 # go-news-set-2021-08-15
 ## gocn_news-2021-08-15
