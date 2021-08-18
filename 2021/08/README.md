@@ -1,3 +1,32 @@
+ gocn_news-2021-08-18
+# go-news-set-2021-08-18
+## gocn_news-2021-08-18
+- 1.Go 1.17 泛型尝鲜 https://gocn.vip/topics/12460
+
+- 2.在 Go 中实现的 Watch 工具-viddy https://github.com/sachaos/viddy
+
+- 3.Go 语言搬砖 harbor-api 调用 https://juejin.cn/post/6997575528102232078
+
+- 4.Go 1.17 中值得关注的几个变化 https://tonybai.com/2021/08/17/some-changes-in-go-1-17/
+
+- 5.悄悄地！这是一次还未完成的踩坑目录分享 https://mp.weixin.qq.com/s/Hx6Q-0IPJsjiYo4310CfJQ
+
+
+ gopherDaily-2021-08-18
+# go-news-set-2021-08-18
+## gopherDaily-2021-08-18
+- 1.Go 1.17中值得关注的几个变化 - https://tonybai.com/2021/08/17/some-changes-in-go-1-17
+- 2.Go Workspaces提案的原型实现演示 - https://www.youtube.com/watch?v=wQglU5aB5NQ
+- 3.Go核心团队关于go原生支持fuzz test实现的用户调查 - https://google.qualtrics.com/jfe/form/SV_eOGi9cS2kEPSOjQ?s=t
+- 4.2021 年云原生技术发展现状及未来趋势 - https://mp.weixin.qq.com/s/ZMCskVFy7WRA1DSVx7S1kg
+- 5.为生产系统优化基于eBPF的continuous profiler  - https://blog.px.dev/cpu-profiling-3/
+- 6.Go 1.17可运行的Go泛型示例 - https://github.com/mattn/go-generics-example
+- 7.在Azure functions中运行go应用 - https://www.thorsten-hans.com/azure-functions-with-go/
+- 8.新的Vault教程：Vault 1.8版本亮点 - https://www.hashicorp.com/blog/new-vault-tutorials-vault-1-8-release-highlights
+- 9.开源的终结？- https://www.mirantis.com/blog/the-end-of-open-source-2/
+- 10.未来十年计算机体系结构的历史和趋势 - https://mp.weixin.qq.com/s/LJr8rzUNfPoySOpX6DulLw
+- 11.gitops工具的比较 - https://cloudogu.com/en/blog/gitops-tools
+
  gocn_news-2021-08-17
 # go-news-set-2021-08-17
 ## gocn_news-2021-08-17
