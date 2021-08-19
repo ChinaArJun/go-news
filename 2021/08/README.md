@@ -1,3 +1,33 @@
+ gocn_news-2021-08-19
+# go-news-set-2021-08-19
+## gocn_news-2021-08-19
+- 1.原创分享 自适应负载均衡算法原理与实现  https://gocn.vip/topics/12463
+
+- 2.这样理解 Go 闭包，就不会出错了 https://mp.weixin.qq.com/s/9MKoXHkcaLeSbrM9AFynug
+
+- 3.用 Go 有效编写单元测试的技巧 https://betterprogramming.pub/5-and-a-half-techniques-for-effectively-writing-unit-tests-in-go-1b87b94abd21
+
+- 4.用于保护 Go 代码的静态分析工具 https://github.com/praetorian-inc/gokart
+
+- 5.将 Go 正则表达式编译为 Go 代码 https://github.com/CAFxX/regexp2go
+
+
+ gopherDaily-2021-08-19
+# go-news-set-2021-08-19
+## gopherDaily-2021-08-19
+- 1.Go 1.17新特性详解：支持将切片转换为数组指针 - https://tonybai.com/2021/08/18/go-language-specs-changes-in-go-1-17
+- 2.Go官方的使用Gin开发Web服务教程 - https://tip.golang.org/doc/tutorial/web-service-gin
+- 3.Go官方blog默认重定向到go.dev/blog - https://go.dev/blog
+- 4.整理Go官方站点的Web体验 by russ cox - https://go.dev/blog/tidy-web
+- 5.Go 1.17新特性总结 - https://appliedgo.com/blog/what-s-new-in-go-1-17
+- 6.Delve v1.7.1发布，首次内置eBPF跟踪后端 - https://github.com/go-delve/delve/blob/master/CHANGELOG.md#171-2021-08-18
+- 7.油管视频：微服务中的eBPF可观察性 - https://www.youtube.com/watch?v=Kp3PHPuFkaA
+- 8.何丝滑般将Kubernetes容器运行时从Docker切换成Containerd - https://mp.weixin.qq.com/s/Ry6m6dWMv_MRIHL0kh-uhA
+- 9.使用纯go实现的现代watch命令 - https://github.com/sachaos/viddy
+- 10.通过SSH的PostgreSQL的Go驱动 - https://github.com/mattn/pqssh
+- 11.程序语言的脆弱性(2021版) - https://cancel.fm/blog/2019-11/language-fragility/
+- 12.构建一个CI/CD互操作的生态系统 - https://salaboy.com/2021/08/18/building-a-ci-cd-interoperable-ecosystem/
+
  gocn_news-2021-08-18
 # go-news-set-2021-08-18
 ## gocn_news-2021-08-18
