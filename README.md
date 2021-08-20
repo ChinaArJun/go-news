@@ -1,3 +1,60 @@
+ go语言中文网(每日资讯)-2021-08-20
+# go-news-set-2021-08-20
+## go语言中文网(每日资讯)-2021-08-20
+
+
+一、Go语言中文网
+
+1. [在 Go 中使用微服务架构的好处](https://mp.weixin.qq.com/s/GLbh68cZ-jItcixcmKOmpA)
+
+2. [golang源码分析：爬虫colly（part II）](https://mp.weixin.qq.com/s/0U9mqYqITJugyRnEazmNpQ)
+
+二、k8s技术圈
+
+1. [可以像 Docker 一样方便的使用 Containerd 吗？](https://mp.weixin.qq.com/s/1o4ec6m4LANHt1wgPrwZDA)
+
+三、polarisxu
+
+1. [来聊一聊 Go 的相对路径问题](https://mp.weixin.qq.com/s/i9sbk_jvc1_C-sikDLvTVA)
+
+四、APISIX云原生微服务网关
+
+1. [Go 让 Apache APISIX 如虎添翼](https://mp.weixin.qq.com/s/0m2fDheMuvMR8cHwmJYgeA)
+
+五、网管叨bi叨
+
+1. [解密 Go interface 的类型转换原理](https://mp.weixin.qq.com/s/98r6WCpgUdsJQcQ7ePEN2w)
+
+六、脑子进煎鱼了
+
+1. [Go 的时间格式化为什么是 2006-01-02 15:04:05？](https://mp.weixin.qq.com/s/qE3cS5u1725sUjiG7P7vFA)
+
+七、Seebug漏洞平台
+
+1. [Golang的字符编码与regexp](https://mp.weixin.qq.com/s/MgkRkCgqkvOL81gokP4gAg)
+
+八、TonyBai
+
+1. [Go 1.17新特性详解：支持将切片转换为数组指针](https://mp.weixin.qq.com/s/Afj9pV79AParMkMvcNlCTw)
+
+九、Go招聘
+
+1. [GoLand 2021.3 路线图发布：为支持 Go1.18 做准备](https://mp.weixin.qq.com/s/sqkSFh9aifdJuSzUQEzvfQ)
+ gopherDaily-2021-08-20
+# go-news-set-2021-08-20
+## gopherDaily-2021-08-20
+- 1.Go 1.17新特性详解：module依赖图修剪与延迟module加载 - https://tonybai.com/2021/08/19/go-module-changes-in-go-1-17
+- 2.播客：与Caddy作者Matt Holt聊聊caddy v2 - https://changelog.com/gotime/193
+- 3.gokart: 基于SSA分析进行Go代码漏洞静态检查的工具 - https://www.praetorian.com/blog/introducing-gokart/
+- 4.一个断言Go的值是不可变的尝试 - https://github.com/tailscale/go/pull/19
+- 5.深入探讨Go中的goto与label - https://itnext.io/goto-hell-with-labels-in-golang-7f59a47ead8d
+- 6.将Go正则表达式编译为Go代码 - https://github.com/CAFxX/regexp2go
+- 7.体验Go泛型 - https://medium.com/@scott_white/using-go-generics-57fba3edecdd
+- 8.如何设置Go net/http的socket options - https://iximiuz.com/en/posts/go-net-http-setsockopt-example/
+- 9.用Terraform解锁应用运维的最佳实践 - https://thenewstack.io/best-practices-for-unlocking-appops-with-terraform/
+- 10.2021年API技术趋势 - https://mp.weixin.qq.com/s/nbpKsWb3U7fRKi2KQ-9_Nw
+- 11.深度学习的先驱们谈深度学习的未来 - https://bdtechtalks.com/2021/07/01/deep-learning-future-bengio-hinton-lecun/
+
  gocn_news-2021-08-19
 # go-news-set-2021-08-19
 ## gocn_news-2021-08-19
