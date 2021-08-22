@@ -1,3 +1,43 @@
+ gocn_news-2021-08-22
+# go-news-set-2021-08-22
+## gocn_news-2021-08-22
+- 1.Go 1.17 中值得关注的几个变化  https://gocn.vip/topics/12464
+
+- 2.来聊一聊 Go 的相对路径问题 https://mp.weixin.qq.com/s/i9sbk_jvc1_C-sikDLvTVA
+
+- 3.担心密码提交到 GitHub？建议使用这个 Go 开源工具 https://mp.weixin.qq.com/s/wMaEkWr1O64tx7NkMooIpg
+
+- 4.Go 编译器已默认启用 -G=3，支持泛型 https://www.oschina.net/news/156729/generics-enabled-by-default-in-go-tip
+
+- 5.GoLand 2021.2.1 发布 https://blog.jetbrains.com/go/2021/08/20/goland-2021-2-1-is-out/
+
+
+ gopherDaily-2021-08-22
+# go-news-set-2021-08-22
+## gopherDaily-2021-08-22
+- 1.Go tip版本已默认开启泛型，cmd/compile的-G标志的默认值已由0改为3，从而可以使用新的types2类型检查器并支持type parameter - https://go-review.googlesource.com/c/go/+/343732/
+- 2.关于go runtime内存分配级别导致的一个问题 - https://dave.cheney.net/2021/01/05/a-few-bytes-here-a-few-there-pretty-soon-youre-talking-real-memory
+- 3.parser生成器还是手写parser：2021年主流编程语言语法parser实现方式调查 - https://notes.eatonphil.com/parser-generators-vs-handwritten-parsers-survey-2021.html
+- 4.更快的Base64编码 - https://github.com/cristalhq/base64
+- 5.ZITADEL：云时代的”云原生身份和访问管理”解决方案 - https://github.com/caos/zitadel
+- 6.经典旧文：处理大文件 - 使用Java和Go遇到瓶颈 - https://marcellanz.com/post/file-read-challenge/
+- 7.cAdvisor和Kubernetes监控指南 - https://cloudforecast.io/blog/cadvisor-and-kubernetes-monitoring-guide/
+
+ gopherDaily-2021-08-21
+# go-news-set-2021-08-21
+## gopherDaily-2021-08-21
+- 1.Go 1.17新特性详解：使用基于寄存器的调用惯例 - https://tonybai.com/2021/08/20/using-register-based-calling-convention-in-go-1-17
+- 2.Frederick Brooks、Niklaus Wirth和Go - https://www.fredrikholmqvist.com/posts/brooks-wirth-go/
+- 3.使用channel时的错误处理 - https://medium.com/@developer.naren/handling-errors-in-channels-e76ad5cbf3a0
+- 4.golang/glog发布v1.0.0 - https://github.com/golang/glog
+- 5.Go让Apache APISIX如虎添翼 - https://zhuanlan.zhihu.com/p/401861855
+- 6.使用简单方法让两个Go程序之间实现WebSocket通信 - https://itnext.io/websocket-communication-between-two-go-programs-the-easy-way-d8c9cf40043f
+- 7.几十行C代码实现的load balancer（基于eBPF） - https://github.com/lizrice/lb-from-scratch
+- 8.istio 1.11中的新特性 - https://thenewstack.io/whats-new-in-istio-1-11-robust-day-2-experiences/
+- 9.另一个免费的CA，可作为Let’s Encrypt的替代方案! - https://scotthelme.co.uk/heres-another-free-ca-as-an-alternative-to-lets-encrypt/
+- 10.用智能分配来控制你AWS Kubernetes的使用成本 - https://cast.ai/blog/keep-your-aws-kubernetes-costs-in-check-with-intelligent-allocation
+- 11.正则表达式的乐趣：第一部分 - https://yurichev.com/news/20210819_RE1/
+
  go语言中文网(每日资讯)-2021-08-20
 # go-news-set-2021-08-20
 ## go语言中文网(每日资讯)-2021-08-20
