@@ -1,3 +1,57 @@
+ go语言中文网(每日资讯)-2021-08-23
+# go-news-set-2021-08-23
+## go语言中文网(每日资讯)-2021-08-23
+
+
+一、Go语言中文网
+
+1. [Go 中的并发 bug 在真实场景的情况分析](https://mp.weixin.qq.com/s/O-tjWE216f4xFWvEdSVdSg)
+
+2. [Go：一个8bytes的内存优化](https://mp.weixin.qq.com/s/M7e2e3XjNkvp0lKtQFQ7bw)
+
+二、亚军进化史
+
+1. [Go技术日报(2021-08-22)——Go 1.17 中值得关注的几个变化](https://mp.weixin.qq.com/s/YakV8QDKRzgWf_lwJjd2kg)
+
+三、polarisxu
+
+1. [扬眉吐气：刚刚，Go 已经默认支持泛型了](https://mp.weixin.qq.com/s/EMcarjLe2CCJZO9t5rM_Ww)
+
+四、云加社区
+
+1. [go语言最全优化技巧总结，值得收藏！](https://mp.weixin.qq.com/s/_VGaV8ef65h9goxxfWejtQ)
+
+五、码农桃花源
+
+1. [iptables redirect 劫持跳转引起 Go 服务故障](https://mp.weixin.qq.com/s/fmrw-33cbKLdAkkMHyOrbw)
+
+六、网管叨bi叨
+
+1. [硬核图解| Kafka 如何保证消息不丢失？](https://mp.weixin.qq.com/s/nDs4zw8N1xBObj2Syf_JOQ)
+
+七、脑子进煎鱼了
+
+1. [分久必合，golang.org 将成为历史！](https://mp.weixin.qq.com/s/g_T_MO03G2n_N4HmO1DcCg)
+
+八、Go夜读
+
+1. [gotip 实践 golang-design/go2generics](https://mp.weixin.qq.com/s/zee0FgTwQCpHgex4lK67xg)
+
+九、Golang梦工厂
+
+1. [[警惕] 请勿滥用goroutine](https://mp.weixin.qq.com/s/JC14dWffHub0nfPlPipsHQ)
+
+十、Golang技术分享
+
+1. [Ginkgo：一款 BDD 的 Go 语言框架](https://mp.weixin.qq.com/s/cqt7CBe5YJkBlu_2yIXKnw)
+
+十一、奇伢云存储
+
+1. [Go 存储基础 — “文件”被偷偷修改？来，给它装个监控！](https://mp.weixin.qq.com/s/m0dRfKCeis53V866-vSKGQ)
+
+十二、Go招聘
+
+1. [面试官：kafka的投递语义你知道几个，exactly once 如何保证？](https://mp.weixin.qq.com/s/u5r5OYn9PqAz-FurcRlmEA)
  gocn_news-2021-08-23
 # go-news-set-2021-08-23
 ## gocn_news-2021-08-23
