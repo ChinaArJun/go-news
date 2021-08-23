@@ -1,3 +1,17 @@
+ gocn_news-2021-08-23
+# go-news-set-2021-08-23
+## gocn_news-2021-08-23
+- 1.Go 中的 channel 怎么实现的 https://gocn.vip/topics/12483
+
+- 2.toxiproxy: 开源的用于模拟网络状态进行混沌测试的 TCP 代理 https://github.com/Shopify/toxiproxy
+
+- 3.StaticBacked: 开源的轻量级 Firebase 替代产品 https://github.com/staticbackendhq/core
+
+- 4.Gitea 发布 1.15 版本 https://blog.gitea.io/2021/08/gitea-1.15.0-is-released/
+
+- 5.Peanut: 管理测试和开发数据库和依赖服务工具 https://github.com/Clivern/Peanut
+
+
  gocn_news-2021-08-22
 # go-news-set-2021-08-22
 ## gocn_news-2021-08-22
