@@ -1,3 +1,17 @@
+ gocn_news-2021-08-24
+# go-news-set-2021-08-24
+## gocn_news-2021-08-24
+- 1.[警惕] 请勿滥用 goroutine https://mp.weixin.qq.com/s/JC14dWffHub0nfPlPipsHQ
+
+- 2.译｜There Are No Reference Types in Go https://www.cyningsun.com/08-23-2021/there-are-no-reference-types-in-go-cn.html
+
+- 3.分久必合，golang.org 将成为历史！ https://mp.weixin.qq.com/s/g_T_MO03G2n_N4HmO1DcCg
+
+- 4.Golang 的字符编码与 regexp https://juejin.cn/post/6999523994558791687
+
+- 5.Gitea 1.15.0 is released https://blog.gitea.io/2021/08/gitea-1.15.0-is-released/
+
+
  go语言中文网(每日资讯)-2021-08-23
 # go-news-set-2021-08-23
 ## go语言中文网(每日资讯)-2021-08-23
