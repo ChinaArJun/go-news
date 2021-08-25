@@ -12,6 +12,50 @@
 - 5.Dockerfile 文件全面详解 https://zhuanlan.zhihu.com/p/387855002
 
 
+ go语言中文网(每日资讯)-2021-08-25
+# go-news-set-2021-08-25
+## go语言中文网(每日资讯)-2021-08-25
+
+
+一、Go语言中文网
+
+1. [Go 中的进阶测试模式](https://mp.weixin.qq.com/s/bVBX5sYbd32Il7IuL0waTw)
+
+2. [gRPC入门指南 — 自定义认证（六）](https://mp.weixin.qq.com/s/fdryzl4SgdBOZQv-DesL2Q)
+
+二、亚军进化史
+
+1. [Go技术日报(2021-08-24)——[警惕] 请勿滥用 goroutine](https://mp.weixin.qq.com/s/cIl3Tacjkoc-BWgyeHPZcQ)
+
+三、脑子进煎鱼了
+
+1. [Go1.17 新特性：对 Go 依赖管理的一把大剪刀](https://mp.weixin.qq.com/s/2vVGVd_QJSrCeenuvwGS3g)
+
+2. [Context 是怎么在 Go 语言中发挥关键作用的](https://mp.weixin.qq.com/s/MW18jlpCs5n42maaCyc4zQ)
+
+四、TonyBai
+
+1. [Brooks、Wirth和Go[译]](https://mp.weixin.qq.com/s/28ohdvtv9eze63reSXMMEg)
+
+五、k8s技术圈
+
+1. [去哪儿网基于ChaosBlade的混沌工程实践](https://mp.weixin.qq.com/s/e_ixRGXuPOIhyGb9qTpspg)
+
+六、CloudNativeCommunity
+
+1. [基于 CODING CD + Nocalhost 在大型应用的 ChatOps 实践](https://mp.weixin.qq.com/s/K6GX4IjIYNpdxkL7tk9ayA)
+
+七、码农桃花源
+
+1. [图文结合，白话 Go 的垃圾回收原理](https://mp.weixin.qq.com/s/VIheVqCL9O_Jy7rff-StZA)
+
+八、Go招聘
+
+1. [写了50万行Go代码是一种什么样的体验？](https://mp.weixin.qq.com/s/JReQaNfpy_WUYSEind7rcQ)
+
+九、多颗糖
+
+1. [万字长文说透分布式锁](https://mp.weixin.qq.com/s/35aCS_5GqLyzZS3VobL6fg)
  gopherDaily-2021-08-25
 # go-news-set-2021-08-25
 ## gopherDaily-2021-08-25
