@@ -1,3 +1,31 @@
+ gocn_news-2021-08-25
+# go-news-set-2021-08-25
+## gocn_news-2021-08-25
+- 1.Pi Dashboard Go https://github.com/plutobell/pi-dashboard-go
+
+- 2.【译】并发安全的集中式指针管理设施 https://gocn.vip/topics/12493
+
+- 3.Go 语言中各式各样的优化手段 https://zhuanlan.zhihu.com/p/403417640
+
+- 4.CGO 入门和 OCR 文字识别实战 https://www.cnblogs.com/wishFreedom/p/15186746.html#at
+
+- 5.Dockerfile 文件全面详解 https://zhuanlan.zhihu.com/p/387855002
+
+
+ gopherDaily-2021-08-25
+# go-news-set-2021-08-25
+## gopherDaily-2021-08-25
+- 1.使用Go实现Kubernetes opertor以管理有状态的应用程序 - https://developers.redhat.com/articles/2021/08/04/managing-stateful-applications-kubernetes-operators-golang
+- 2.Go轻量级状态机以及基于状态机的工作流实现 - https://github.com/shipt/plinko
+- 3.在Goland中使用go module - https://levelup.gitconnected.com/go-modules-in-goland-8af712adbcc6
+- 4.我们为什么从Kubernetes迁移到Nomad？ - https://thenewstack.io/conductor-why-we-migrated-from-kubernetes-to-nomad/
+- 5.solo.io发布Gloo Mesh 1.1和Gloo Mesh Gateway 1.0 - https://www.solo.io/blog/gloo-mesh-1-1-and-gloo-mesh-gateway-1-0-in-detail/
+- 6.容器的最佳实践：它们是什么以及为什么你应该关心 - https://thenewstack.io/container-best-practices-what-they-are-and-why-you-should-care/
+- 7.bencher: 支持持续benchmark的基础设施和产品 - https://medium.com/orijtech-developers/bencher-b60cc82e3ef1
+- 8.解析Open Containers Initiative(OCI) - https://dlorenc.medium.com/oci-artifacts-explained-8f4a77945c13
+- 9.discord是如何存储几十亿级别的消息的 - https://blog.discord.com/how-discord-stores-billions-of-messages-7fa6ec7ee4c7
+- 10.使用公司内部的Kubernetes金丝雀控制器逐步发布代码 - https://doordash.engineering/2021/04/14/gradual-code-releases-using-an-in-house-kubernetes-canary-controller/
+
  gocn_news-2021-08-24
 # go-news-set-2021-08-24
 ## gocn_news-2021-08-24
