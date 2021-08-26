@@ -1,3 +1,17 @@
+ gocn_news-2021-08-26
+# go-news-set-2021-08-26
+## gocn_news-2021-08-26
+- 1.Go 实现的基于 Raft 和 RESP 协议的分布式磁盘存储系统 https://github.com/gitsrc/IceFireDB
+
+- 2.用 Go 实现的自托管 Torrent 客户端 https://github.com/varbhat/exatorrent
+
+- 3.Go 的全功能测试框架！断言、模拟、输入测试、输出捕获 https://github.com/MarvinJWendt/testza
+
+- 4.Go 实现一个使用你的 Wi-Fi 登录详细信息创建二维码 https://github.com/reugn/wifiqr
+
+- 5.通过 key 分析 Redis 中的内存使用情况 https://dclg.net/posts/2021-08-16---Redis-inventory/redis-inventory
+
+
  gocn_news-2021-08-25
 # go-news-set-2021-08-25
 ## gocn_news-2021-08-25
