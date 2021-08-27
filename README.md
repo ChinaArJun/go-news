@@ -1,3 +1,33 @@
+ go语言中文网(每日资讯)-2021-08-27
+# go-news-set-2021-08-27
+## go语言中文网(每日资讯)-2021-08-27
+
+
+一、Go语言中文网
+
+1. [Go开源项目推荐：HTTP 请求时间花在哪](https://mp.weixin.qq.com/s/73IU0WxCsaNIJZ-1tda0xQ)
+
+2. [通过实例理解Go逃逸分析](https://mp.weixin.qq.com/s/sCK6FSjdjda0grQbEFlXqg)
+
+二、亚军进化史
+
+1. [Go技术日报(2021-08-25)—— 万字长文说透分布式锁](https://mp.weixin.qq.com/s/SDGsjczpDwdg2C3ZpW9dzw)
+
+三、MoeLove
+
+1. [开源浪潮下程序员的职业规划和成长-分享总结](https://mp.weixin.qq.com/s/wDjdZo3aOyV3kd8yioXb_w)
+
+四、CloudNativeCommunity
+
+1. [Istio 大咖说第七期视频回放及资料下载](https://mp.weixin.qq.com/s/E69-l0ncBheQ05-izM9Wzg)
+
+五、polarisxu
+
+1. [Goroutine 一泄露就看到它，这个是什么？](https://mp.weixin.qq.com/s/-Dr5CBZ0AP1hl0UE66WG0g)
+
+六、Go招聘
+
+1. [Go 1.17 新特性：Module 有哪些变化？](https://mp.weixin.qq.com/s/sBoV5q5YBFyl57Mq1ia5lw)
  gocn_news-2021-08-27
 # go-news-set-2021-08-27
 ## gocn_news-2021-08-27
