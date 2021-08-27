@@ -1,3 +1,33 @@
+ gocn_news-2021-08-27
+# go-news-set-2021-08-27
+## gocn_news-2021-08-27
+- 1.cobra 强大的 cli 命令工具 https://mp.weixin.qq.com/s/fW2XBXDA9t89oCjjDKaGwA
+
+- 2.Go 存储基础—“文件” 被偷偷修改？来，给它装个监控！ https://mp.weixin.qq.com/s/m0dRfKCeis53V866-vSKGQ
+
+- 3.使用 lambda 和 Go 编写一个可水平伸缩的应用 https://arielorozco.com/build-scalable-applications-with-aws-lambda-and-go
+
+- 4.使用 entviz 通过代码自动生成实体联系模型图 https://entgo.io/blog/2021/08/26/visualizing-your-data-graph-using-entviz/
+
+- 5.udpsocket: 基于 UDP 的虚拟有状态连接库 https://github.com/theredrad/udpsocket
+
+
+ gopherDaily-2021-08-27
+# go-news-set-2021-08-27
+## gopherDaily-2021-08-27
+- 1.使用entviz实现数据图表的可视化 - https://entgo.io/blog/2021/08/26/visualizing-your-data-graph-using-entviz/
+- 2.并发安全的集中式指针管理设施: 解析Go 1.17新的cgo设施runtime/cgo.Handle - https://mp.weixin.qq.com/s/qiXCxZyo9hX2jb_PZDnUAQ
+- 3.Go CSRF(跨站点请求伪造)保护指南：例子和如何启用它 - https://www.stackhawk.com/blog/golang-csrf-protection-guide-examples-and-how-to-enable-it/
+- 4.Sourcegraph内存优化实战：通过内存优化，内存使用量减少5倍 - https://about.sourcegraph.com/blog/zoekt-memory-optimizations-for-sourcegraph-cloud/
+- 5.用AWS Lambda和Go构建可扩展的应用程序 - https://arielorozco.com/build-scalable-applications-with-aws-lambda-and-go
+- 6.适用于Go的卓越ACME客户端库 - https://github.com/mholt/acmez
+- 7.基于模板的SQL查询生成器 - https://github.com/sanggonlee/gosq
+- 8.Hashicorp创始人Mitchell Hashimoto在Dev Tool Time展示最简单和最复杂的开发工具是如何融入开发者工作流程的 - https://about.sourcegraph.com/blog/dev-tool-time-mitchell-hashimoto/
+- 9.优化代码智能提交图 - https://about.sourcegraph.com/blog/optimizing-a-code-intel-commit-graph/
+- 10.英特尔架构师科杜里称每个芯片都将是神经网络处理器 - https://www.zdnet.com/article/intel-architect-koduri-says-every-chip-will-be-a-neural-net-processor/
+- 11.隔离测试的7个好处 - https://thenewstack.io/7-benefits-of-testing-in-isolation/
+- 12.使用helm处理多个环境 - https://blog.tarkalabs.com/handling-multiple-environments-with-helm-kubernetes-f214192f8f7b
+
  gocn_news-2021-08-26
 # go-news-set-2021-08-26
 ## gocn_news-2021-08-26
