@@ -1,3 +1,31 @@
+ go语言中文网(每日资讯)-2021-08-29
+# go-news-set-2021-08-29
+## go语言中文网(每日资讯)-2021-08-29
+
+
+一、Go语言中文网
+
+1. [IEEE 2021 编程语言排行榜：Go 这排名不错](https://mp.weixin.qq.com/s/Vah7sPSyF4sgdMfbkuG_1Q)
+
+2. [Go语言爱好者周刊：第 110 期 — 这道题会？](https://mp.weixin.qq.com/s/26Gd-2-LuiLUZh7G7KxAMw)
+
+3. [Go语言的并发与WorkerPool - 第一部分](https://mp.weixin.qq.com/s/vv7Qd-eWXP9DSIOx-unr_g)
+
+二、吴亲强的深夜食堂
+
+1. [原来sync.Once还能这么用](https://mp.weixin.qq.com/s/zFDtkpRUgikgntaNxa2fGw)
+
+三、月牙寂道长
+
+1. [字节厦门招聘服务端开发](https://mp.weixin.qq.com/s/1YYjVBuT5jppHNrvUc_LeA)
+
+四、奇伢云存储
+
+1. [一文读懂 | 进程并发与同步](https://mp.weixin.qq.com/s/gip1kq4thogJ1aOTlpYebg)
+
+五、云影原生
+
+1. [Go程序内存假泄漏是怎么回事](https://mp.weixin.qq.com/s/U0LBkRYqf84occwjFPiy1A)
  go语言中文网(每日资讯)-2021-08-27
 # go-news-set-2021-08-27
 ## go语言中文网(每日资讯)-2021-08-27
