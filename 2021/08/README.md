@@ -1,3 +1,16 @@
+ gocn_news-2021-08-30
+# go-news-set-2021-08-30
+## gocn_news-2021-08-30
+- 1.golang：快来抓住让我内存泄漏的 “真凶”！ https://mp.weixin.qq.com/s/FyHEiaa-UfyLStMKl2VFGA
+
+- 2.go 反射 https://juejin.cn/post/7002164097689059359
+
+- 3.GO runtime 和 channels 练习 https://www.golangprograms.com/goroutines-and-channels-example.html
+
+- 4.腾讯开源的 Kubernetes 多集群管理和跨集群编排工具 Clusternet https://mp.weixin.qq.com/s/t9e0UpInm7S_ojMsX5qJDg 
+- 5.go 语言最全优化技巧总结 https://mp.weixin.qq.com/s/Ux7io_C1ghVLICuDPExHYg
+
+
  go语言中文网(每日资讯)-2021-08-30
 # go-news-set-2021-08-30
 ## go语言中文网(每日资讯)-2021-08-30
