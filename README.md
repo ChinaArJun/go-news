@@ -1,3 +1,55 @@
+ go语言中文网(每日资讯)-2021-08-31
+# go-news-set-2021-08-31
+## go语言中文网(每日资讯)-2021-08-31
+
+
+一、Go语言中文网
+
+1. [刚刚，又有Go新书出版了：送 5 本](https://mp.weixin.qq.com/s/7cfBGErKZlIzsdfWy4oZ6g)
+
+2. [Go: 监控模式](https://mp.weixin.qq.com/s/vkLfBYHh-zUpT78AeIsp9Q)
+
+3. [如何欺骗 Go Mod ?](https://mp.weixin.qq.com/s/rqtVoNe8h4lqxrNjESXjKw)
+
+二、亚军进化史
+
+1. [Go技术日报(2021-08-30)——go 语言最全优化技巧总结](https://mp.weixin.qq.com/s/w9PYNgCw0-AuNzoggElEcg)
+
+三、k8s技术圈
+
+1. [部署一个 Containerd 容器运行时的 Kubernetes 集群](https://mp.weixin.qq.com/s/auSU3F1XA4091aA0sw4GRA)
+
+四、脑子进煎鱼了
+
+1. [Go 整洁架构模版，建议收藏](https://mp.weixin.qq.com/s/NNAFm1TLfOTH_o6d-R3kpw)
+
+五、吴亲强的深夜食堂
+
+1. [gRPC-shop: 初识protobuf(二)](https://mp.weixin.qq.com/s/icWqlL9peVIDIi8u9scGzg)
+
+六、网管叨bi叨
+
+1. [你知道K8S暴露服务的方式有哪些吗？](https://mp.weixin.qq.com/s/04tptKvSYbuCdv3yQaJmeg)
+
+七、多颗糖
+
+1. [VLDB 2021 论文推荐(一)](https://mp.weixin.qq.com/s/3GrZ1dQANjtO5RCm8RWcLA)
+
+八、奇伢云存储
+
+1. [深度细节 | Go 的 panic 的三种诞生方式](https://mp.weixin.qq.com/s/sGdTVSRxqxIezdlEASB39A)
+
+九、高德技术
+
+1. [高德渲染网关Go语言重构实践](https://mp.weixin.qq.com/s/i9da19Z9MU5ENZ572P87rw)
+
+十、polarisxu
+
+1. [Go：自适应负载均衡算法原理和实现](https://mp.weixin.qq.com/s/BiJyD7V8yEFjKyCFXo3PPg)
+
+十一、Go招聘
+
+1. [总结了一下BAT面试中遇到的redis问题，文末送redis新书](https://mp.weixin.qq.com/s/eXtimi18mOrH2rkKMrKHpg)
  gocn_news-2021-08-30
 # go-news-set-2021-08-30
 ## gocn_news-2021-08-30
