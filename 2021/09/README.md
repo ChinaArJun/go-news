@@ -1,3 +1,17 @@
+ gocn_news-2021-09-02
+# go-news-set-2021-09-02
+## gocn_news-2021-09-02
+- 1.短视频 go 研发框架实践 https://mp.weixin.qq.com/s/RgkeZkyrELGeSbfTGEEpXw
+
+- 2.深度细节 | Go 的 panic 的秘密都在这 https://mp.weixin.qq.com/s/pxWf762ODDkcYO-xCGMm2g
+
+- 3.简单看看 Go 1.17 的新调用规约 https://xargin.com/go1-17-new-calling-convention/
+
+- 4.Go1.17 新特性，优化抛出的错误堆栈 https://juejin.cn/post/7002822683490533384
+
+- 5.Golang CQRS Kafka gRPC Postgresql MongoDB Redis 微服务示例 https://github.com/AleksK1NG/Go-CQRS-Kafka-gRPC-Microservices
+
+
  gocn_news-2021-09-01
 # go-news-set-2021-09-01
 ## gocn_news-2021-09-01
