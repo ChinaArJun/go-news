@@ -1,3 +1,46 @@
+ go语言中文网(每日资讯)-2021-09-02
+# go-news-set-2021-09-02
+## go语言中文网(每日资讯)-2021-09-02
+
+一、Go语言中文网
+
+1. [Go整洁架构模版，建议收藏](https://mp.weixin.qq.com/s/co-ul3zTwbEWKGZJede7jg)
+
+2. [Go 插件功能的实现方式](https://mp.weixin.qq.com/s/EbG4RVd7jsoD3YmiP6Az8w)
+
+二、亚军进化史
+
+1. [Go技术日报(2021-09-01)——Go 的 panic 的三种诞生方式](https://mp.weixin.qq.com/s/JkXckT328KNrX5Wthw4SKA)
+
+三、k8s技术圈
+
+1. [在华为云上安装高可用 K8S + KubeSphere](https://mp.weixin.qq.com/s/6eqKM47YNITHbltSiJD13g)
+
+四、polarisxu
+
+1. [听说过对 Go map 做 GC 吗？](https://mp.weixin.qq.com/s/R4aHsDXRWEkxgt8fGD8ZVQ)
+
+五、奇伢云存储
+
+1. [深度细节 | Go 的 panic 的秘密都在这](https://mp.weixin.qq.com/s/pxWf762ODDkcYO-xCGMm2g)
+
+六、Golang技术分享
+
+1. [几个解放双手的 Go 开发利器](https://mp.weixin.qq.com/s/OQ17Y4Knffd8SX-n-fnMsQ)
+
+七、新亮笔记
+
+1. [为开源项目 go-gin-api 增加后台任务模块](https://mp.weixin.qq.com/s/veVBUWye00nNyzMI-dcjHg)
+
+八、奇伢云存储
+
+1. [Context是怎么在Go语言中发挥关键作用的](https://mp.weixin.qq.com/s/5Q3ZTcCp8BgMWIaxwVU13w)
+
+九、Go招聘
+
+1. [推荐一个牛逼的Go招聘，这福利我是酸了！](https://mp.weixin.qq.com/s/-Wo4J1cb1m8V9VlWMhASIQ)
+
+2. [源码剖析panic与recover，看不懂你打我好了！](https://mp.weixin.qq.com/s/qBZQMcZ14ipPmf1JxkMVeg)
  gocn_news-2021-09-02
 # go-news-set-2021-09-02
 ## gocn_news-2021-09-02
