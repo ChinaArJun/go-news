@@ -1,3 +1,17 @@
+ gocn_news-2021-09-03
+# go-news-set-2021-09-03
+## gocn_news-2021-09-03
+- 1.高性能内存缓存 ristretto https://gocn.vip/topics/12516
+
+- 2.Go sync.Once 的妙用 https://gocn.vip/topics/12514
+
+- 3.某高并发服务 Go GC 及 UDP Pool 优化 https://mp.weixin.qq.com/s/EuJ3Pw0s24Nr1h2edn5Sgg
+
+- 4.Go 官方信号量库 https://mp.weixin.qq.com/s/ujEAxf4XqhaXTWW5okfXaw
+
+- 5.详解 PaaS toB 场景下 K8s 离线部署方案 https://blog.k8s.li/pass-tob-k8s-offline-deploy.html
+
+
  go语言中文网(每日资讯)-2021-09-02
 # go-news-set-2021-09-02
 ## go语言中文网(每日资讯)-2021-09-02
