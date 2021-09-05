@@ -1,3 +1,17 @@
+ gocn_news-2021-09-05
+# go-news-set-2021-09-05
+## gocn_news-2021-09-05
+- 1.Joker：Go 编写的 Clojure 解释型方言 https://www.oschina.net/news/158495/joker-lang
+
+- 2.GoSkeleton v1.5.24 发布，基于 Gin 框架封装的 Web 项目骨架 https://www.oschina.net/news/158547
+
+- 3.契约测试 pact 和 go 的终极指南 https://medium.com/nerd-for-tech/the-ultimate-guide-for-contract-testing-with-pact-and-go-177b4af13700
+
+- 4.高德渲染网关 Go 语言重构实践 https://mp.weixin.qq.com/s/i9da19Z9MU5ENZ572P87rw
+
+- 5.听说过对 Go map 做 GC 吗？https://mp.weixin.qq.com/s/R4aHsDXRWEkxgt8fGD8ZVQ
+
+
  gocn_news-2021-09-03
 # go-news-set-2021-09-03
 ## gocn_news-2021-09-03
