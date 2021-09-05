@@ -1,3 +1,42 @@
+ go语言中文网(每日资讯)-2021-09-05
+# go-news-set-2021-09-05
+## go语言中文网(每日资讯)-2021-09-05
+
+一、Go语言中文网
+
+1. [微软招 Go 都干什么？](https://mp.weixin.qq.com/s/JU4928-CQ-C_-_KuKuvgUQ)
+
+2. [Go语言爱好者周刊：第 111 期 — 多module工作区模式](https://mp.weixin.qq.com/s/CvdeBaPbXwVRA92yVlBSrg)
+
+3. [举例来学cond原语](https://mp.weixin.qq.com/s/tuVBwiO78CgEgQ6CPHe3sg)
+
+二、MoeLove
+
+1. [Lima：Docker Desktop for Mac 的免费开源且自由的替代品](https://mp.weixin.qq.com/s/TreV41cxXL5RXuFiLpg6Mw)
+
+三、polarisxu
+
+1. [Go1.17 新特性：go get 变了](https://mp.weixin.qq.com/s/jyr2mdq7hAOy7wKpBJHMgQ)
+
+四、后端研究所
+
+1. [微信事业群二面：聊聊Cookie、Session、Token背后的故事](https://mp.weixin.qq.com/s/ESPaiQOmxMYsHUVLwEOUMw)
+
+五、k8s技术圈
+
+1. [使用 Docker 构建 yum/apt 离线源](https://mp.weixin.qq.com/s/KwSRq8CbxXmv9XTd_9WPoQ)
+
+六、Gopher指北
+
+1. [一次带宽拉满引发的百分百超时血案！](https://mp.weixin.qq.com/s/02qtvjXmv7jdjfrYs5BRxQ)
+
+七、分布式实验室
+
+1. [分布式缓存的选择及问题](https://mp.weixin.qq.com/s/BwcMzwdCrQ1k-JzhqbWBvg)
+
+八、多颗糖
+
+1. [DDIA 对 Raft 的这种极端场景的描述，要如何理解？](https://mp.weixin.qq.com/s/ytYGDigJIS6YiUmop0bJdA)
  gocn_news-2021-09-05
 # go-news-set-2021-09-05
 ## gocn_news-2021-09-05
