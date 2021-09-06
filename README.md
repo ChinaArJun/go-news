@@ -1,3 +1,72 @@
+ go语言中文网(每日资讯)-2021-09-06
+# go-news-set-2021-09-06
+## go语言中文网(每日资讯)-2021-09-06
+
+
+一、Go语言中文网
+
+1. [Go Module 教程第 4 部分：镜像、校验和以及 Athens](https://mp.weixin.qq.com/s/b1mTUOKCs-L9Tt9TdzJpQw)
+
+2. [并发控制模式：orDone的两种实现](https://mp.weixin.qq.com/s/F5H0C--diuuPTcrZhSC0cA)
+
+二、欧长坤
+
+1. [Scheduling Function Calls with Zero Allocation](https://mp.weixin.qq.com/s/loW3pEu9uJBU3Jt3-nQmRA)
+
+三、k8s技术圈
+
+1. [kubelet 配置资源预留的姿势](https://mp.weixin.qq.com/s/GueahMq2t4NBPw1lvNc_IA)
+
+四、腾讯技术工程
+
+1. [杂谈代码整洁](https://mp.weixin.qq.com/s/s_2dfOnMqND1qKjTfnmg5A)
+
+五、码农桃花源
+
+1. [Go服务迁到K8s后老抽风重启? 记一次完整的线上问题解决过程](https://mp.weixin.qq.com/s/hw5GXHgI7TgdbGcbRiquiw)
+
+六、章老师说
+
+1. [七层负载均衡应如何选型？](https://mp.weixin.qq.com/s/bFSGtq73DrXLgtG29U9QsA)
+
+七、Go招聘
+
+1. [Go中的map有缩容机制吗?](https://mp.weixin.qq.com/s/4OP2zMERTQGcpvZB36Otkw)
+
+2. [土拨鼠联合其他号主来给大家送8本SRE](https://mp.weixin.qq.com/s/Kngf0uvXquI7MM_iYuVUsg)
+
+八、董泽润的技术笔记
+
+1. [读者提问：如何学习 redis 源码](https://mp.weixin.qq.com/s/5KOQOZRBbAdjaxH5Jd7JYQ)
+
+九、脑子进煎鱼了
+
+1. [Go 切片这道题，吵了一个下午！](https://mp.weixin.qq.com/s/kEQI74ge6VhvNEr1d3JW-Q)
+
+十、奇伢云存储
+
+1. [聊聊底线 | 坏数据与假数据](https://mp.weixin.qq.com/s/DvaGJlAusSxrCb3bTzqY7Q)
+
+十一、Golang梦工厂
+
+1. [微服务架构下的熔断框架：hystrix-go](https://mp.weixin.qq.com/s/jhHhowKj9bNVXSursDvIQw)
+
+十二、Golang技术分享
+
+1. [我终于识破了这个 Go 编译器把戏](https://mp.weixin.qq.com/s/KfsMJN36f0IpxabAwbL6iA)
+ gopherDaily-2021-09-06
+# go-news-set-2021-09-06
+## gopherDaily-2021-09-06
+- 1.2021年17本最佳Go技术书籍 - https://realtoughcandy.com/best-golang-books/
+- 2.DNS基础知识和在Go中构建简单的DNS服务器 - https://medium.com/@openmohan/dns-basics-and-building-simple-dns-server-in-go-6cb8e1cfe461
+- 3.使用pRest通过REST访问Postgres - https://eltonminetto.dev/en/post/2021-08-31-prest/
+- 4.最佳Go项目：发现令人敬畏的Go项目 - https://bestofgo.dev/
+- 5.从Docker迁移到Podman - https://marcusnoble.co.uk/2021-09-01-migrating-from-docker-to-podman/
+- 6.ZFS神秘地吃掉了我的CPU - https://www.brendangregg.com/blog/2021-09-06/zfs-is-mysteriously-eating-my-cpu.html
+- 7.油管视频：用Go建立自己的分布式数据库 - https://www.youtube.com/watch?v=rxzcx4HaCQo
+- 8.使用Fiber在Go中构建基本的CRUD操作 - https://dev.to/eternaldev/building-basic-crud-operations-in-go-with-fiber-1l49
+- 9.GORM SQLChaos在程序运行时基于gorm对DML进行操作 - https://github.com/u2386/gorm-sqlchaos
+
  gocn_news-2021-09-06
 # go-news-set-2021-09-06
 ## gocn_news-2021-09-06
