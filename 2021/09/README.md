@@ -1,3 +1,17 @@
+ gocn_news-2021-09-06
+# go-news-set-2021-09-06
+## gocn_news-2021-09-06
+- 1.理解 Go 中的封装 https://sagarsonwane230797.medium.com/understanding-encapsulation-in-go-ac575813c3ad
+
+- 2.Go 1.18 中新增多 module 工作区模式 https://utcc.utoronto.ca/~cks/space/blog/programming/GoWorkspacesComing
+
+- 3.使用扩展 API 扩展 Ent 功能 https://entgo.io/blog/2021/09/02/ent-extension-api/
+
+- 4.authelia：支持多因子认证的单点登录网关 https://github.com/authelia/authelia
+
+- 5.值得阅读的 Go 源代码推荐 https://news.ycombinator.com/item?id=14462125
+
+
  go语言中文网(每日资讯)-2021-09-05
 # go-news-set-2021-09-05
 ## go语言中文网(每日资讯)-2021-09-05
