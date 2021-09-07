@@ -1,3 +1,17 @@
+ gocn_news-2021-09-07
+# go-news-set-2021-09-07
+## gocn_news-2021-09-07
+- 1.微服务架构下的熔断框架：hystrix-go https://mp.weixin.qq.com/s/jhHhowKj9bNVXSursDvIQw
+
+- 2.使用 Delve 调试远程 Go 应用 https://juejin.cn/post/7004731872735395877
+
+- 3.AWS Kinesis Firehose - 使用 Go 存储 JSON 到 AWS S3 Parquet https://medium.com/@starchycornet33/aws-kinesis-firehose-json-to-parquet-using-golang-for-columnar-based-queries-753a783c371c
+
+- 4.Bun - 简单高效的 PostgreSQL/MySQL/SQLite 客户端 https://bun.uptrace.dev/
+
+- 5.Fuzz 测试实践 https://www.dolthub.com/blog/2021-08-30-unleash-the-fuzz/
+
+
  go语言中文网(每日资讯)-2021-09-06
 # go-news-set-2021-09-06
 ## go语言中文网(每日资讯)-2021-09-06
