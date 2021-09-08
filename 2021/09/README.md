@@ -1,3 +1,62 @@
+ go语言中文网(每日资讯)-2021-09-08
+# go-news-set-2021-09-08
+## go语言中文网(每日资讯)-2021-09-08
+
+
+一、Go语言中文网
+
+1. [Go: Finalizers 怎么使用？](https://mp.weixin.qq.com/s/H-VIhce4N3aH5HIhY-5UlQ)
+
+2. [Go：Gzip 的一个坑](https://mp.weixin.qq.com/s/yOa5EeUi1q7IH36YKJAJsQ)
+
+二、亚军进化史
+
+1. [Go技术日报(2021-09-06)——杂谈代码整洁](https://mp.weixin.qq.com/s/0WpT1SXESQNzmzek2qIXng)
+
+2. [Go技术日报(2021-09-07)——Go的fasthttp快的秘诀：简单事情做到极致](https://mp.weixin.qq.com/s/3IJcvqKw87dROR1hSGC24g)
+
+三、k8s技术圈
+
+1. [使用 kube-vip 搭建高可用的 Kubernetes 集群(完整版)](https://mp.weixin.qq.com/s/ypIObV4ARzo-DOY81EDc_Q)
+
+四、HHFCodeRv
+
+1. [Go 网络库 getty 的那些事](https://mp.weixin.qq.com/s/rk4BjHda3fkDRh0MBQtTLw)
+
+五、网管叨bi叨
+
+1. [Go应用中优雅处理Error的几个技巧](https://mp.weixin.qq.com/s/Gnkyba2OjFnwxObqjlBePw)
+
+六、polarisxu
+
+1. [Go 官网要变天。。。](https://mp.weixin.qq.com/s/FfifPrpEWL_yn7YeLWI1kw)
+
+七、码农桃花源
+
+1. [写 Go 时如何优雅地查文档](https://mp.weixin.qq.com/s/ddl-6a567tE49RkykzYgZQ)
+
+八、Go生态
+
+1. [Go 实现 Photoshop 的功能。。。](https://mp.weixin.qq.com/s/SLiXxKMEtj7CS1k80cZ9sw)
+
+九、Go招聘
+
+1. [看看国外的Gopher培训教程是怎样的？](https://mp.weixin.qq.com/s/HIA-4AsPmvhtpCGj7Ij-8w)
+ gopherDaily-2021-09-08
+# go-news-set-2021-09-08
+## gopherDaily-2021-09-08
+- 1.腾讯开源Go语言实现的百万级服务发现和治理中心北极星 - https://mp.weixin.qq.com/s/YP8aXGwd_vyYSgL8QyomvQ
+- 2.使用Go构建实时机器学习系统的方法考量 - https://towardsdatascience.com/approaches-for-building-real-time-ml-systems-79ea0e340269
+- 3.spice.ai: Go实现的开源的用于时序数据机器学习与深度学习的运行时 - https://blog.spiceai.org/posts/2021/09/07/introducing-spice.ai-open-source-time-series-ai-for-developers/
+- 4.DIY Go调试器 - https://poonai.github.io/posts/how-debuggers-works-part1/
+- 5.以零分配的方式调度函数调用 - https://golang.design/research/zero-alloc-call-sched/
+- 6.Docker是如何一分为二的 - https://www.infoworld.com/article/3632142/how-docker-broke-in-half.html
+- 7.美国国家安全局(NSA) Kubernetes加固指南概述 - https://fairwinds.medium.com/an-overview-of-the-nsa-kubernetes-hardening-guide-d3d933562314
+- 8.Go、redis和lua脚本 - https://xitonix.io/go-lua-and-redis/
+- 9.使用kube-vip搭建高可用的Kubernetes集群 - https://mp.weixin.qq.com/s/ypIObV4ARzo-DOY81EDc_Q
+- 10.kubernetes实例计算器：根据你的工作负载，为你的集群探索最佳实例类型 - https://learnk8s.io/kubernetes-instance-calculator
+- 11.MangaDex动漫网站基础设施介绍 - https://mangadex.dev/mangadex-v5-infrastructure-overview/
+
  gocn_news-2021-09-08
 # go-news-set-2021-09-08
 ## gocn_news-2021-09-08
