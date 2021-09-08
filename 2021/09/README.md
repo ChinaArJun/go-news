@@ -1,3 +1,32 @@
+ gocn_news-2021-09-08
+# go-news-set-2021-09-08
+## gocn_news-2021-09-08
+- 1.理解真实项目中的 Go 并发 Bug https://gocn.vip/topics/12529
+
+- 2.Go Test 的一些小建议 https://moshe-beladev-mb.medium.com/tips-for-effective-go-tests-6b9f1e242f02
+
+- 3.Go 应用中优雅处理 Error 的几个技巧 https://mp.weixin.qq.com/s/Gnkyba2OjFnwxObqjlBePw
+
+- 4.深入理解 CNI（容器网络接口）https://mp.weixin.qq.com/s/z9-F4Oamnnlyuj5ARoMt_Q
+
+- 5.GO 编程模式: 泛型编程 https://coolshell.cn/articles/21615.html
+
+
+ gopherDaily-2021-09-07
+# go-news-set-2021-09-07
+## gopherDaily-2021-09-07
+- 1.用于PostgreSQL、MySQL和SQLite的简单且性能良好的数据库客户端 - https://github.com/uptrace/bun
+- 2.为什么Go正在占领软件行业：关于Go为何成为开发者的热门选择的思考 - https://betterprogramming.pub/why-golang-is-about-to-take-over-the-software-industry-fb48174a4cf
+- 3.由Go核心开发团队安全负责人Filippo Valsorda开源的文件加密工具age发布v1.0.0版本 - https://github.com/FiloSottile/age/releases/tag/v1.0.0
+- 4.如何使用Go下载油管视频 - https://preettheman.medium.com/how-to-download-youtube-videos-with-go-golang-45d279b8283e
+- 5.如何在Go中使用ZeroMQ的请求-回复模式 - https://dev.to/franciscomendes10866/how-to-use-zeromq-request-reply-pattern-in-golang-3n5g
+- 6.Go语言中怎么提升JSON編解码的性能？ - https://www.readfog.com/a/1643615563573989376
+- 7.对更薄的容器的需求 - https://iximiuz.com/en/posts/thick-container-vulnerabilities/
+- 8.dtm: 分布式事务管理服务 - https://github.com/yedf/dtm
+- 9.增强隐私的技术和它们为什么重要 - https://medium.com/@rachel_44286/ai-privacy-and-why-you-should-care-1ef503a789b6
+- 10.用扩展API扩展Ent - https://entgo.io/blog/2021/09/02/ent-extension-api/
+- 11.支持github、gitlab、bitbucket等的webhook管理服务 - https://github.com/krok-o/krok
+
  gocn_news-2021-09-07
 # go-news-set-2021-09-07
 ## gocn_news-2021-09-07
