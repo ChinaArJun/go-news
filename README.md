@@ -1,3 +1,17 @@
+ gocn_news-2021-09-09
+# go-news-set-2021-09-09
+## gocn_news-2021-09-09
+- 1.Golang 强行关闭 TCP 连接 https://itnext.io/forcefully-close-tcp-connections-in-golang-e5f5b1b14ce6
+
+- 2.Golang 中的 DIY 调试器 https://poonai.github.io/posts/how-debuggers-works-part1/
+
+- 3.Go 中的第一个通用链表 https://github.com/1995parham/linkedlist.go
+
+- 4.在 Go 中使用 redis 和 lua 脚本 https://xitonix.io/go-lua-and-redis/
+
+- 5.Go1.17 测试中添加的新功能 https://khanakia.medium.com/go-1-17-new-features-added-to-testing-9a8862cb03c0
+
+
  go语言中文网(每日资讯)-2021-09-08
 # go-news-set-2021-09-08
 ## go语言中文网(每日资讯)-2021-09-08
