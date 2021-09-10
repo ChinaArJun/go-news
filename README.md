@@ -1,3 +1,32 @@
+ gocn_news-2021-09-10
+# go-news-set-2021-09-10
+## gocn_news-2021-09-10
+- 1.Go1.17.1 与 Go 1.16.8 发布 https://groups.google.com/g/golang-announce/c/dx9d7IOseHw
+
+- 2.Go1.17 go get 指令的更新 https://khanakia.medium.com/golang-go-get-updated-in-go-1-17-8e0c905bdb1f
+
+- 3.Go1.17 sync/atomic 包中 CompareAndSwap 的改变 https://khanakia.medium.com/go-1-17-whats-changed-sync-atomic-package-and-compareandswap-4b714f49342b
+
+- 4.在 Go 语言中实战 DDD https://levelup.gitconnected.com/practical-ddd-in-golang-domain-event-de02ad492989
+
+- 5.使用 Go 语言编写一个《我的世界》https://preettheman.medium.com/lets-build-minecraft-with-go-d813755f159b
+
+
+ gopherDaily-2021-09-09
+# go-news-set-2021-09-09
+## gopherDaily-2021-09-09
+- 1.Go剖析、跟踪和可观察性指南 - https://github.com/DataDog/go-profiler-notes/blob/main/guide/README.md
+- 2.Go中的i18n(国际化)指南 - https://www.alexedwards.net/blog/i18n-managing-translations
+- 3.使用errgroup满足JavaScript的Promise.all的爱好者的并发使用习惯 - http://nathan.vegas/blog/errgroup-promise-all.html
+- 4.使用sqlc/pgx操作Postgres数据库 - https://brandur.org/sqlc
+- 5.Facebook将Go对象关系映射项目Ent捐献给Linux基金会 - https://thenewstack.io/facebooks-golang-object-relational-mapper-moves-to-the-linux-foundation/
+- 6.跟踪SLA、SLO和错误预算的工具 - https://github.com/roshan8/slo-tracker
+- 7.优雅地处理Kubernetes的API弃用问题 - https://www.openfaas.com/blog/ingress-api-deprecation/
+- 8.油管视频：在Github Copilot的辅助下用Go从头制作了一款CLI游戏 - https://www.youtube.com/watch?v=Xw_qbJp52cY
+- 9.通过优化应用程序打破Kubernetes铁三角 - https://mp.weixin.qq.com/s/KfsSatZZKU7MyRBdYfgWmQ
+- 10.Kubernetes最佳实践 - https://github.com/diegolnasc/kubernetes-best-practices
+- 11.理想与现实：重新审视虚拟机和容器的历史 - https://arxiv.org/abs/1904.12226
+
  gocn_news-2021-09-09
 # go-news-set-2021-09-09
 ## gocn_news-2021-09-09
