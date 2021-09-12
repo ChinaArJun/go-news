@@ -1,3 +1,35 @@
+ go语言中文网(每日资讯)-2021-09-12
+# go-news-set-2021-09-12
+## go语言中文网(每日资讯)-2021-09-12
+
+
+一、Go语言中文网
+
+1. [Go语言爱好者周刊：第 112 期](https://mp.weixin.qq.com/s/CMlW0kmriHAkK6Oyl0WoXQ)
+
+2. [Go基于I/O多路复用的TCP协议流解析实践](https://mp.weixin.qq.com/s/Hrh63H1f1dmxAL9qt6bJng)
+
+二、奇伢云存储
+
+1. [限流熔断是什么，怎么做，不做行不行？](https://mp.weixin.qq.com/s/ArEILFw6k-6w_7q_BWzD1A)
+
+2. [你真的懂string与[]byte的转换了吗](https://mp.weixin.qq.com/s/g67GDIk5qz8naYPI4x7IdA)
+
+三、网管叨bi叨
+
+1. [Google 的 “行星级” cron 系统](https://mp.weixin.qq.com/s/5MBYHamndwcSVNQgM2Z4zA)
+
+四、云影原生
+
+1. [DDIA读书笔记（一）: 评价服务和数据模型](https://mp.weixin.qq.com/s/8uwrtuSlPY2Q8ZMOYhGLJw)
+
+五、luozhiyun很酷
+
+1. [3.深入TiDB：执行优化讲解](https://mp.weixin.qq.com/s/IRk2lA9aGAa0KAdBY4oXjA)
+
+六、Go招聘
+
+1. [如何保证缓存和数据库的一致性？](https://mp.weixin.qq.com/s/oXHRhHN0GykhzwaMor_saA)
  gocn_news-2021-09-12
 # go-news-set-2021-09-12
 ## gocn_news-2021-09-12
@@ -11,6 +43,20 @@
 
 - 5.有效地使用接口改进你的代码  https://redbeardlab.com/2021/09/11/advanced-go-improve-your-code-using-interfaces-effectively/
 
+
+ gopherDaily-2021-09-12
+# go-news-set-2021-09-12
+## gopherDaily-2021-09-12
+- 1.gRPC客户端的那些事儿 - https://t.zsxq.com/RnIuRfE
+- 2.Go核心团队发起的关于修订doc comment格式的讨论 - https://github.com/golang/go/discussions/48305#thread-subscription-status
+- 3.功能齐全、符合HTML5规范的服务器发送事件库 - https://github.com/tmaxmax/go-sse
+- 4.可在设备之间轻松加密共享文件、文件夹和文本的跨平台程序 - https://github.com/Jacalz/wormhole-gui
+- 5.go-pry: Go的交互式REPL工具 - https://github.com/d4l3k/go-pry
+- 6.inlets之旅：为云而建的隧道 - https://blog.zespre.com/inlets-the-cloud-native-tunnel.html
+- 7.高级Go: 有效利用接口改进你的代码  - https://pauldigian.hashnode.dev/advanced-go-improve-your-code-using-interfaces-effectively
+- 8.用WasmEdge中的嵌入式WebAssembly函数扩展你的Go应用程序 - https://dzone.com/articles/golang-app-with-embedded-webassembly-functions-wasmedge
+- 9.如何在WSL2下安装和设置Go开发环境 - https://medium.com/@benzbraunstein/how-to-install-and-setup-golang-development-under-wsl-2-4b8ca7720374
+- 10..NET开发者的Go入门指南 - https://www.c-sharpcorner.com/article/getting-started-with-golang-for-net-developers/
 
  gopherDaily-2021-09-10
 # go-news-set-2021-09-10
