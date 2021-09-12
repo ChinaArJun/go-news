@@ -1,3 +1,32 @@
+ gocn_news-2021-09-12
+# go-news-set-2021-09-12
+## gocn_news-2021-09-12
+- 1.检查内存常用的命令 https://juejin.cn/post/7006950034935660574
+
+- 2.order by 是如何工作的？ https://juejin.cn/post/7006957833996468260
+
+- 3.处理过载  https://sre.google/sre-book/handling-overload/#eq2101
+
+- 4.Golang 强行关闭 TCP 连接  https://itnext.io/forcefully-close-tcp-connections-in-golang-e5f5b1b14ce6
+
+- 5.有效地使用接口改进你的代码  https://redbeardlab.com/2021/09/11/advanced-go-improve-your-code-using-interfaces-effectively/
+
+
+ gopherDaily-2021-09-10
+# go-news-set-2021-09-10
+## gopherDaily-2021-09-10
+- 1.Go 1.17.1和1.16.8版本发布，包含重要安全问题修正 - https://golangtutorial.dev/news/go-1.17.1-and-go-1.16.8-versions-released/
+- 2.Go变异测试(Mutation testing)框架 - https://github.com/zimmski/go-mutesting
+- 3.云原生如何使我们失业 - https://xargin.com/cloud-native-and-future-of-developer/
+- 4.Go并发模式：扇入与扇出 - https://medium.com/geekculture/golang-concurrency-patterns-fan-in-fan-out-1ee43c6830c4
+- 5.使用泛型实现go pipeline - https://preslav.me/2021/09/04/generic-golang-pipelines/
+- 6.Go项目结构和准则 - https://dev.to/jinxankit/go-project-structure-and-guidelines-4ccm
+- 7.自动从commit log提取用于发布的更新日志工具 - https://github.com/miniscruff/changie
+- 8.AsyncAPI vs OpenAPI: 关于两个领先的API规范的比较 - https://www.asyncapi.com/blog/openapi-vs-asyncapi-burning-questions
+- 9.Go播客：构建真正可维护的软件 - https://changelog.com/gotime/196
+- 10.开源漏洞格式规范 - https://ossf.github.io/osv-schema/
+- 11.AWS宣布推出EKS Anywhere，以管理企业内部的Kubernetes集群。AWS选择了Cilium作为网络和安全的内置默认值 - https://isovalent.com/blog/post/2021-09-aws-eks-anywhere-chooses-cilium
+
  gocn_news-2021-09-10
 # go-news-set-2021-09-10
 ## gocn_news-2021-09-10
