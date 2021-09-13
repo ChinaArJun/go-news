@@ -1,3 +1,56 @@
+ go语言中文网(每日资讯)-2021-09-13
+# go-news-set-2021-09-13
+## go语言中文网(每日资讯)-2021-09-13
+
+一、Go语言中文网
+
+1. [疯了吧！这帮人居然用 Go 写“前端”？（二）](https://mp.weixin.qq.com/s/3sitopDuqHyW6dhCLaaerw)
+
+2. [Go：如何高效地拼接字符串](https://mp.weixin.qq.com/s/9328Ju9pF80djNtRXqfSXQ)
+
+二、亚军进化史
+
+1. [Go技术日报(2021-09-12)——如何保证缓存和数据库的一致性？](https://mp.weixin.qq.com/s/Q__mWuH2oaOGNZh7GGCJcA)
+
+三、k8s技术圈
+
+1. [​微服务 CI/CD 实践-GitOps 完整设计与实现](https://mp.weixin.qq.com/s/MN08YzdpDMYZ5xpQP1ECQQ)
+
+四、Go生态
+
+1. [Gin 框架绑定 JSON 参数使用 jsoniter](https://mp.weixin.qq.com/s/8aORG-cd_a4nIHOLUYi6Ew)
+
+五、Go招聘
+
+1. [你知道K8S暴露服务的方式有哪些吗？](https://mp.weixin.qq.com/s/na7HwDElPwhEnJonc1mGAg)
+
+六、微服务实践
+
+1. [微服务注册与发现的原理与实现](https://mp.weixin.qq.com/s/-WaWJaM_ePEQOf7ExNJe7w)
+
+七、董泽润的技术笔记
+
+1. [Fail at Scale 读后感](https://mp.weixin.qq.com/s/BNOr5e92atc2RZstv_afwQ)
+
+八、技术岁月
+
+1. [金融智能风控系统演进开发实践](https://mp.weixin.qq.com/s/1dUOwjxrjHu5maf603yHxA)
+
+九、脑子进煎鱼了
+
+1. [你对 Go 错误处理的 4 个误解！](https://mp.weixin.qq.com/s/Ey-yqIq__wpaLTlBAOHjxg)
+
+十、Golang梦工厂
+
+1. [Go语言如何操纵Kafka保证无消息丢失](https://mp.weixin.qq.com/s/XoSi3Cgp7ij-n9t4pvBoXQ)
+
+十一、Golang技术分享
+
+1. [Go 中 Set 的最佳实现方案](https://mp.weixin.qq.com/s/pcwCW7jtr2_CJ_k58He-6Q)
+
+十二、奇伢云存储
+
+1. [聊聊奇伢如何学习 Linux 内核源码](https://mp.weixin.qq.com/s/LaKA1KDHez7qYI6DPkpbrQ)
  go语言中文网(每日资讯)-2021-09-12
 # go-news-set-2021-09-12
 ## go语言中文网(每日资讯)-2021-09-12
