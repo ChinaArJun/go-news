@@ -1,3 +1,17 @@
+ gocn_news-2021-09-15
+# go-news-set-2021-09-15
+## gocn_news-2021-09-15
+- 1.使 go 的数据库测试更容易的工具https://github.com/RussellLuo/dbtest
+
+- 2.asm 库提供优化的算法以利用 CPU 的特性 https://github.com/segmentio/asm
+
+- 3.golang 源码分析：sarama kafka client(part I:生产者) https://mp.weixin.qq.com/s/he5cfeJyUDn2YjmgOOGp-w
+
+- 4.在 Go 中数据的提取、转换和加载 https://www.ardanlabs.com/blog/2021/09/extract-transform-load-in-go.html
+
+- 5.C/C++ 调用 golang 函数，golang 回调 C/C++ 函数  https://blog.51cto.com/u_15343979/3817251
+
+
  go语言中文网(每日资讯)-2021-09-14
 # go-news-set-2021-09-14
 ## go语言中文网(每日资讯)-2021-09-14
