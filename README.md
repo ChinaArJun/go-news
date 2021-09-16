@@ -1,3 +1,46 @@
+ gocn_news-2021-09-16
+# go-news-set-2021-09-16
+## gocn_news-2021-09-16
+- 1.gg: 像写 Golang 一样生成代码 https://xuanwo.io/2021/09-gg
+
+- 2.gotraining 并发编程之 Channel 篇 文末有彩蛋 https://mp.weixin.qq.com/s/YJAJJErj0aRx6poriVQ-3A
+
+- 3.Go GraphQL 101 介绍 https://programmingpercy.tech/blog/using-graphql-in-golang/
+
+- 4.创建 Go 应用 CLI https://github.com/create-go-app/cli
+
+- 5.用于嵌入相似性搜索和 AI 应用程序的开源矢量数据库 https://github.com/milvus-io/milvus
+
+
+ gopherDaily-2021-09-16
+# go-news-set-2021-09-16
+## gopherDaily-2021-09-16
+- 1.在crypto/tls中自动进行cipher suite排序 - https://go.dev/blog/tls-cipher-suites
+- 2.goproxy的参考实现 - https://github.com/adonovan/goproxy
+- 3.从Go v.17开始，如何在Go中使用泛型 - https://preslav.me/2021/08/17/how-to-use-generics-in-golang-starting-from-go1-17/
+- 4.写Go代码的快乐 - https://fakturo.io/blog/the-pleasure-writing-go/
+- 5.Envoy代理开源五周年，创始人Matt Klein亲述开源心路历程及经验教训 - https://mp.weixin.qq.com/s/2eOQjR5BvrDXOkTILqLF8w
+- 6.Terraform 在英语流利说的实践 - https://mp.weixin.qq.com/s/7yFo_qqucbr7iur7FSDfEQ
+- 7.为什么授权(authorization)很难 - https://www.osohq.com/post/why-authorization-is-hard
+- 8.为什么以及如何在命令行中使用containerd - https://iximiuz.com/en/posts/containerd-command-line-clients/
+- 9.向最好的人学习：麻省理工学院教授开放的12个全球排名第一的科目的学习资源 - https://medium.com/open-learning/learn-from-the-best-open-learning-resources-in-12-subjects-taught-at-mit-ranked-1-worldwide-8350f022fa1b
+- 10.如何克服对数学的恐惧 - https://www.kdnuggets.com/2021/03/overcome-fear-learn-math-data-science.html
+
+ gopherDaily-2021-09-15
+# go-news-set-2021-09-15
+## gopherDaily-2021-09-15
+- 1.那些没有结果的Go错误处理提案集合 - https://seankhliao.com/blog/12020-11-23-go-error-handling-proposals/
+- 2.使用Gio构建一个图形界面 - https://jonegil.github.io/gui-with-gio/
+- 3.理解Go语言的多态 - https://sagarsonwane230797.medium.com/understanding-polymorphism-in-go-d704944e9816
+- 4.举例说明如何在Go中使用Context –取消、超时和值 - https://www.sohamkamani.com/golang/context-cancellation-and-values/
+- 5.Go GraphQL 101入门指南 - https://programmingpercy.tech/blog/using-graphql-in-golang/
+- 6.Go发疯系列：无尽的错误处理 - https://jesseduffield.com/Gos-Shortcomings-1/
+- 7.让Go中的错误处理变得更加强大 - https://medium.com/codealchemist/error-handling-in-go-made-more-powerful-ce164c2384ee
+- 8.Go是什么？我应该用它来实现我的后端吗？ - https://blog.skyegill.com/what-is-golang
+- 9.dbtest: 简化Go语言DB测试的工具 - https://github.com/RussellLuo/dbtest
+- 10.基于DevOps的开源治理 - https://mp.weixin.qq.com/s/2L-IgI0Dom0RmH0RXCCHbQ
+- 11.不要建立一个通用的API来支持你自己的前端 - https://max.engineer/server-informed-ui
+
  gocn_news-2021-09-15
 # go-news-set-2021-09-15
 ## gocn_news-2021-09-15
