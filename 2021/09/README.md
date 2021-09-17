@@ -1,3 +1,61 @@
+ go语言中文网(每日资讯)-2021-09-17
+# go-news-set-2021-09-17
+## go语言中文网(每日资讯)-2021-09-17
+
+
+一、Go语言中文网
+
+1. [ORM 还是 非 ORM？](https://mp.weixin.qq.com/s/IJ4oxnG0HekI_5jXHqzEhg)
+
+2. [用 Go 实现一个 GitHub Trending API](https://mp.weixin.qq.com/s/22IHyAVOEAhfqnepcRXA5g)
+
+二、腾讯云CDN
+
+1. [腾讯云李丛： CDN分布式架构演进](https://mp.weixin.qq.com/s/WVBwX0vOBQhTJTaTaNM1yw)
+
+三、新亮笔记
+
+1. [分布式之接口幂等性](https://mp.weixin.qq.com/s/xAfgoX9NJCV7aZW6DXYqzg)
+
+四、Go招聘
+
+1. [Go1.17 新特性：go get 变了](https://mp.weixin.qq.com/s/DL5yXSTlb4keotgreATtRA)
+
+五、CloudNativeCommunity
+
+1. [石墨文档基于 Kubernetes 的 Go 微服务实践（上）](https://mp.weixin.qq.com/s/ZyNLbmnkiqfsztSeZ4Zfww)
+
+六、董泽润的技术笔记
+
+1. [Go Context 最佳实践](https://mp.weixin.qq.com/s/GGhmZLoLUGIfeBFyyfW5kw)
+
+七、脑子进煎鱼了
+
+1. [面试官：为什么 Go 的负载因子是 6.5？](https://mp.weixin.qq.com/s/nL7jkskVHTmCy3Ed9e-RZA)
+
+2. [面试官：两个 nil 比较结果是什么？](https://mp.weixin.qq.com/s/D8XJn8WkhNrEfHZw2ZycKw)
+
+八、k8s技术圈
+
+1. [使用 Velero 备份还原 Kubernetes 集群](https://mp.weixin.qq.com/s/VC6kVfcBCUQfG6RwM6F1QA)
+
+九、Go生态
+
+1. [怎样花两年时间去面试一个人](https://mp.weixin.qq.com/s/Afnh1hz_QbFTO8WiHW-yWg)
+ gopherDaily-2021-09-17
+# go-news-set-2021-09-17
+## gopherDaily-2021-09-17
+- 1.Go官方发起讨论：如何利用泛型更新标准库API - https://github.com/golang/go/discussions/48287
+- 2.Go社区行为准则更新 - https://go.dev/blog/conduct-2021
+- 3.具有类似于前端的组件体验的后端html模板渲染引擎 - https://github.com/yuriizinets/ssceng
+- 4.Go播客：聊聊Go技术书籍编写和阅读方面的事情 - https://changelog.com/gotime/197
+- 5.世界上最强大的模板引擎和可嵌入的Go解释器 - https://github.com/open2b/scriggo
+- 6.Go json-rpc实现方案 - https://github.com/go-tk/jroh
+- 7.帮助你深入Beego的教程 - https://richardeng.medium.com/a-word-from-the-beegoist-d562ff8589d7
+- 8.成为测试大师之路，第一部分：崛起 - https://medium.com/geekculture/the-way-to-testing-mastery-32aee760804b
+- 9.用Go实现数据库事务 - https://averageflow.github.io/2021/08/31/sql-transactions-in-go.html
+- 10.石墨文档基于K8S的Go微服务实践（上篇）- https://mp.weixin.qq.com/s/2YrW_6My-20_DRyKRnT-tA
+
  gocn_news-2021-09-16
 # go-news-set-2021-09-16
 ## gocn_news-2021-09-16
