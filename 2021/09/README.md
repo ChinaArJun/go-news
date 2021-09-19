@@ -1,3 +1,34 @@
+ gocn_news-2021-09-19
+# go-news-set-2021-09-19
+## gocn_news-2021-09-19
+- 1.常见错误集锦之接口污染 https://gocn.vip/topics/17319
+
+- 2.Go 语言网络库 getty 的那些事 https://gocn.vip/topics/17318
+
+- 3.dubbo-go github action 集成测试 https://gocn.vip/topics/17317
+
+- 4.汽车之家基于 dubbo-go 云平台的探索和实践 https://gocn.vip/topics/17316
+
+- 5.Go 与 C 的指针 https://mp.weixin.qq.com/s/q2y81lk7XZn9IJBtWDOwmw
+
+
+ gopherDaily-2021-09-18
+# go-news-set-2021-09-18
+## gopherDaily-2021-09-18
+- 1.如何在Go中实现领域驱动设计（DDD）：学习如何在Go应用程序中使用DDD的简单方法 - https://towardsdatascience.com/how-to-implement-domain-driven-design-ddd-in-golang-2e2139beb09d
+- 2.构建渐进式Web应用的Go包 -  https://go-app.dev/
+- 3.实现Container Runtime Shim: runc - https://iximiuz.com/en/posts/implementing-container-runtime-shim/?z=100
+- 4.如何使用 WebAssembly 扩展后端应用 - https://mp.weixin.qq.com/s/BZfqLTUlnEEUKqrMAI7X5A
+- 5.Go语言网络库getty的那些事 - https://mp.weixin.qq.com/s/hihY7sEatJCHTTZHs3urfQ
+- 6.使用Velero备份还原Kubernetes集群 - https://mp.weixin.qq.com/s/VC6kVfcBCUQfG6RwM6F1QA
+- 7.使用go-mpatch进行go time mock测试 - https://sagarsonwane230797.medium.com/mocking-time-in-go-with-go-mpatch-597e313faabb
+- 8.改善我的日常开发经验: 为Go开发调整我的Neovim配置的故事 - https://blog.cctechwiz.com/improving-my-everyday-developer-experience
+- 9.kompose: 将docker-compose部署的应用迁移到Kubernetes上 - https://github.com/kubernetes/kompose
+- 10.凝聚力量，聚拢风暴。斯坦福大学人工智能百年研究（AI100）研究小组2021年报告 -  https://ai100.stanford.edu/2021-report/gathering-strength-gathering-storms-one-hundred-year-study-artificial-intelligence
+- 11.不，我们不用Kubernetes - https://ably.com/blog/no-we-dont-use-kubernetes
+- 12.没有git的代码版本管理：体会git的实现原理 - https://itoshkov.github.io/git-tutorial
+- 13.接收来自网络上任何人的电话或者自己搭建一个电话服务器 - https://github.com/mehrvarz/webcall
+
  go语言中文网(每日资讯)-2021-09-17
 # go-news-set-2021-09-17
 ## go语言中文网(每日资讯)-2021-09-17
