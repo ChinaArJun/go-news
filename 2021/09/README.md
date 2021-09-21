@@ -12,6 +12,46 @@
 - 5.Capoae 恶意软件利用软件漏洞安装 Go 挖矿程序 https://thehackernews.com/2021/09/new-capoae-malware-infiltrates.html
 
 
+ go语言中文网(每日资讯)-2021-09-21
+# go-news-set-2021-09-21
+## go语言中文网(每日资讯)-2021-09-21
+
+
+一、Go语言中文网
+
+1. [国外Go社区吵起来了](https://mp.weixin.qq.com/s/2_jjNBwaj5rBD5acNjArwg)
+
+2. [Go：微服务注册与发现的原理与实现](https://mp.weixin.qq.com/s/_jn-0yb7lS_x-vGz-guuJg)
+
+3. [Go单测从零到溜系列—0.单元测试基础](https://mp.weixin.qq.com/s/Ky07ELyegJFSBh8w85Mi3Q)
+
+二、polarisxu
+
+1. [Go Fiber 框架系列教程 01: 和 Express 对比学习](https://mp.weixin.qq.com/s/AUdKsBpqwOU5wJPyAP0fgw)
+
+三、网管叨bi叨
+
+1. [Golang 五种原子性操作的用法详解](https://mp.weixin.qq.com/s/W48sjzxwjPYKgcY8DavBYA)
+
+四、k8s技术圈
+
+1. [深入浅出负载均衡](https://mp.weixin.qq.com/s/RFjTDNsGiqkMNnkjVus5Zw)
+
+五、luozhiyun很酷
+
+1. [在Go中使用Failpoint注入故障](https://mp.weixin.qq.com/s/BZyqsVnlJTb6j9OergxHRg)
+
+六、Gopher指北
+
+1. [sync.Once化作一道光让我顿悟](https://mp.weixin.qq.com/s/Eu6T5-4v82kdh-Url4O5_w)
+
+七、幼麟实验室
+
+1. [【Golang】泛型要来了吗？](https://mp.weixin.qq.com/s/CLSuf2R4wFV1RMV1BS2gFg)
+
+八、Go招聘
+
+1. [中秋快乐,布隆过滤器的原理了解一下](https://mp.weixin.qq.com/s/uu6knQiAtlMiMbRcgCQcOg)
  gopherDaily-2021-09-21
 # go-news-set-2021-09-21
 ## gopherDaily-2021-09-21
