@@ -1,3 +1,42 @@
+ gocn_news-2021-09-21
+# go-news-set-2021-09-21
+## gocn_news-2021-09-21
+- 1.讨论 Go 标准库 API 如何支持泛型 https://github.com/golang/go/discussions/48287
+
+- 2.Go 实践 DDD 领域驱动设计系列文章 https://levelup.gitconnected.com/practical-ddd-in-golang-aggregate-de13f561e629
+
+- 3.Golang 五种原子性操作的用法详解 https://mp.weixin.qq.com/s/W48sjzxwjPYKgcY8DavBYA
+
+- 4.Go 1.18 合并对 Fuzz 测试原生支持的代码 https://github.com/golang/go/commit/6e81f78c0f1653ea140e6c8d008700ddad1fa0a5
+
+- 5.Capoae 恶意软件利用软件漏洞安装 Go 挖矿程序 https://thehackernews.com/2021/09/new-capoae-malware-infiltrates.html
+
+
+ gopherDaily-2021-09-21
+# go-news-set-2021-09-21
+## gopherDaily-2021-09-21
+- 1.Go 1.18合并了对Fuzz测试原生支持的代码 - https://github.com/golang/go/commit/6e81f78c0f1653ea140e6c8d008700ddad1fa0a5
+- 2.Go DDD实战：Aggregate - https://levelup.gitconnected.com/practical-ddd-in-golang-aggregate-de13f561e629
+- 3.高度可定制和轻量级的Go CLI应用框架 - https://github.com/SuperPaintman/nice
+- 4.混淆go构建 - https://github.com/burrowers/garble
+- 5.深入了解goroutine的泄漏和避免泄漏的最佳做法 - https://mourya-g9.medium.com/deep-dive-on-goroutine-leaks-and-best-practices-to-avoid-them-a35021383f64
+- 6.opentelemetry-go发布v1.0.0 - https://github.com/open-telemetry/opentelemetry-go/releases/tag/v1.0.0
+- 7.阅读代码是一种技能 - https://trishagee.com/2020/09/07/reading-code-is-a-skill/
+- 8.我创办SaaS公司的经历 - https://blog.airplane.dev/i-started-a-saas-company-in-2013-and-2021-heres-how-its-changed/
+- 9.用Snappy的S2扩展来加快压缩速度 - https://tech.marksblogg.com/snappy-s2-compression-golang.html
+
+ gopherDaily-2021-09-19
+# go-news-set-2021-09-19
+## gopherDaily-2021-09-19
+- 1.比较Kotlin和Go对Monkey语言的实现 - https://medium.com/@mario.arias.c/comparing-kotlin-and-golang-implementations-of-the-monkey-language-3a41122ea732
+- 2.不要害怕指针 - https://bitfieldconsulting.com/golang/pointers
+- 3.Loki日志系统详解 - https://mp.weixin.qq.com/s/GKJPTxuD_lrMXKmx2CE9Sw
+- 4.关于B树和数据库的一切: B树是如何为你的数据库处理数据密集型工作负荷提供动力的 -https://medium.com/@amitdavidson234/all-about-b-trees-and-databases-8c0697856189
+- 5.不完美的Go接口 - https://jesseduffield.com/Gos-Shortcomings-3/
+- 6.Terraform不是金锤子 - https://hub.qovery.com/guides/engineering/terraform-not-the-golden-hammer/
+- 7.CNCF Operator白皮书 - https://www.cncf.io/wp-content/uploads/2021/07/CNCF_Operator_WhitePaper.pdf
+- 8.从App Engine迁移到Google Kubernetes Engine - https://ipinfo.io/blog/app-engine-to-google-kubernetes-engine/
+
  gocn_news-2021-09-19
 # go-news-set-2021-09-19
 ## gocn_news-2021-09-19
