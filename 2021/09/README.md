@@ -1,3 +1,50 @@
+ go语言中文网(每日资讯)-2021-09-22
+# go-news-set-2021-09-22
+## go语言中文网(每日资讯)-2021-09-22
+
+一、Go语言中文网
+
+1. [Go每日一库之 Cobra：著名的命令行库](https://mp.weixin.qq.com/s/dRIyZXBaqylwzMxL54S29w)
+
+2. [Rust 的第一印象](https://mp.weixin.qq.com/s/V43U4bS_uJJpNDQVMq2vuA)
+
+二、亚军进化史
+
+1. [Go技术日报(2021-09-21)——Golang 五种原子性操作的用法详解](https://mp.weixin.qq.com/s/Yb2WQNkF1vESSeCeJgKd3w)
+
+三、脑子进煎鱼了
+
+1. [一文啃透 Go map：初始化和访问](https://mp.weixin.qq.com/s/iL9dgMW47q0ySTYkvfl6fg)
+
+2. [Go 存储基础 — “文件”被偷偷修改？来，给它装个监控！](https://mp.weixin.qq.com/s/Vq5WxDyorMQ2nNkUAr6DjQ)
+
+四、码农桃花源
+
+1. [介绍一个欧神写的剪贴板多端同步神器](https://mp.weixin.qq.com/s/5Fx84X455DrdBVSs0rFNCg)
+
+五、Rust编程指北
+
+1. [真能折腾：Rust实现一个Go脚本语言](https://mp.weixin.qq.com/s/phflNPhpkGZpms2sFTXO5A)
+
+六、CloudNativeCommunity
+
+1. [容器神话 Docker 是如何一分为二的](https://mp.weixin.qq.com/s/yMZYWMrGUW9GRRhm-2urBQ)
+
+七、Go招聘
+
+1. [Go 1.17 新特性：Module 有哪些变化？](https://mp.weixin.qq.com/s/HEmOY6VJyGzX7xPTPOcAtw)
+
+八、轩脉刃的刀光剑影
+
+1. [思考服务雪崩 case](https://mp.weixin.qq.com/s/JisP5_Xg3YWpZdzXgAc0_g)
+
+九、微服务实践
+
+1. [高可用延迟队列设计与实现](https://mp.weixin.qq.com/s/jcfCe2gBa3_F6T_7Cpk9jg)
+
+十、Golang技术分享
+
+1. [Go 网络编程和 TCP 抓包实操](https://mp.weixin.qq.com/s/k4rtZoEzZ_SZQW5RfrGe0A)
  gocn_news-2021-09-22
 # go-news-set-2021-09-22
 ## gocn_news-2021-09-22
