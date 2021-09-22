@@ -1,3 +1,17 @@
+ gocn_news-2021-09-22
+# go-news-set-2021-09-22
+## gocn_news-2021-09-22
+- 1.行为准则更新 https://go.dev/blog/conduct-2021
+
+- 2.在 Go 中使用 Failpoint 注入故障 https://www.luozhiyun.com/archives/595
+
+- 3.日志库输出策略的设计模式小考 https://zhuanlan.zhihu.com/p/411747859
+
+- 4.驯服 go 内存使用，避免用 rust 重写 https://www.akitasoftware.com/blog-posts/taming-gos-memory-usage-or-how-we-avoided-rewriting-our-client-in-rust
+
+- 5.go-test-trace: 测试时生成 tracing https://github.com/rakyll/go-test-trace
+
+
  gocn_news-2021-09-21
 # go-news-set-2021-09-21
 ## gocn_news-2021-09-21
