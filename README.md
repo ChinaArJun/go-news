@@ -1,3 +1,17 @@
+ gocn_news-2021-09-23
+# go-news-set-2021-09-23
+## gocn_news-2021-09-23
+- 1.Go 实现关于 Web 应用程序的单点登录多因素门户 https://github.com/authelia/authelia
+
+- 2.ffmpeg-to-webrtc 演示了如何使用 Go 实现的 pion 将视频从 ffmpeg 发送到您的浏览器 https://github.com/ashellunts/ffmpeg-to-webrtc
+
+- 3.简单、零依赖的 Go 调度库 https://github.com/reugn/go-quartz
+
+- 4.在 Go 中实现通用过滤器功能 https://preslav.me/2021/09/22/implementing-a-generic-filter-function-in-golang/
+
+- 5.Go 实现的用于安全拆分和分发您的私钥的实验性工具 https://github.com/Dentrax/cocert
+
+
  go语言中文网(每日资讯)-2021-09-22
 # go-news-set-2021-09-22
 ## go语言中文网(每日资讯)-2021-09-22
