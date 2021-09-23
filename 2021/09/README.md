@@ -1,3 +1,64 @@
+ go语言中文网(每日资讯)-2021-09-23
+# go-news-set-2021-09-23
+## go语言中文网(每日资讯)-2021-09-23
+
+
+一、Go语言中文网
+
+1. [Golang vs Python：选哪个？](https://mp.weixin.qq.com/s/So1eY2IJn7D_RLCeCaQ5kA)
+
+2. [Go单测从零到溜系列—1.mock网络测试](https://mp.weixin.qq.com/s/HYEjnDH6DTgWqeVTAq7gWQ)
+
+二、亚军进化史
+
+1. [Go技术日报(2021-09-22)——高可用延迟队列设计与实现](https://mp.weixin.qq.com/s/-fB7Z1dt1_97w47js22-zw)
+
+三、Go生态
+
+1. [Go 微服务框架对比：Go Micro, Go Kit, Gizmo, Kite](https://mp.weixin.qq.com/s/KQ_qWBrW9MY0a3IL_Bv2kw)
+
+四、脑子进煎鱼了
+
+1. [关于 Go Test 这些小技巧，Gopher 应该知道](https://mp.weixin.qq.com/s/OUtjehGSrzzSpiIVi90hrA)
+
+五、Golang梦工厂
+
+1. [聊一聊Go语言中的零值，它有什么用？](https://mp.weixin.qq.com/s/o7SwVDpscSDbi6ePxpjjLQ)
+
+六、光谷码农
+
+1. [atomic 的原理与使用场景](https://mp.weixin.qq.com/s/5PHEH6w6vpZ2b-GJJTYdZQ)
+
+七、HHFCodeRv
+
+1. [gin 源码阅读(3) - gin 路由的实现剖析](https://mp.weixin.qq.com/s/PldVh8Wk6oxCFIcWVx3hrQ)
+
+八、polarisxu
+
+1. [推荐一个 Go GUI 实战项目](https://mp.weixin.qq.com/s/gkWwNovhppWBOc35Buo7Qw)
+
+九、李文周
+
+1. [Go单测从零到溜系列—4.使用monkey打桩](https://mp.weixin.qq.com/s/DNyHG5xIXefJXhpVwB3R1A)
+
+十、Go招聘
+
+1. [聊一聊Go中面向包的设计](https://mp.weixin.qq.com/s/zPHooITRTLNJDcbH2uPsUw)
+ gopherDaily-2021-09-23
+# go-news-set-2021-09-23
+## gopherDaily-2021-09-23
+- 1.驯服Go的内存使用：我们如何避免用Rust重写我们的客户端 - https://www.akitasoftware.com/blog-posts/taming-gos-memory-usage-or-how-we-avoided-rewriting-our-client-in-rust
+- 2.受java quartz启发实现的零依赖go调度库 - https://github.com/reugn/go-quartz
+- 3.使用go泛型语法实现的切片过滤函数 - https://preslav.me/2021/09/22/implementing-a-generic-filter-function-in-golang/
+- 4.Node.js与Go，哪门语言更好：在6个关键领域进行比较  - https://qvault.io/golang/node-js-vs-go/
+- 5.为你的内部Tailscale服务提供TLS证书 - https://tailscale.com/blog/tls-certs/
+- 6.在不受信任的网络中安全地分割和分发你的私钥 - https://github.com/Dentrax/cocert
+- 7.在Go中安全集成断路器 - https://dev.to/he110/circuitbreaker-pattern-in-go-43cn
+- 8.Kubernetes网络策略：真的管用么？- https://medium.com/codex/kubernetes-network-polices-are-they-really-useful-c3a153c49316
+- 9.pprofutils：用于pprof文件的“瑞士军刀” - https://github.com/felixge/pprofutils
+- 10.机器学习的第一条规则 - https://eugeneyan.com/writing/first-rule-of-ml/
+- 11.揭穿10倍软件工程师的神话 - https://www.swarmia.com/blog/busting-the-10x-software-engineer-myth
+
  gocn_news-2021-09-23
 # go-news-set-2021-09-23
 ## gocn_news-2021-09-23
