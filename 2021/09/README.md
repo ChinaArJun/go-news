@@ -1,3 +1,17 @@
+ gocn_news-2021-09-24
+# go-news-set-2021-09-24
+## gocn_news-2021-09-24
+- 1.Go 有别于其他语言的 10 个特性 https://itnext.io/10-features-of-go-that-set-it-apart-from-other-languages-89337e5ee551
+
+- 2.Go1.17.1 开始 go get 将不再支持安装可执行文件 https://jinxankit.medium.com/deprecation-of-go-get-in-golang-1-17-1-2da764d613e1
+
+- 3.slices 包将增加泛型排序方法 https://github.com/golang/go/issues/47619
+
+- 4.基于 wasm 的在线 Go-playgroud https://go-playground-wasm.vercel.app/
+
+- 5.将先进的 Go 并发设计模式到数据管道设计 https://medium.com/amboss/applying-modern-go-concurrency-patterns-to-data-pipelines-b3b5327908d4
+
+
  go语言中文网(每日资讯)-2021-09-23
 # go-news-set-2021-09-23
 ## go语言中文网(每日资讯)-2021-09-23
