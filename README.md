@@ -1,3 +1,31 @@
+ gocn_news-2021-09-25
+# go-news-set-2021-09-25
+## gocn_news-2021-09-25
+- 1.推荐一个 Go GUI 实战项目 https://mp.weixin.qq.com/s/gkWwNovhppWBOc35Buo7Qw
+
+- 2.推荐一款超实用的查看容器系统资源真实使用情况的工具 topic https://mp.weixin.qq.com/s/B5yD5XXyWHfVEdeXgnbL8Q
+
+- 3.一文搞懂 Kubernetes 中数据包的生命周期 https://mp.weixin.qq.com/s/SqCwa069y4dcVQ1fWNQ0Wg
+
+- 4.【Go 进阶—数据结构】Channel https://segmentfault.com/a/1190000040734748
+
+- 5.发票总库 DDD 实践 https://mp.weixin.qq.com/s/8nSxM5lDOzexFBNErdbjWg
+
+
+ gopherDaily-2021-09-24
+# go-news-set-2021-09-24
+## gopherDaily-2021-09-24
+- 1.使用Go实现Raft系列(译文版) - https://www.yuque.com/chenjiayang/blog/hr107g
+- 2.比较Kotlin和Go对monkey语言的实现2：性能部分 - https://medium.com/@mario.arias.c/comparing-kotlin-and-go-implementations-of-the-monkey-language-ii-raiders-of-the-lost-performance-b9aa09945281
+- 3.Go泛型版本排序比标准库sort.Int快3倍 - https://github.com/golang/go/issues/47619#issuecomment-925967266
+- 4.将Go并发模式应用于数据管道 - https://medium.com/amboss/applying-modern-go-concurrency-patterns-to-data-pipelines-b3b5327908d4
+- 5.Go播客：Go工具链团队访谈 - https://changelog.com/gotime/198
+- 6.Go逃逸分析 - https://mayurwadekar2.medium.com/escape-analysis-in-golang-ee40a1c064c1
+- 7.从DevOps发展角度看应用架构的演进 - https://mp.weixin.qq.com/s/A-qsWU6aURcPUSbhjLohwg
+- 8.Linux三十而立：它对Kubernetes、云和边缘的影响 - https://thenewstack.io/linux-at-30-its-impact-on-kubernetes-cloud-and-edge/
+- 9.eBPF如何帮助Facebook实现L7代理的零停机重启以及无状态、一致的负载平衡 - https://linuxplumbersconf.org/event/11/contributions/950/attachments/889/1704/lpc_from_xdp_to_socket_fb.pdf
+- 10.云原生技术赋能联邦学习 - https://mp.weixin.qq.com/s/tl362IJVqezmjPzQe4ZN9Q
+
  gocn_news-2021-09-24
 # go-news-set-2021-09-24
 ## gocn_news-2021-09-24
