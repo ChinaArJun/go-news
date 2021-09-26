@@ -1,3 +1,32 @@
+ gocn_news-2021-09-26
+# go-news-set-2021-09-26
+## gocn_news-2021-09-26
+- 1.Go map 如何缩容？  https://mp.weixin.qq.com/s/Slvgl3KZax2jsy2xGDdFKw
+
+- 2.聊聊如何解决 MySQL 深分页问题  https://juejin.cn/post/7012016858379321358
+
+- 3.gRPC 客户端的那些事儿  https://tonybai.com/2021/09/17/those-things-about-grpc-client/
+
+- 4.MySQL 8.0：新的身份验证插件  https://segmentfault.com/a/1190000040733952
+
+- 5.Golang 强行关闭 TCP 连接  https://itnext.io/forcefully-close-tcp-connections-in-golang-e5f5b1b14ce6
+
+
+ gopherDaily-2021-09-26
+# go-news-set-2021-09-26
+## gopherDaily-2021-09-26
+- 1.gRPC服务的响应设计 - https://t.zsxq.com/fIAEyZz
+- 2.使用SPIFFE/SPIRE实现云原生工作负载身份识别 - https://thenewstack.io/the-rise-of-workload-identity-in-cloud-native-with-spiffe-spire/
+- 3.使用ICMP协议隐匿数据传输的go程序 - https://www.kitploit.com/2021/09/queensono-golang-binary-for-data.html
+- 4.Go和JSON：标签、空字符串和nil值 - https://www.gophp.io/go-and-json-tags-empty-strings-and-nil-values/
+- 5.简化Go json处理  - https://alanstorm.com/simplified-json-handling-in-go/
+- 6.使用GitHub Actions、Helm和Kubernetes的多平台Go应用的CI/CD - https://itnext.io/ci-cd-for-a-multi-arch-go-application-using-github-actions-docker-buildx-helm-and-kubernetes-f415a42b2c82
+- 7.云计算的7个好处 - https://www.codecademy.com/resources/blog/7-benefits-of-cloud-computing/
+- 8.密切关注你的控制平面对于确保你的自我管理的OpenShift容器平台的高可用性和健康 - https://www.dynatrace.com/news/blog/keeping-an-eye-on-your-control-plane-is-critical-to-ensuring-the-high-availability-and-health-of-your-self-managed-openshift-container-platform/
+- 9.K0s作为轻量级的Kubernetes发布版，旨在缓解物联网安全挑战 - https://www.mirantis.com/blog/k0s-as-a-lightweight-kubernetes-distro-designed-to-mitigate-iot-security-challenges/
+- 10.如何在2021年提高生产力 - 最佳技巧和窍门 - https://clickup.com/blog/how-to-be-more-productive/
+- 11.如何获取客户端真实 IP？从Gin的一个”Bug”说起 - https://mp.weixin.qq.com/s/C-Xf6haLrOWkmBm2lRTdEQ
+
  gocn_news-2021-09-25
 # go-news-set-2021-09-25
 ## gocn_news-2021-09-25
