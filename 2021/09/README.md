@@ -1,3 +1,65 @@
+ go语言中文网(每日资讯)-2021-09-26
+# go-news-set-2021-09-26
+## go语言中文网(每日资讯)-2021-09-26
+
+
+一、Go语言中文网
+
+1. [用 Go 构建不可变的数据结构](https://mp.weixin.qq.com/s/_uSN003FGtuuA4KQ-H1lzQ)
+
+2. [Go单测从零到溜系列—3.接口测试](https://mp.weixin.qq.com/s/eSr8oiQlXLjnhjZrJ0HsZw)
+
+二、亚军进化史
+
+1. [Go技术日报(2021-09-25)——用MQ 能完全替代 RPC 调用？](https://mp.weixin.qq.com/s/35OytZctAeTWQeSXH7lKyg)
+
+三、脑子进煎鱼了
+
+1. [终于识破了这个 Go 编译器把戏](https://mp.weixin.qq.com/s/rAIhapDHrA7jQVr_uvQpEg)
+
+四、新亮笔记
+
+1. [为开源项目 go-gin-api 增加 WebSocket 模块](https://mp.weixin.qq.com/s/SquN0aUHXaNpsgQASUfoNA)
+
+五、HHFCodeRv
+
+1. [真实环境下大内存 Go 服务性能优化一例](https://mp.weixin.qq.com/s/ROmrno01biGjhR9V0SBkOQ)
+
+六、Go招聘
+
+1. [腾讯互娱流量生态部又来招聘Gopher啦](https://mp.weixin.qq.com/s/2Y4UwX2zdE4C2JrQetCZpQ)
+
+七、网管叨bi叨
+
+1. [存储基础 — 文件描述符 fd 究竟是什么？](https://mp.weixin.qq.com/s/VBDXLVip11VtAfHFhfEGag)
+
+八、董泽润的技术笔记
+
+1. [Go timer 是如何被调度的？](https://mp.weixin.qq.com/s/zy354p9MQq10fpTL20uuCA)
+
+九、TonyBai
+
+1. [gRPC服务的响应设计](https://mp.weixin.qq.com/s/nGTrKBHLVmHLuRMffHcKfw)
+
+十、polarisxu
+
+1. [Go中面向包的设计](https://mp.weixin.qq.com/s/BokIZgxLSJ8vLfaJrsds4g)
+
+十一、BFE开源项目
+
+1. [如何实现多数据中心流量调度](https://mp.weixin.qq.com/s/i5AJeC7_3CSJ1Ci8pYIFXg)
+
+十二、Golang技术分享
+
+1. [Go 中如何强制关闭 TCP 连接](https://mp.weixin.qq.com/s/Lbv4myGcvH6fIfNoQfyqQA)
+
+十三、腾讯云原生
+
+1. [斗鱼直播云原生实践之注册中心篇](https://mp.weixin.qq.com/s/_q7a7ch5bhXIiL8Kk3XWrg)
+
+十四、腾讯技术工程
+
+1. [分布式消息队列](https://mp.weixin.qq.com/s/-MXA4T-ei_U5ewXUNZ0QdQ)
  gocn_news-2021-09-26
 # go-news-set-2021-09-26
 ## gocn_news-2021-09-26
