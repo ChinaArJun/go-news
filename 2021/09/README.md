@@ -1,3 +1,17 @@
+ gocn_news-2021-09-27
+# go-news-set-2021-09-27
+## gocn_news-2021-09-27
+- 1.使用 Go 语言在图片中隐藏 Shellcode https://mp.weixin.qq.com/s/lAO9TjEPpfarSgMzQBY4Tw
+
+- 2.了解 go-micro 中的 transport https://juejin.cn/post/7012585167889891359
+
+- 3.你想知道的 Go 泛型都在这里 https://mp.weixin.qq.com/s/ZmKnD53xKyQWwuj64rL_7A
+
+- 4.Go 单测从零到溜系列—4.使用 monkey 打桩 https://mp.weixin.qq.com/s/NVW5Tq8BKNv9XSFHaV1ZjA
+
+- 5.用 Go 构建不可变的数据结构 https://mp.weixin.qq.com/s/_uSN003FGtuuA4KQ-H1lzQ
+
+
  go语言中文网(每日资讯)-2021-09-26
 # go-news-set-2021-09-26
 ## go语言中文网(每日资讯)-2021-09-26
