@@ -1,3 +1,31 @@
+ gocn_news-2021-09-28
+# go-news-set-2021-09-28
+## gocn_news-2021-09-28
+- 1.Go 通用过滤器功能实现 https://preslav.me/2021/09/22/implementing-a-generic-filter-function-in-golang/
+
+- 2.Go 与断路器的安全集成 https://dev.to/he110/circuitbreaker-pattern-in-go-43cn
+
+- 3.<译>如何优雅的关闭 channel https://segmentfault.com/a/1190000040740908
+
+- 4.Golang factory 模式 DDD 实践 https://levelup.gitconnected.com/a-crash-course-on-concurrency-parallelism-in-go-8ea935c9b0f8
+
+- 5.攀登规模化的高峰 - 蚂蚁集团大规模 Sigma 集群 ApiServer 优化实践 https://my.oschina.net/sofastack/blog/5270785
+
+
+ gopherDaily-2021-09-27
+# go-news-set-2021-09-27
+## gopherDaily-2021-09-27
+- 1.详解即将于Go 1.18加入的Go泛型特性 - https://bitfieldconsulting.com/golang/generics
+- 2.使用IPFS构建Go应用的快速入门  - https://bartlomiejmika.com/post/2021/quickstart-to-building-golang-apps-using-ipfs/
+- 3.Go DDD实战：Factory - https://levelup.gitconnected.com/practical-ddd-in-golang-factory-5ba135df6362
+- 4.字节跳动是怎么做全链路压测的 - https://mp.weixin.qq.com/s/4DHwFBxiI9C8YH5FjbCkSw
+- 5.如何编写你自己的Go module proxy - https://betterprogramming.pub/how-to-write-your-own-go-module-proxy-ed2d861c577a
+- 6.使用Go与web技术创建桌面应用 - https://github.com/wailsapp/wails
+- 7.chore: 一个优雅而简单的工具，用于在远程服务器上执行普通任务 - https://github.com/AhmadWaleed/chore
+- 8.go-stash: logstash的替代品，性能是后者5倍 - https://github.com/tal-tech/go-stash
+- 9.在线免费的Istio中文基础教程上线 - https://mp.weixin.qq.com/s/CrxMKGqXZF4Rw_Z2DKmFNw
+- 10.Scala与Go的对比 - https://itnext.io/scala-vs-go-3e2e52f19de
+
  gocn_news-2021-09-27
 # go-news-set-2021-09-27
 ## gocn_news-2021-09-27
