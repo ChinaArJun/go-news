@@ -1,3 +1,28 @@
+ gocn_news-2021-09-29
+# go-news-set-2021-09-29
+## gocn_news-2021-09-29
+- 1.适用于 Windows 的 Wails v2 Beta https://wails.io/blog/wails-v2-beta-for-windows/ 
+- 2.Django 4.0 中的新测试功能 https://adamj.eu/tech/2021/09/28/new-testing-features-in-django-4.0/ 
+- 3.易于使用的 go 加密库 https://github.com/jswidler/encryptedbox
+
+- 4.编写安全 Go 代码的 8 个最佳实践 https://www.hashicorp.com/resources/8-best-practices-for-writing-secure-go-code
+
+- 5.使用 Go 管道和有限并发实现高性能图像处理 https://medium.com/@bpoprzen/performant-image-processing-with-go-pipelines-and-bounded-concurrency-3f721ec5dde8
+
+
+ gopherDaily-2021-09-28
+# go-news-set-2021-09-28
+## gopherDaily-2021-09-28
+- 1.Go和Rust的区别 - https://dominikbraun.io/blog/the-difference-between-go-and-rust/
+- 2.Go中的Wasm是非常棒的 - https://blog.suborbital.dev/foundations-wasm-in-golang-is-fantastic
+- 3.如何从Go后端向你的前端传递清晰漂亮的错误信息？ - https://dev.to/koddr/how-to-make-clear-pretty-error-messages-from-the-go-backend-to-your-frontend-21b2
+- 4.矢量已经结束，哈希是人工智能的未来 - https://www.sajari.com/blog/vectors-versus-hashes
+- 5.dicomgraphics: Go实现的开源DICOM图形查看器和实用程序 - https://github.com/fynelabs/dicomgraphics
+- 6.覆盖率与测试套件的有效性没有很大的关系 - https://neverworkintheory.org/2021/09/24/coverage-is-not-strongly-correlated-with-test-suite-effectiveness.html
+- 7.如何可视化决策树 - https://explained.ai/decision-tree-viz/index.html
+- 8.GitHub的关系数据库分区实践 - https://github.blog/2021-09-27-partitioning-githubs-relational-databases-scale/
+- 9.如何面试工程师 - https://www.spakhm.com/p/how-to-interview-engineers
+
  gocn_news-2021-09-28
 # go-news-set-2021-09-28
 ## gocn_news-2021-09-28
