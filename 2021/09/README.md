@@ -1,3 +1,30 @@
+ gocn_news-2021-09-30
+# go-news-set-2021-09-30
+## gocn_news-2021-09-30
+- 1.开源推荐 高可用延迟队列设计与实现  https://gocn.vip/topics/17328
+
+- 2.Go 什么时候会触发 GC？ https://mp.weixin.qq.com/s/e2-NXWCS0bd2BPWzdeiS_A
+
+- 3.如何从 Go 后端传递给前端清晰的错误消息？ https://dev.to/koddr/how-to-make-clear-pretty-error-messages-from-the-go-backend-to-your-frontend-21b2
+
+- 4.Go 泛型系列：提前掌握 Go 泛型的基本使用 https://mp.weixin.qq.com/s/0sdNN7Tlx09Hwtqb-2jlRA
+
+- 5.Golang 实现 gRPC 的 Proxy 的原理 https://www.cnblogs.com/voipman/p/15352001.html
+
+
+ gopherDaily-2021-09-29
+# go-news-set-2021-09-29
+## gopherDaily-2021-09-29
+- 1.编写安全Go代码的8个最佳实践 - https://www.hashicorp.com/resources/8-best-practices-for-writing-secure-go-code
+- 2.用于通过SSH运行Linux分布式shell命令的Go包 - https://github.com/DiscoRiver/massh
+- 3.腾讯首个CNCF沙箱项目分布式边缘容器系统SuperEdge开源 - https://mp.weixin.qq.com/s/xbkJmY60gyuggJ5GYI4KQQ
+- 4.用Go pipeline和有界并发进行高性能的图像处理 - https://medium.com/@bpoprzen/performant-image-processing-with-go-pipelines-and-bounded-concurrency-3f721ec5dde8
+- 5.无反射的复制器 - https://github.com/switchupcb/copygen
+- 6.将你的Raspberry-Pi Kubernetes集群扩展到云端 - https://nativecloud.dev/scale-out-your-raspberry-pi-k3s-cluster-to-the-cloud/
+- 7.分布式团队人员管理的速成指南 - https://assets.ctfassets.net/wl95ljfippl8/6LdSWhLMXH4njdloAaNVT5/dbeb37fe6600f8aee3980565dd319c8b/Airtable_The-distributed-team-blueprint.pdf
+- 8.未来是数据中心即服务 - https://thenewstack.io/the-future-is-data-center-as-a-service/
+- 9.TCP端口扫描器，在5分钟内扫描整个互联网 - https://github.com/robertdavidgraham/masscan
+
  gocn_news-2021-09-29
 # go-news-set-2021-09-29
 ## gocn_news-2021-09-29
