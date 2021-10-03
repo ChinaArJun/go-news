@@ -1,3 +1,17 @@
+ gopherDaily-2021-09-30
+# go-news-set-2021-09-30
+## gopherDaily-2021-09-30
+- 1.逆向工程实战：SolarWinds攻击中使用的Go恶意软件 - https://www.youtube.com/watch?v=_cL-OwU9pFQ
+- 2.边缘存储的架构师指南 - https://blog.min.io/the-architects-guide-to-edge-storage/
+- 3.一个基于滑动窗口速率限制算法的Go通用并发速率限制器库 - https://github.com/Narasimha1997/ratelimiterhttps://github.com/Narasimha1997/ratelimiter
+- 4.迁移Go应用到基于AWS Graviton2处理器实现的AWS Lambda上 - https://awsteele.com/blog/2021/09/29/graviton2-arm-comes-to-lambda.html
+5.可以生成分布式跟踪数据的go test - https://github.com/rakyll/go-test-trace
+- 5.时间的速度 - https://www.brendangregg.com/blog/2021-09-26/the-speed-of-time.html
+7.用OpenFaaS建立一个低代码自动化平台 - https://www.openfaas.com/blog/low-code-automation/
+- 6.反向代理，HTTP Keep-Alive，超时，和神秘的HTTP 502s - https://iximiuz.com/en/posts/reverse-proxy-http-keep-alive-and-502s/
+- 7.反应式单体–如何实现从CRUD到事件源的迁移 - https://www.wix.engineering/post/the-reactive-monolith-how-to-move-from-crud-to-event-sourcing
+- 8.SuperEdge的新特性和未来之路 - https://mp.weixin.qq.com/s/BzfGyULAs9P0RmT_aq2bHg
+
  gocn_news-2021-09-30
 # go-news-set-2021-09-30
 ## gocn_news-2021-09-30
