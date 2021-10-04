@@ -1,3 +1,49 @@
+ gocn_news-2021-10-04
+# go-news-set-2021-10-04
+## gocn_news-2021-10-04
+- 1.Go 和 InfluxDB 入门 https://thenewstack.io/getting-started-with-go-and-influxdb/
+
+- 2.BoltDB 如何存储数据到磁盘 https://medium.com/@amitdavidson234/databases-behind-the-scenes-how-boltdb-saves-data-to-the-disk-de8f1e3feda6
+
+- 3.从 Scala 迁移到 Go https://medium.com/@anicolaspp/the-transition-from-scala-to-go-27603e373986
+
+- 4.使用 AST 重写 Go 源码 https://eli.thegreenplace.net/2021/rewriting-go-source-code-with-ast-tooling/
+
+- 5.Go 中使用 MapReduce 降低响应时间 https://medium.com/codex/reduce-response-time-with-mapreduce-d1754405df6f
+
+
+ gopherDaily-2021-10-04
+# go-news-set-2021-10-04
+## gopherDaily-2021-10-04
+- 1.还在用表驱动方式做Go测试？可以试试基准突变测试 - https://www.clinicallyawesome.com/2021/10/go-reference-mutation-testing.html
+- 2.使用AST重写go源码 - https://eli.thegreenplace.net/2021/rewriting-go-source-code-with-ast-tooling/
+- 3.Go现在最需要改进的三件事，而不是泛型 - https://ryanc118.medium.com/three-things-go-needs-right-now-more-than-generics-a6225d62f76b
+- 4.“认为静态链接是有害的”，这言论本身就是有害的 - https://gavinhoward.com/2021/10/static-linking-considered-harmful-considered-harmful/
+- 5.使用AWS Lambda构建搜索引擎 - https://boyter.org/posts/abusing-aws-to-make-a-search-engine/
+- 6.将Envoy作为一个API网关 - https://dev.ms/post/envoy-as-an-api-gateway/
+- 7.SRE与DevOps：有哪些区别？ - https://dzone.com/articles/sre-vs-devops-what-are-the-differences?edition=492302
+- 8.通过SSH用k3s快速引导启动Kubernetes - https://github.com/alexellis/k3sup
+- 9.最佳Go面试问题集 - https://tecinterviewhlp.medium.com/best-go-golang-interview-questions-23feed5d88a6
+- 10.什么是云迁移 - https://www.dynatrace.com/news/blog/what-is-cloud-migration/
+- 11.图灵奖获得者Yann LeCun亲授的深度学习公开课 - https://cds.nyu.edu/deep-learning/
+
+ gopherDaily-2021-10-03
+# go-news-set-2021-10-03
+## gopherDaily-2021-10-03
+- 1.快速、并行的数据库测试 - https://kevin.burke.dev/kevin/fast-parallel-database-tests/
+- 2.Kubernetes与Docker有什么区别 - https://www.dynatrace.com/news/blog/kubernetes-vs-docker/
+- 3.Python vs.Go，区别在哪里 - https://python.plainenglish.io/python-vs-go-whats-the-difference-ea4acae789c1
+- 4.用在kubernetes上的docker-compose - https://github.com/loft-sh/devspace
+- 5.更快的Go时间解析 - https://philpearl.github.io/post/perf_time/
+- 6.油管视频：Go vs. Rust - https://www.youtube.com/watch?v=FKMrpaFjQm4
+- 7.探索kubernetes operator模式 - https://iximiuz.com/en/posts/kubernetes-operator-pattern/
+- 8.Go的简单性和它对学习计算机专业的帮助 - https://www.youtube.com/watch?v=PrDdzIlh9IY&list=PLNxyj7uDRuUso2BIkgxyVh5dO4Lgmfnyb&index=3
+- 9.Linus关于linux社区、rust与linux持久的观点 - https://thenewstack.io/linus-torvalds-on-community-rust-and-linuxs-longevity/
+- 10.电子书: 监控现代基础设施 - https://www.datadoghq.com/ebook/monitoring-modern-infrastructure/
+- 11.用OpenTelemetry进行基于trace的测试 - https://medium.com/opentelemetry/trace-based-testing-with-opentelemetry-meet-open-source-malabi-7ca268788aae
+- 12.Lisp的复仇（第1/2部分): 学习Common Lisp，在手机编码问题上击败Java和Rust - https://renato.athaydes.com/posts/revenge_of_lisp.html
+- 13.利用operator模式和VolumeSnapshots来备份Kubernetes中的数据库 - https://medium.com/blablacar/leveraging-operator-pattern-and-volumesnapshots-to-backup-databases-in-kubernetes-3a28aa425100
+
  gocn_news-2021-10-03
 # go-news-set-2021-10-03
 ## gocn_news-2021-10-03
