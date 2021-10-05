@@ -1,3 +1,17 @@
+ gocn_news-2021-10-05
+# go-news-set-2021-10-05
+## gocn_news-2021-10-05
+- 1.使用 GoReleaser 发布 Go 二进制文件的最佳方式 https://medium.com/trendyol-tech/the-fanciest-way-of-releasing-go-binaries-with-goreleaser-dbbd3d44c7fb
+
+- 2.Go 中的狭义集成测试 https://medium.com/@jamie__aitken/narrow-integration-testing-in-go-56c6dc819919
+
+- 3.基于 RFC 4122 和 DCE 1.1：身份验证和安全服务的 UUID 的 Go 包 https://github.com/google/uuid
+
+- 4.Go 实现的可用于存储、计算和验证应用程序权限的数据库 https://github.com/authzed/spicedb
+
+- 5.使用 MapReduce 减少响应时间 https://medium.com/codex/reduce-response-time-with-mapreduce-d1754405df6f
+
+
  gocn_news-2021-10-04
 # go-news-set-2021-10-04
 ## gocn_news-2021-10-04
