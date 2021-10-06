@@ -1,3 +1,29 @@
+ gocn_news-2021-10-06
+# go-news-set-2021-10-06
+## gocn_news-2021-10-06
+- 1.为 Go 应用添加 Prometheus 监控指标 https://mp.weixin.qq.com/s/QrZo4_Ejpa3CEFCB79EIYA
+
+- 2.Go 语言之父谈 Go 编程语言与环境 https://tonybai.com/2021/10/06/the-go-programming-language-and-environment/
+
+- 3.Go 常见错误集锦之混淆了 slice 中的长度 和容量  https://gocn.vip/topics/17342
+
+- 4.架构设计的新思路，《架构之道》读书笔记 https://mp.weixin.qq.com/s/oKOu_OfLdK8Mp7pMCceexQ
+
+- 5.PromQL 查询之 rate 函数的使用 https://mp.weixin.qq.com/s/7z8n3abX9k39YL5kCopJqQ
+
+
+ gopherDaily-2021-10-05
+# go-news-set-2021-10-05
+## gopherDaily-2021-10-05
+- 1.油管视频：Go编程语言和环境 by Rob Pike - https://www.youtube.com/watch?v=YXV7sa4oM4I
+- 2.Go中的狭义集成测试 - https://medium.com/@jamie__aitken/narrow-integration-testing-in-go-56c6dc819919
+- 3.幕后的数据库：BoltDB如何将数据保存到磁盘上 - https://medium.com/@amitdavidson234/databases-behind-the-scenes-how-boltdb-saves-data-to-the-disk-de8f1e3feda6
+- 4.用MapReduce减少响应时间 - https://medium.com/codex/reduce-response-time-with-mapreduce-d1754405df6f
+- 5.Node.js与Go：哪一个最适合你的项目？ - https://kinsta.com/blog/node-js-vs-golang/
+- 6.用GoReleaser发布Go二进制文件的最佳方式 - https://medium.com/trendyol-tech/the-fanciest-way-of-releasing-go-binaries-with-goreleaser-dbbd3d44c7fb
+- 7.为 Go 应用添加 Prometheus 监控指标 - https://mp.weixin.qq.com/s/QrZo4_Ejpa3CEFCB79EIYA
+- 8.cloudflare工程师闪电发文解析脸书断网原因 - https://blog.cloudflare.com/october-2021-facebook-outage/
+
  gocn_news-2021-10-05
 # go-news-set-2021-10-05
 ## gocn_news-2021-10-05
