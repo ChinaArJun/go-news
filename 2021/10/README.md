@@ -1,3 +1,58 @@
+ go语言中文网(每日资讯)-2021-10-07
+# go-news-set-2021-10-07
+## go语言中文网(每日资讯)-2021-10-07
+
+
+一、Go语言中文网
+
+1. [GoLand 2021.3 EAP 有哪些新功能？](https://mp.weixin.qq.com/s/muFr4vMuShHznJ1JTVLu0A)
+
+2. [Go1.17 新特性：testing 包的相关变化](https://mp.weixin.qq.com/s/TBSjSDLbLEOqeRjqOOx2qw)
+
+3. [Go 每日一库之 resty](https://mp.weixin.qq.com/s/fa3GqXYpxR2ViNxrfVyp2Q)
+
+二、aoho求索
+
+1. [Go 语言入门与进阶：反射基础](https://mp.weixin.qq.com/s/agEC-v2cRNYvlmYs62cMWw)
+
+三、架构之家
+
+1. [分布式事务的七种解决方案](https://mp.weixin.qq.com/s/IY9jJq-hNaoLbLAa7erkcQ)
+
+2. [如何一步一步成为一个技术领域专家](https://mp.weixin.qq.com/s/yryIbCw4AAxcnuqLtSCvVA)
+
+四、Go夜读
+
+1. [Go 字符串匹配及 Rabin-Karp 算法回顾](https://mp.weixin.qq.com/s/PV_QJzTjZYdMVOJmUckCMQ)
+
+五、云影原生
+
+1. [DDIA读书笔记（四）: 数据太大一台机器装不下](https://mp.weixin.qq.com/s/34UVXayoFDD0v48Sr-WcwQ)
+
+六、寻寻觅觅的Gopher
+
+1. [我给 gin 提交了一行代码](https://mp.weixin.qq.com/s/LoY0n1BV3vomoeBEpfGX9w)
+
+七、Go招聘
+
+1. [Go interface 类型转换原理了解一下](https://mp.weixin.qq.com/s/839-YSeB-F6rZ9umGeb5JQ)
+
+八、polarisxu
+
+1. [假期结束，推荐 2 本 manning 出的 Go 图书](https://mp.weixin.qq.com/s/PXPOgf8KvtwVzs8kbxD_Hg)
+ gopherDaily-2021-10-06
+# go-news-set-2021-10-06
+## gopherDaily-2021-10-06
+- 1.Go语言之父谈Go编程语言与环境 - https://tonybai.com/2021/10/06/the-go-programming-language-and-environment
+- 2.一个新的Go protocol buffer代码生成器 - https://vitess.io/blog/2021-06-03-a-new-protobuf-generator-for-go/
+- 3.从Scala到Go的转换 - https://itnext.io/the-transition-from-scala-to-go-27603e373986
+- 4.面向Python开发人员的Go简明教程 - https://www.coderedcorp.com/blog/golang-for-python-devs/
+- 5.Go DDD实战系列：仓库 - https://levelup.gitconnected.com/practical-ddd-in-golang-repository-d308c9d79ba7
+- 6.FSweeper: 简单的文件管理自动化工具 - https://github.com/reugn/fsweeper
+- 7.一个自托管的go应用程序，通过webhooks监听Terraform拉动请求事件 - https://github.com/runatlantis/atlantis
+- 8.Go实现的开源推荐系统服务 - https://github.com/zhenghaoz/gorse
+- 9.Facebook官方发布的宕机事件细节报告 - https://engineering.fb.com/2021/10/05/networking-traffic/outage-details/
+
  gocn_news-2021-10-06
 # go-news-set-2021-10-06
 ## gocn_news-2021-10-06
