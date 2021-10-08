@@ -1,3 +1,30 @@
+ gocn_news-2021-10-08
+# go-news-set-2021-10-08
+## gocn_news-2021-10-08
+- 1.理解 Go 切片的 cap 和 len https://gosamples.dev/capacity-and-length/
+
+- 2.Go1.17.2 与 1.16.9 更新,修复安全问题 https://groups.google.com/g/golang-announce/c/AEBu9j7yj5A
+
+- 3.Go 将增加新的网络地址包 netip https://github.com/golang/go/issues/46518
+
+- 4.bunrouter: 一款高效且灵活的 http router 框架 https://bunrouter.uptrace.dev/
+
+- 5.sat:一款轻便的 WebAssembly 计算模块  https://github.com/suborbital/sat
+
+
+ gopherDaily-2021-10-08
+# go-news-set-2021-10-08
+## gopherDaily-2021-10-08
+- 1.Go 1.17.2和Go 1.16.9发布，主要修正安全问题 - https://groups.google.com/g/golang-announce/c/AEBu9j7yj5A
+- 2.Go Time播客第200期，听听Gopher们都说了啥 - https://changelog.com/gotime/200
+- 3.10年后编写HTTP服务的新style - https://twitter.com/matryer/status/1445013230858952705
+- 4.BunRouter: 用于Go的快速和灵活的HTTP路由器 - https://bunrouter.uptrace.dev/
+- 5.10多年后重新审视Go语言，我有了惊人发现 - https://imagine27.com/go-is-korean/
+- 6.服务网格是如何实现DevOps革命的？ - https://www.solo.io/blog/how-service-mesh-enables-a-devops-revolution/
+- 7.高级Kubernetes pod到node的调度策略 - https://www.cncf.io/blog/2021/07/27/advanced-kubernetes-pod-to-node-scheduling/
+- 8.Kubernetes yaml文件在线生成工具 - https://k8syaml.com/
+- 9.初创公司Authzed发布了谷歌的Zanzibar的开源版本，这是一个一致的全球授权系统 - https://thenewstack.io/zanzibar-implementation-spicedb-is-open-source/
+
  go语言中文网(每日资讯)-2021-10-07
 # go-news-set-2021-10-07
 ## go语言中文网(每日资讯)-2021-10-07
