@@ -1,3 +1,45 @@
+ go语言中文网(每日资讯)-2021-10-08
+# go-news-set-2021-10-08
+## go语言中文网(每日资讯)-2021-10-08
+
+
+一、Go语言中文网
+
+1. [Go: test 不为人知的一面](https://mp.weixin.qq.com/s/KUzKpHb3Nyd17m7UQAPZvA)
+
+2. [sync Once：不是吧，不到20行源码居然来回改了这么多次](https://mp.weixin.qq.com/s/5rse86n0HVYGRrwDzYnNSQ)
+
+二、polarisxu
+
+1. [Rust 和 Go 该如何选择？](https://mp.weixin.qq.com/s/P6TyRiD75P1uMFwA0l1eNA)
+
+三、微服务实践
+
+1. [定制个机器人帮你和Ta聊天](https://mp.weixin.qq.com/s/U2Jn_BJ6xQvkxJWUUcYWWA)
+
+四、Go夜读
+
+1. [「我与嘉宾的故事」（一）](https://mp.weixin.qq.com/s/nTtyRw8a51bv6z2WbkAs4g)
+
+2. [[Security] Go 1.17.2 and 1.16.9 are released!](https://mp.weixin.qq.com/s/HlbEgJQpxh5BcxUXVfdolA)
+
+五、TonyBai
+
+1. [Go语言之父谈Go编程语言与环境](https://mp.weixin.qq.com/s/rxzMQPgwLF2CLzyIKuTMMg)
+
+六、Go招聘
+
+1. [在 Go 代码中如何绑定 Host？](https://mp.weixin.qq.com/s/UZUFRHix1AgaDCGHSOWIHg)
+
+七、脑子进煎鱼了
+
+1. [Go 切片导致内存泄露，被坑两次了！](https://mp.weixin.qq.com/s/3Nsm_CFE7r60f6vFyyWkuw)
+
+2. [如何有效地测试 Go 代码](https://mp.weixin.qq.com/s/0uSkFx5osuPrG2U5nmnPGw)
+
+八、奇伢云存储
+
+1. [云原生 etcd 系列｜为什么值得学习？](https://mp.weixin.qq.com/s/2tZY9CztBhkW5jpv_I5J4g)
  gocn_news-2021-10-08
 # go-news-set-2021-10-08
 ## gocn_news-2021-10-08
