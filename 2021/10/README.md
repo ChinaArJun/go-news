@@ -1,3 +1,17 @@
+ gocn_news-2021-10-09
+# go-news-set-2021-10-09
+## gocn_news-2021-10-09
+- 1. 这门国产语言终于要发布 1.0 版本了  https://mp.weixin.qq.com/s/DoBvbSmZyPLNTZyVqHeFew
+
+- 2.Go1.17 新特性：go get 变了  https://mp.weixin.qq.com/s/zWWKzxubLV4bQdk3q_PPqA
+
+- 3.Go select 死锁的一个细节  https://mp.weixin.qq.com/s/ErTjq9qAufVF6yhBXfFVGw
+
+- 4.没有 accept，能建立 TCP 连接吗？  https://mp.weixin.qq.com/s/1OD7GAE-oJJ1Q6yrUtswPA
+
+- 5.Golang 内存对齐  https://mp.weixin.qq.com/s/x4ob5vPdSxyJjJRk3KXWnQ
+
+
  go语言中文网(每日资讯)-2021-10-08
 # go-news-set-2021-10-08
 ## go语言中文网(每日资讯)-2021-10-08
