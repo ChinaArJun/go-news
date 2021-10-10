@@ -1,3 +1,32 @@
+ gocn_news-2021-10-10
+# go-news-set-2021-10-10
+## gocn_news-2021-10-10
+- 1.使用 goland 进行 go 源码调试【go 是如何判断结构体实现了 interface 的 https://juejin.cn/post/7016875587792797733 
+- 2.C 和 Go 的指针 https://juejin.cn/post/7016624158687805471
+
+- 3.详解 Go 程序的启动流程，你知道 g0，m0 是什么吗？ https://juejin.cn/post/7017009226702651406
+
+- 4.GRPC: 如何让 gRPC 提供 Swagger UI? https://juejin.cn/post/7017396592428711972
+
+- 5.Golang 无限开启 Goroutine？该如何限定 Goroutine 数量？ https://juejin.cn/post/7017286487502766093
+
+
+ gopherDaily-2021-10-10
+# go-news-set-2021-10-10
+## gopherDaily-2021-10-10
+- 1.Tailscale公司的Go linker优化实战 - https://tailscale.com/blog/go-linker/
+- 2.我应该使用哪个Go router？(附决策流程图) - https://www.alexedwards.net/blog/which-go-router-should-i-use
+- 3.depstat：Kubernetes的go module依赖更新分析器，大型go项目都适用 - https://github.com/kubernetes-sigs/depstat
+- 4.不，我们不使用Kubernetes - https://ably.com/blog/no-we-dont-use-kubernetes
+- 5.使用Kubernetes Go client库中的informer - http://macias.info/entry/202109081800_k8s_informers.md
+- 6.部署到云端的API驱动的应用程序应考虑的安全因素 - https://thenewstack.io/security-considerations-for-api-driven-apps-deployed-to-cloud/
+- 7.Go和GraphQL的碰撞：genqlient的幕后故事 - https://blog.khanacademy.org/where-go-and-graphql-collide-behind-the-curtain-with-genqlient/
+- 8.需要了解的Kubernetes的顶级开源CI/CD工具 - https://cloud.redhat.com/blog/top-open-source-ci/cd-tools-for-kubernetes-to-know
+- 9.我在20年的软件工程师生涯中所学到的20件事 - https://www.simplethread.com/20-things-ive-learned-in-my-20-years-as-a-software-engineer/
+- 10.内部专业知识的价值 - https://danluu.com/in-house/
+- 11.500行代码实现自动泊车 - https://trekhleb.dev/blog/2021/self-parking-car-evolution/
+- 12.像写代码一样写文章 - https://about.sourcegraph.com/blog/dev-tool-time-adam-gordon-bell/
+
  gocn_news-2021-10-09
 # go-news-set-2021-10-09
 ## gocn_news-2021-10-09
