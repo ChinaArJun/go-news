@@ -1,3 +1,33 @@
+ go语言中文网(每日资讯)-2021-10-10
+# go-news-set-2021-10-10
+## go语言中文网(每日资讯)-2021-10-10
+
+
+一、Go语言中文网
+
+1. [Go语言爱好者周刊：第 115 期](https://mp.weixin.qq.com/s/l_TM51foKeBq2emUs5iitA)
+
+2. [Go：浮点数精度丢失问题详解](https://mp.weixin.qq.com/s/xw37DwMwkWay8RWfJ3OCLg)
+
+二、Go招聘
+
+1. [Go 每日一库之 testify](https://mp.weixin.qq.com/s/w6yBqgPsoCPnWpMU_dxF0w)
+
+三、k8s技术圈
+
+1. [Promethues 应用监控的一些实践](https://mp.weixin.qq.com/s/Qzup03f_-CkCZ4fyU3_gew)
+
+四、Gopher指北
+
+1. [URL中的空格、加号究竟应该使用何种方式编码](https://mp.weixin.qq.com/s/ZcvXsldDQhumNgijbadCJg)
+
+五、奇伢云存储
+
+1. [图解网络｜收到RST，就一定会断开TCP连接吗？](https://mp.weixin.qq.com/s/8AGdziLX7Pl7x7iwpPd_yg)
+
+六、鸟窝
+
+1. [[译]更快的时间解析](https://colobu.com/2021/10/10/faster-time-parsing/)
  gocn_news-2021-10-10
 # go-news-set-2021-10-10
 ## gocn_news-2021-10-10
