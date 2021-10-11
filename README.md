@@ -1,3 +1,55 @@
+ go语言中文网(每日资讯)-2021-10-11
+# go-news-set-2021-10-11
+## go语言中文网(每日资讯)-2021-10-11
+
+
+一、Go语言中文网
+
+1. [Go Module：私有不合规库怎么解决引用问题](https://mp.weixin.qq.com/s/sWlTylbW2f1llbz232P2Fw)
+
+2. [Go 每日一库之 termtables](https://mp.weixin.qq.com/s/aJdzytOR1TKuZb-x7f51bw)
+
+二、亚军进化史
+
+1. [Go技术日报(2021-10-10)——[译]更快的时间解析](https://mp.weixin.qq.com/s/tGl91tuXckA8IfDTfZrtnA)
+
+三、HHFCodeRv
+
+1. [硬核 | 图解TCP粘包原理](https://mp.weixin.qq.com/s/bNDAggLYNs6Ofesw2zMpCA)
+
+四、后端研究所
+
+1. [图解|什么是TCP拥塞控制及谷歌的BBR算法](https://mp.weixin.qq.com/s/pmUdUvHgEhZzAhz2EP5Evg)
+
+五、Go招聘
+
+1. [太期待了，终于要发布 1.0 版本了！](https://mp.weixin.qq.com/s/q-ywFinPb5HPiotpPeCZSg)
+
+2. [推荐一个 Go GUI 实战项目](https://mp.weixin.qq.com/s/OOfcv2nctZtuVqaiMz1CuA)
+
+六、微服务实践
+
+1. [多图详解万星 Restful 框架原理与实现](https://mp.weixin.qq.com/s/0cJj_H5kUJjYdz2btBbGWA)
+
+七、CloudNativeCommunity
+
+1. [边缘计算专家成长计划入门 20 篇](https://mp.weixin.qq.com/s/l_khnjlVTiyfJDCtvruOrw)
+
+八、Golang技术分享
+
+1. [几个秒杀 Go 官方库的第三方开源库](https://mp.weixin.qq.com/s/JRsstunuD2UClWb237kPTQ)
+
+九、董泽润的技术笔记
+
+1. [你真的了解 CDC 嘛](https://mp.weixin.qq.com/s/kzRf6zMDfElrN-VKXfo_Cw)
+
+十、脑子进煎鱼了
+
+1. [为什么 Go 语言把类型放在后面？](https://mp.weixin.qq.com/s/t3vEQXg1yfDUz1spRmTieQ)
+
+十一、Go生态
+
+1. [etcd:从应用场景到实现原理的全方位解读](https://mp.weixin.qq.com/s/98YyK9AW4__z-zphoKIf1Q)
  go语言中文网(每日资讯)-2021-10-10
 # go-news-set-2021-10-10
 ## go语言中文网(每日资讯)-2021-10-10
