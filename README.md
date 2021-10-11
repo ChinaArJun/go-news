@@ -1,3 +1,17 @@
+ gocn_news-2021-10-11
+# go-news-set-2021-10-11
+## gocn_news-2021-10-11
+- 1.[译] 更快的时间解析 https://colobu.com/2021/10/10/faster-time-parsing/
+
+- 2.Go1.17.2 发布暨 WebAssembly 入门教程。https://mp.weixin.qq.com/s/9JNyhwZ6Ki8vXdhFBjna_g
+
+- 3.Go 学习笔记-Go 编译器简介 https://segmentfault.com/a/1190000040792073
+
+- 4.源码分析 go channel 以及相关的操作 https://juejin.cn/post/7017723784002175006
+
+- 5.ORM 还是 非 ORM？https://mp.weixin.qq.com/s/IJ4oxnG0HekI_5jXHqzEhg
+
+
  go语言中文网(每日资讯)-2021-10-11
 # go-news-set-2021-10-11
 ## go语言中文网(每日资讯)-2021-10-11
