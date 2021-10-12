@@ -1,3 +1,17 @@
+ gocn_news-2021-10-12
+# go-news-set-2021-10-12
+## gocn_news-2021-10-12
+- 1.Go 中的高性能、零分配、动态 JSON 威胁防护 https://github.com/ankur-anand/gojtp
+
+- 2.golang 从内核到 epoll  https://my.oschina.net/lwl1989/blog/5276867
+
+- 3.Golang 中的实用 DDD：规范 https://levelup.gitconnected.com/practical-ddd-in-golang-specification-6523d14438e6
+
+- 4.Linux 下使用 GitLab 的 runner 来自动部署 Go 项目 https://segmentfault.com/a/1190000040796973
+
+- 5.Golang 的 OpenID 连接客户端库 https://github.com/adhocore/goic
+
+
  gocn_news-2021-10-11
 # go-news-set-2021-10-11
 ## gocn_news-2021-10-11
