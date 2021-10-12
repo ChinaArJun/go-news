@@ -1,3 +1,49 @@
+ go语言中文网(每日资讯)-2021-10-12
+# go-news-set-2021-10-12
+## go语言中文网(每日资讯)-2021-10-12
+
+
+一、Go语言中文网
+
+1. [15 张图带你深入理解浮点数](https://mp.weixin.qq.com/s/DGP4rENdy-N1VyZLS_uV4g)
+
+2. [每日一库之 Ginkgo：一款 BDD 的 Go 语言框架](https://mp.weixin.qq.com/s/hU-c23_7EuSa-BbKCZDxow)
+
+二、亚军进化史
+
+1. [Go技术日报(2021-10-11)——硬核 | 图解TCP粘包原理](https://mp.weixin.qq.com/s/gmkJ36Ry2SWWzgVEowWx7g)
+
+三、脑子进煎鱼了
+
+1. [Go 五种原子性操作的用法详解](https://mp.weixin.qq.com/s/gLmOz7F_2t5IYtdus5xBRQ)
+
+四、HHFCodeRv
+
+1. [Context是怎么在Go语言中发挥关键作用的](https://mp.weixin.qq.com/s/UJfEzVXe_RjN360dzjkv1Q)
+
+五、polarisxu
+
+1. [Go Fiber 框架系列教程 04：测试应用](https://mp.weixin.qq.com/s/rNUI5se_sWLxWBR-Mm3yDg)
+
+六、董泽润的技术笔记
+
+1. [做业务真的没有技术含量嘛？不想做 crud boy 的可以好好读读](https://mp.weixin.qq.com/s/_ZCSDxLeI1xLy2Y8zWI_gA)
+
+七、k8s技术圈
+
+1. [使用 Zadig 快速接入 Jenkins 工作流](https://mp.weixin.qq.com/s/aVTIfT7OJBmrFuo1QanWmw)
+
+八、奇伢云存储
+
+1. [​云原生 etcd 系列｜Leader 是怎么选举出来的？](https://mp.weixin.qq.com/s/slYxA2Jzs37ZKOD9RFzM8Q)
+
+九、Go编程点滴
+
+1. [Go语言微服务框架 - 8.Gormer迭代-定制专属的ORM代码生成工具](https://mp.weixin.qq.com/s/xwFLiHmC3Nd9e3CuefC00g)
+
+十、Go招聘
+
+1. [网工人的辛酸转Go历程](https://mp.weixin.qq.com/s/GnUcjNF8CIxIGkTnCLXaZw)
  gocn_news-2021-10-12
 # go-news-set-2021-10-12
 ## gocn_news-2021-10-12
