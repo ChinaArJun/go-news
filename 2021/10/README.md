@@ -1,3 +1,32 @@
+ gocn_news-2021-10-13
+# go-news-set-2021-10-13
+## gocn_news-2021-10-13
+- 1.「GoCN 酷 Go 推荐」用户态和内核态通信的利器-netlink 库 https://mp.weixin.qq.com/s/YducyKovjUIMUzkfii0Aaw
+
+- 2.Go 模式:重试 https://debugged.it/blog/go-patterns-retries
+
+- 3.让我们 “开始” 并使用 gRPC 构建一个应用程序  https://levelup.gitconnected.com/lets-go-and-build-an-application-with-grpc-c5b754400f64
+
+- 4.Rob Pike: 不建议用泛型修改 go 1.18 标准库 https://github.com/golang/go/issues/48918
+
+- 5.一个快速响应的聊天机器人 https://github.com/kevwan/chatbot
+
+
+ gopherDaily-2021-10-12
+# go-news-set-2021-10-12
+## gopherDaily-2021-10-12
+- 1.为什么要使用Go进行你的下一个Go web业务应用的开发 - https://dev.to/amelias26018837/why-go-for-golang-web-development-for-your-next-business-application-1jdk
+- 2.Go是一门糟糕的语言 - https://debugged.it/blog/go-is-terrible/
+- 3.使用Go构建一个gRPC应用 - https://levelup.gitconnected.com/lets-go-and-build-an-application-with-grpc-c5b754400f64
+- 4.eBPF在微服务可观察性方面的应用 - https://speakerdeck.com/rakyll/ebpf-in-microservices-observability-at-ebpf-day
+- 5.eBPF的初学者网络编程指南 - https://static.sched.com/hosted_files/cloudnativeebpfdayna21/ed/Beginners%!!(MISSING)g(MISSING)uide%!!(MISSING)t(MISSING)o%!!(MISSING)e(MISSING)BPF%!!(MISSING)p(MISSING)rogramming%!!(MISSING)f(MISSING)or%!!(MISSING)n(MISSING)etworking.pdf
+- 6.在Go中定义安全的枚举 - https://threedots.tech/post/safer-enums-in-go/
+- 7.告诉你何为go语言 - https://www.freecodecamp.org/news/what-is-go-programming-language/
+- 8.rancher-desktop: Docker Desktop的替代品 - https://github.com/rancher-sandbox/rancher-desktop
+- 9.基于ANSI输出转换为SVG图片 - https://github.com/wader/ansisvg
+- 10.2021年的网络爬虫的状况 - https://mihaisplace.blog/2021/10/03/the-state-of-web-scraping-in-2021/
+- 11.从头开始学习神经网络 - https://aegeorge42.github.io/
+
  go语言中文网(每日资讯)-2021-10-12
 # go-news-set-2021-10-12
 ## go语言中文网(每日资讯)-2021-10-12
