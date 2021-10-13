@@ -1,3 +1,45 @@
+ go语言中文网(每日资讯)-2021-10-13
+# go-news-set-2021-10-13
+## go语言中文网(每日资讯)-2021-10-13
+
+
+一、Go语言中文网
+
+1. [使用 Go Modules（模块）进行依赖项迁移](https://mp.weixin.qq.com/s/WM_yPfRnaPjGXhhngaCZKA)
+
+2. [浮点数精度丢失问题详解](https://mp.weixin.qq.com/s/yjEkZrpIOAUAEknKTxC3YQ)
+
+二、亚军进化史
+
+1. [Go技术日报(2021-10-12)——golang从内核到epoll](https://mp.weixin.qq.com/s/lSHn11RwRtLKT1f-2pZYNQ)
+
+三、脑子进煎鱼了
+
+1. [Go 存储 | 怎么使用 direct io ？](https://mp.weixin.qq.com/s/fr3i4RYDK9amjdCAUwja6A)
+
+四、HHFCodeRv
+
+1. [gin 源码阅读(4) - 友好的请求参数处理](https://mp.weixin.qq.com/s/2OI9vh_LGPxtGkhF-AnWDA)
+
+五、小白debug
+
+1. [分析 Go time.After 引起内存暴增 OOM 问题](https://mp.weixin.qq.com/s/FLA31PhJH8xeN2zU_dfi3w)
+
+六、polarisxu
+
+1. [优化Go的内存使用，避免用Rust重写](https://mp.weixin.qq.com/s/7m7npdj2vHWtww4-jrgvmA)
+
+七、CloudNativeCommunity
+
+1. [服务网格终极指南第二版：下一代微服务开发](https://mp.weixin.qq.com/s/0KPD9UqUUu6Xien4To0-IA)
+
+八、网管叨bi叨
+
+1. [一些实用的编程模式 | Options模式](https://mp.weixin.qq.com/s/z2w_MArNTjJfm9kbCFOOnA)
+
+九、Go招聘
+
+1. [重磅：Rob 反对 1.18 修改标准库支持泛型，附泛型 filter 实现](https://mp.weixin.qq.com/s/VCsDl3cb2rf3YX_6LV-mdQ)
  gocn_news-2021-10-13
 # go-news-set-2021-10-13
 ## gocn_news-2021-10-13
