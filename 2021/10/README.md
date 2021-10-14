@@ -1,3 +1,17 @@
+ gocn_news-2021-10-14
+# go-news-set-2021-10-14
+## gocn_news-2021-10-14
+- 1.Go 常见错误集锦之切片使用不当会造成内存泄漏的那些场景 https://gocn.vip/topics/17387
+
+- 2.更快的时间转换 https://philpearl.github.io/post/perf_time/
+
+- 3.Go 实现高性能负载测试 https://github.com/ddosify/ddosify
+
+- 4.英文播客- Go 团队是如何运转的 https://changelog.com/gotime/198
+
+- 5.使用 Go 强行关闭 TCP 连接 https://itnext.io/forcefully-close-tcp-connections-in-golang-e5f5b1b14ce6
+
+
  go语言中文网(每日资讯)-2021-10-13
 # go-news-set-2021-10-13
 ## go语言中文网(每日资讯)-2021-10-13
@@ -40,6 +54,19 @@
 九、Go招聘
 
 1. [重磅：Rob 反对 1.18 修改标准库支持泛型，附泛型 filter 实现](https://mp.weixin.qq.com/s/VCsDl3cb2rf3YX_6LV-mdQ)
+ gopherDaily-2021-10-13
+# go-news-set-2021-10-13
+## gopherDaily-2021-10-13
+- 1.Go语言之父Rob Pike昨日发issue：我建议不在Go 1.18的标准库中使用泛型 - https://github.com/golang/go/issues/48918
+- 2.Go+脚本版: Go+解释器项目开源 - https://github.com/goplus/igop
+- 3.使用Go生成WebAssembly的网络组件 - https://www.bradcypert.com/an-introduction-to-targeting-web-assembly-with-golang/
+- 4.Go实现的高性能压测工具 - https://github.com/ddosify/ddosify
+- 5.在Go中构建一个容器化的微服务：保姆式指南 - https://www.velotio.com/engineering-blog/build-a-containerized-microservice-in-golang
+- 6.初步印象：Windows 11上的WSL2和GoLand - https://dev.to/s0xzwasd/first-glance-wsl2-goland-on-windows-11-26l4
+- 7.使用DevSpace进行Kubernetes上的Flask开发 - https://loft-sh.medium.com/python-flask-development-on-kubernetes-with-devspace-e4de37f58706
+- 8.服务网格终极指南第二版：下一代微服务开发 - https://mp.weixin.qq.com/s/0KPD9UqUUu6Xien4To0-IA
+- 9.纪念C语言之父丹尼斯·里奇逝世10周年：他发明了计算机世界的钢筋水泥！ - https://mp.weixin.qq.com/s/TLaLU43YPWczXHK3AF3smg
+
  gocn_news-2021-10-13
 # go-news-set-2021-10-13
 ## gocn_news-2021-10-13
