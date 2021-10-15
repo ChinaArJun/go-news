@@ -1,3 +1,36 @@
+ gocn_news-2021-10-15
+# go-news-set-2021-10-15
+## gocn_news-2021-10-15
+- 1. 使用 go-metrics 在 Go 应用中增加度量https://mp.weixin.qq.com/s/sCGGwKjVnFsFQQk5fXw8sw
+
+- 2. 简单身份认证服务器你 https://github.com/reugn/auth-server 
+- 3. goreleaser 支持 Mac 统一二进制（arm64 和 amd64) 了 https://goreleaser.com/customization/universalbinaries/
+
+- 4. go 更安全的枚举 https://threedots.tech/post/safer-enums-in-go/
+
+- 5. 把 asci 输出转化为 svg  https://github.com/wader/ansisvg
+
+- 6.编辑: 阿章
+- 7.订阅新闻: http://tinyletter.com/gocn
+
+- 8.招聘专区: https://gocn.vip/jobs
+
+- 9.GOCN 归档 https://gocn.vip/topics/17396
+
+
+ gopherDaily-2021-10-14
+# go-news-set-2021-10-14
+## gopherDaily-2021-10-14
+- 1.如何使用Go查询Redis中的图数据 - https://developer.redis.com/howtos/redisgraph/using-go/
+- 2.goland新特性前瞻 - https://blog.jetbrains.com/go/2021/10/14/goland-2021-3-eap-4-run-targets-improvements-a-template-for-testify-assertions-accessibility-updates/
+- 3.容器安全最佳实践终极指南 - https://sysdig.com/blog/container-security-best-practices/
+- 4.Go常见框架和外部库的性能表现 - https://faun.pub/golang-frameworks-and-external-libraries-performace-5c0fb2cbfc4a
+- 5.k8s cni插件项目Cilium加入CNCF - https://www.cncf.io/blog/2021/10/13/cilium-joins-cncf-as-an-incubating-project/
+- 6.用inlets、VPC对等和直接上行链路将服务连接到Kubernetes集群 - https://inlets.dev/blog/2021/10/14/kubernetes-peering.html
+- 7.让你的数据库超越单一的Kubernetes集群 - https://thenewstack.io/taking-your-database-beyond-a-single-kubernetes-cluster/
+- 8.隔离命名空间的Kubernetes网络策略 - https://loft.sh/blog/kubernetes-network-policies-for-isolating-namespaces
+- 9.goreleaser支持生成MacOS Universal Binaries  - https://goreleaser.com/customization/universalbinaries/
+
  gocn_news-2021-10-14
 # go-news-set-2021-10-14
 ## gocn_news-2021-10-14
