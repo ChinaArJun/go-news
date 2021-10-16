@@ -1,3 +1,17 @@
+ gocn_news-2021-10-16
+# go-news-set-2021-10-16
+## gocn_news-2021-10-16
+- 1.重试工具 — retry-go https://gocn.vip/topics/17395
+
+- 2.详解 Go 语言中 20 个占位符！ https://gocn.vip/topics/17394
+
+- 3.在 Go 程序中查找 C 内存泄漏 https://medium.com/zendesk-engineering/hunting-down-a-c-memory-leak-in-a-go-program-2d08b24b617d
+
+- 4.使用 golang 实现乒乓游戏 https://github.com/RedDeadAlice/go-pong
+
+- 5.带你透过内存看 Slice 和 Array 的异同 https://mp.weixin.qq.com/s/_eQHR5f1VP1V_tMRZp34fw
+
+
  gocn_news-2021-10-15
 # go-news-set-2021-10-15
 ## gocn_news-2021-10-15
