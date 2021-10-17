@@ -1,3 +1,17 @@
+ gocn_news-2021-10-17
+# go-news-set-2021-10-17
+## gocn_news-2021-10-17
+- 1.entcache：Ent 的 Cache 驱动 https://entgo.io/blog/2021/10/14/introducing-entcache/
+
+- 2.从已有数据库中生成 ent schemas https://entgo.io/blog/2021/10/11/generating-ent-schemas-from-existing-sql-databases/
+
+- 3.Go 中实现更安全枚举类型的几种方法 https://threedots.tech/post/safer-enums-in-go/
+
+- 4.BunRouter：一个新的高性能 Go 路由库 https://bunrouter.uptrace.dev/
+
+- 5.Go 实现的 chip8 模拟器 https://github.com/ambertide/chip8
+
+
  go语言中文网(每日资讯)-2021-10-17
 # go-news-set-2021-10-17
 ## go语言中文网(每日资讯)-2021-10-17
