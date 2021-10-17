@@ -1,3 +1,43 @@
+ go语言中文网(每日资讯)-2021-10-17
+# go-news-set-2021-10-17
+## go语言中文网(每日资讯)-2021-10-17
+
+
+一、Go语言中文网
+
+1. [Go语言爱好者周刊：第 116 期](https://mp.weixin.qq.com/s/H4Jbqgi7X2fuQX_Umio9mw)
+
+2. [Go Fiber 框架系列教程 02：详解相关 API 的使用](https://mp.weixin.qq.com/s/IrbMUNMiZ01-wdaHPZgeag)
+
+二、PingCAP
+
+1. [做出让人爱不释手的基础软件：可观测性和可交互性](https://mp.weixin.qq.com/s/WEO1y8vg21CXlix8wO28hw)
+
+三、k8s技术圈
+
+1. [在 Kubernetes 上调度 GPU 资源](https://mp.weixin.qq.com/s/BnN4KTZunEttKB0X_8wpvw)
+
+四、polarisxu
+
+1. [Go 这样设置版本号：我们的项目也可以](https://mp.weixin.qq.com/s/jPbiihVb0b9EMdSMySTkgQ)
+
+五、Go生态
+
+1. [Go语言核心编程读书笔记](https://mp.weixin.qq.com/s/zrvXUHcKQ_4ne9o6PL2eVg)
+ gopherDaily-2021-10-16
+# go-news-set-2021-10-16
+## gopherDaily-2021-10-16
+- 1.Go+ 1.0发布：工程开发、STEM教育、数据科学“三位一体” - https://mp.weixin.qq.com/s/U9k7mL8x9e03RFs9eT-FGA
+- 2.BFE Ingress Controller正式发布 - https://mp.weixin.qq.com/s/7eia0WM9kbEBXKMPSlOT3A
+- 3.为什么Raft协议不能提交之前任期的日志？ - https://www.codedump.info/post/20211011-raft-propose-prev-term/
+- 4.发布entcache–Ent的高速缓存驱动程序 - https://entgo.io/blog/2021/10/14/introducing-entcache/
+- 5.用于Go的Keygen SDK：整合许可证激活和自动更新特性 - https://github.com/keygen-sh/keygen-go
+- 6.deckhouse: CNCF认证通过的kubernetes集群管理平台 - https://github.com/deckhouse/deckhouse
+- 7.pterm：用于美化控制台输出，100%!!(MISSING)跨(MISSING)平台兼容 - https://github.com/pterm/pterm
+- 8.十亿级流量下，我与Redis时延小突刺的战斗史 - https://mp.weixin.qq.com/s/VO7riyYtFZt4gcQxLI7zmQ
+- 9.k8s原生的无服务框架knative即将发布1.0 - https://knative.dev/blog/articles/announcing-knative-1.0/
+- 10.nomad与k8s的对比 - https://www.nomadproject.io/docs/nomad-vs-kubernetes
+
  gocn_news-2021-10-16
 # go-news-set-2021-10-16
 ## gocn_news-2021-10-16
