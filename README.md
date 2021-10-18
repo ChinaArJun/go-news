@@ -1,3 +1,49 @@
+ go语言中文网(每日资讯)-2021-10-18
+# go-news-set-2021-10-18
+## go语言中文网(每日资讯)-2021-10-18
+
+
+一、Go语言中文网
+
+1. [Go Fiber 框架系列教程 03：中间件](https://mp.weixin.qq.com/s/cfBYeRdMRNwWANS8JKl_EQ)
+
+2. [go实现一个简单的文件反序列化器](https://mp.weixin.qq.com/s/MWioUusyzrADRBzX2zkeOw)
+
+二、亚军进化史
+
+1. [Go技术日报(2021-10-17)——Go语言核心编程读书笔记](https://mp.weixin.qq.com/s/CHbwrit_oD_JuCwko0WKEw)
+
+三、无闻是个码痴
+
+1. [高效工作的朴素方法论](https://mp.weixin.qq.com/s/iYscUpC7QxV6Lz7feRiAIg)
+
+四、幽鬼
+
+1. [通过 Gio 构建 Go GUI 程序](https://mp.weixin.qq.com/s/X0QvpHpnS_i4p_JGTxYFVA)
+
+五、k8s技术圈
+
+1. [Alertmanager 高可用安装配置](https://mp.weixin.qq.com/s/RkBfBVQRNpo3r6jiaaYP9Q)
+
+六、微服务实践
+
+1. [你了解微服务的超时传递吗？](https://mp.weixin.qq.com/s/vZlFS7lkKplil5cyHirSmA)
+
+七、脑子进煎鱼了
+
+1. [Go 和 Golang 有什么关系？](https://mp.weixin.qq.com/s/-fiXLhZQ5XChD8GmyCjhoQ)
+
+八、云原生技术爱好者社区
+
+1. [Golang标准库和外部库的性能对比](https://mp.weixin.qq.com/s/ayY8VGPsnv2G1cqNkFph_A)
+
+九、Go招聘
+
+1. [Go 文档注释要改进了：十几年才改一次](https://mp.weixin.qq.com/s/nKn8G6OepcwuYu5DqZG52g)
+
+十、Golang梦工厂
+
+1. [Go业务开发中常用的几个开源库](https://mp.weixin.qq.com/s/tAJg5ALnQy1mDC2z4vlAbw)
  gocn_news-2021-10-18
 # go-news-set-2021-10-18
 ## gocn_news-2021-10-18
