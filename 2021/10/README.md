@@ -1,3 +1,17 @@
+ gocn_news-2021-10-18
+# go-news-set-2021-10-18
+## gocn_news-2021-10-18
+- 1.Tailscale 公司的 Go linker 优化 https://tailscale.com/blog/go-linker/
+
+- 2.Go 一些外部库的性能测试 https://faun.pub/golang-frameworks-and-external-libraries-performace-5c0fb2cbfc4a
+
+- 3.BFE Ingress Controller 正式发布！ https://mp.weixin.qq.com/s/7eia0WM9kbEBXKMPSlOT3A
+
+- 4.Golang 语言极简 HTTP 客户端 GoRequest https://mp.weixin.qq.com/s/vvzu_KDejpQ4rJUsT2wD_A
+
+- 5.听说，99%!!(MISSING)的(MISSING) Go 程序员都被 defer 坑过 https://mp.weixin.qq.com/s/1T6Z74Wri27Ap8skeJiyWQ
+
+
  gocn_news-2021-10-17
 # go-news-set-2021-10-17
 ## gocn_news-2021-10-17
