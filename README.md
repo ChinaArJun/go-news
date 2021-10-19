@@ -1,3 +1,17 @@
+ gocn_news-2021-10-19
+# go-news-set-2021-10-19
+## gocn_news-2021-10-19
+- 1.一套优雅的 Go 错误问题解决方案 https://mp.weixin.qq.com/s/RFF2gSikqXiWXIaOxQZsxQ
+
+- 2.基于 tcpdump 原理手写抓包程序 https://mp.weixin.qq.com/s/8B5sjrufaGWBYgjqvw6GlQ
+
+- 3.Go 开源说第十七期 分布式事务 DTM https://mp.weixin.qq.com/s/5jAIHaIpO-Dk4F2kJzWQAQ
+
+- 4.在 GO 中, 你不需要用于文件遍历的开源库 https://engineering.kablamo.com.au/posts/2021/quick-comparison-between-go-file-walk-implementations
+
+- 5.WebAssembly 能够快速执行的原因 https://zhuanlan.zhihu.com/p/422541443
+
+
  go语言中文网(每日资讯)-2021-10-18
 # go-news-set-2021-10-18
 ## go语言中文网(每日资讯)-2021-10-18
@@ -44,6 +58,20 @@
 十、Golang梦工厂
 
 1. [Go业务开发中常用的几个开源库](https://mp.weixin.qq.com/s/tAJg5ALnQy1mDC2z4vlAbw)
+ gopherDaily-2021-10-18
+# go-news-set-2021-10-18
+## gopherDaily-2021-10-18
+- 1.使用Go打造下一代替代AWS的公有云平台 - https://github.com/m3o/m3o
+- 2.如何在Kubernetes上建立一个零停机时间的应用程序 - https://medium.com/adeo-tech/how-to-build-a-zero-downtime-application-on-kubernetes-9f509fac3eb8
+- 3.播客：通用交付引擎 by docker联合创始人 Solomon Hykes - https://changelog.com/shipit/23
+- 4.做出让人爱不释手的基础软件：可观测性和可交互性 by pingcap - https://mp.weixin.qq.com/s/WEO1y8vg21CXlix8wO28hw
+- 5.时序数据库是如何工作的 - https://www.honeycomb.io/blog/time-series-database/
+- 6.2021年排名Top75编程语言大比较 -  https://www.ishir.com/blog/36749/top-75-programming-languages-in-2021-comparison-and-by-type.htm
+- 7.字节跳动：超复杂调用网下的服务治理新思路 - https://mp.weixin.qq.com/s/qPh40UiPoL2dOfHpkiIaLA
+- 8.帮你找到你需要的git命令 - https://gitexplorer.com/
+- 9.经典旧文：每个软件工程师应该知道的搜索知识 -  https://scribe.rip/p/what-every-software-engineer-should-know-about-search-27d1df99f80d
+- 10.在线玩图灵完备测试游戏 - https://turingcomplete.game/
+
  gocn_news-2021-10-18
 # go-news-set-2021-10-18
 ## gocn_news-2021-10-18
