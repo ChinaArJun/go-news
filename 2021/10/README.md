@@ -1,3 +1,47 @@
+ go语言中文网(每日资讯)-2021-10-20
+# go-news-set-2021-10-20
+## go语言中文网(每日资讯)-2021-10-20
+
+
+一、Go语言中文网
+
+1. [不要写破坏性的 Go 库](https://mp.weixin.qq.com/s/opscI_MMHo1Y7LkYdUcdcQ)
+
+2. [Go 改善开发人员生活质量](https://mp.weixin.qq.com/s/I4pnxUx-JqqsN3DM2Yd2Uw)
+
+二、亚军进化史
+
+1. [Go技术日报(2021-10-19)——一套优雅的 Go 错误问题解决方案](https://mp.weixin.qq.com/s/pwdbDDi-NGs9eVotgIuASw)
+
+三、幽鬼
+
+1. [定位并修复 Go 中的内存泄露](https://mp.weixin.qq.com/s/zcQxmqN0LT9L0qQsp2nypg)
+
+四、k8s技术圈
+
+1. [k8s开启临时容器进行debug](https://mp.weixin.qq.com/s/4CV_-ixYoCV7MhNpgYyzpA)
+
+五、脑子进煎鱼了
+
+1. [Go 语言设计失误，缺乏远见？](https://mp.weixin.qq.com/s/oJTs6LQZValdRb0zWnxXbw)
+
+2. [连接一个 IP 不存在的主机时，握手过程是怎样的？](https://mp.weixin.qq.com/s/BSU9j-TIpfFkHlZRLhLoYA)
+
+六、HHFCodeRv
+
+1. [gin 源码阅读(5) - 灵活的返回值处理](https://mp.weixin.qq.com/s/lE83EZ7eztjEWd_NU796YQ)
+
+七、码农桃花源
+
+1. [搞定系统设计 01：从 0 到百万用户的系统](https://mp.weixin.qq.com/s/43jtcyw34InZWm98-2-0Vg)
+
+八、polarisxu
+
+1. [告别 Go 的 CRUD，步入架构设计：好书送 5 本](https://mp.weixin.qq.com/s/mWidlZN8Bm94ySMI9vUMAQ)
+
+九、Go招聘
+
+1. [Go招聘网站上线啦！！！](https://mp.weixin.qq.com/s/tV7njwIpejJJM0VvvZJY0Q)
  gocn_news-2021-10-20
 # go-news-set-2021-10-20
 ## gocn_news-2021-10-20
