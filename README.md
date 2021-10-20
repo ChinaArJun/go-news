@@ -1,3 +1,30 @@
+ gocn_news-2021-10-20
+# go-news-set-2021-10-20
+## gocn_news-2021-10-20
+- 1.Golang 实现的中以隐私为重点的开源客户数据平台 https://github.com/rudderlabs/rudder-server
+
+- 2.Golang 中你不需要用于文件遍历的库 https://engineering.kablamo.com.au/posts/2021/quick-comparison-between-go-file-walk-implementations
+
+- 3.为什么你应该在 Go 中使用专用的构造函数 https://web3.coach/golang-why-you-should-use-constructors
+
+- 4.高性能 Redis-Server 多线程框架，基于 rawepoll 模型 https://github.com/IceFireDB/redhub
+
+- 5.Go 在 flow 中的开发 https://susamn.medium.com/be-in-the-flow-with-idiomatic-go-development-58058326bffe
+
+
+ gopherDaily-2021-10-19
+# go-news-set-2021-10-19
+## gopherDaily-2021-10-19
+- 1.Go+ 1.0 发布会干货分享 - https://mp.weixin.qq.com/s/pMRAaqChxj_Aw45EnagoUA
+- 2.100秒认识Go语言 - https://www.youtube.com/watch?v=446E-r0rXHI
+- 3.寻找并修复Go中的内存泄漏 - https://dev.to/googlecloud/finding-and-fixing-memory-leaks-in-go-1k1h
+- 4.Mesh VPN是如何工作的？用Go编写我自己的VPN工具来寻找答案 - https://www.samlewis.me/2021/07/creating-mesh-vpn-tool-for-fun/
+- 5.用100行代码学习Go - https://fireship.io/lessons/learn-go-in-100-lines/
+- 6.在Go中，你不需要一个库来进行文件遍历 - https://engineering.kablamo.com.au/posts/2021/quick-comparison-between-go-file-walk-implementations
+- 7.为什么要在Go中使用专用构造函数 - https://web3.coach/golang-why-you-should-use-constructors
+- 8.每个开发者都应避免的Redis反模式 - https://developer.redis.com/howtos/antipatterns/
+- 9.RudderStack提供的数据管道可以轻松地从每个应用程序、网站和SaaS平台收集数据 - https://github.com/rudderlabs/rudder-server
+
  gocn_news-2021-10-19
 # go-news-set-2021-10-19
 ## gocn_news-2021-10-19
