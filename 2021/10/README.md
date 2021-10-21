@@ -1,3 +1,59 @@
+ go语言中文网(每日资讯)-2021-10-21
+# go-news-set-2021-10-21
+## go语言中文网(每日资讯)-2021-10-21
+
+
+一、Go语言中文网
+
+1. [Go: 通过例子学习 Map 的设计 — Part I](https://mp.weixin.qq.com/s/YwsemMCuPmeqeWBTIe3PWQ)
+
+2. [Gopher 高效工作的朴素方法论](https://mp.weixin.qq.com/s/dGGZX6Qoq50FxTKpNxCmpA)
+
+二、亚军进化史
+
+1. [Go技术日报(2021-10-20)——定位并修复 Go 中的内存泄露](https://mp.weixin.qq.com/s/EyvW0kifImRgpZMhYQ7EZw)
+
+三、幽鬼
+
+1. [Go：20 年代的人工智能和数据科学编程语言](https://mp.weixin.qq.com/s/3qdoueXdIowF2Z_np1V4GA)
+
+四、脑子进煎鱼了
+
+1. [Go 中如何强制关闭 TCP 连接](https://mp.weixin.qq.com/s/4eQ6UR63-tbfYTxWbkz3Kg)
+
+五、polarisxu
+
+1. [Go Gio 实战：煮蛋计时器的实现 01 — 空窗口](https://mp.weixin.qq.com/s/csB-3aqjLrPe95lZM3HhPg)
+
+六、码农桃花源
+
+1. [分布式链路跟踪中的 traceid 和 spanid 代表什么？](https://mp.weixin.qq.com/s/8mrL3S_uZDq4vcLKF-tuZQ)
+
+2. [你真的了解 CDC 吗？](https://mp.weixin.qq.com/s/4JJnrgCeTNYDEOXkF9bW7A)
+
+七、Kubernetes技术栈
+
+1. [深入剖析Docker镜像](https://mp.weixin.qq.com/s/8GtlGynY6Q8yKgiuJE38-A)
+
+八、MoeLove
+
+1. [GitOps 应用实践系列 - Argo CD 从入门到核心](https://mp.weixin.qq.com/s/PmMaFm3JXFp-m3w5MPXHXg)
+
+九、aoho求索
+
+1. [如何与 etcd 服务端进行通信？客户端 API 实践与核心方法介绍](https://mp.weixin.qq.com/s/67amAdVWJR9TXG4aVbYQtg)
+
+十、TechPaper
+
+1. [如何快速阅读一本书](https://mp.weixin.qq.com/s/X6jsEW_5Zfjb7f67KGfZRw)
+
+十一、奇伢云存储
+
+1. [分布式基石｜最难 paxos 和最易 raft ？](https://mp.weixin.qq.com/s/C8Mgl9ebMAG0hh6ekoO58w)
+
+十二、Go招聘
+
+1. [深圳同学社招面试各大厂总结，文章很细节](https://mp.weixin.qq.com/s/KsBaBGBCjSUB9x_pfDYXPA)
  gocn_news-2021-10-21
 # go-news-set-2021-10-21
 ## gocn_news-2021-10-21
