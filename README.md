@@ -1,3 +1,17 @@
+ gocn_news-2021-10-21
+# go-news-set-2021-10-21
+## gocn_news-2021-10-21
+- 1.Go+ 1.0 发布会干货分享 https://mp.weixin.qq.com/s/pMRAaqChxj_Aw45EnagoUA
+
+- 2.casbin: 一款用户权限控制库 https://ridouku.medium.com/casbin-an-alternative-to-validate-user-permissions-fd21fadc2b3a
+
+- 3.HTTP 开发与单测的一些模式 https://itnext.io/some-patterns-for-http-and-unit-testing-in-go-221097a0597b
+
+- 4.snaky: 使用 Go 编写的终端贪吃蛇游戏 https://github.com/twiny/snaky
+
+- 5.软件设计原则在 Go 开发的实践 https://medium.com/prysmatic-labs/software-design-principles-applied-to-go-48c1dacfc37f
+
+
  go语言中文网(每日资讯)-2021-10-20
 # go-news-set-2021-10-20
 ## go语言中文网(每日资讯)-2021-10-20
