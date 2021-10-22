@@ -1,3 +1,32 @@
+ gocn_news-2021-10-22
+# go-news-set-2021-10-22
+## gocn_news-2021-10-22
+- 1.Go 语言设计失误，缺乏远见？ https://mp.weixin.qq.com/s/oJTs6LQZValdRb0zWnxXbw
+
+- 2.Golang 通脉之结构体 https://www.cnblogs.com/drunkery/p/15432156.html
+
+- 3.Go - 基于逃逸分析来提升程序性能 https://mp.weixin.qq.com/s/gAz87qPA8sBJMeq6MZbqwg
+
+- 4.为什么使用 golang http 包会把 linux 句柄打满？ https://juejin.cn/post/7021157050151501832
+
+- 5.云原生监控系统 Prometheus 高可用集群保姆级中文部署指南 https://mp.weixin.qq.com/s/3EA26w0krK1nBaPjeGOPqw
+
+
+ gopherDaily-2021-10-22
+# go-news-set-2021-10-22
+## gopherDaily-2021-10-22
+- 1.Go很大可能在go 1.19版本中支持编译器的FGO(feedback-guided optimization)优化 - https://github.com/golang/go/issues/28262
+- 2.确保你的Kubernetes部署的安全 - https://semaphoreci.com/blog/kubernetes-deployments
+- 3.Functional Options: Go中实现优雅的API的方法 - https://blog.uptrace.dev/posts/go-functional-options-named-args.html
+- 4.用Ent和Google的Sqlcommenter进行数据库性能分析 - https://entgo.io/blog/2021/10/19/sqlcomment-support-for-ent/
+- 5.Go中HTTP和单元测试的一些模式 - https://itnext.io/some-patterns-for-http-and-unit-testing-in-go-221097a0597b
+- 6.追踪Go程序中的C语言内存泄漏问题 - https://medium.com/zendesk-engineering/hunting-down-a-c-memory-leak-in-a-go-program-2d08b24b617d
+- 7.用Golang扩展Envoy Proxy - WASM过滤器 - https://medium.com/trendyol-tech/extending-envoy-proxy-wasm-filter-with-golang-9080017f28ea
+- 8.如何在你的智能电视或WebOS设备上运行一个Go IDE - https://medium.com/@cheikhhseck/how-to-run-a-go-ide-on-your-smart-tv-or-webos-device-5fcfdab3e59b
+- 9.世界上使用最多的软件组件 - https://daniel.haxx.se/blog/2021/10/21/the-most-used-software-components-in-the-world/
+- 10.官方vscode在线版 - https://code.visualstudio.com/blogs/2021/10/20/vscode-dev
+- 11.CockroachDB serverless功能上线 - https://thenewstack.io/cockroachdb-serverless-launches-aspires-to-be-developers-database/
+
  go语言中文网(每日资讯)-2021-10-21
 # go-news-set-2021-10-21
 ## go语言中文网(每日资讯)-2021-10-21
