@@ -1,3 +1,61 @@
+ go语言中文网(每日资讯)-2021-10-25
+# go-news-set-2021-10-25
+## go语言中文网(每日资讯)-2021-10-25
+
+
+一、Go语言中文网
+
+1. [定位并修复 Go 中的内存泄露](https://mp.weixin.qq.com/s/NEsoMtHElJwQ-n2CIH-Ogg)
+
+2. [Go 每日一库之 net/http（基础和中间件）](https://mp.weixin.qq.com/s/vlwX48Z6JBj6A8g7r-9dgA)
+
+二、亚军进化史
+
+1. [Go技术日报(2021-10-24)——做一名真正的软件工程师](https://mp.weixin.qq.com/s/h_VLJoK1NFbKcFV8CONCHg)
+
+三、脑子进煎鱼了
+
+1. [出泛型后 API 怎么办？Go 开发者要注意了](https://mp.weixin.qq.com/s/yWEM2EAwv80ZUFjbKGtpNA)
+
+2. [Go 看源码必会知识之 unsafe 包](https://mp.weixin.qq.com/s/wdFdPv3Bdnhy5pc8KL6w6w)
+
+四、码农桃花源
+
+1. [曹大：我的快速阅读法](https://mp.weixin.qq.com/s/Xv1qH_L4eQ0_e5PguLbmsQ)
+
+五、微服务实践
+
+1. [go-zero 实战之 blog 系统](https://mp.weixin.qq.com/s/XCm5xTx6dLR3uJFKEFx6Mw)
+
+六、CloudNativeCommunity
+
+1. [云原生社区 meetup 第八期上海站回顾及资料分享](https://mp.weixin.qq.com/s/oaab8fXED28YBoRni71buA)
+
+七、k8s技术圈
+
+1. [使用 Node Exporter 监控 Linux 主机(2)](https://mp.weixin.qq.com/s/FVAop1I8uGCH6lic-Ouyqw)
+
+八、新亮笔记
+
+1. [Go - 使用 sync.Map 来解决 map 的并发操作问题](https://mp.weixin.qq.com/s/WOuzCJWeuH41qoUP4_zRQA)
+
+九、Go招聘
+
+1. [你应该如何去选择Go router？](https://mp.weixin.qq.com/s/RnRkS8stazKlMN6aFAdtwA)
+ gopherDaily-2021-10-25
+# go-news-set-2021-10-25
+## gopherDaily-2021-10-25
+- 1.要学习一种新的语言，请阅读其标准库 - http://patshaughnessy.net/2021/10/23/to-learn-a-new-language-read-its-standard-library
+- 2.Whatsapp是如何在只有50名工程师的情况下将用户规模扩大到10亿？- https://www.quastor.org/p/how-whatsapp-scaled-to-1-billion
+- 3.实用SOLID: 单一责任原则 - https://levelup.gitconnected.com/practical-solid-in-golang-single-responsibility-principle-20afb8643483
+- 4.go-zero实战之blog系统 - https://mp.weixin.qq.com/s/XCm5xTx6dLR3uJFKEFx6Mw
+- 5.在azure上使用Go构建无服务应用 - https://docs.microsoft.com/en-us/learn/modules/serverless-go/
+- 6.使用Go开发创建一个kube-scheduler插件 - https://medium.com/@juliorenner123/k8s-creating-a-kube-scheduler-plugin-8a826c486a1
+- 7.基于Prometheus、InfluxDB与Grafana打造监控平台 - http://dockone.io/article/2434515
+- 8.高可用Redis服务架构分析与搭建 - https://mp.weixin.qq.com/s/cqD7vrexNAK-ru00RRqC5g
+- 9.无模式、面向文档的流式数据库，为实时监测网络流量而优化 - https://github.com/up9inc/basenine
+- 10.代码搜索的未来 - https://changelog.com/founderstalk/81
+
  go语言中文网(每日资讯)-2021-10-24
 # go-news-set-2021-10-24
 ## go语言中文网(每日资讯)-2021-10-24
@@ -29,6 +87,20 @@
 六、章老师说
 
 1. [做一名真正的软件工程师](https://mp.weixin.qq.com/s/_YsFab4yuaNkDMVc_55qwQ)
+ gopherDaily-2021-10-24
+# go-news-set-2021-10-24
+## gopherDaily-2021-10-24
+- 1.用Go解析和显示时间 - https://go-recipes.dev/parsing-and-displaying-time-with-go-a8ee85e23fff
+- 2.使用StoryBook与Go服务器端渲染构建UI组件 - https://adrianhesketh.com/2021/10/23/using-storybook-with-go-frontends/
+- 3.我养成的快速+高效编程的习惯 - https://cprimozic.net/blog/programming-speed-strategies/
+- 4.LFU(Least Frequently Used)缓存的Go实现 - https://acho.arnold.cm/lfu-cache-go/
+- 5.一个用Go编写的支持多个交易所的加密货币交易机器人和框架 - https://github.com/thrasher-corp/gocryptotrader
+- 6.为Java程序员设计的Go语言教程 - https://www.oreilly.com/library/view/go-for-java/9781484271995/
+- 7.一个模拟网络和系统条件的TCP代理，用于混沌和弹性测试 - https://github.com/Shopify/toxiproxy
+- 8.Arm架构是云计算的未来吗？ - https://thenewstack.io/is-arm-architecture-the-future-of-cloud-computing/
+- 9.LeetCode算法的Go参考实现 - https://github.com/aQuaYi/LeetCode-in-Go
+- 10.Kubernetes如何简化我们的云和开发平台的 - https://thenewstack.io/how-kubernetes-simplified-our-cloud-and-development-platform/
+
  gocn_news-2021-10-22
 # go-news-set-2021-10-22
 ## gocn_news-2021-10-22
