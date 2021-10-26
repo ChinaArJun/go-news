@@ -1,3 +1,16 @@
+ gocn_news-2021-10-26
+# go-news-set-2021-10-26
+## gocn_news-2021-10-26
+- 1.Go 泛型系列：再简化，省略接口 https://colobu.com/2021/10/24/go-generic-eliding-interface/ 
+- 2.Golang 通脉之错误处理 https://www.cnblogs.com/drunkery/p/15464484.html
+
+- 3.揭秘 Golang 内存管理优化！三色标记法源码浅析 https://mp.weixin.qq.com/s/A2aCo9UYyI3iHCu9nsGrAA
+
+- 4.GRPC: 基于云原生环境，区分配置文件 https://juejin.cn/post/7022940863688867870
+
+- 5.译文 如何使用 Go 和 Colly 包构建网页爬虫 https://gocn.vip/topics/17416
+
+
  go语言中文网(每日资讯)-2021-10-25
 # go-news-set-2021-10-25
 ## go语言中文网(每日资讯)-2021-10-25
