@@ -1,3 +1,77 @@
+ go语言中文网(每日资讯)-2021-10-26
+# go-news-set-2021-10-26
+## go语言中文网(每日资讯)-2021-10-26
+
+
+一、Go语言中文网
+
+1. [通过 Gio 构建 Go GUI 程序](https://mp.weixin.qq.com/s/VbF5lvdbCnaH7L8RDBEmMQ)
+
+2. [Go - 使用 sync.Map 来解决 map 的并发操作问题](https://mp.weixin.qq.com/s/Fa3ZMKnWNr_twvo2JonkPw)
+
+二、亚军进化史
+
+1. [Go技术日报(2021-10-25)——你应该如何去选择Go router？](https://mp.weixin.qq.com/s/zFN37kV6Afox2l-WN6g14Q)
+
+三、Go夜读
+
+1. [第 120 期垃圾回收与 Go 实现](https://mp.weixin.qq.com/s/gupZIa_gSJDNpbEV7-w_8g)
+
+四、Go招聘
+
+1. [Go 这样设置版本号：我们的项目也可以](https://mp.weixin.qq.com/s/9FNatFLb9E-yOoulbksDYQ)
+
+五、polarisxu
+
+1. [Go Gio 实战：煮蛋计时器的实现 02— 如何控制窗口](https://mp.weixin.qq.com/s/RAaFVZr1Q1OsVkbd5i96JA)
+
+六、云加社区
+
+1. [Pulsar与Rocketmq、Kafka、Inlong-TubeMQ，谁才是消息中间件的王者？](https://mp.weixin.qq.com/s/iK48U92NC2XB6beEt11Viw)
+
+七、章老师说
+
+1. [不愿意读书的程序员很可怕](https://mp.weixin.qq.com/s/k7NabFfr0vjB8HJZDZ0PzQ)
+
+八、码农桃花源
+
+1. [搞定系统设计 02：估算的一些方法](https://mp.weixin.qq.com/s/fH-AJpE99ulSLbC_1jxlqw)
+
+2. [简单看看 Go 1.17 的新版调用规约](https://mp.weixin.qq.com/s/UTVHd8Du16WOq5ncEBCuPQ)
+
+九、董泽润的技术笔记
+
+1. [实践出真知，聊聊 HTTP 鉴权那些事](https://mp.weixin.qq.com/s/5quUbyUweMsMaOAAxLbLRg)
+
+十、吴亲强的深夜食堂
+
+1. [对CAP理论的理解](https://mp.weixin.qq.com/s/tqeNyC12e6aoN_eWtkCXxA)
+
+十一、网管叨bi叨
+
+1. [用手写一个工具的过程讲清楚Go反射的使用方法和应用场景](https://mp.weixin.qq.com/s/0FNClBKYzgheMiAwjOnKyA)
+
+十二、腾讯看点技术
+
+1. [揭秘Golang内存管理优化！三色标记法源码浅析](https://mp.weixin.qq.com/s/A2aCo9UYyI3iHCu9nsGrAA)
+
+十三、Golang技术分享
+
+1. [如何有效控制 Go 线程数？](https://mp.weixin.qq.com/s/HYcHfKScBlYCD0IUd0t4jA)
+ gopherDaily-2021-10-26
+# go-news-set-2021-10-26
+## gopherDaily-2021-10-26
+- 1.Go语言第一课背后的那些事儿 - https://tonybai.com/2021/10/25/the-things-behind-the-first-lesson-of-go-language
+- 2.Go中的map[string]interface{}类型 - https://bitfieldconsulting.com/golang/map-string-interface
+- 3.用Go和TensorFlow做图像分类的历程 - https://blog.exceptionerror.io/golang-and-tensorflow-image-classification/
+- 4.eBPF如何简化服务网格 - https://thenewstack.io/how-ebpf-streamlines-the-service-mesh/
+- 5.模拟低劣的网络连接进行混沌测试，以便你能建立更好的系统 - https://github.com/tylertreat/comcast
+- 6.dskit: 分布式系统Go工具包 - https://github.com/grafana/dskit
+- 7.Gofire: Go的命令行接口生成工具 - https://github.com/1pkg/gofire
+- 8.云原生网关 Kong 源码分析 - https://mp.weixin.qq.com/s/eku0x4Z8XWXCKhE_esweKA
+- 9.V神：Layer2是以太坊扩展的未来，是实现以太坊扩容的唯一安全方法 - https://mp.weixin.qq.com/s/CtEHBmw8_bel0R8nc2ZH3Q
+- 10.在苹果M1 Max芯片上进行渲染 - https://blog.yiningkarlli.com/2021/10/takua-on-m1-max.html
+
  gocn_news-2021-10-26
 # go-news-set-2021-10-26
 ## gocn_news-2021-10-26
