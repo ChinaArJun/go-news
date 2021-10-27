@@ -1,3 +1,57 @@
+ go语言中文网(每日资讯)-2021-10-27
+# go-news-set-2021-10-27
+## go语言中文网(每日资讯)-2021-10-27
+
+
+一、Go语言中文网
+
+1. [Go: 通过代码学习 Map 的设计 — Part II](https://mp.weixin.qq.com/s/wilXpQwFNeuF2f8b-eeARg)
+
+2. [Go 每日一库之 gorilla/mux](https://mp.weixin.qq.com/s/lhuv27BuaX-J0gcKyJC0Bw)
+
+二、亚军进化史
+
+1. [Go技术日报(2021-10-26)——揭秘Golang内存管理优化](https://mp.weixin.qq.com/s/OvH9SzFjap5lF_vbqDyrmg)
+
+三、码农桃花源
+
+1. [实战演示 Go 反射的使用方法和应用场景](https://mp.weixin.qq.com/s/iHRzQe5ZRUHWLYPVU440TQ)
+
+四、k8s技术圈
+
+1. [使用 Node Exporter 自定义监控指标](https://mp.weixin.qq.com/s/X73XRrhU_lYMvkJvF1z2uw)
+
+五、脑子进煎鱼了
+
+1. [为什么 Go 不支持循环引用？](https://mp.weixin.qq.com/s/OEYmQXuBrCTeokrSNDL6BQ)
+
+六、Go生态
+
+1. [七步制作精简镜像](https://mp.weixin.qq.com/s/cSWHvIntrebJHzC53SM2lg)
+
+七、Go编程点滴
+
+1. [Go语言微服务框架 - 9.分布式链路追踪-OpenTracing的初步引入](https://mp.weixin.qq.com/s/k4g3tw8Fp6J1YZPI1w0rbQ)
+
+八、Go招聘
+
+1. [上海中通快递安全团队招聘Gopher](https://mp.weixin.qq.com/s/nFG_wGy8qDhHFUj2lC8uLw)
+ gopherDaily-2021-10-27
+# go-news-set-2021-10-27
+## gopherDaily-2021-10-27
+- 1.Go官方宣布开启2021年Gopher用户调查 -  https://go.dev/blog/survey2021
+- 2.如何规划go项目代码布局 - https://developer20.com/how-to-structure-go-code/
+- 3.Go generate详解 - https://eli.thegreenplace.net/2021/a-comprehensive-guide-to-go-generate/
+- 4.Go 1.18将在二进制文件中嵌入源版本信息 - https://utcc.utoronto.ca/~cks/space/blog/programming/GoVersionOfYourSource
+- 5.Go语言的goroutine性能分析 - https://mp.weixin.qq.com/s/zEtK5uAd40vD-hcWrQDsmw
+- 6.namespace和cgroup的工作原理 - https://www.nginx.com/blog/what-are-namespaces-cgroups-how-do-they-work
+- 7.在Go中对依赖关系图进行排序 - https://kendru.github.io/go/2021/10/26/sorting-a-dependency-graph-in-go/
+- 8.快节奏的多人游戏（第一部分）：客户端-服务器游戏架构 - https://www.gabrielgambetta.com/client-server-game-architecture.html
+- 9.巨型、免费的世界研究论文索引在线发布 - https://www.nature.com/articles/d41586-021-02895-8
+- 10.Linux 5.16 I/O性能有望大幅提升到单核心IOPS 1000万 - https://www.oschina.net/news/166022/linux-io-10m-iops
+- 11.用联合国贸易数据对SQLite、DuckDB和Arrow进行比较 - https://pacha.dev/blog/2021/08/27/comparing-sqlite-duckdb-and-arrow-with-un-trade-data/
+- 12.Go性能剖析的故事 - https://evilmartians.com/chronicles/what-could-go-wrong-with-a-mutex-or-the-go-profiling-story
+
  gocn_news-2021-10-27
 # go-news-set-2021-10-27
 ## gocn_news-2021-10-27
