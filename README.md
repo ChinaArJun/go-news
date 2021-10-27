@@ -1,3 +1,17 @@
+ gocn_news-2021-10-27
+# go-news-set-2021-10-27
+## gocn_news-2021-10-27
+- 1.『每周译 Go』Go 语言的 goroutine 性能分析 https://mp.weixin.qq.com/s/zEtK5uAd40vD-hcWrQDsmw
+
+- 2.Go 1.18 将源版本信息嵌入到二进制文件中 https://utcc.utoronto.ca/~cks/space/blog/programming/GoVersionOfYourSource
+
+- 3.性能监控工具之 Grafana+Prometheus+Exporters https://www.cnblogs.com/siguadd/p/14878035.html
+
+- 4.用手写一个工具的过程讲清楚 Go 反射的使用方法和应用场景 https://mp.weixin.qq.com/s/0FNClBKYzgheMiAwjOnKyA
+
+- 5.什么是反射 https://www.cnblogs.com/drunkery/p/15470205.html
+
+
  go语言中文网(每日资讯)-2021-10-26
 # go-news-set-2021-10-26
 ## go语言中文网(每日资讯)-2021-10-26
