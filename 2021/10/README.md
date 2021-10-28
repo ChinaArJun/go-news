@@ -1,3 +1,16 @@
+ gocn_news-2021-10-28
+# go-news-set-2021-10-28
+## gocn_news-2021-10-28
+- 1.从 DB 到 DBaaS，数据库技术的当前和未来 https://gocn.vip/topics/17423
+
+- 2.要学习一门新语言，请阅读其标准库 http://patshaughnessy.net/2021/10/23/to-learn-a-new-language-read-its-standard-library
+
+- 3.WhatsApp 如何在只有 50 名工程师的情况下扩展到 10 亿用户 https://www.quastor.org/p/how-whatsapp-scaled-to-1-billion
+
+- 4.对 CAP 理论的理解 https://mp.weixin.qq.com/s/tqeNyC12e6aoN_eWtkCXxA
+
+- 5.实践出真知，聊聊 HTTP 鉴权那些事 https://mp.weixin.qq.com/s/5quUbyUweMsMaOAAxLbLRg 
+
  go语言中文网(每日资讯)-2021-10-27
 # go-news-set-2021-10-27
 ## go语言中文网(每日资讯)-2021-10-27
