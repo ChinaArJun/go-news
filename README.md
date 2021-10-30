@@ -1,3 +1,43 @@
+ gocn_news-2021-10-30
+# go-news-set-2021-10-30
+## gocn_news-2021-10-30
+- 1.12 条 Golang 最佳实践（译文）https://gocn.vip/topics/17431
+
+- 2.在浏览器上开发 GO 和 Vue！(基于 code-server)  https://gocn.vip/topics/17428
+
+- 3.预计在 Go 1.18 中内置泛型（译文）https://gocn.vip/topics/17429
+
+- 4.Go 日志组件封装 https://itart.cn/blogs/2021/practice/go-log-wrap.html
+
+- 5.go 实现 ip 信息查询工具 https://github.com/jftuga/ipinfo/
+
+
+ gopherDaily-2021-10-29
+# go-news-set-2021-10-29
+## gopherDaily-2021-10-29
+- 1.Go语言测试的最佳实践 - https://fossa.com/blog/golang-best-practices-testing-go/
+- 2.修复Go的接口擦除现象 - https://www.doxsey.net/blog/fixing-interface-erasure-in-go/
+- 3.聊聊Go语言的优雅性 - https://rotemtam.com/2021/10/23/the-elegance-of-go/
+- 4.基于时间的一次性密码Go算法库 - https://github.com/pquerna/otp
+- 5.Istio 安全源码分析——认证体系与通信安全 - https://mp.weixin.qq.com/s/_E8vSOA4dXfVQtrFDSFu1Q
+- 6.理解一个go restful开发框架 - https://medium.com/codex/understanding-a-restful-framewok-in-go-37947ee0fd54
+- 7.如何接入K8s持久化存储？K8s CSI实现机制浅析 - https://mp.weixin.qq.com/s/KuCGlaPCe67GYwnipfbE5w
+- 8.在Kubernetes中部署高可用应用程序的最佳实践 - https://blog.flant.com/best-practices-for-deploying-highly-available-apps-in-kubernetes-part-1/
+- 9.从机器学习到机器人技术：实体智能的挑战和机遇 - https://arxiv.org/abs/2110.15245
+
+ gopherDaily-2021-10-28
+# go-news-set-2021-10-28
+## gopherDaily-2021-10-28
+- 1.Go 1.18对泛型的支持策略 - https://tonybai.com/2021/10/28/expectations-for-generics-in-go-1.18
+- 2.eBPF 如何简化服务网格(中文版) - https://mp.weixin.qq.com/s/4Ug8OBuhkO8ExMaR57ruZQ
+- 3.Unix风格的Go Web爬虫工具 - https://github.com/s0rg/crawley
+- 4.Go与指针 - https://medium.com/@cheikhhseck/pointers-and-golang-bf9420cc0d5
+- 5.全球工业互联网十大最具成长性技术展望（2021-2022年） - https://mp.weixin.qq.com/s/Sobo2ooYLpPrRueFyPwfLQ
+- 6.Go的尽力CPU本地分片值包 - https://github.com/cespare/percpu
+- 7.Kubernetes中的部署策略：了解Kubernetes中有哪些不同的部署策略以及如何使用它们 - https://auth0.com/blog/deployment-strategies-in-kubernetes/
+- 8.五分钟读完软件架构模式 - https://orkhanscience.medium.com/software-architecture-patterns-5-mins-read-e9e3c8eb47d2
+- 9.英特尔对软件开发问题的深入研究 - https://thenewstack.io/intel-takes-a-deeper-look-at-software-development/
+
  gocn_news-2021-10-28
 # go-news-set-2021-10-28
 ## gocn_news-2021-10-28
