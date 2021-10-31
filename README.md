@@ -1,3 +1,33 @@
+ gocn_news-2021-10-31
+# go-news-set-2021-10-31
+## gocn_news-2021-10-31
+- 1.如何组织你的 Go 代码 https://developer20.com/how-to-structure-go-code/
+
+- 2.修复 Go 中的接口擦除 https://www.doxsey.net/blog/fixing-interface-erasure-in-go/
+
+- 3.Go 测试最佳实践 https://fossa.com/blog/golang-best-practices-testing-go/
+
+- 4.DDD 到底是垃圾还是银弹 https://xargin.com/is-ddd-garbage-or-silver-bullet/
+
+- 5.微服务架构设计中的设计模式、原则及最佳实践 https://www.infoq.cn/article/6dlQZisMiXK3hzLIwEET
+
+
+ gopherDaily-2021-10-31
+# go-news-set-2021-10-31
+## gopherDaily-2021-10-31
+- 1.Go语言第一课FAQ - https://tonybai.com/go-course-faq
+- 2.Go实战SOLOD设计原则之开闭原则 - https://levelup.gitconnected.com/practical-solid-in-golang-open-closed-principle-1dd361565452
+- 3.Kubernetes网络方案——炫酷的Cilium - https://zhuanlan.zhihu.com/p/415695076
+- 4.Go与Python哪一个是最好的，为什么？- https://techbiason.com/go-vs-python/
+- 5.在Kubernetes中使用client-go进行leader选举 - https://medium.com/@mayankshah1607/leader-election-in-kubernetes-using-client-go-a19cbe7a9a85
+- 6.使用hashicorp技术栈创建我的个人云 - https://cgamesplay.com/post/2021/10/27/creating-my-personal-cloud-with-hashicorp/
+- 7.使用go把一个slice或数组分割成规定数量的块 - https://pauldigian.hashnode.dev/split-a-slice-or-array-in-a-defined-number-of-chunks-in-golang-but-any-language-really
+- 8.元宇宙与边缘计算 - https://mp.weixin.qq.com/s/scXJb3gW12fb1WtaJ9iPMQ
+- 9.Raspberry Pi Zero 2 W的第一印象 - https://blog.alexellis.io/raspberry-pi-zero-2/
+- 10.github上100个最有价值的机器学习项目 - https://www.theinsaneapp.com/2021/09/best-github-repository-for-machine-learning.html
+- 11.Meta(原脸书)为社交图谱建立的分布式数据仓库 - https://www.micahlerner.com/2021/10/13/tao-facebooks-distributed-data-store-for-the-social-graph.html
+- 12.元宇宙是狗屎 - https://outline.com/DUdr8Y
+
  gocn_news-2021-10-30
 # go-news-set-2021-10-30
 ## gocn_news-2021-10-30
