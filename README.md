@@ -1,3 +1,59 @@
+ go语言中文网(每日资讯)-2021-11-02
+# go-news-set-2021-11-02
+## go语言中文网(每日资讯)-2021-11-02
+
+
+一、Go语言中文网
+
+1. [你期望 Go 1.18 中泛型是什么样子？](https://mp.weixin.qq.com/s/ckmhz-w_rCnYgXvPA6xWRg)
+
+2. [彻底搞懂channel原理(二)](https://mp.weixin.qq.com/s/xWPxuk3WePB4fgz749yfyA)
+
+二、亚军进化史
+
+1. [Go技术日报(2021-11-01)——25秒读取16GB文件，Go怎么做到的？](https://mp.weixin.qq.com/s/13bdA9xgKj3Djk69Rs1iyw)
+
+三、码农桃花源
+
+1. [Goland 这些实操技巧，你可能还不会！](https://mp.weixin.qq.com/s/JxbGUicz2_GkYPC3n4h2yw)
+
+四、脑子进煎鱼了
+
+1. [一些实用的 Go 编程模式 | Builder模式能用来解决什么问题？](https://mp.weixin.qq.com/s/petcuOx-wrOX4oQlJ5b_bA)
+
+五、网管叨bi叨
+
+1. [盘点一下结构体标签在Go中的应用](https://mp.weixin.qq.com/s/1AVL5k9D55fWIkWm4UPR0Q)
+
+六、HHFCodeRv
+
+1. [关于Go程序错误处理的一些建议](https://mp.weixin.qq.com/s/T4CCs7r1COUq-mCnlfCJCQ)
+
+七、分布式实验室
+
+1. [Prometheus监控业务指标](https://mp.weixin.qq.com/s/gYbhb05aFlUmm3Zq44lVaQ)
+
+八、幽鬼
+
+1. [如何组织 Go 代码？Go 作者的回答惊呆了](https://mp.weixin.qq.com/s/uTCNXr5RoOjmlQ_mVjxnXg)
+
+九、Go招聘
+
+1. [k8s开发很香啊，华云中盛等你来](https://mp.weixin.qq.com/s/tK0pBGyp0qX5YyK6Xzrf4Q)
+ gopherDaily-2021-11-02
+# go-news-set-2021-11-02
+## gopherDaily-2021-11-02
+- 1.Cloudflare是如何构建软件的 - https://blog.cloudflare.com/building-software-at-cloudflare/
+- 2.在Go中使用模板组织PostgreSQL代码库 - https://www.migops.com/blog/2021/10/22/organizing-postgresql-codebase-using-templates-in-golang/
+- 3.将《算法》第四版中的Java算法实现“翻译”为Go实现 - https://github.com/youngzhu/algs4-go
+- 4.MangoDB：MongoDB的的开源替代方案 -  https://github.com/MangoDB-io/MangoDB
+- 5.关于”木马源”攻击 by russ cox - https://research.swtch.com/trojan
+- 6.如何编写一个基于Go/Lambda的Twitter Meme Bot - https://johnjonesfour.com/2021/11/01/go-serverless-twitter-meme-bot/
+- 7.将Go值转换为其AST - https://github.com/hexops/valast
+- 8.使用Ent Hooks将变化同步到外部数据系统 - https://entgo.io/blog/2021/11/1/sync-to-external-data-systems-using-hooks/
+- 9.CNCF发布DevSecOps技术雷达 - https://zhuanlan.zhihu.com/p/413427519
+- 10.Devops发展史 - https://mp.weixin.qq.com/s/hJSGAH5I85ZXtYywiBb10g
+
  gocn_news-2021-11-02
 # go-news-set-2021-11-02
 ## gocn_news-2021-11-02
