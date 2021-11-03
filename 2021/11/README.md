@@ -1,3 +1,57 @@
+ go语言中文网(每日资讯)-2021-11-03
+# go-news-set-2021-11-03
+## go语言中文网(每日资讯)-2021-11-03
+
+
+一、Go语言中文网
+
+1. [如何组织 Go 代码？Go 作者的回答惊呆了](https://mp.weixin.qq.com/s/ciAQo0bgjFd3Ktq9ryYecQ)
+
+2. [Go：环境变量知多少？](https://mp.weixin.qq.com/s/T83QgMGrheGdB0_7lwpZ4w)
+
+3. [彻底搞懂channel原理(三)](https://mp.weixin.qq.com/s/P0b6a3F-5yDNgnaiQQVAkA)
+
+二、亚军进化史
+
+1. [Go技术日报(2021-11-02)——定位并修复 Go 中的内存泄漏](https://mp.weixin.qq.com/s/55VeP3KGqss_6y8r46GMtg)
+
+三、码农桃花源
+
+1. [使用 golang gopacket 实现进程级流量监控](https://mp.weixin.qq.com/s/ibVM2ruofb397JMT1pts5w)
+
+四、HHFCodeRv
+
+1. [云原生环境下对“多活”架构的思考](https://mp.weixin.qq.com/s/cjTe2SV-ByZgz2hpiTFkzA)
+
+五、Go招聘
+
+1. [Go圈的原创博主推荐](https://mp.weixin.qq.com/s/d_OUJA1bza8Asu4ndTP8tw)
+
+2. [如何有效控制 Go 线程数？](https://mp.weixin.qq.com/s/tkmahKTvzPUrS2tREU_xWA)
+
+六、幽鬼
+
+1. [Go 中常用的四大重构技术](https://mp.weixin.qq.com/s/urdxZlq4nPassPwrQLzN3A)
+
+七、脑子进煎鱼了
+
+1. [你最想 Go 最改进的 TOP3 是什么？](https://mp.weixin.qq.com/s/-JDr6KqsARWUkW9EgdEJIA)
+
+八、MoeLove
+
+1. [K8S 生态周报| Helm 新版本发布增强对 OCI 的支持](https://mp.weixin.qq.com/s/4UXBE0KA2CllREq8ciAAVg)
+
+九、CloudNativeCommunity
+
+1. [多租户场景下 Istio 部署方案探索](https://mp.weixin.qq.com/s/rmf7te7w9JVa2mrCHmdS4g)
+
+十、k8s技术圈
+
+1. [Grafana 图形面板高级定制方法](https://mp.weixin.qq.com/s/4GHAr1gevw6leCYhuNWu4g)
+
+十一、polarisxu
+
+1. [Go1.18 快讯：新增字符串 Clone API](https://mp.weixin.qq.com/s/hYciyIlp0EEoM-TVjydRiA)
  gocn_news-2021-11-03
 # go-news-set-2021-11-03
 ## gocn_news-2021-11-03
