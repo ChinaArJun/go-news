@@ -1,3 +1,17 @@
+ gocn_news-2021-11-03
+# go-news-set-2021-11-03
+## gocn_news-2021-11-03
+- 1.Go 的全功能测试框架断言、模拟、输入测试、输出捕获! https://github.com/MarvinJWendt/testza
+
+- 2.在 Go 项目中可视化嵌入结构图的工具 https://github.com/davidschlachter/embedded-struct-visualizer
+
+- 3.Go 实现的快速未使用和重复的依赖项检查器 https://github.com/CryogenicPlanet/depp
+
+- 4.用于 Neo4j 的 Golang 对象图映射器 https://github.com/mindstand/gogm
+
+- 5.将 Go 结构体转为 HTML 的编码器 https://github.com/DrGrimshaw/gohtml
+
+
  go语言中文网(每日资讯)-2021-11-02
 # go-news-set-2021-11-02
 ## go语言中文网(每日资讯)-2021-11-02
