@@ -1,3 +1,31 @@
+ gocn_news-2021-11-04
+# go-news-set-2021-11-04
+## gocn_news-2021-11-04
+- 1.劫持 Golang 编译 https://paper.seebug.org/1749/
+
+- 2.使用 Go+ 树莓派实现 LED 灯 PWM 控制 https://betterprogramming.pub/raspberry-pi-pulse-width-modulation-for-dummies-10005f3f3583
+
+- 3.如何正确获取 Profile https://blog.pickme.lk/how-to-get-profiling-right-with-go-813ff89d4757
+
+- 4.从 Map 的实现聊聊为什么 Go 需要有泛型 https://medium.com/starbugs/why-go-need-generics-c8f1495ef00a
+
+- 5.使用泛型编写的常见数据结构库 https://github.com/Tv0ridobro/data-structure
+
+
+ gopherDaily-2021-11-04
+# go-news-set-2021-11-04
+## gopherDaily-2021-11-04
+- 1.Go语言生态发展之路 - https://mp.weixin.qq.com/s/ussTB7RBL4MREJlB_K-4JA
+- 2.Google：12条Go最佳实践 - https://mp.weixin.qq.com/s/XftPV6aiaiqKFCVtM4hhQA
+- 3.Dapr（分布式应用运行时）加入 CNCF 孵化器 - https://mp.weixin.qq.com/s/-ogYwNP_twxG5d7yZIyi0g
+- 4.通过重新排列Go结构字段来节省三分之一的内存 - https://qvault.io/golang/struct-field-ordering-memory/
+- 5.使用Go处理GIS数据 - https://www.ardanlabs.com/blog/2021/11/gis-in-go.html
+- 6.可视化Go结构体的嵌入式层次结构 - https://github.com/davidschlachter/embedded-struct-visualizer
+- 7.Go HTTP客户端拦截器 - https://faun.pub/golang-http-client-interceptors-e861ec501bdf
+- 8.小心serverless - https://mp.weixin.qq.com/s/hw9ZqWj3vddIzwkBxGyG5A
+- 9.使用Tini清理Docker容器僵死进程 - https://mp.weixin.qq.com/s/hw9ZqWj3vddIzwkBxGyG5A
+- 10.使用 Grafana 创建可视化面板 - https://mp.weixin.qq.com/s/Pwlg8C_pPU-TayWbZz8A-A
+
  go语言中文网(每日资讯)-2021-11-03
 # go-news-set-2021-11-03
 ## go语言中文网(每日资讯)-2021-11-03
