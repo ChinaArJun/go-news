@@ -1,3 +1,28 @@
+ gocn_news-2021-11-05
+# go-news-set-2021-11-05
+## gocn_news-2021-11-05
+- 1.[安全] 发布了 Go 1.17.3 和 Go 1.16.10 https://groups.google.com/g/golang-dev/c/BC9Nelav6LU 
+- 2.认识 MySQL 和 Redis 的数据一致性问题 https://zhuanlan.zhihu.com/p/429637485
+
+- 3.如何诊断内存泄漏｜有趣的垃圾回收 https://mp.weixin.qq.com/s/w8A8Ezs7NBkdrt8EUCOUhQ
+
+- 4.在 Go 中对可选值建模的惯用方法 https://www.reddit.com/r/golang/comments/qmim6f/idiomatic_way_of_modeling_optional_values_in_go/
+
+- 5.使用 AWS API 网关调用 Lambda 函数的 HTTP 路由器库 https://github.com/aquasecurity/lmdrouter
+
+
+ gopherDaily-2021-11-05
+# go-news-set-2021-11-05
+## gopherDaily-2021-11-05
+- 1.Go 1.17.3和1.16.10版本发布，修复安全问题 - https://golang.google.cn/dl/#go1.17.3
+- 2.Vim诞生30周年，Vim之父发文庆祝 - https://groups.google.com/g/vim_announce/c/bQtQSHTK1sg
+- 3.高级Go：在构造函数和声明类型之间做出选择 - https://pauldigian.hashnode.dev/advanced-go-choosing-between-a-constructor-and-declaring-the-type
+- 4.播客：聊聊Go语言的年度开发者调查 - https://changelog.com/gotime/204
+- 5.Thanos operator设计 - https://github.com/banzaicloud/thanos-operator/blob/master/docs/README.md
+- 6.Go Day 2021（谷歌开源直播): 在Go中何时以及如何使用泛型 - https://www.youtube.com/watch?v=nr8EpUO9jhw
+- 7.选择Ingress控制器的指南 - https://www.nginx.com/blog/guide-to-choosing-ingress-controller-part-4-nginx-ingress-controller-options/
+- 8.monday.com的多区域架构深入探究 - https://engineering.monday.com/monday-coms-multi-regional-architecture-a-deep-dive/
+
  gocn_news-2021-11-04
 # go-news-set-2021-11-04
 ## gocn_news-2021-11-04
