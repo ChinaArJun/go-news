@@ -1,3 +1,32 @@
+ gocn_news-2021-11-07
+# go-news-set-2021-11-07
+## gocn_news-2021-11-07
+- 1.Golang 接口 --- 三个"潜规则" https://juejin.cn/post/7027279849639116831
+
+- 2.Go Web 和微服务实战教程推荐 https://mp.weixin.qq.com/s/dbHSsvCAtt2vrfyz0s5eSg
+
+- 3.Go 面试题专题 (一)：聊聊你理解的 Golang defer 关键字 https://juejin.cn/post/7027394017688027172
+
+- 4.Go 内存分配原理 https://juejin.cn/post/7027462102591733797
+
+- 5.golang 静态代码检查配置与常见格式异常 https://juejin.cn/post/7026367302819905567
+
+
+ gopherDaily-2021-11-07
+# go-news-set-2021-11-07
+## gopherDaily-2021-11-07
+- 1.Ian Lance Taylor：Go泛型使用的一般准则 - https://tonybai.com/2021/11/07/using-generics-in-go
+- 2.Go day 2021: 使用Go编辑器构建更好的项目 - https://www.youtube.com/watch?v=jMyzsp2E_0U
+- 3.Go day 2021: 现代企业级应用 - https://www.youtube.com/watch?v=5fgG1qZaV4w
+- 4.u-root: Go实现的linux/unix常用工具集合 - https://u-root.org/
+- 5.前微信技术专家打造的基于Go实现的即时通讯（IM）项目 - https://github.com/OpenIMSDK/Open-IM-Server
+- 6.Go实现的数据库dolt与MySQL的TPC-C benchmark结果比较 - https://www.dolthub.com/blog/2021-10-25-dolt-vs-mysql-tpc-benchmark/
+- 7.Go net/http.ServeMux和尾部斜杠 -  https://christine.website/blog/go-servemux-slash-2021-11-04
+- 8.使用Go实现单页应用（spa) - https://hackandsla.sh/posts/2021-11-06-serve-spa-from-go/
+- 9.讨论：兼容性保证才是Go真正的“杀手特性” - https://www.reddit.com/r/golang/comments/qnl1fp/the_compatability_guarantee_is_gos_killer_feature/
+- 10.给儿童准备的Kubernetes的图解指南 - https://speakerdeck.com/chrisshort/the-illustrated-childrens-guide-to-kubernetes
+- 11.为什么SQLite不使用Git做代码版本管理 - https://sqlite.org/whynotgit.html
+
  gocn_news-2021-11-06
 # go-news-set-2021-11-06
 ## gocn_news-2021-11-06
