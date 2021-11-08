@@ -1,3 +1,17 @@
+ gocn_news-2021-11-08
+# go-news-set-2021-11-08
+## gocn_news-2021-11-08
+- 1.Go 泛型使用 https://golangnews.com/stories/4652-video-using-generics-in-go
+
+- 2.Go 提案 runtime/debug：软内存限制 https://github.com/golang/go/issues/48409
+
+- 3.Go 使用 SSH 和域套接字进行服务 https://medium.com/@johnsiilver/go-using-ssh-and-domain-sockets-for-serving-3a037e00d5a7
+
+- 4.在 Go 中对依赖图进行排序 https://kendru.github.io/go/2021/10/26/sorting-a-dependency-graph-in-go/
+
+- 5.Go 使用 GIS https://www.ardanlabs.com/blog/2021/11/gis-in-go.html
+
+
  go语言中文网(每日资讯)-2021-11-08
 # go-news-set-2021-11-08
 ## go语言中文网(每日资讯)-2021-11-08
