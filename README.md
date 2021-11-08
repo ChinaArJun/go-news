@@ -1,3 +1,35 @@
+ go语言中文网(每日资讯)-2021-11-08
+# go-news-set-2021-11-08
+## go语言中文网(每日资讯)-2021-11-08
+
+
+一、Go语言中文网
+
+1. [Go1.17.3 发布了](https://mp.weixin.qq.com/s/FINDCHU3on5c4Mpby4GTGg)
+
+2. [Go语言爱好者周刊：第 118 期 — 北京下大雪了](https://mp.weixin.qq.com/s/54K1JV8n9rgaxngnhhc-Eg)
+
+3. [Go Web和微服务实战教程推荐](https://mp.weixin.qq.com/s/dbHSsvCAtt2vrfyz0s5eSg)
+
+二、TonyBai
+
+1. [Ian Lance Taylor：Go泛型使用的一般准则](https://mp.weixin.qq.com/s/ur1eiZl4PKbF1PqELAdfKg)
+
+三、Go101
+
+1. [Go 1.18前瞻](https://mp.weixin.qq.com/s/IMmbVBCrcWzb8bCYNL_LqA)
+
+四、Go学堂
+
+1. [Go实战 | 让flag支持从文件中读取命令行参数](https://mp.weixin.qq.com/s/t0x5N0ehaPnTTrD0fL6-GQ)
+
+五、幼麟实验室
+
+1. [【漫话GC】我是GC Mark Worker~](https://mp.weixin.qq.com/s/n-4YxL_irIBqd2fxszmDeg)
+
+六、polarisxu
+
+1. [Go1.18 快讯：废弃了这个 API](https://mp.weixin.qq.com/s/HQOobDUQi3p0hZEHp7XcvA)
  gocn_news-2021-11-07
 # go-news-set-2021-11-07
 ## gocn_news-2021-11-07
