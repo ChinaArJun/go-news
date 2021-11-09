@@ -1,3 +1,33 @@
+ gocn_news-2021-11-09
+# go-news-set-2021-11-09
+## gocn_news-2021-11-09
+- 1.Go 高阶 20，定时器的使用 https://juejin.cn/post/7028191842629845029
+
+- 2.将 Go API 部署到 AWS Lambda 和 API Gateway https://asanchez.dev/blog/deploy-api-go-aws-lambda-gateway/
+
+- 3.Golang NSQ 消息队列使用实战  https://segmentfault.com/a/1190000040923001
+
+- 4.Go 流水线编程模式 https://mp.weixin.qq.com/s/IuGaKbQvW7z1KsoMhB8mgg
+
+- 5.Ian Lance Taylor：Go 泛型使用的一般准则  https://tonybai.com/2021/11/07/using-generics-in-go/
+
+
+ gopherDaily-2021-11-08
+# go-news-set-2021-11-08
+## gopherDaily-2021-11-08
+- 1.Go SOLID实战：里氏替换原则 - https://levelup.gitconnected.com/practical-solid-in-golang-liskov-substitution-principle-e0d2eb9dd39
+- 2.k8s上最广泛安装的无服务器层Knative发布1.0版 - https://mp.weixin.qq.com/s/4Q6KysVynMq76tEnmiHDcg
+- 3.Go高级技巧–用context.Context和channel使同步代码异步化 - https://pauldigian.hashnode.dev/advanced-go-make-synchronous-code-asynchronous-with-contextcontext-and-channels
+- 4.破解Printf - https://philpearl.github.io/post/anathema/
+- 5.在Go中如果有效组织API选项(option) - https://pthethanh.herokuapp.com/blog/articles/effective-options
+- 6.tunny: 一个goroutine池实现 - https://github.com/Jeffail/tunny
+- 7.多语言算法大全 - https://www.algorithm-archive.org/
+- 8.Java之父James Gosling：你需要的软件可靠性越高，静态类型语言的帮助就越大 - https://mp.weixin.qq.com/s/zjmtt-PnKj0fIerWHauN3Q
+- 9.bombardier: Go实现的http压测工具 - https://github.com/codesenberg/bombardier
+- 10.字节跳动踩过的Clickhouse的那些坑 - https://mp.weixin.qq.com/s/T2FEyGralguI9cQARgDdyg
+- 11.GPT-3不再是镇上唯一的游戏了 - https://lastweekin.ai/p/gpt-3-is-no-longer-the-only-game
+- 12.游戏引擎的工作原理 - https://www.haroldserrano.com/blog/how-do-i-build-a-game-engine
+
  gocn_news-2021-11-08
 # go-news-set-2021-11-08
 ## gocn_news-2021-11-08
