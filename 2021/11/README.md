@@ -1,3 +1,17 @@
+ gocn_news-2021-11-10
+# go-news-set-2021-11-10
+## gocn_news-2021-11-10
+- 1.『每周译 Go』GO 1.18 中即将出现的功能特性 https://mp.weixin.qq.com/s/_CqUZ9Xqx_G1TeQBBNIkgA
+
+- 2.kratos 漫游指南 - 配置组件的使用 https://mp.weixin.qq.com/s/fu-ryADWQIdMCxXm8j2UJQ
+
+- 3.推荐结构体字段的重新排列以获取最佳结构大小的 Go 静态分析器 https://github.com/orijtech/structslop
+
+- 4.Go 源码里的这些 //go: 指令，你知道吗？ https://mp.weixin.qq.com/s/7OLTcAGlvCEU3OUfpw5BRA
+
+- 5.破解 Printf https://philpearl.github.io/post/anathema
+
+
  go语言中文网(每日资讯)-2021-11-09
 # go-news-set-2021-11-09
 ## go语言中文网(每日资讯)-2021-11-09
