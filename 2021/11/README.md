@@ -1,3 +1,17 @@
+ gocn_news-2021-11-11
+# go-news-set-2021-11-11
+## gocn_news-2021-11-11
+- 1.Google：12 条 Golang 最佳实践 https://gocn.vip/topics/17431
+
+- 2.Google Open Source Live 上的 Go Day 2021 | 在 Go 中使用泛型
+
+- 3.使用 Go 和 Pulumi 在 AWS 上的架构即代码 https://dev.to/aws-builders/infrastructure-as-code-on-aws-using-go-and-pulumi-gn5
+
+- 4.聊一聊 Go 中面向包的设计 https://mp.weixin.qq.com/s/pN9Ae4692VBLfrvKgsKL8g
+
+- 5.应该如何去选择 Go router https://mp.weixin.qq.com/s/OoZRkIVVK9Yz63NMYJ34tw
+
+
  go语言中文网(每日资讯)-2021-11-10
 # go-news-set-2021-11-10
 ## go语言中文网(每日资讯)-2021-11-10
