@@ -1,3 +1,47 @@
+ gocn_news-2021-11-12
+# go-news-set-2021-11-12
+## gocn_news-2021-11-12
+- 1. 官方的 2021go 开发者调查 https://go.dev/blog/survey2021
+
+- 2. 错误 nil check 失败在 Group.Wait 上 https://github.com/hashicorp/go-multierror/issues/57
+
+- 3. 当 key 是动态的时候如何序列化 json 为 Struct https://www.reddit.com/r/golang/comments/qrgswp/struct_for_json_where_key_is_variable/
+
+- 4.  go 语言 native UI 绑定https://www.reddit.com/r/golang/comments/qr8lkm/are_there_native_bindings_for_native_ui/
+
+- 5.在浏览器里签名、验证、加密、解密 JPG 使用 go wasm pwa https://github.com/pojntfx/keygaen
+
+
+ gopherDaily-2021-11-12
+# go-news-set-2021-11-12
+## gopherDaily-2021-11-12
+- 1.Go 1.18新特性前瞻：Go工作区模式 - https://tonybai.com/2021/11/12/go-workspace-mode-in-go-1-18
+- 2.使用REST和gRPC的Go微服务的BFF(backend for front)模式 - https://itnext.io/bff-pattern-with-go-microservices-using-rest-grpc-87d269bc2434
+- 3.Go泛型的新官方playground，取代go2go playground - https://gotipplay.golang.org/
+- 4.利用Superb AI套件和Pachyderm开发以数据为中心的AI应用 - https://towardsdatascience.com/developing-data-centric-ai-applications-with-superb-ai-suite-pachyderm-e9dee0da75c2
+- 5.Sourcegraph正式接手代码搜索引擎库Zoekt的维护工作 - https://about.sourcegraph.com/blog/sourcegraph-accepting-zoekt-maintainership/
+- 6.用Ruby Next在Ruby中写Go - https://evilmartians.com/chronicles/a-no-go-fantasy-writing-go-in-ruby-with-ruby-next
+- 7.使用Go和Pulumi实现AWS上的基础设施即代码 - https://dev.to/aws-builders/infrastructure-as-code-on-aws-using-go-and-pulumi-gn5
+- 8.pants构建系统增加对go应用构建的支持 - https://blog.pantsbuild.org/golang-support-pants-28/
+- 9.datree: 防止Kubernetes的错误配置进入生产领域 - https://github.com/datreeio/datree
+- 10.为什么你的代码需要抽象层 - https://thenewstack.io/why-your-code-needs-abstraction-layers/
+- 11.我们如何通过升级我们的文件系统节省了数百万的SSD成本 - https://heap.io/blog/how-we-saved-millions-in-ssd-costs-by-upgrading-our-filesystem
+- 12.如何构建软件开发者的第二大脑 - https://aseemthakar.com/how-to-build-a-second-brain-as-a-software-developer/
+
+ gopherDaily-2021-11-11
+# go-news-set-2021-11-11
+## gopherDaily-2021-11-11
+- 1.Go，12周年 - https://tonybai.com/2021/11/11/go-opensource-12-years
+- 2.pkg.go.dev网站搜索新体验 - https://go.dev/blog/pkgsite-search-redesign
+- 3.Go 1.18新特性前瞻：Go module的最后一块拼图 - Go工作区模式 - https://t.zsxq.com/zRFyJuB
+- 4.云原生的未来将带来什么？- https://thenewstack.io/what-the-future-of-cloud-native-is-about-to-bring/
+- 5.Go实现的Lua语言服务协议插件 - https://github.com/Tencent/LuaHelper
+- 6.终于！12年后Golang支持泛型了！- https://mp.weixin.qq.com/s/Cq4M7jY3rsPPcbg0E5afDA
+- 7.混沌工程实验室动态|国内首个《中国混沌工程调查报告（2021）》深度解读 - https://mp.weixin.qq.com/s/S6Ct6tqc1IWpA_kAtZEuyw
+- 8.duplicacy: 新一代的云备份工具 - https://github.com/gilbertchen/duplicacy
+- 9.针对你的网站运行常见的网络测试工具 - https://github.com/ycd/dstp
+- 10.使用eBPF per-CPU Cgroup本地存储进行低功耗统计 - https://www.cnxct.com/ebpf-cgroup-per-cpu-storage-low-overhead-accounting-zh/
+
  gocn_news-2021-11-11
 # go-news-set-2021-11-11
 ## gocn_news-2021-11-11
