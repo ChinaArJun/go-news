@@ -1,3 +1,17 @@
+ gocn_news-2021-11-13
+# go-news-set-2021-11-13
+## gocn_news-2021-11-13
+- 1.一文搞懂 ZigZag 算法及 Go 语言的实现 https://gocn.vip/topics/17474
+
+- 2.手把手教你用 Go 实现一个 mTLS https://gocn.vip/topics/17472
+
+- 3.终端进度条-pb https://gocn.vip/topics/17470
+
+- 4.go defer 原理和源码剖析 https://studygolang.com/articles/35316
+
+- 5.go-pst 读取 pst 数据文件 https://github.com/mooijtech/go-pst
+
+
  gocn_news-2021-11-12
 # go-news-set-2021-11-12
 ## gocn_news-2021-11-12
