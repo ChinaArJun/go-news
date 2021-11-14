@@ -1,3 +1,17 @@
+ gocn_news-2021-11-14
+# go-news-set-2021-11-14
+## gocn_news-2021-11-14
+- 1.Go 1.18 新特性前瞻：Go 工作区模式 https://tonybai.com/2021/11/12/go-workspace-mode-in-go-1-18/
+
+- 2.datree: 通过规则验证阻止 K8s 错误配置到达生产环境 https://www.datree.io/
+
+- 3.使用 Go 和 Pulumi 在 AWS 上实践基础设施即代码 https://dev.to/aws-builders/infrastructure-as-code-on-aws-using-go-and-pulumi-gn5
+
+- 4.LuaHelper: Go 实现的 Lua LSP https://github.com/Tencent/LuaHelper
+
+- 5.Go tip 版本的 Playground https://gotipplay.golang.org/
+
+
  gocn_news-2021-11-13
 # go-news-set-2021-11-13
 ## gocn_news-2021-11-13
