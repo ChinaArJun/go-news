@@ -1,3 +1,67 @@
+ go语言中文网(每日资讯)-2021-11-15
+# go-news-set-2021-11-15
+## go语言中文网(每日资讯)-2021-11-15
+
+
+一、Go语言中文网
+
+1. [为什么说 Go 是 DevOps 专业人士的第一首选？](https://mp.weixin.qq.com/s/p1S1W37jQfCNzY4XBfI3lA)
+
+2. [gRPC客户端的那些事儿](https://mp.weixin.qq.com/s/9eFtjNMSVxxq2qPPN7aGBA)
+
+二、Go夜读
+
+1. [【深圳】AfterShip 招聘 Go 工程师](https://mp.weixin.qq.com/s/o1lGNUAd98sW_lqNM3BnpQ)
+
+三、脑子进煎鱼了
+
+1. [分享 3 件与 Go 开发者有关的大小事](https://mp.weixin.qq.com/s/22TeQOUjf_glPX3QLPX8yw)
+
+四、GoSpring实战
+
+1. [使用 Go-Spring 构建最小 Web API](https://mp.weixin.qq.com/s/gGLy6GvpjF_eUi8F7ynFQA)
+
+五、网管叨bi叨
+
+1. [学会这几招让 Go 程序自己监控自己](https://mp.weixin.qq.com/s/kASxY9NDYsUpDltO2U3qEw)
+
+六、Golang技术分享
+
+1. [Go 语言类型可比性](https://mp.weixin.qq.com/s/_a5kd6bBMEToCPZNR7D4Pw)
+
+七、Golang梦工厂
+
+1. [Go语言中结构体打Tag是什么意思？](https://mp.weixin.qq.com/s/3sz8oE8nGmba8WECXa0AWg)
+
+八、码农桃花源
+
+1. [Go map[int64]int64 写入 redis 占用多少内存](https://mp.weixin.qq.com/s/TwtweAh_tcU8kjdWwZrDKA)
+
+九、Go招聘
+
+1. [一个Go方法，五种变换](https://mp.weixin.qq.com/s/4P1jRbvCH8NTyNFROrZGmQ)
+
+十、奇伢云存储
+
+1. [云原生 etcd 系列｜用“租约”给 key 加一个期限！](https://mp.weixin.qq.com/s/dWmzNhBxtd6MtBepqSGsfg)
+
+十一、腾讯技术工程
+
+1. [开源监控系统 Prometheus 最佳实践](https://mp.weixin.qq.com/s/SzWUe4GNlkauLa4gGGQUng)
+ gopherDaily-2021-11-14
+# go-news-set-2021-11-14
+## gopherDaily-2021-11-14
+- 1.Go并发编程一年回顾(2021) - https://colobu.com/2021/11/09/the-state-of-go-sync-2021/
+- 2.可维护的Go工程 - https://huseyinbabal.com/2021/11/14/maintainable-go-projects/
+- 3.Go给所有程序员带来的5点启示 - https://levelup.gitconnected.com/5-lessons-that-golang-teaches-to-all-programmers-71b332504cf2
+- 4.详解Go context.Context - https://pauldigian.hashnode.dev/golang-and-context-an-explanation
+- 5.Go项目迁移：从 GOPATH 到 go mod - https://mp.weixin.qq.com/s/yk6iXZo_1jfG2LaCerXYXw
+- 6.《分布式系统模式》中文版来了 - https://mp.weixin.qq.com/s/sVMoIcQC9sLC9G7yHP41TQ
+- 7.Go播客：使用Go进行黑客活动 - https://changelog.com/gotime/205
+- 8.无框架编写go web应用教程 - https://github.com/thewhitetulip/web-dev-golang-anti-textbook
+- 9.2021年GoLand IDE插件排行榜11强 - https://www.tabnine.com/blog/top-11-goland-ide-plugins-for-2022/
+- 10.也许是时候停止推荐《clean code》了 - https://qntm.org/clean
+
  gocn_news-2021-11-14
 # go-news-set-2021-11-14
 ## gocn_news-2021-11-14
