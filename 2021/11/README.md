@@ -1,3 +1,29 @@
+ gocn_news-2021-11-15
+# go-news-set-2021-11-15
+## gocn_news-2021-11-15
+- 1.使用 golang gopacket 实现进程级流量监控 https://mp.weixin.qq.com/s/qEAG4G-wa40iAeUq9NyzaA
+
+- 2.Go 1.18 支持 amd64 作为架构目标 https://utcc.utoronto.ca/~cks/space/blog/programming/GoAmd64ArchitectureLevels
+
+- 3.NS 上使用 Go 开发游戏 https://docs.google.com/presentation/d/e/2PACX-1vTMRSmuWjhpOx3DIgetfi72jcOGvlqPU5z0Nps24YN6dxaBbu4dWm0FXS2f--D4G2b1aAvTmfqNA2IG/pub
+
+- 4.如何维护 Go 项目 https://huseyinbabal.com/2021/11/14/maintainable-go-projects/
+
+- 5.Go 实现 k-d 树 https://github.com/downflux/go-kd
+
+
+ gopherDaily-2021-11-15
+# go-news-set-2021-11-15
+## gopherDaily-2021-11-15
+- 1.用Go为任天堂Switch开发游戏 - 阅读原文
+- 2.自下而上学习容器：掌握容器基础知识的高效学习途径 - 阅读原文
+- 3.万字长文带你全面认识 Kubernetes 中如何实现蓝绿部署、金丝雀发布和滚动更新 - 阅读原文
+- 4.面向数据的架构 - 阅读原文
+- 5.在Go中测试shell命令 - 阅读原文
+- 6.在静态生成的网站上使用Cloudflare worker的OAuth - 阅读原文
+- 7.Go中的服务器发送事件 - 阅读原文
+- 8.用Semgrep发现goroutine的泄漏 - 阅读原文
+
  go语言中文网(每日资讯)-2021-11-15
 # go-news-set-2021-11-15
 ## go语言中文网(每日资讯)-2021-11-15
