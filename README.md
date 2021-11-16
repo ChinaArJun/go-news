@@ -1,3 +1,43 @@
+ go语言中文网(每日资讯)-2021-11-16
+# go-news-set-2021-11-16
+## go语言中文网(每日资讯)-2021-11-16
+
+
+一、Go语言中文网
+
+1. [mutex 出问题怎么办？强大的 goroutine 诊断工具](https://mp.weixin.qq.com/s/JadUu7odckhNfcXDULoXVA)
+
+2. [在 Go 中对依赖图进行排序](https://mp.weixin.qq.com/s/W3I3j1-Ln2geUNa8q0JfUw)
+
+3. [gRPC服务的响应设计](https://mp.weixin.qq.com/s/iN1mnp0tdEjwpbEzRy3ApA)
+
+二、亚军进化史
+
+1. [Go技术日报(2021-11-15)——开源监控系统 Prometheus 最佳实践](https://mp.weixin.qq.com/s/bY3HN7zBQRXfcsYeTXIbNQ)
+
+三、码农桃花源
+
+1. [神奇的 Go init 函数](https://mp.weixin.qq.com/s/gwYzZWYLFVa6vWwWfSoLog)
+
+四、脑子进煎鱼了
+
+1. [命中率极高的 Go 面试题，赶紧收藏！](https://mp.weixin.qq.com/s/7rCsaGy8B2lwbZ4duEC7Nw)
+
+五、polarisxu
+
+1. [劲爆！Java 版 goroutine 要来了，戏称 joroutine](https://mp.weixin.qq.com/s/U-MDXkd-F7gz43cOG-4qgg)
+
+六、网管叨bi叨
+
+1. [国外的老师是怎么教Golang的？](https://mp.weixin.qq.com/s/EMEdwtJkgKU3LTthnajQJw)
+
+七、Go招聘
+
+1. [网络安全领军企业-中台核心部门招聘Gopher](https://mp.weixin.qq.com/s/LSzZl3ThnI5mw_5kK9bsig)
+
+八、微服务实践
+
+1. [一文讲透自适应熔断的原理和实现](https://mp.weixin.qq.com/s/DDtFvFuJ1DMTBW-ViD7XTw)
  gocn_news-2021-11-15
 # go-news-set-2021-11-15
 ## gocn_news-2021-11-15
