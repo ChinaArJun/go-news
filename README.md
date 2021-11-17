@@ -1,3 +1,16 @@
+ gocn_news-2021-11-17
+# go-news-set-2021-11-17
+## gocn_news-2021-11-17
+- 1.一篇文章讲清 Go 的内存布局和分配原理 https://mp.weixin.qq.com/s/gCDxWzslfPXayJ_RFQVb7g
+
+- 2.全面认识 Kubernetes 中如何实现蓝绿部署、金丝雀发布和滚动更新 https://mp.weixin.qq.com/s/6Ko9tqSoyLYElw0TmF5zOw
+
+- 3.Go Ballast 让内存控制更加丝滑 https://www.cnblogs.com/457220157-FTD/p/15567442.html 
+- 4.mutex 诊断 https://mp.weixin.qq.com/s/JadUu7odckhNfcXDULoXVA
+
+- 5.许式伟：Go+ 1.0 发布 https://juejin.cn/post/7031463181226606606
+
+
  go语言中文网(每日资讯)-2021-11-16
 # go-news-set-2021-11-16
 ## go语言中文网(每日资讯)-2021-11-16
