@@ -1,3 +1,31 @@
+ gocn_news-2021-11-18
+# go-news-set-2021-11-18
+## gocn_news-2021-11-18
+- 1.「GoCN 酷 Go 推荐」Gofakeit 数据生成工具 https://mp.weixin.qq.com/s/D9k2x4qht0sZ0JWdgMRWUw
+
+- 2.Stackoverflow 中文 Go 语言话题高票问答-Top8 https://jerryan.medium.com/8-highest-voted-golang-questions-and-answers-on-stackoverflow-9478e99bab4e
+
+- 3.使用 Go 爬取网站 https://www.scrapingbee.com/blog/web-scraping-go/
+
+- 4.Go iota 原理和源码剖析 https://www.cnblogs.com/wanghao72214/p/15566617.html
+
+- 5.Golang JSON 库调研 https://medium.com/geekculture/my-golang-json-evaluation-20a9ca6ef79c
+
+
+ gopherDaily-2021-11-17
+# go-news-set-2021-11-17
+## gopherDaily-2021-11-17
+- 1.Go五种原子操作用法详解 - 阅读原文
+- 2.怎样选择编程语言 - 阅读原文
+- 3.gRPC的错误处理实践 - 阅读原文
+- 4.经典设计模式的Go实现 - 阅读原文
+- 5.文档化gRPC API - 工具比较 - 阅读原文
+- 6.在Go中如何实现优雅退出 - 阅读原文
+- 7.数据结构和算法（Golang实现）- 阅读原文
+- 8.Docker安全最佳实践和速查表 - 阅读原文
+- 9.计算机科学理论何时变得如此困难？ - 阅读原文
+- 10.在Twitter实时处理数十亿的事件 - 阅读原文
+
  gocn_news-2021-11-17
 # go-news-set-2021-11-17
 ## gocn_news-2021-11-17
