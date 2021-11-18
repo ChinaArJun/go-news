@@ -1,3 +1,69 @@
+ go语言中文网(每日资讯)-2021-11-18
+# go-news-set-2021-11-18
+## go语言中文网(每日资讯)-2021-11-18
+
+
+一、Go语言中文网
+
+1. [Go 中为什么建议使用 NewXxx 这样的构造函数](https://mp.weixin.qq.com/s/3VkcIg7NhCCiIwVRjuwR0A)
+
+2. [如何保留 Go 程序崩溃现场](https://mp.weixin.qq.com/s/lHk2L8p8ClmXXuf4zS0qLQ)
+
+二、GoSpring实战
+
+1. [使用 Go-Spring 进行 Web 开发的 N 种范式](https://mp.weixin.qq.com/s/a8DTx2l7GD5naDjf8-j-Yg)
+
+三、亚军进化史
+
+1. [Go技术日报(2021-11-16/17)——gRPC的错误处理实践](https://mp.weixin.qq.com/s/vRnDUBxLjjbHQvcJ49nJ-g)
+
+四、polarisxu
+
+1. [Go泛型系列：Go1.18 类型约束那些事](https://mp.weixin.qq.com/s/FFxNpRVgs-v9cIKWCLeN4Q)
+
+2. [在 Go 中对依赖图进行排序](https://mp.weixin.qq.com/s/UoS5-LiwWxD9O0rdHzGKQA)
+
+五、腾讯技术工程
+
+1. [Linux I/O 那些事儿](https://mp.weixin.qq.com/s/diKfeu1-Lr4ZA5Ky_66TZg)
+
+六、腾讯技术
+
+1. [“怎么又出bug了？”](https://mp.weixin.qq.com/s/njLQbkXeFCD4FAI5PYpNsw)
+
+七、网管叨bi叨
+
+1. [一篇文章讲清Go的内存布局和分配原理](https://mp.weixin.qq.com/s/gCDxWzslfPXayJ_RFQVb7g)
+
+八、码农桃花源
+
+1. [学会这几招让 Go 程序自己监控自己](https://mp.weixin.qq.com/s/c0cV2IFJlLTO0Vg_DkGL1Q)
+
+九、幽鬼
+
+1. [使用 Go 内置模板构建丰富的 CLI 应用程序](https://mp.weixin.qq.com/s/-QKkvFVDJ9xqocBOduAVmw)
+
+十、Go招聘
+
+1. [用手写一个工具的过程讲清楚Go反射的使用方法和应用场景](https://mp.weixin.qq.com/s/Pwg8QK1FqSMsNSA4SahPTQ)
+
+十一、HHFCodeRv
+
+1. [性能优化 | Go Ballast 让内存控制更加丝滑](https://mp.weixin.qq.com/s/gc34RYqmzeMndEJ1-7sOwg)
+ gopherDaily-2021-11-18
+# go-news-set-2021-11-18
+## gopherDaily-2021-11-18
+- 1.Go官方放出泛型slices包：golang.org/x/exp/slices - 阅读原文
+- 2.Go SOLID实战：接口分离原则 - 阅读原文
+- 3.用Go进行网络数据爬取 - 阅读原文
+- 4.Go编程思维和工程实战 - 阅读原文
+- 5.Gofakeit 数据生成工具 - 阅读原文
+- 6.一文讲透自适应熔断的原理和实现 - 阅读原文
+- 7.2021年顶级开源的Kubernetes安全工具 - 阅读原文
+- 8.基于Go的BotenaGo恶意软件针对物联网设备的几十个漏洞进行攻击 - 阅读原文
+- 9.pREST: 低代码，简化和加速开发即时，实时，高性能的任何Postgres应用程序 - 阅读原文
+- 10.我喜欢的编程语言以及我为什么喜欢它们 - 阅读原文
+
  gocn_news-2021-11-18
 # go-news-set-2021-11-18
 ## gocn_news-2021-11-18
