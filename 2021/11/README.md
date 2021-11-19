@@ -1,3 +1,17 @@
+ gocn_news-2021-11-19
+# go-news-set-2021-11-19
+## gocn_news-2021-11-19
+- 1.整明白 Golang struct 实例化和赋值 https://segmentfault.com/a/1190000040986113
+
+- 2.Go 语言必须支持多返回值函数，你知道为什么吗？https://blog.csdn.net/nokiaguy/article/details/121410109
+
+- 3.Go 的 WASM 运行时 https://ggaaooppeenngg.github.io/zh-CN/2021/10/26/Go%!!(MISSING)E(MISSING)7%!!(MISSING)A(MISSING)%!!(MISSING)W(MISSING)ASM%!!(MISSING)E(MISSING)8%!!(MISSING)B(MISSING)F%!E(MISSING)8%!!(MISSING)A(MISSING)1%!!(MISSING)C(MISSING)%!!(MISSING)E(MISSING)6%!B(MISSING)6
+
+- 4.不要在 Go HTTP 服务器上犯这个错误 https://ryanc118.medium.com/dont-make-this-mistake-with-go-http-servers-bd313baee41
+
+- 5.什么是 SRE？与 DevOps 相比，到底谁才是真正的王者！ https://mp.weixin.qq.com/s/dzo9LgIRJI3bfY3Ty8D7rQ
+
+
  go语言中文网(每日资讯)-2021-11-18
 # go-news-set-2021-11-18
 ## go语言中文网(每日资讯)-2021-11-18
