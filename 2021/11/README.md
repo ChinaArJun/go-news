@@ -1,3 +1,30 @@
+ gocn_news-2021-11-21
+# go-news-set-2021-11-21
+## gocn_news-2021-11-21
+- 1.
+https://blog.kennycoder.io/2021/09/06/Golang-%!!(MISSING)E(MISSING)5%!!(MISSING)B(MISSING)8%!!(MISSING)B(MISSING)8%!!(MISSING)E(MISSING)8%!!(MISSING)A(MISSING)6%!!(MISSING)B(MISSING)%!!(MISSING)E(MISSING)7%!!(MISSING)A(MISSING)%!!(MISSING)-(MISSING)option-%!!(MISSING)E(MISSING)8%!!(MISSING)A(MISSING)8%!!(MISSING)A(MISSING)D%!!(MISSING)E(MISSING)8%!!(MISSING)A(MISSING)8%!E(MISSING)6%!!(MISSING)E(MISSING)%!!(MISSING)A(MISSING)2%!!(MISSING)E(MISSING)8%!!(MISSING)A(MISSING)8%!!(MISSING)E(MISSING)/   Golang 中常见的 option 设计探讨
+- 2.
+https://mp.weixin.qq.com/s/UHKfYNC7c-A40nA4HQQneg   Go1.18 快讯：废弃了这个 API
+- 3.
+https://mp.weixin.qq.com/s/c3NYmCTf8LbakL5ZS1Fv-g TCP 粘包
+- 4.
+https://mp.weixin.qq.com/s/YI0DSTeXeVxAZcTRM2NNEw Go BalLast
+- 5.
+https://mp.weixin.qq.com/s/_a5kd6bBMEToCPZNR7D4Pw Go 语言类型可比性
+
+ gopherDaily-2021-11-19
+# go-news-set-2021-11-19
+## gopherDaily-2021-11-19
+- 1.Istio 1.12 发布 - 阅读原文
+- 2.Go 1.18将允许你设置”AMD64”架构的目标版本 - 阅读原文
+- 3.Go语言的高性能模式 - 阅读原文
+- 4.Go 1.18 泛型的一些技巧和困扰 - 阅读原文
+- 5.meshery: Go实现的服务网格控制平面 - 阅读原文
+- 6.为带有子命令的CLI编写zsh完成功能 - 阅读原文
+- 7.做负载测试时如何少写三倍的Go代码行数 - 阅读原文
+- 8.全文搜索引擎技术原理入门 - 阅读原文
+- 9.一篇搞懂容器技术的基石： cgroup - 阅读原文
+
  gocn_news-2021-11-19
 # go-news-set-2021-11-19
 ## gocn_news-2021-11-19
