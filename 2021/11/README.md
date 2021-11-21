@@ -1,3 +1,39 @@
+ go语言中文网(每日资讯)-2021-11-21
+# go-news-set-2021-11-21
+## go语言中文网(每日资讯)-2021-11-21
+
+
+一、Go语言中文网
+
+1. [Go1.18 快讯：废弃了这个 API](https://mp.weixin.qq.com/s/UHKfYNC7c-A40nA4HQQneg)
+
+2. [Go语言爱好者周刊：第 120 期 — 送 Go 图书](https://mp.weixin.qq.com/s/lH8vfCl3Ov0aKzbMXqX_tQ)
+
+3. [使用 Sourcegraph 进行多仓库批量变更](https://mp.weixin.qq.com/s/kJEU9ex6FaVZX_Rm1FaQlw)
+
+二、码农桃花源
+
+1. [一文搞懂一致性hash的原理和实现](https://mp.weixin.qq.com/s/5vSqkgzgnaxVSJuMwyeYNw)
+
+三、分布式实验室
+
+1. [万字长文带你入门Istio](https://mp.weixin.qq.com/s/8zTEaqHwPckYdTvRfmxnMw)
+
+四、脑子进煎鱼了
+
+1. [劲爆！Java 版 goroutine 要来了，戏称 joroutine](https://mp.weixin.qq.com/s/9_FC_MtEe9zbnns3jwN8GA)
+
+五、Golang技术分享
+
+1. [Go 程序是怎样跑起来的](https://mp.weixin.qq.com/s/5vMG67SgRuhwrtJAu0iaDQ)
+
+六、云影原生
+
+1. [Go的profile label能解决什么问题？](https://mp.weixin.qq.com/s/oApnsFSbrr-fG2LvSR_hHA)
+
+七、菜鸟Miao
+
+1. [如何在docker中缓存加速Rust依赖构建](https://mp.weixin.qq.com/s/Sh2-92U4fKS4PUMFCZyMug)
  gocn_news-2021-11-21
 # go-news-set-2021-11-21
 ## gocn_news-2021-11-21
