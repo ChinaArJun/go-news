@@ -1,3 +1,43 @@
+ go语言中文网(每日资讯)-2021-11-23
+# go-news-set-2021-11-23
+## go语言中文网(每日资讯)-2021-11-23
+
+
+一、Go语言中文网
+
+1. [Go1.18 快讯：新增的 Cut 函数太方便了](https://mp.weixin.qq.com/s/pZld4h2-9vLo6au355uZUw)
+
+2. [一文了解 etcd watch 实现](https://mp.weixin.qq.com/s/zrv-rI45Ix06PJyMWOu0hA)
+
+二、亚军进化史
+
+1. [Go技术日报(2021-11-22)——Go error 处理最佳实践](https://mp.weixin.qq.com/s/sL7MfuqCKgyj51VAcHjJCA)
+
+三、码农桃花源
+
+1. [一行代码搞定 GitHub 访问徽章](https://mp.weixin.qq.com/s/Ixjs-ux1Wk9OmE_rpWMXoA)
+
+四、Go夜读
+
+1. [golang.org 已经成为历史](https://mp.weixin.qq.com/s/lWIZlVoWjYtiSY27vFPrbg)
+
+五、Golang梦工厂
+
+1. [如何保留 Go 程序崩溃现场](https://mp.weixin.qq.com/s/lmLb8kShvhtdgBsPz3DHzQ)
+
+六、脑子进煎鱼了
+
+1. [Go 流水线编程模式](https://mp.weixin.qq.com/s/2HbtRwqQSvtczBTMF3bM0w)
+
+七、网管叨bi叨
+
+1. [几个提升Go业务开发效率的流行框架和开源库](https://mp.weixin.qq.com/s/6G_wUY1nxJp9vwBKQ8_-pA)
+
+2. [localhost 就一定是 localhost 么?](https://mp.weixin.qq.com/s/x0798dbodAxdyUIGYfEBjA)
+
+八、Go招聘
+
+1. [Go语言如何操纵Kafka保证无消息丢失](https://mp.weixin.qq.com/s/r6bIYkyGPt5kXEZHWgLrFw)
  gocn_news-2021-11-23
 # go-news-set-2021-11-23
 ## gocn_news-2021-11-23
