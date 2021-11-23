@@ -1,3 +1,31 @@
+ gocn_news-2021-11-23
+# go-news-set-2021-11-23
+## gocn_news-2021-11-23
+- 1.微服务治理之如何优雅应对突发流量洪峰 https://gocn.vip/topics/17498
+
+- 2.【Golang】基于 beego/orm 实现相同表结构不同表名的分表方法实现  https://www.cnblogs.com/voipman/p/15589974.html#at
+
+- 3.Golang 中 defer Close() 的潜在风险 https://juejin.cn/post/7033373573473370143
+
+- 4.Go 错误处理 https://juejin.cn/post/7033314733369327652
+
+- 5.k8s CNI 之 aws vpc-cni 插件源码解析 https://juejin.cn/post/7033412051879854088
+
+
+ gopherDaily-2021-11-23
+# go-news-set-2021-11-23
+## gopherDaily-2021-11-23
+- 1.play.golang.org迁移到go.dev/play - 阅读原文
+- 2.死锁：并发的黑暗面 - 阅读原文
+- 3.groot：用Go读取ROOT数据，比ROOT更快 - 阅读原文
+- 4.Go的滑动窗口计数器Redis限速实现 - 阅读原文
+- 5.与Docker兼容的containerd CLI，支持Compose, Rootless, eStargz, OCIcrypt, IPFS等 - 阅读原文
+- 6.在Kubernetes上的Elastic Cloud（ECK）上部署Elasticsearch的详细指南 - 阅读原文
+- 7.Go SOLID实战：依赖反转原则 - 阅读原文
+- 8.使用Go和PostgreSQL编写一个应用程序 - 阅读原文
+- 9.无需 Dockerfile 的镜像构建：BuildPack vs Dockerfile - 阅读原文
+- 10.使用Open Policy Agent和GitHub action的自动管理文件验证 - 阅读原文
+
  go语言中文网(每日资讯)-2021-11-22
 # go-news-set-2021-11-22
 ## go语言中文网(每日资讯)-2021-11-22
