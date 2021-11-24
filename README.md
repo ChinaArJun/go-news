@@ -1,3 +1,17 @@
+ gocn_news-2021-11-24
+# go-news-set-2021-11-24
+## gocn_news-2021-11-24
+- 1.「GoCN 酷 Go 推荐」​chromedp 一期 —— 截图小工具 https://mp.weixin.qq.com/s/pxbR9iK5I6-NJZbSHf9Ecg
+
+- 2.死锁：并发的阴暗面 https://www.craig-wood.com/nick/articles/deadlocks-in-go
+
+- 3.万字长文：Go error 处理最佳实践 https://mp.weixin.qq.com/s/XdRe_yOiFGI8NiR9eWLEoQ
+
+- 4.使用 Go 和 PostgreSQL 编写应用程序 https://henvic.dev/posts/go-postgres
+
+- 5.Go 新语法挺丑？最新的泛型类型约束介绍 https://mp.weixin.qq.com/s/A1JYIbPmjIpCOg2TAzdcnA
+
+
  go语言中文网(每日资讯)-2021-11-23
 # go-news-set-2021-11-23
 ## go语言中文网(每日资讯)-2021-11-23
