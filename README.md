@@ -1,3 +1,46 @@
+ gocn_news-2021-11-27
+# go-news-set-2021-11-27
+## gocn_news-2021-11-27
+- 1. 带着问题读 TiDB 源码：Hive 元数据使用 TiDB 启动报错  https://gocn.vip/topics/17519
+
+- 2. env 环境变量获取库（开源推荐）https://gocn.vip/topics/17520
+
+- 3. 在 Go1.18 中实现一个简单的 Result 类型 https://mp.weixin.qq.com/s/MAKcuI6M8xcbP3bSkkimoQ
+
+- 4. Gio 实战：煮蛋计时器的实现 05 — 重构 https://mp.weixin.qq.com/s/LbtmlYzmW9wKw6m2VyLwXA
+
+- 5. Golang 日志美化输出-ketty  https://studygolang.com/articles/35349#reply0
+
+
+ gopherDaily-2021-11-27
+# go-news-set-2021-11-27
+## gopherDaily-2021-11-27
+- 1.使用Go实现zip文件的解压缩 - 阅读原文
+- 2.基于属性的Go测试 - 阅读原文
+- 3.通过io.Writer将JPEG转换为JFIF - 阅读原文
+- 4.使用Docker Compose构建一键启动的运行环境 - 阅读原文
+- 5.石墨文档 Websocket 百万长连接技术实践 - 阅读原文
+- 6.Go设计模式–基于对kubernetes源码的案例研究 - 阅读原文
+- 7.evans: 更具表现力的通用gRPC客户端 - 阅读原文
+- 8.tally: uber开源的高性能、支持缓存的分层的统计信息收集接口 - 阅读原文
+- 9.Go atomic包解析 - 阅读原文
+- 10.通过使用FluentBit收集审计日志，检测Kubernetes API服务器上的恶意行为 - 阅读原文
+- 11.用Containerd在IPFS上进行P2P容器镜像分发 - 阅读原文
+
+ gopherDaily-2021-11-26
+# go-news-set-2021-11-26
+## gopherDaily-2021-11-26
+- 1.Go官方放出泛型maps包：golang.org/x/exp/maps - 阅读原文
+- 2.Go不需要Java风格的GC - 阅读原文
+- 3.Go官网golang.org正式重定向到go.dev - 阅读原文
+- 4.懂得Go 1.17新特性：轻松获得5%!!(MISSING)的(MISSING)性能提升 - 阅读原文
+- 5.都 2021 年了，对于服务网格，社区到底在讨论什么 - 阅读原文
+- 6.在业务系统中寻求技术含量 - 阅读原文
+- 7.Kubernetes中的Go设计模式 - 阅读原文
+- 8.通过基于寄存器的调用加快Go应用运行速度 - 阅读原文
+- 9.面向容器和 Serverless Computing 的存储创新 - 阅读原文
+- 10.雷军做程序员时写的博客，大家学习一下 - 阅读原文
+
  gocn_news-2021-11-26
 # go-news-set-2021-11-26
 ## gocn_news-2021-11-26
