@@ -1,3 +1,17 @@
+ gocn_news-2021-11-28
+# go-news-set-2021-11-28
+## gocn_news-2021-11-28
+- 1.石墨文档 Websocket 百万长连接技术实践 https://mp.weixin.qq.com/s/MUourpb0IqqFo5XlxRLE0w
+
+- 2.ants：在 Submit 中再调用当前 Pool 的 Submit 可能导致阻塞 https://mp.weixin.qq.com/s/-My5QKNefWsh_sA-Sl63KA
+
+- 3.我们是如何在项目中抛弃 ORM 的 https://alanilling.com/exiting-the-vietnam-of-programming-our-journey-in-dropping-the-orm-in-golang-3ce7dff24a0f
+
+- 4.缓存预热：利用 EBS 移动 PB 级数据 https://netflixtechblog.medium.com/cache-warming-leveraging-ebs-for-moving-petabytes-of-data-adcf7a4a78c3
+
+- 5.Lake：开源的 DevOps 面板 https://github.com/merico-dev/lake
+
+
  gocn_news-2021-11-27
 # go-news-set-2021-11-27
 ## gocn_news-2021-11-27
