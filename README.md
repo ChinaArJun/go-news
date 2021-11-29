@@ -1,3 +1,17 @@
+ gocn_news-2021-11-29
+# go-news-set-2021-11-29
+## gocn_news-2021-11-29
+- 1.JetBrains 下一代 IDE fleet 支持 Go https://www.jetbrains.com/fleet/
+
+- 2.Go 操作 k8s 对象 https://itnext.io/generically-working-with-kubernetes-resources-in-go-53bce678f887
+
+- 3.GopherCon UK 2021 技术大会视频全集
+
+- 4.Golang 程序启动过程 https://juejin.cn/post/7035633561805783070
+
+- 5.我给 ” Go 语言 “ 开发了 6 个在线工具 https://segmentfault.com/a/1190000041034693
+
+
  gocn_news-2021-11-28
 # go-news-set-2021-11-28
 ## gocn_news-2021-11-28
