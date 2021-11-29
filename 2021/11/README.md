@@ -1,3 +1,63 @@
+ go语言中文网(每日资讯)-2021-11-29
+# go-news-set-2021-11-29
+## go语言中文网(每日资讯)-2021-11-29
+
+
+一、Go语言中文网
+
+1. [Go泛型系列：Go1.18 类型约束那些事](https://mp.weixin.qq.com/s/jBk4pJAM7NNdolVRVzsBLg)
+
+2. [Go：微服务治理之自适应降载](https://mp.weixin.qq.com/s/OEK-FizDhcl5BsM507N-Xg)
+
+二、亚军进化史
+
+1. [Go技术日报(2021-11-24——28)——雷军做程序员时写的博客](https://mp.weixin.qq.com/s/PLMZHCv77orv694P4SXZcA)
+
+三、Go招聘
+
+1. [《clean architecture》第一部分笔记](https://mp.weixin.qq.com/s/3kLamSuTdlZZ31VQTc5tsg)
+
+四、polarisxu
+
+1. [Go编程模式：详解函数式选项模式](https://mp.weixin.qq.com/s/B-HZu1oZGseaOuNUznjJFA)
+
+2. [通过 100 行代码入门 Go](https://mp.weixin.qq.com/s/N5zn08gcWx-dFEq9jyZTRQ)
+
+五、Gopher指北
+
+1. [一些常用的代码规范总结](https://mp.weixin.qq.com/s/nuLhPa_wm2uwyXARj7YLMQ)
+
+六、TechPaper
+
+1. [2020 年我学到了什么](https://mp.weixin.qq.com/s/C4Gc_sXgY1oMcRDXB54aWA)
+
+七、腾讯技术工程
+
+1. [提速 30%!!(MISSING)！(MISSING)腾讯TQUIC 网络传输协议](https://mp.weixin.qq.com/s/Sf8JsZKeZYxT9WBZrh_etg)
+
+八、幽鬼
+
+1. [在 Go 中使用 dockertest 进行集成测试](https://mp.weixin.qq.com/s/-nytxEAtHn9mDCq2IhmEoQ)
+
+九、微服务实践
+
+1. [一文讲透一致性哈希的原理和实现](https://mp.weixin.qq.com/s/V8nOmxWchnK97aJLEeT6WA)
+
+十、脑子进煎鱼了
+
+1. [Rust 内讧，PHP 主力淡出？Go：好好放假](https://mp.weixin.qq.com/s/v9MQSvJtRiIA666mVmJEbA)
+
+十一、网管叨bi叨
+
+1. [由一条编译报错信息，引出两个Go编译的重要知识](https://mp.weixin.qq.com/s/gmaHeG655zmkUmBr4U2Gsg)
+
+十二、Golang技术分享
+
+1. [Go 真的有枚举吗？](https://mp.weixin.qq.com/s/cvjWL1nRgqzLwQyXjcTVRA)
+
+十三、奇伢云存储
+
+1. [云原生 etcd 系列｜深入剖析数据多版本 MVCC 机制](https://mp.weixin.qq.com/s/bDOHa7-OU6hFsIvhP3WKDQ)
  gocn_news-2021-11-29
 # go-news-set-2021-11-29
 ## gocn_news-2021-11-29
@@ -11,6 +71,21 @@
 
 - 5.我给 ” Go 语言 “ 开发了 6 个在线工具 https://segmentfault.com/a/1190000041034693
 
+
+ gopherDaily-2021-11-29
+# go-news-set-2021-11-29
+## gopherDaily-2021-11-29
+- 1.CasaOS: 一个Go实现的简单、易用、优雅的开源家庭云系统 - 阅读原文
+- 2.Go flag包：奇怪但很好？ - 阅读原文
+- 3.GopherCon HK 2021技术大会视频全集 - 阅读原文
+4.《程序员的大脑》摘要 - 阅读原文
+- 4.在Go中对Kubernetes对象进行的通用处理 - 阅读原文
+- 5.Go中的channel和死锁 - 阅读原文
+- 6.jetbrains的下一代IDE:fleet支持Go - 阅读原文
+- 7.改变我的软件工程师生涯的五本书 - 阅读原文
+- 8.一文讲透一致性哈希的原理和实现 - 阅读原文
+- 9.边缘上的容器化 - 阅读原文
+- 10.在Go中使用领域驱动设计（DDD）- 阅读原文
 
  gocn_news-2021-11-28
 # go-news-set-2021-11-28
