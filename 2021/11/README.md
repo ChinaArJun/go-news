@@ -1,3 +1,17 @@
+ gocn_news-2021-11-30
+# go-news-set-2021-11-30
+## gocn_news-2021-11-30
+- 1.一文讲透一致性哈希的原理和实现 https://gocn.vip/topics/17526
+
+- 2.如何有效控制 Go 线程数？ https://mp.weixin.qq.com/s/LV0I2Aq6jLj2io52AFgzXw
+
+- 3.使用 Prometheus 实现应用监控的一些实践 https://mp.weixin.qq.com/s/VLaJZ3rFcejwiIkbD8oHBg
+
+- 4.会动的图解 (二) 怎么让 goroutine 跑一半就退出？ https://mp.weixin.qq.com/s/KBDXzcPLXFovnuY6WSIdoA
+
+- 5.我给 ” Go 语言 “ 开发了 6 个在线工具 https://zhuanlan.zhihu.com/p/438165485
+
+
  go语言中文网(每日资讯)-2021-11-29
 # go-news-set-2021-11-29
 ## go语言中文网(每日资讯)-2021-11-29
