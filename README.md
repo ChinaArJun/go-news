@@ -1,3 +1,56 @@
+ go语言中文网(每日资讯)-2021-11-30
+# go-news-set-2021-11-30
+## go语言中文网(每日资讯)-2021-11-30
+
+
+一、Go语言中文网
+
+1. [Go：用 kqueue 实现一个简单的 TCP Server](https://mp.weixin.qq.com/s/LbaWZCZzlHsxcpc8FHrKGQ)
+
+2. [浅析gowatch监听文件变动实现原理](https://mp.weixin.qq.com/s/f3q5ryWvLonOKMOZEJnXNQ)
+
+二、码农桃花源
+
+1. [如何有效控制 Go 线程数？](https://mp.weixin.qq.com/s/LV0I2Aq6jLj2io52AFgzXw)
+
+三、k8s技术圈
+
+1. [ensp 模拟 calico 跨网段 bgp 网络](https://mp.weixin.qq.com/s/qEPQBr5VfSCeQ9pTZOhQTQ)
+
+四、Go招聘
+
+1. [如何组织 Go 代码？Go 作者的回答惊呆了](https://mp.weixin.qq.com/s/BywgNH-2ueWEpLPHoQT7hA)
+
+五、网管叨bi叨
+
+1. [透过一个编译报错，总结两个Go程序编译的重要知识](https://mp.weixin.qq.com/s/XFOsQnxAu97qvFbznGpOWA)
+
+六、CloudNativeCommunity
+
+1. [Chaos Mesh + SkyWalking，打造可观测的混沌工程](https://mp.weixin.qq.com/s/MO6uXlZlxGOuA2EYjfW_AQ)
+
+七、MoeLove
+
+1. [理清 Kubernetes 中的准入控制（Admission Controller）](https://mp.weixin.qq.com/s/lPmPiEAHwis5Sxa5BS3fYQ)
+
+八、Golang技术分享
+
+1. [Go 存储基础 | 怎么使用 direct io ？](https://mp.weixin.qq.com/s/GVBRAT7YdQwdLDygCtVagw)
+ gopherDaily-2021-11-30
+# go-news-set-2021-11-30
+## gopherDaily-2021-11-30
+- 1.Go逆向工程入门 - 阅读原文
+- 2.惊了！原来Go语言也有隐式转型 - 阅读原文
+- 3.为什么Go不再需要Java风格的GC(中文版) - 阅读原文
+- 4.GoLab 2021大会视频全集 - 阅读原文
+- 5.GO–遵循领域驱动的设计方法 - 阅读原文
+- 6.Go语言之路 -  阅读原文
+- 7.负载测试普罗米修斯的度量摄取 - 阅读原文
+- 8.如何从零设计一款高并发架构 - 阅读原文
+- 9.Web3不是去中心化–它是让加密货币兄弟掌权的伎俩 - 阅读原文
+- 10.缓存预热：利用EBS来移动PB级的数据 - 阅读原文
+- 11.不要让互联网欺骗了你，Event Sourcing是很难的 - 阅读原文
+
  gocn_news-2021-11-30
 # go-news-set-2021-11-30
 ## gocn_news-2021-11-30
