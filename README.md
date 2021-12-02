@@ -1,3 +1,13 @@
+ gocn_news-2021-12-02
+# go-news-set-2021-12-02
+## gocn_news-2021-12-02
+- 1.如何在 Go 中使用 MongoDB https://medium.com/yemeksepeti-teknoloji/how-to-use-go-with-mongodb-72963c8cebbc 
+- 2.Go1.16 后的优雅退出 https://rudderstack.medium.com/implementing-graceful-shutdown-in-go-bc33fae31d75 
+- 3.看透 Go 对象内部细节的神器 https://mp.weixin.qq.com/s/TUrT58ry1AF6KWLGFnYLww 
+- 4.Grafana 8.0 告警使用 https://mp.weixin.qq.com/s/1aJOqhGOXaOas2lPUcP2-g
+
+- 5.neko: 基于 docker 的内嵌虚拟浏览器 https://github.com/m1k1o/neko 
+
  go语言中文网(每日资讯)-2021-12-01
 # go-news-set-2021-12-01
 ## go语言中文网(每日资讯)-2021-12-01
