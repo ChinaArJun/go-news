@@ -1,3 +1,84 @@
+ go语言中文网(每日资讯)-2021-12-06
+# go-news-set-2021-12-06
+## go语言中文网(每日资讯)-2021-12-06
+
+
+一、Go语言中文网
+
+1. [如何在 Go 中组织项目结构](https://mp.weixin.qq.com/s/W11VL3t29EB3Javd3_7q8w)
+
+2. [Go源码分析：grpc context](https://mp.weixin.qq.com/s/HrZxfnerelWEIvrb3-y6Tw)
+
+二、新亮笔记
+
+1. [Go - 如何编写 ProtoBuf 插件 (一) ？](https://mp.weixin.qq.com/s/yeqeMNsD0W1aOzK7RZcSIw)
+
+三、TonyBai
+
+1. [惊了！原来Go语言也有隐式转型](https://mp.weixin.qq.com/s/NCM-RrzxYiAUlAAYshdAaQ)
+
+四、Golang梦工厂
+
+1. [推荐几个可以写到简历上的Go方向优质开源项目（需花点心思研究）](https://mp.weixin.qq.com/s/SJaWPrMB5g9MZte4qtV6Nw)
+
+五、云原生技术爱好者社区
+
+1. [Kubernetes v1.23即将发布，有哪些重磅更新？](https://mp.weixin.qq.com/s/d1t3DAJ1-EIhY02JKFaIzA)
+
+六、腾讯云原生
+
+1. [虚拟节点轻松应对 LOL S11 百万并发流量——腾竞体育的弹性容器实践](https://mp.weixin.qq.com/s/ioJIyp1DdEpchQgEjvBMrg)
+
+七、polarisxu
+
+1. [GoLand 2021.3 正式发布，有哪些新功能？](https://mp.weixin.qq.com/s/R6k2omMDTt-hiNLPgjL4OQ)
+
+八、Go招聘
+
+1. [武汉伴伴招聘Gopher，这待遇香嘛？](https://mp.weixin.qq.com/s/Q-KrZlhCJb1QiE_aaFA74g)
+
+九、微服务实践
+
+1. [详解布隆过滤器原理与实现](https://mp.weixin.qq.com/s/5zHQbDs978OoA3g83NaVmw)
+
+十、Golang技术分享
+
+1. [看完这期图解，别再搞不清切片拷贝了](https://mp.weixin.qq.com/s/u74E8QbLRPl6YAL7PxjwSQ)
+
+十一、奇伢云存储
+
+1. [云原生 etcd 系列｜Quorum 和唱票那回事](https://mp.weixin.qq.com/s/44Fd8zygjQrH1DsEOMqK7w)
+
+十二、luozhiyun很酷
+
+1. [8.深入TiDB：解析Hash Join实现原理](https://mp.weixin.qq.com/s/f-9xchuuTfLNiXdik3wXZQ)
+ gopherDaily-2021-12-04
+# go-news-set-2021-12-04
+## gopherDaily-2021-12-04
+- 1.Zinc: Go实现的轻量级的ElasticSearch的替代品，需要更少的资源 - 阅读原文
+- 2.Go Context使用教程 - 阅读原文
+- 3.goose: Go实现的数据库迁移工具 - 阅读原文
+- 4.Go应用中的模式 - 阅读原文
+- 5.Go 1.17.4和1.16.11版本发布! - 阅读原文
+- 6.漏桶限流库：uber-go/ratelimit  - 阅读原文
+- 7.再见Docker桌面，你好Minikube! - 阅读原文
+- 8.破解kubernetes节点代理（又称kube-proxy）- 阅读原文
+- 9.用SIMD指令快速处理CSV(C语言版) - 阅读原文
+
+ gopherDaily-2021-12-02
+# go-news-set-2021-12-02
+## gopherDaily-2021-12-02
+- 1.使用Go自动生成C4架构图 - 阅读原文
+- 2.使用NATS构建微服务 - 阅读原文
+- 3.Kubernetes API服务访问安全加固 -  阅读原文
+- 4.Go Devroom@FOSDEM 2021视频全集 - 阅读原文
+- 5.链路追踪（Tracing）的前世今生（上） - 阅读原文
+- 6.Knative如何释放无服务器的力量 - 阅读原文
+- 7.与Kubernetes的containerd运行时交互 - 阅读原文
+- 8.播客：如何用Go编写一个解析器 - 阅读原文
+- 9.hedgedhttp：可减少长尾延迟的http client端 - 阅读原文
+- 10.Paper Digest：利用AI为每篇论文生成摘要，将paper阅读时间缩短为 3 分钟 - 阅读原文
+
  gocn_news-2021-12-02
 # go-news-set-2021-12-02
 ## gocn_news-2021-12-02
