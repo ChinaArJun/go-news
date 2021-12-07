@@ -1,3 +1,57 @@
+ go语言中文网(每日资讯)-2021-12-07
+# go-news-set-2021-12-07
+## go语言中文网(每日资讯)-2021-12-07
+
+
+一、Go语言中文网
+
+1. [Go playground 再增强](https://mp.weixin.qq.com/s/jOUMbeg6mjjiUdqx97dQFA)
+
+2. [Go：详解布隆过滤器原理与实现](https://mp.weixin.qq.com/s/zfZgUO6KePgbYfXqAaPBGw)
+
+二、亚军进化史
+
+1. [Go技术日报(2021-12-02/03)——GoLand 2021.3 正式发布，有哪些新功能？](https://mp.weixin.qq.com/s/M7EzntlhcXlZDpPvg7_rZw)
+
+2. [Go技术日报(2021-12-12-04—06) ——详解布隆过滤器原理与实现](https://mp.weixin.qq.com/s/gZIF9rBPhJpeLuR4NubYlg)
+
+三、爱因诗贤
+
+1. [Golang如何自举 - 6g的编译过程（三）(视频)](https://mp.weixin.qq.com/s/oP-aKoCrsw3mI3FDxP02Lg)
+
+四、polarisxu
+
+1. [Go Gio 实战：煮蛋计时器的实现 06 — 带边距的按钮](https://mp.weixin.qq.com/s/NUp9EVo3gy0q1UNv9rkWEg)
+
+五、腾讯技术工程
+
+1. [梳理正则表达式发展史](https://mp.weixin.qq.com/s/hYYDRHgjBs0TVTQty9pSBw)
+
+六、腾讯云原生
+
+1. [游戏案例｜Service Mesh 在欢乐游戏的应用演变和实践](https://mp.weixin.qq.com/s/82jZ4wIvERogBjRaQqsfvw)
+
+七、幽鬼
+
+1. [Go Gio 实战：煮蛋计时器的实现 06 — 带边距的按钮](https://mp.weixin.qq.com/s/Huau-z9G4NaHPy2ACLdQag)
+
+八、脑子进煎鱼了
+
+1. [Go 新关键字 any，interface 会成历史吗？](https://mp.weixin.qq.com/s/jIWXBixuPCh1uxNTXGY0YA)
+
+2. [看透 Go 对象内部细节的神器](https://mp.weixin.qq.com/s/mHRTuBRhmbb1Oc89LXDHmw)
+
+九、网管叨bi叨
+
+1. [写 Go 时如何优雅地查文档](https://mp.weixin.qq.com/s/Zh1mlLwZuXkoHuWRrSdy4g)
+
+十、码农桃花源
+
+1. [飞哥：程序员完全没时间提升自己该怎么办?](https://mp.weixin.qq.com/s/03t7fgIBKIHI9thADNBeSQ)
+
+十一、Go招聘
+
+1. [GoLand 2021.3 正式发布，有哪些新功能？](https://mp.weixin.qq.com/s/8lHwRp1E3OoObqsdrJe17g)
  gocn_news-2021-12-07
 # go-news-set-2021-12-07
 ## gocn_news-2021-12-07
