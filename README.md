@@ -1,3 +1,65 @@
+ go语言中文网(每日资讯)-2021-12-08
+# go-news-set-2021-12-08
+## go语言中文网(每日资讯)-2021-12-08
+
+
+一、Go语言中文网
+
+1. [Go编程模式：详解函数式选项模式](https://mp.weixin.qq.com/s/PkOYRAoJyemMe5LGb-_eQA)
+
+2. [Rust 不能做的事情，用什么替代？](https://mp.weixin.qq.com/s/XBoLvqMpdpat7lJQt2DZDA)
+
+二、亚军进化史
+
+1. [Go技术日报(2021-12-07)——Go 源码分析：grpc context](https://mp.weixin.qq.com/s/ainfeO5HeRpdJDZuQw5uIA)
+
+三、脑子进煎鱼了
+
+1. [透过一个编译报错，总结两个 Go 程序编译的重要知识](https://mp.weixin.qq.com/s/u0gfKNNjNmhq4UJy2Hl9Cw)
+
+四、Golang技术分享
+
+1. [Go 大杀器之跟踪剖析 trace](https://mp.weixin.qq.com/s/OY-w05uJIgjov9qGmJ-Wwg)
+
+五、网管叨bi叨
+
+1. [长挺丑，Go 最新的泛型类型约束语法介绍](https://mp.weixin.qq.com/s/Y-6kCx9KcYuWGcpWwA4fYA)
+
+六、新亮笔记
+
+1. [关于复杂度的碎碎念](https://mp.weixin.qq.com/s/CZeHNc8aJF2ysf25I5fPkw)
+
+七、云加社区
+
+1. [Go Modules基础精进，六大核心概念全解析（上）](https://mp.weixin.qq.com/s/AFoSGJkk0fMd2eWb0R0nTg)
+
+八、行云创新
+
+1. [API标准化对Dapr的重要性](https://mp.weixin.qq.com/s/d1TaY_eR2_b0Nbty204cjw)
+
+九、aoho求索
+
+1. [自己动手实现 Go 的服务注册与发现（中）](https://mp.weixin.qq.com/s/0G3OkAlbqd6mhtZFDYWvMQ)
+
+十、码农桃花源
+
+1. [用 Go 解析复杂 JSON 的思路](https://mp.weixin.qq.com/s/Fmv57xYj57j1h7LAMynuZg)
+
+十一、MoeLove
+
+1. [K8S 生态周报| Kubernetes v1.23.0 正式发布，新特性一览](https://mp.weixin.qq.com/s/lIbsDXo29ANfVbjtdJez2g)
+
+十二、幽鬼
+
+1. [Go：通过 io.Writer 将 JPEG 转为 JFIF](https://mp.weixin.qq.com/s/8l5jWf8kJkoIOD_RR296fw)
+
+十三、Golang梦工厂
+
+1. [动手实现一个localcache - 设计篇](https://mp.weixin.qq.com/s/ZtSA3J8HK4QarhrJwBQtXw)
+
+、Go招聘
+
+1. [推荐一个强大的Go库-rk-boot](https://mp.weixin.qq.com/s/2v-4Z3Ew4DRq17SWGas63A)
  go语言中文网(每日资讯)-2021-12-07
 # go-news-set-2021-12-07
 ## go语言中文网(每日资讯)-2021-12-07
@@ -52,6 +114,20 @@
 十一、Go招聘
 
 1. [GoLand 2021.3 正式发布，有哪些新功能？](https://mp.weixin.qq.com/s/8lHwRp1E3OoObqsdrJe17g)
+ gopherDaily-2021-12-07
+# go-news-set-2021-12-07
+## gopherDaily-2021-12-07
+- 1.如何使用Go泛型 - 阅读原文
+- 2.在下一个项目不使用Go的10个“理由” - 阅读原文
+- 3.用于Go持续集成的GitHub action工作流程 - 阅读原文
+- 4.如何在Terraform中开发一个自定义provider - 阅读原文
+- 5.为什么 Web3 与区块链有关 - 阅读原文
+- 6.开始尝试Go范型版本的map和slice - 阅读原文
+- 7.网易云音乐 DBA 谈 TiDB 选型：效率的选择 - 阅读原文
+- 8.通过对Zoekt的内存优化，内存使用量减少5倍 - 阅读原文
+- 9.机器学习的解释 - 阅读原文
+- 10.Karpenter：开源的、高性能的Kubernetes集群Autoscaler - 阅读原文
+
  gocn_news-2021-12-07
 # go-news-set-2021-12-07
 ## gocn_news-2021-12-07
