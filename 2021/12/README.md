@@ -1,3 +1,17 @@
+ gocn_news-2021-12-09
+# go-news-set-2021-12-09
+## gocn_news-2021-12-09
+- 1.Hugo v0.90.0 发布 https://github.com/gohugoio/hugo/releases/tag/v0.90.0
+
+- 2.Docker 容器中使用 GPU https://segmentfault.com/a/1190000041090167
+
+- 3.我好像发现了一个 Go 的 Bug？https://www.cnblogs.com/zhuochongdashi/p/15660936.html
+
+- 4.Go modules 基础精进，六大核心概念全解析（上）https://segmentfault.com/a/1190000041087597
+
+- 5.全面解锁 Kubernetes？百度爱番番技术实践全揭秘！ https://segmentfault.com/a/1190000041089200
+
+
  go语言中文网(每日资讯)-2021-12-08
 # go-news-set-2021-12-08
 ## go语言中文网(每日资讯)-2021-12-08
