@@ -1,3 +1,71 @@
+ go语言中文网(每日资讯)-2021-12-09
+# go-news-set-2021-12-09
+## go语言中文网(每日资讯)-2021-12-09
+
+
+一、Go语言中文网
+
+1. [学学 Go1.18 新 IP 包的设计思路](https://mp.weixin.qq.com/s/VxJvLRTt3zoGRTzAhZTUsQ)
+
+2. [Go Gio 实战：煮蛋计时器的实现 06 — 带边距的按钮](https://mp.weixin.qq.com/s/VcE6u1qD5dgJcvk26Ws2YA)
+
+二、幽鬼
+
+1. [Kubernetes 1.23 发布：探索新边界](https://mp.weixin.qq.com/s/Kp2tJ-LrtrGRB4q4XwPxhQ)
+
+三、腾讯技术工程
+
+1. [微信支付团队精益研发实践总结](https://mp.weixin.qq.com/s/rISdGd-BNiQVd6WWfcyOig)
+
+四、云加社区
+
+1. [Go Modules基础精进，六大核心概念全解析（下）](https://mp.weixin.qq.com/s/CUZ4uYvT9oKlP9FfvIBwRg)
+
+五、Kubernetes生态圈
+
+1. [Kubernetes 如何实现蓝绿部署、金丝雀发布和滚动更新？](https://mp.weixin.qq.com/s/H4-GBqZJwtI-7dfAfP2zYA)
+
+六、Golang技术分享
+
+1. [惊了！goroutine 跑一半就被踢了？](https://mp.weixin.qq.com/s/wb8clXGAjJOzbbdNjq0HvQ)
+
+七、Golang梦工厂
+
+1. [Go error 处理最佳实践](https://mp.weixin.qq.com/s/-kNu1kZKfgFIyWcMG2em4Q)
+
+八、RememberGo
+
+1. [那些用Go实现的分布式事务框架](https://mp.weixin.qq.com/s/VnpFLfyrnNczhvK2p3gA_w)
+
+九、脑子进煎鱼了
+
+1. [Go 为什么不支持类和继承？](https://mp.weixin.qq.com/s/-AHYgGy-BkcLPc3p6yzkHQ)
+
+十、董泽润的技术笔记
+
+1. [聊聊为什么 IDL 只能扩展字段而非修改](https://mp.weixin.qq.com/s/6Y40fr2qGvOxl8xX5HBCjg)
+
+十一、Go招聘
+
+1. [王者荣耀团队高级Gopher虚位以待，非你莫属](https://mp.weixin.qq.com/s/-HNUsUpcUh3_hiT7gXqPgQ)
+
+十二、Go生态
+
+1. [程序员史诗级必读日志篇：第一部分-什么是日志](https://mp.weixin.qq.com/s/iqlQ0Au_uvP2yu5NsRzALg)
+ gopherDaily-2021-12-09
+# go-news-set-2021-12-09
+## gopherDaily-2021-12-09
+- 1.使用systemd实现Go应用的零停机时间重启和部署 - 阅读原文
+- 2.Go vs Node.js：哪个是2022 Web开发的更好选择 - 阅读原文
+- 3.带你重走TiDB TPS提升1000倍的性能优化之旅-阅读原文
+- 4.Hack Go编译器：为Go增加一个新的关键字 - 阅读原文
+- 5.GopherCon 2021开幕：Robert Griesemer & Ian Lance Taylor为大家讲解Go泛型 - 阅读原文
+- 6.在Golang中介绍序列化的roaring bitmap - 阅读原文
+- 7.每个开发者都应该知道的5个Go模块/包 - 阅读原文
+- 8.如何在gRPC中使用Consul作为主机解析器 - 阅读原文
+- 9.用不到125行的C语言编写一个简单的16位虚拟机 - 阅读原文
+- 10.苹果公司开源产品官网 - 阅读原文
+
  gocn_news-2021-12-09
 # go-news-set-2021-12-09
 ## gocn_news-2021-12-09
