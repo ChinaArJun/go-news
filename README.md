@@ -1,3 +1,34 @@
+ gocn_news-2021-12-10
+# go-news-set-2021-12-10
+## gocn_news-2021-12-10
+- 1.  bob 一个从天上掉下来的构建工具  https://github.com/benchkram/bob
+
+- 2.  hackgo 编译器让 go 添加一个新的关键字   https://avi.im/blag/2021/rc-day-24/
+
+- 3.  一个” 自由 “解析 xml 而不是预定义 struct 的工具  https://github.com/xrfang/fxml
+
+- 4.  一个真开源的 mongodb 的替代者 https://github.com/FerretDB/FerretDB
+
+- 5.  go1.17.5 和 go16.12 发布 安全更新 https://mp.weixin.qq.com/s/gguSdYRkrGH0yD9MwDX4Ew
+
+
+编辑: 阿章
+订阅新闻: http://tinyletter.com/gocn
+
+招聘专区: https://gocn.vip/jobs
+
+GOCN 归档  https://gocn.vip/topics/20836
+
+
+
+- 6.编辑: 阿章
+- 7.订阅新闻: http://tinyletter.com/gocn
+
+- 8.招聘专区: https://gocn.vip/jobs
+
+- 9.GOCN 归档  https://gocn.vip/topics/20836
+
+
  go语言中文网(每日资讯)-2021-12-09
 # go-news-set-2021-12-09
 ## go语言中文网(每日资讯)-2021-12-09
