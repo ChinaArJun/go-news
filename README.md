@@ -1,3 +1,17 @@
+ gocn_news-2021-12-11
+# go-news-set-2021-12-11
+## gocn_news-2021-12-11
+- 1.快速搭建私有云服务 go-btfs https://gocn.vip/topics/20839
+
+- 2.基于寄存器调用的软件加速 https://gocn.vip/topics/20835
+
+- 3.详解布隆过滤器的原理和实现 https://gocn.vip/topics/20832
+
+- 4.动手实现一个 localcache https://mp.weixin.qq.com/s/ZtSA3J8HK4QarhrJwBQtXw
+
+- 5.Go：不用标准库如何解压 zip 文件？ https://mp.weixin.qq.com/s/gfUfYfK79f8qOKMNl-l8og
+
+
  gocn_news-2021-12-10
 # go-news-set-2021-12-10
 ## gocn_news-2021-12-10
