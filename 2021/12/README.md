@@ -1,3 +1,17 @@
+ gocn_news-2021-12-12
+# go-news-set-2021-12-12
+## gocn_news-2021-12-12
+- 1.GopherCon 2021 视频 https://space.bilibili.com/756684/channel/seriesdetail?sid=586416
+
+- 2.告别 Sidecar-使用 eBPF 解锁内核级服务网格 https://mp.weixin.qq.com/s/W9NySdKnxuQ6S917QQn3PA
+
+- 3.我为 ent gRPC 插件贡献功能学到的 https://entgo.io/blog/2021/12/09/contributing-my-first-feature-to-ent-grpc-plugin/
+
+- 4.高性能结构日志库 https://github.com/phuslu/log
+
+- 5.Phalanx: 基于 Bluge 的云原生全文搜索服务 https://github.com/mosuka/phalanx
+
+
  go语言中文网(每日资讯)-2021-12-12
 # go-news-set-2021-12-12
 ## go语言中文网(每日资讯)-2021-12-12
