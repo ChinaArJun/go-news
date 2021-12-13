@@ -1,3 +1,17 @@
+ gocn_news-2021-12-13
+# go-news-set-2021-12-13
+## gocn_news-2021-12-13
+- 1.尝鲜 Go 1.18 范型版本的 map 和 slice！ https://juejin.cn/post/7040800455349239822
+
+- 2.Go 实现可序列化的 Roaring Bitmaps https://dgraph.io/blog/post/serialized-roaring-bitmaps-golang/
+
+- 3.Go 使用 Github Actions 做 CI https://www.alexedwards.net/blog/ci-with-go-and-github-actions
+
+- 4.Go 服务无中断重启 https://bunrouter.uptrace.dev/guide/go-zero-downtime-restarts.html#systemd-socket
+
+- 5.使用 go 实现一个超级 mini 的消息队列 https://juejin.cn/post/7041085344481017887
+
+
  gocn_news-2021-12-12
 # go-news-set-2021-12-12
 ## gocn_news-2021-12-12
