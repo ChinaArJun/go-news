@@ -1,3 +1,57 @@
+ go语言中文网(每日资讯)-2021-12-13
+# go-news-set-2021-12-13
+## go语言中文网(每日资讯)-2021-12-13
+
+
+一、Go语言中文网
+
+1. [Go：maps 包能干嘛？](https://mp.weixin.qq.com/s/R5vUpMDo04ygOxOrbxfDOQ)
+
+2. [Go - 关于 protoc 工具的小疑惑](https://mp.weixin.qq.com/s/m_CoHXInJQUevQp9aq6F4A)
+
+二、亚军进化史
+
+1. [Go技术日报(2021-12-11/12)——go1.17.5 和 go16.12 发布 安全更新](https://mp.weixin.qq.com/s/-jZpZGqzftccVZHmjG4-nw)
+
+三、k8s技术圈
+
+1. [如何使用 Kubernetes 监测定位慢调用](https://mp.weixin.qq.com/s/mOdn5eE0QtLfHuotpgacwg)
+
+四、云影原生
+
+1. [kubernetes 指南 -- 弹性伸缩](https://mp.weixin.qq.com/s/bsItzu69ENQ0GsKPM59WuQ)
+
+五、Go招聘
+
+1. [《clean architecture》第二部分编程范式读书笔记](https://mp.weixin.qq.com/s/2QmWMjWk19oeKzyhT92--w)
+
+六、CloudNativeCommunity
+
+1. [直播回放|云原生应用可观测性实践](https://mp.weixin.qq.com/s/yXg6P-iXpWNVNsCqpH3fBw)
+
+七、打码匠
+
+1. [BigCache针对Go垃圾回收的设计优化](https://mp.weixin.qq.com/s/URiURNrXHUYP1v2Q50i7Bg)
+
+八、polarisxu
+
+1. [终于有 Go 版的 Elasticsearch 了](https://mp.weixin.qq.com/s/oJG0XB2UcLpCBu3FCxzMPw)
+
+九、网管叨bi叨
+
+1. [这个认证申请下来Goland IDEA 等全系产品免费使用 ｜ 附申请说明](https://mp.weixin.qq.com/s/N3ZeH0rdh6JzMxpeDP-_7g)
+
+十、Golang梦工厂
+
+1. [垃圾回收、三色标记原理，终于能跟面试官扯皮了！](https://mp.weixin.qq.com/s/wat7PjQbey-w1fa4Jvmkug)
+
+十一、脑子进煎鱼了
+
+1. [Go 泛型玩出花，详解新提案 switch type！](https://mp.weixin.qq.com/s/H4IZOyLbWeQ7UxzuFBts4w)
+
+十二、微服务实践
+
+1. [用 Go + Redis 实现分布式锁](https://mp.weixin.qq.com/s/k_dX2HF8hTf6XseeeXYivg)
  gocn_news-2021-12-13
 # go-news-set-2021-12-13
 ## gocn_news-2021-12-13
