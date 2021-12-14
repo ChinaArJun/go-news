@@ -12,6 +12,58 @@
 - 5.Go 并不需要 Java 风格的 GC https://robberphex.com/go-does-not-need-a-java-style-gc/
 
 
+ go语言中文网(每日资讯)-2021-12-14
+# go-news-set-2021-12-14
+## go语言中文网(每日资讯)-2021-12-14
+
+
+一、Go语言中文网
+
+1. [实战：如何使用 Go 从 HTML 生成 PDF 报告](https://mp.weixin.qq.com/s/fqk9Oe_8jkj8QUkQj5AefQ)
+
+2. [Go 执行脚本命令源码分析](https://mp.weixin.qq.com/s/4YP9cvavSfgmhdaxM-9e7A)
+
+3. [终于解决了这个线上偶现的panic问题](https://mp.weixin.qq.com/s/cmOrlOo4t0JuK1-cY5HEkg)
+
+二、亚军进化史
+
+1. [Go技术日报(2021-12-13)——BigCache针对Go垃圾回收的设计优化](https://mp.weixin.qq.com/s/6us6YKP-61bG87cwF7J1dA)
+
+三、Golang梦工厂
+
+1. [源码里的这些 //go: 指令，你知道是什么吗？](https://mp.weixin.qq.com/s/KK_rWHqTTy4zzqG96RKbsQ)
+
+四、小白debug
+
+1. [Go 中如何强制关闭 TCP 连接](https://mp.weixin.qq.com/s/plPjVPGZVPQGZQQuHz90jA)
+
+五、轩脉刃的刀光剑影
+
+1. [使用plantuml，业务交接就是这么简单](https://mp.weixin.qq.com/s/Q_gNkPYXuuOOZrEpR05h8g)
+
+六、脑子进煎鱼了
+
+1. [Go 语言类型可比性](https://mp.weixin.qq.com/s/_AYOAtNhPGZy4ttfsDDw8w)
+
+七、MoeLove
+
+1. [彻底搞懂容器技术的基石：namespace（下）](https://mp.weixin.qq.com/s/o5nZZzOTNXOFjv2aaIZ6OA)
+
+八、Go招聘
+
+1. [看透 Go 对象内部细节的神器](https://mp.weixin.qq.com/s/ry8NC3xBYp0FaV1ytCadAw)
+
+九、Golang技术分享
+
+1. [一个 Go 新关键字？](https://mp.weixin.qq.com/s/B-ndR7Bu6RHWjwvB1Xt6Xg)
+
+十、董泽润的技术笔记
+
+1. [Gopher 需要知道的几个结构体骚操作](https://mp.weixin.qq.com/s/Lq0X-7cC-q23oF4eFU1B3w)
+
+十一、TechPaper
+
+1. [是什么影响了我的接口延迟](https://mp.weixin.qq.com/s/k69-rs64XSkOFOpvUwq9sw)
  gopherDaily-2021-12-14
 # go-news-set-2021-12-14
 ## gopherDaily-2021-12-14
