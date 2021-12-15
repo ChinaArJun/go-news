@@ -1,3 +1,17 @@
+ gocn_news-2021-12-15
+# go-news-set-2021-12-15
+## gocn_news-2021-12-15
+- 1.Go 1.18beta1 https://go.dev/blog/go1.18beta1
+
+- 2.Go 中易于使用的 Raft 库，使您的应用程序具有分布式、高可用性和容错性 https://github.com/ksrichard/easyraft
+
+- 3.Go 实现的开源的、不可变的数据库 immudb  https://github.com/codenotary/immudb/tree/v1.2.1
+
+- 4.Rust vs Go：你应该知道的 8 大核心差异 https://www.javaassignmenthelp.com/blog/rust-vs-go/
+
+- 5.Go 快速指南：go1.18 特性 https://gocn.vip/topics/20849
+
+
  gocn_news-2021-12-14
 # go-news-set-2021-12-14
 ## gocn_news-2021-12-14
