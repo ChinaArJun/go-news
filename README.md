@@ -1,3 +1,68 @@
+ go语言中文网(每日资讯)-2021-12-15
+# go-news-set-2021-12-15
+## go语言中文网(每日资讯)-2021-12-15
+
+
+一、Go语言中文网
+
+1. [『Go网址导航』：学习Go，从这里开始](https://mp.weixin.qq.com/s/4BDDDPPX8z49_BE3N_w2aA)
+
+2. [从 JavaScript 到 Go 语言的排序算法](https://mp.weixin.qq.com/s/B6XxminkSJqCXZWC-Cm4uQ)
+
+二、亚军进化史
+
+1. [Go技术日报(2021-12-14)——是什么影响了我的接口延迟](https://mp.weixin.qq.com/s/5gEq5CHDXtq5b3Prx59h1g)
+
+三、k8s技术圈
+
+1. [Ingress API 的增强属性](https://mp.weixin.qq.com/s/Zqmto0fQ28w9xYqRqxxtCA)
+
+四、奇伢云存储
+
+1. [Go 细节篇｜结构体标签的姿势剖析](https://mp.weixin.qq.com/s/FjUXX561pEftD6aCj4qJYQ)
+
+五、脑子进煎鱼了
+
+1. [Go 为什么不支持可重入锁？](https://mp.weixin.qq.com/s/pQBsAxnaBXkk7G1cdUgsww)
+
+六、网管叨bi叨
+
+1. [万字长文剖析清楚 Go 语言 defer 原理](https://mp.weixin.qq.com/s/yM5iX-5VRELAqb0qy4c8Yg)
+
+七、董泽润的技术笔记
+
+1. [Go语言如何实现可重入锁？](https://mp.weixin.qq.com/s/LFkPlsLVj24OWZKvanUNVA)
+
+八、Golang技术分享
+
+1. [简洁的 Go 多版本管理机制](https://mp.weixin.qq.com/s/GQMWsbx5j3ubdpULzsLheg)
+
+九、爱因诗贤
+
+1. [golang源码函数调用栈&amp;defer分析 (视频)](https://mp.weixin.qq.com/s/mLJ-3SdsV6cHfl--g9dPjQ)
+
+十、腾讯云原生
+
+1. [KubeCon 2021｜使用 eBPF 代替 iptables 优化服务网格数据面性能](https://mp.weixin.qq.com/s/U6-wcBsBC-Khffb7kTBtjA)
+
+十一、Go招聘
+
+1. [【快报】Go 1.18 Beta 1发布啦，带有泛型](https://mp.weixin.qq.com/s/fPQ75vVzY4s00IFORt9rBw)
+ gopherDaily-2021-12-15
+# go-news-set-2021-12-15
+## gopherDaily-2021-12-15
+- 1.Go 1.18 Beta1版本发布，支持泛型 - 阅读原文
+- 2.使用Go从头开始建立一个神经网络：只用Go的标准库 - 阅读原文
+- 3.用Go对Kubernetes资源进行单元测试 - 阅读原文
+- 4.2021年GopherCon大会上的Go Time播客“Gopher说”视频回放 - 阅读原文
+- 5.完整教程：使用Prometheus、Grafana、Loki和Komodor搭建监控和故障排除技术栈 - 阅读原文
+- 6.Go channel使用模式：等待结果 - 阅读原文
+- 7.如何基于BFE做灰度发布 - 阅读原文
+- 8.让容器跑得更快：CPU Burst 技术实践 - 阅读原文
+- 9.当敲入kubectl run执行后，k8s集群发生了啥 - 阅读原文
+- 10.2022年PyTorch与TensorFlow的比较 - 阅读原文
+- 11.HTTP/3性能优异 - 阅读原文
+
  gocn_news-2021-12-15
 # go-news-set-2021-12-15
 ## gocn_news-2021-12-15
