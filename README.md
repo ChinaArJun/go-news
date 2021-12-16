@@ -1,3 +1,67 @@
+ go语言中文网(每日资讯)-2021-12-16
+# go-news-set-2021-12-16
+## go语言中文网(每日资讯)-2021-12-16
+
+
+一、Go语言中文网
+
+1. [Go1.18 Beta1 发布：泛型版真的来了](https://mp.weixin.qq.com/s/GCLkDySAbVzl0cpPYTMkyQ)
+
+2. [用 Go + Redis 实现分布式锁](https://mp.weixin.qq.com/s/ESljL5Hoo962aId0REa3VQ)
+
+二、亚军进化史
+
+1. [Go技术日报(2021-12-15)——简洁的 Go 多版本管理机制](https://mp.weixin.qq.com/s/1cddsUMU02EoqLv-rCNJyQ)
+
+三、幽鬼
+
+1. [为什么你需要更小巧的容器？](https://mp.weixin.qq.com/s/3qfuygLophrpKSm4VuEj0g)
+
+四、脑子进煎鱼了
+
+1. [浅析 AES 和 RSA 加密算法的区别和适用场景](https://mp.weixin.qq.com/s/d_1mQIMW7jAzWh35N4OT2g)
+
+五、网管叨bi叨
+
+1. [Go 到底算不算一门面向对象的编程语言](https://mp.weixin.qq.com/s/8hUAcIPNtTYV-2hZwGbWqw)
+
+六、Golang技术分享
+
+1. [必备的一些 Goland 实操技巧](https://mp.weixin.qq.com/s/1oktZcktxXo-8iAV-8TmWQ)
+
+七、小白debug
+
+1. [《漫谈 MQ》设计 MQ 的 3 个难点](https://mp.weixin.qq.com/s/1-IbsUXLyG7oxOEZCYgbMQ)
+
+八、爱因诗贤
+
+1. [go defer底层原理分析](https://mp.weixin.qq.com/s/63aH6Xn75J76KWUm0-Dw5w)
+
+九、polarisxu
+
+1. [推荐一款互联网大厂最近流行使用的API接口管理神器](https://mp.weixin.qq.com/s/BUlneh0KZRvFwh0hILsHjA)
+
+十、五分选手
+
+1. [不甘当学渣，努力作学霸，最终是学民](https://mp.weixin.qq.com/s/lZzX_1pLeied7e4jkvcVJQ)
+
+十一、Go招聘
+
+1. [golang面试题：怎么避免内存逃逸？](https://mp.weixin.qq.com/s/8oBmKycG-6L-44QYjgLZlw)
+ gopherDaily-2021-12-16
+# go-news-set-2021-12-16
+## gopherDaily-2021-12-16
+- 1.为什么Go程序不能像C程序那样快速运行？ - 阅读原文
+- 2.切换到Go 1.18后的第一件事：将interface{}全部替换为any - 阅读原文
+- 3.为什么编译器函数内联很重要 - 阅读原文
+- 4.什么时候使用Go泛型 - 阅读原文
+- 5.深入剖析全链路灰度技术内幕 - 阅读原文
+- 6.Kubernetes 1.23：双栈IPv4/IPv6、CronJobs、Ephemeral卷 - 阅读原文
+- 7.不要从微服务开始：单体是你的朋友 - 阅读原文
+- 8.Kubernetes API访问安全加固 - 阅读原文
+- 9.2021年最佳代码审查工具调查结果 - 阅读原文
+- 10.顶层日志记录 -  阅读原文
+
  gocn_news-2021-12-16
 # go-news-set-2021-12-16
 ## gocn_news-2021-12-16
