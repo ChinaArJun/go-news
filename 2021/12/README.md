@@ -1,3 +1,15 @@
+ gocn_news-2021-12-16
+# go-news-set-2021-12-16
+## gocn_news-2021-12-16
+- 1.Go1.18 泛型初体验 https://gocn.vip/topics/20855
+
+- 2.Ingress API 的增强属性 https://github.com/ksrichard/easyraft 
+- 3.使用 eBPF 代替 iptables 优化服务网格数据面性能 https://mp.weixin.qq.com/s/r7Yomt1u_EWrngAEPiBJiA 
+- 4.Go Modules 的前世今生与基本使用 https://mp.weixin.qq.com/s/mTQbKcNFXu7Fqcr5SDX2qA
+
+- 5.万字长文剖析清楚 Go 语言 defer 原理 https://mp.weixin.qq.com/s/yM5iX-5VRELAqb0qy4c8Yg
+
+
  go语言中文网(每日资讯)-2021-12-15
 # go-news-set-2021-12-15
 ## go语言中文网(每日资讯)-2021-12-15
