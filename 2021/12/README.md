@@ -1,3 +1,31 @@
+ gocn_news-2021-12-18
+# go-news-set-2021-12-18
+## gocn_news-2021-12-18
+- 1.
+https://mp.weixin.qq.com/s/V0krCjWrndzz71cVOPBxdg   Golang 并发编程指南
+- 2.
+https://xargin.com/why-queueing-theory/             是什么影响了我的接口延迟
+- 3.
+https://medium.com/a-journey-with-go/go-how-does-a-program-recover-fbbbf27cc31e   Go Recover
+- 4.
+https://mp.weixin.qq.com/s/J9Zwa1BLVTk9UM3rzhPqHg   Go 日志库 zerolog 大解剖
+- 5.
+https://medium.com/a-journey-with-go/go-timers-life-cycle-403f3580093a   Go Timers’ Life Cycle
+
+ gopherDaily-2021-12-17
+# go-news-set-2021-12-17
+## gopherDaily-2021-12-17
+- 1.Go播客：向Go核心团队提问 - 阅读原文
+- 2.Gopher部落：简单复盘这一年 - 阅读原文
+- 3.构建微服务架构应选择的头部技术和语言 - 阅读原文
+- 4.在Go中模拟HTTP调用的一个更好的方法 - 阅读原文
+- 5.试用Go中的泛型 - 阅读原文
+- 6.Go语言中三个点(…)的含义解析 - 阅读原文
+- 7.快速搭建私有云服务 go-btfs - 阅读原文
+- 8.支持泛型的singleflight - 阅读原文
+- 9.GraphQL客户端以及代码生成器 - 阅读原文
+- 10.Go channel模式：pooling - 阅读原文
+
  gocn_news-2021-12-17
 # go-news-set-2021-12-17
 ## gocn_news-2021-12-17
