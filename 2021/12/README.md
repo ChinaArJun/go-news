@@ -1,3 +1,33 @@
+ gocn_news-2021-12-19
+# go-news-set-2021-12-19
+## gocn_news-2021-12-19
+- 1.Go 官方出品泛型教程：如何开始使用泛型 https://gocn.vip/topics/20885
+
+- 2.有了 sync 为什么还有 atomic？https://mp.weixin.qq.com/s/YIIQODPJmZRrrX4hvGEwXg
+
+- 3.Golang 并发编程指南 https://mp.weixin.qq.com/s/V0krCjWrndzz71cVOPBxdg
+
+- 4.LeetCode 第 272 场周赛题解 (Golang) https://juejin.cn/post/7043284637547757582
+
+- 5.Golang 问题排查指南 https://juejin.cn/post/7041469280298205198
+
+
+ gopherDaily-2021-12-18
+# go-news-set-2021-12-18
+## gopherDaily-2021-12-18
+- 1.gRPC-go: HTTP/2流中的字节是如何写入的？ - 阅读原文
+- 2.Go和InfluxDB入门 - 阅读原文
+- 3.Go 1.18特性快速了解 - 阅读原文
+- 4.用Azure 函数和Go实现Azure自动化 - 阅读原文
+- 5.为什么我写了自己的Go HTTP客户端 - 阅读原文
+- 6.扫描Go的依赖关系以查找漏洞 - 阅读原文
+- 7.开源电子邮件服务器的监控和自动化 - 阅读原文
+- 8.OpenFaaS - 以自己的方式运行容器化函数 - 阅读原文
+- 9.2022年的云原生趋势：对AuthZ和OPA的需求将增长 - 阅读原文
+- 10.Postgres是一个伟大的pub/sub & job服务器 - 阅读原文
+- 11.Web3背后究竟是谁 - 阅读原文
+- 12.在Go中使用函数作为值的3种不同方式 - 阅读原文
+
  gocn_news-2021-12-18
 # go-news-set-2021-12-18
 ## gocn_news-2021-12-18
