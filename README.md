@@ -1,3 +1,74 @@
+ go语言中文网(每日资讯)-2021-12-20
+# go-news-set-2021-12-20
+## go语言中文网(每日资讯)-2021-12-20
+
+
+一、Go语言中文网
+
+1. [GoLand 2022.1 路线图：全面支持泛型](https://mp.weixin.qq.com/s/WqoU_cfdFudO0B37ntnBdg)
+
+2. [Go：不用标准库如何解压 zip 文件？](https://mp.weixin.qq.com/s/LWkfiX_m6WCd-8fNKRwH-Q)
+
+二、脑子进煎鱼了
+
+1. [Go 面试官：for select 时，如果通道已经关闭会怎么样？如果 select 中只有一个 case呢？](https://mp.weixin.qq.com/s/59qdNpqOzMXWY_jUOddNow)
+
+三、小白debug
+
+1. [Go 为什么不支持类和继承？](https://mp.weixin.qq.com/s/F0GHzqpq8sBYn7tmnP74Bw)
+
+四、微客鸟窝
+
+1. [一文搞懂Go语言标准库，fmt](https://mp.weixin.qq.com/s/rPvOEYf2Oyp55VXVeeiHRQ)
+
+五、网管叨bi叨
+
+1. [好棒，测试妹子都能看懂的Jenkins Docker安装教程](https://mp.weixin.qq.com/s/qzNT4vJ6QJ1LJ9M29u1QSw)
+
+六、polarisxu
+
+1. [2022 年 11 大 GoLand 插件](https://mp.weixin.qq.com/s/xojP-HJvQ2VPPK_IR7HO-Q)
+
+七、幽鬼
+
+1. [盘点那些提高生产力的 VS Code 插件](https://mp.weixin.qq.com/s/_A6tR2rYf97Y8leakf3nOA)
+
+八、Go招聘
+
+1. [得到App来招聘Gopher啦，内推、入职奖励超丰厚](https://mp.weixin.qq.com/s/bvwfpnFazGoYMMruAOZShA)
+
+九、Golang梦工厂
+
+1. [动手实现一个localcache - 欣赏优秀的开源设计](https://mp.weixin.qq.com/s/KfxfRqTrFvt9K5dEVU94yw)
+
+十、捉虫大师
+
+1. [Sentinel-Go 源码系列（三）滑动时间窗口算法的工程实现](https://mp.weixin.qq.com/s/csBmNsAXu7GJXeFfXD8M0w)
+
+十一、Gopher指北
+
+1. [探讨系统中钱的精度问题](https://mp.weixin.qq.com/s/7Jd5m1pPfivi727R6TTIpA)
+
+十二、奇伢云存储
+
+1. [存储架构｜聊聊 LSM Tree 强悍的设计](https://mp.weixin.qq.com/s/sK2qqYCM-dZJTbbFn-23zg)
+ gopherDaily-2021-12-20
+# go-news-set-2021-12-20
+## gopherDaily-2021-12-20
+- 1.切换到Go 1.18后的第一件事：将interface{}全部替换为any - 阅读原文
+- 2.用Go实现领域驱动设计和六边形架构 - 阅读原文
+- 3.webhook是一个轻量级的传入webhook服务器，用于运行shell命令 - 阅读原文
+- 4.Go 1.18中的自引用接口 - 阅读原文
+- 5.Go实现的可以与任何代码分析工具集成的自动代码审查工具 - 阅读原文
+- 6.Go事务装饰器 - 阅读原文
+- 7.一个用Go泛型实现的实验性数据结构集合 - 阅读原文
+- 8.使用Go和SQLite构建生产型应用程序 - 阅读原文
+- 9.用Grafana Loki进行日志监控和预警 - 阅读原文
+- 10.用Gloo Edge阻止Log4Shell攻击 - 阅读原文
+- 11.停止使用分支来部署到不同的GitOps环境中 - 阅读原文
+- 12.纯Go实现的Redis测试服务器，用于Go单元测试 - 阅读原文
+- 13.关于Log4j漏洞的一些想法 - 阅读原文
+
  gocn_news-2021-12-19
 # go-news-set-2021-12-19
 ## gocn_news-2021-12-19
