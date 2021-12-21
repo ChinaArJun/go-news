@@ -1,3 +1,18 @@
+ gocn_news-2021-12-21
+# go-news-set-2021-12-21
+## gocn_news-2021-12-21
+- 1.全文检索库 bluge https://gocn.vip/topics/20888
+
+- 2.Go 编译原理系列 2（词法分析&语法分析基础）https://juejin.cn/post/7043975020153929735
+
+- 3.如何降低 gRPC 后端重复请求的问题 https://juejin.cn/post/7043965430314041357
+
+- 4.Goravel，一个功能完备、具有良好扩展能力的 Golang Web 应用程序框架，致敬 Laravel
+https://gocn.vip/topics/20887
+
+- 5.Go 语言逆向技术：常量字符串 https://juejin.cn/post/7043615695480815646
+
+
  go语言中文网(每日资讯)-2021-12-20
 # go-news-set-2021-12-20
 ## go语言中文网(每日资讯)-2021-12-20
