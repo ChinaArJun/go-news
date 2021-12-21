@@ -1,3 +1,61 @@
+ go语言中文网(每日资讯)-2021-12-21
+# go-news-set-2021-12-21
+## go语言中文网(每日资讯)-2021-12-21
+
+
+一、Go语言中文网
+
+1. [盘点那些提高生产力的 VS Code 插件](https://mp.weixin.qq.com/s/n4ZsyES7uEdtDeBUQK8pCg)
+
+2. [如何使用 WebAsemmbly 在浏览器中编译 Go 代码](https://mp.weixin.qq.com/s/AqEaYIRPSKjzZ1AE4cDtHA)
+
+二、亚军进化史
+
+1. [Go技术日报(2021-12-20)——探讨系统中钱的精度问题](https://mp.weixin.qq.com/s/V6i4f2XlX4I5DE8j3Zf6nA)
+
+三、云原生技术爱好者社区
+
+1. [深入理解 goroutine 泄漏和避免泄漏的最佳实践](https://mp.weixin.qq.com/s/cSY2jU9x71YN69hmggyzgQ)
+
+四、董泽润的技术笔记
+
+1. [案例：一次不寻常的慢查调优经历](https://mp.weixin.qq.com/s/s1QmqB7Xf3IrgRebd3RFow)
+
+2. [SQL优化系列之 in与range 查询](https://mp.weixin.qq.com/s/LmBH5Acl-GxtRmEMuLITaw)
+
+五、幽鬼
+
+1. [Go 1.18 中的自引用接口，你看懂了吗？](https://mp.weixin.qq.com/s/r7W3WigooZ49GtmGaIBlPQ)
+
+六、小白debug
+
+1. [推荐一个强大的Go库-rk-boot](https://mp.weixin.qq.com/s/_6xlN7WEDslNeihQ_4d_1w)
+
+七、网管叨bi叨
+
+1. [Go 除了泛型外最值得期待的新功能，模糊测试](https://mp.weixin.qq.com/s/hKYMJy3wpvjWG1LZdJIqNw)
+
+八、脑子进煎鱼了
+
+1. [长达 12 年，Go 才引入泛型，是政治，还是技术问题？](https://mp.weixin.qq.com/s/bL5ZZ4blJgkkSw5uxWkmHg)
+
+九、Go招聘
+
+1. [学会这几招让 Go 程序自己监控自己](https://mp.weixin.qq.com/s/eh7Wlc___Z4uJz2cVtig1g)
+ gopherDaily-2021-12-21
+# go-news-set-2021-12-21
+## gopherDaily-2021-12-21
+- 1.Go泛型的facilitator模式 - 阅读原文
+- 2.Go泛型约束不是enum - 阅读原文
+- 3.Go语言深拷贝与浅拷贝详解 - 阅读原文
+- 4.ichiban/prolog：一种可嵌入Go的prolog脚本引擎 - 阅读原文
+- 5.Go有序map数据结构的基准测试大比较 - 阅读原文
+- 6.使用Go实现merkle tree - 阅读原文
+- 7.调试器寻宝之旅 - 阅读原文
+- 8.Harvester：建立在Kubernetes上的开源超融合基础设施（HCI）软件，发布了1.0版本 - 阅读原文
+- 9.作为缓存的Redis与作为主数据库的Redis在90秒内的对比 - 阅读原文
+- 10.我做系统架构的一些原则 - 阅读原文
+
  gocn_news-2021-12-21
 # go-news-set-2021-12-21
 ## gocn_news-2021-12-21
