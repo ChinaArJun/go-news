@@ -1,3 +1,32 @@
+ gocn_news-2021-12-22
+# go-news-set-2021-12-22
+## gocn_news-2021-12-22
+- 1.使用 Go 和 SQLite 构建生产应用程序
+
+- 2.使用 context.Context 模拟 API 客户端 https://incident.io/blog/golang-client-mocks
+
+- 3.一种可嵌入的 Go 脚本语言,实现了逻辑编程语言 Prolog https://github.com/ichiban/prolog
+
+- 4.SSA：终于知道编译器偷摸做了哪些事 https://mp.weixin.qq.com/s/nOhMsMeP1pUFEXKAMUzbWg
+
+- 5.从 Golang 调用 C 代码 https://tech-lessons.in/invoking-C-code-from-golang/
+
+
+ gopherDaily-2021-12-22
+# go-news-set-2021-12-22
+## gopherDaily-2021-12-22
+- 1.Go101作者又出新作：Go优化101 - 阅读原文
+- 2.聊聊Go 1.18的三个小特性 - 阅读原文
+- 3.纯Go实现的io-uring包 - 阅读原文
+- 4.用Go+Redis实现分布式锁 - 阅读原文
+- 5.在你的控制器中使用Finalizer进行自定义清理 - 阅读原文
+- 6.Go切片是传值还是传引用 - 阅读原文
+- 7.cznic的Go泛型版btree实现 - 阅读原文
+- 8.大规模服务网格性能优化 | Aeraki xDS 按需加载 - 阅读原文
+- 9.fq: 用于检查二进制数据的工具、语言和解码器 - 阅读原文
+- 10.阿里巴巴超大规模Kubernetes基础设施运维体系揭秘 -  阅读原文
+- 11.使用BFE如何实现地址透传 - 阅读原文
+
  go语言中文网(每日资讯)-2021-12-21
 # go-news-set-2021-12-21
 ## go语言中文网(每日资讯)-2021-12-21
