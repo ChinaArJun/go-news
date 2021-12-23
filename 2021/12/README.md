@@ -1,3 +1,17 @@
+ gocn_news-2021-12-23
+# go-news-set-2021-12-23
+## gocn_news-2021-12-23
+- 1.《真·简单》Golang 轻量级桌面程序 wails 库（圣诞节限定）https://gocn.vip/topics/20899
+
+- 2.Go 实战 | 一文带你搞懂从单队列到优先级队列的实现 https://gocn.vip/topics/20897
+
+- 3.什么时候在 Go 中使用泛型 https://teivah.medium.com/when-to-use-generics-in-go-36d49c1aeda
+
+- 4.深入研究 NSO 零点击 iMessage 漏洞：远程代码执行 https://googleprojectzero.blogspot.com/2021/12/a-deep-dive-into-nso-zero-click.html
+
+- 5.Go 1.18 中的自引用接口 https://mp.weixin.qq.com/s/r7W3WigooZ49GtmGaIBlPQ
+
+
  gocn_news-2021-12-22
 # go-news-set-2021-12-22
 ## gocn_news-2021-12-22
