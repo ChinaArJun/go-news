@@ -1,3 +1,34 @@
+ gocn_news-2021-12-24
+# go-news-set-2021-12-24
+## gocn_news-2021-12-24
+- 1.  ccgo 更新添加 macOS clang 支持  https://pkg.go.dev/modernc.org/ccgo/v3
+
+- 2.一个简单强大的 SSH 秘钥管理器  https://golangexample.com/skm-a-simple-and-powerful-ssh-keys-manager/
+
+- 3.  golang 会缓存 dns 吗  https://www.reddit.com/r/golang/comments/rn9b6d/is_golang_caching_dns/
+
+- 4.  go1.18 三条鲜为人知的小 feature https://blog.carlmjohnson.net/post/2021/golang-118-minor-features/
+
+- 5. 今天可用 的泛型版 b+ 树，需要 go1.18beta1 环境  https://gitlab.com/cznic/b/-/tree/master/v2
+
+
+编辑: 阿章
+订阅新闻: http://tinyletter.com/gocn
+
+招聘专区: https://gocn.vip/jobs
+
+GOCN 归档  https://gocn.vip/topics/20901
+
+
+
+- 6.编辑: 阿章
+- 7.订阅新闻: http://tinyletter.com/gocn
+
+- 8.招聘专区: https://gocn.vip/jobs
+
+- 9.GOCN 归档  https://gocn.vip/topics/20901
+
+
  gocn_news-2021-12-23
 # go-news-set-2021-12-23
 ## gocn_news-2021-12-23
