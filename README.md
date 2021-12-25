@@ -1,3 +1,31 @@
+ gocn_news-2021-12-25
+# go-news-set-2021-12-25
+## gocn_news-2021-12-25
+- 1.Python 在 Go 中的双向嵌入 https://github.com/tliron/py4go
+
+- 2.golang 实的 xmpp 服务 jackal v0.55.0 https://github.com/ortuman/jackal
+
+- 3.Go 有哪几种无法恢复的致命场景？https://mp.weixin.qq.com/s/gSfzrSKYbZTP8COz4lZKHQ
+
+- 4.必看！6 步入门 Go  https://mp.weixin.qq.com/s/DRpmh41dGAfzSOMsvwy8wA
+
+- 5.IPTables 负载均衡器 (Kubernetes 风格) https://github.com/ulfox/iptlb
+
+
+ gopherDaily-2021-12-25
+# go-news-set-2021-12-25
+## gopherDaily-2021-12-25
+- 1.Go 1.18泛型：好的、坏的、丑的 - 阅读原文
+- 2.py4go: go与python互操作包 - 阅读原文
+- 3.Go调试器发布Delve 1.8.0版本 - 阅读原文
+- 4.又一个Go泛型Btree实现，benchmark的成绩不错 - 阅读原文
+- 5.使用Go与colly构建网络爬虫 - 阅读原文
+- 6.Go实现的用于测试SSL握手延迟的命令行工具 - 阅读原文
+- 7.十大go web开发框架 - 阅读原文
+- 8.编写代码注释的最佳实践 - 阅读原文
+- 9.阅读原文
+- 10.软件定义汽车实例：特斯拉灯光秀自定义 - 阅读原文
+
  gocn_news-2021-12-24
 # go-news-set-2021-12-24
 ## gocn_news-2021-12-24
