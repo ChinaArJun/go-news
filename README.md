@@ -1,3 +1,17 @@
+ gocn_news-2021-12-26
+# go-news-set-2021-12-26
+## gocn_news-2021-12-26
+- 1.Go 泛型的 facilitator 模式 https://rakyll.org/generics-facilititators
+
+- 2.Go 1.18 泛型: 好的、坏的、丑的 https://itnext.io/golang-1-18-generics-the-good-the-bad-the-ugly-5e9fa2520e76
+
+- 3.Go 调试器发布 Delve 1.8.0 版本，支持 1.18 泛型调试 https://github.com/go-delve/delve/releases/tag/v1.8.0
+
+- 4.Gopher Jasmine: 一个新的 Go 测试框架 https://betterprogramming.pub/introducing-gopher-jasmine-a-testing-framework-for-go-a1636ab1d94f
+
+- 5.kyoto: Go 服务端渲染框架 https://github.com/kyoto-framework/kyoto
+
+
  gocn_news-2021-12-25
 # go-news-set-2021-12-25
 ## gocn_news-2021-12-25
