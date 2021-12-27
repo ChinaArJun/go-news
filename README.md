@@ -1,3 +1,17 @@
+ gocn_news-2021-12-27
+# go-news-set-2021-12-27
+## gocn_news-2021-12-27
+- 1.ApacheCN Golang 译文集 https://github.com/apachecn/apachecn-golang-zh
+
+- 2.Dubbo-go v3.0 正式发布 ——打造国内一流开源 Go 服务框架 https://developer.aliyun.com/article/839884
+
+- 3.Go Quiz: 从 Go 面试题看 slice 的底层原理和注意事项 https://juejin.cn/post/7045953087080497166
+
+- 4.为什么 Go 里值为 nil 可以调用函数？ https://segmentfault.com/a/1190000041184903
+
+- 5.Zinc 一款基于 Go 语言开发的搜索引擎 https://github.com/prabhatsharma/zinc
+
+
  gocn_news-2021-12-26
 # go-news-set-2021-12-26
 ## gocn_news-2021-12-26
