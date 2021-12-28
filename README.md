@@ -1,3 +1,57 @@
+ go语言中文网(每日资讯)-2021-12-28
+# go-news-set-2021-12-28
+## go语言中文网(每日资讯)-2021-12-28
+
+
+一、Go语言中文网
+
+1. [Golang AI 开发：通过将 AI 集成到你的应用程序](https://mp.weixin.qq.com/s/VlSGXKRURXQ2XH3VoK5mRg)
+
+2. [Go 1.18新特性前瞻：原生支持Fuzzing测试](https://mp.weixin.qq.com/s/UqjSA2i3s1VoLFACt_EL2A)
+
+二、亚军进化史
+
+1. [Go技术日报(2021-12-27)——Go1.18 新特性：TryLock 是什么？](https://mp.weixin.qq.com/s/1ON9A0KUjk8X-Az1IYS2NA)
+
+三、脑子进煎鱼了
+
+1. [简洁的 Go 多版本管理机制](https://mp.weixin.qq.com/s/P2LrviH2IVMCHo52H0BUBw)
+
+四、polarisxu
+
+1. [Go 1.18 中基于泛型的自引用接口](https://mp.weixin.qq.com/s/A71-iNfozKdmQZRbO6Xpnw)
+
+五、腾讯云原生
+
+1. [TKE 用户故事 - 作业帮 PB 级低成本日志检索服务](https://mp.weixin.qq.com/s/-x0VLC4Id6VriOyhXYuqiQ)
+
+六、后端研究所
+
+1. [深入理解Go Json.Unmarshal精度丢失之谜](https://mp.weixin.qq.com/s/36CqC1U54LUd4-izt4iZ1g)
+
+七、董泽润的技术笔记
+
+1. [如何应对不断膨胀的接口](https://mp.weixin.qq.com/s/PBTP4vnwEXtrtsHdq0oL0g)
+
+八、Go招聘
+
+1. [通过 100 行代码入门 Go](https://mp.weixin.qq.com/s/ThaCUFLg_zcycPMF6J2ROQ)
+
+九、幽鬼
+
+1. [Go1.18 泛型的好、坏亦或丑？](https://mp.weixin.qq.com/s/Xp7B3okOOcNedhNMM1pU3Q)
+
+十、k8s技术圈
+
+1. [自定义 Traefik（本地）插件](https://mp.weixin.qq.com/s/uwMEQgS56OOolgSJes8n2Q)
+
+十一、Golang梦工厂
+
+1. [一些实用的编程模式 | Options模式](https://mp.weixin.qq.com/s/cbZ05jLlp8XtpYBzF80YTA)
+
+十二、Golang技术分享
+
+1. [写 Go 时如何优雅地查文档](https://mp.weixin.qq.com/s/cCLKCPWEminsC1BJcaguSQ)
  go语言中文网(每日资讯)-2021-12-27
 # go-news-set-2021-12-27
 ## go语言中文网(每日资讯)-2021-12-27
