@@ -1,3 +1,17 @@
+ gocn_news-2021-12-28
+# go-news-set-2021-12-28
+## gocn_news-2021-12-28
+- 1.使用 Go SDK 与 OCI 对象存储交互 https://lucasjellema.medium.com/interacting-with-oci-object-storage-using-go-sdk-first-steps-f50682418488
+
+- 2.深入理解 Go Json.Unmarshal 精度丢失之谜 https://mp.weixin.qq.com/s/36CqC1U54LUd4-izt4iZ1g
+
+- 3.基于 OpenTelemetry 和 ClickHouse 的分布式链路追踪系统 https://github.com/uptrace/uptrace
+
+- 4.Go 语言错误与错误包装方法 https://trstringer.com/errors-and-error-wrapping-go/
+
+- 5.开发与维护 Ebiten(一款 2D 游戏引擎) 的 8 年心路历程 https://medium.com/@hajimehoshi/game-engines-as-an-art-form-f66c835c0a92
+
+
  go语言中文网(每日资讯)-2021-12-28
 # go-news-set-2021-12-28
 ## go语言中文网(每日资讯)-2021-12-28
