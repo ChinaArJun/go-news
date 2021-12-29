@@ -1,3 +1,17 @@
+ gocn_news-2021-12-29
+# go-news-set-2021-12-29
+## gocn_news-2021-12-29
+- 1.用 Go 实现向手机推送工具 https://github.com/binwiederhier/ntfy
+
+- 2.基于 Go 实现 Mumble 和 Discord 之间的语音工具 https://github.com/Stieneee/mumble-discord-bridge
+
+- 3.Go 中这么多创建 error 的方式，你真的了解它们各自的应用场景吗 https://gocn.vip/topics/20911
+
+- 4.Go 依赖分析工具包 https://github.com/loov/goda
+
+- 5.Godot 的 GDNative 和 NativeScript API 的 Go 绑定 https://github.com/godot-go/godot-go
+
+
  gocn_news-2021-12-28
 # go-news-set-2021-12-28
 ## gocn_news-2021-12-28
