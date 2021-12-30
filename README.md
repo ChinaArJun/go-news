@@ -1,3 +1,31 @@
+ gocn_news-2021-12-30
+# go-news-set-2021-12-30
+## gocn_news-2021-12-30
+- 1.如何在 Go 中将 [] byte 转换为 io.Reader？ https://mp.weixin.qq.com/s/nFkob92GOs6Gp75pxA5wCQ
+
+- 2.彻底搞懂 Kubernetes 中的 Events https://mp.weixin.qq.com/s/QRIck4M1-CJVrVDoJEsjQA
+
+- 3.对比 Rust 和 Go 对二进制数据处理 https://medium.com/@protiumx/advent-of-code-rust-go-and-binary-operators-7dd03057c134
+
+- 4.Go 模块解耦指南 https://brian-michael-anderson.medium.com/go-module-decoupling-a-rescue-guide-d5e3fd03d2d5
+
+- 5.log4jscanner:基于 Go 开发的 JAR 包 Log4j 漏洞扫描 https://github.com/google/log4jscanner
+
+
+ gopherDaily-2021-12-29
+# go-news-set-2021-12-29
+## gopherDaily-2021-12-29
+- 1.用于Jupyter笔记本和nteract的Go内核 - 阅读原文
+- 2.Go中的错误和错误包装 - 阅读原文
+- 3.2021最受欢迎go time播客：不要忘记内存管理 - 阅读原文 和 Go技术书籍 - 阅读原文
+- 4.为你的Kubernetes集群提供一个类似top的工具 - 阅读原文
+- 5.新的一年、新技能、新的Go轨迹 - 阅读原文
+- 6.100个Go错误以及如何避免这些错误的发生 - 阅读原文
+- 7.我8年多来开发和维护Go游戏引擎的经历 - 阅读原文
+- 8.使用OpenTelemetry和ClickHouse进行分布式追踪 - 阅读原文
+- 9.OpenKruise v1.0，达到应用自动化的新高峰 - 阅读原文
+- 10.动画图解Raft算法 - 阅读原文
+
  gocn_news-2021-12-29
 # go-news-set-2021-12-29
 ## gocn_news-2021-12-29
