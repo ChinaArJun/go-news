@@ -1,3 +1,31 @@
+ gopherDaily-2021-12-31
+# go-news-set-2021-12-31
+## gopherDaily-2021-12-31
+- 1.Go modules基础精进，六大核心概念全解析 - 阅读原文
+- 2.理解Go execution tracer - 阅读原文
+- 3.在Go中更好地进行单元测试的5个技巧 - 阅读原文
+- 4.Raft：寻找一种易于理解的一致性算法 - 阅读原文
+- 5.揭秘有状态服务上Kubernetes 的核心技术 - 阅读原文
+- 6.是什么塑造了现代技术生态系统：2021年的大事件 -  阅读原文
+- 7.如何写出更好的error信息 - 阅读原文
+- 8.在Go中使用Redis保护你的API，对HTTP请求进行速率限制 - 阅读原文
+- 9.腾讯开源的etcd一站式治理平台Kstone -  阅读原文
+- 10.Kubernetes准入控制器是什么以及为什么它们很重要 -  阅读原文
+
+ gopherDaily-2021-12-30
+# go-news-set-2021-12-30
+## gopherDaily-2021-12-30
+- 1.用于IDAPro的Go二进制解析器 - 阅读原文
+- 2.Go与异步/等待 - 阅读原文
+- 3.如何编写你的第一个Go REST客户端 - 阅读原文
+- 4.Go语言中的三只小猪的故事 - 阅读原文
+- 5.goga: 遗传算法的Go实现 - 阅读原文
+- 6.使用Go实现一个JIT编译器 - 阅读原文
+- 7.Kubernetes: 使用ArgoCD、Tekton和Kaniko构建CI/CD流水线 - 阅读原文
+- 8.Kubernetes学习教程 - 阅读原文
+- 9.我在2021年的七个亮点 - 阅读原文
+- 10.Checklocks: 锁和原子约束的分析器 - 阅读原文
+
  gocn_news-2021-12-30
 # go-news-set-2021-12-30
 ## gocn_news-2021-12-30
