@@ -1,3 +1,51 @@
+ go语言中文网(每日资讯)-2022-01-05
+# go-news-set-2022-01-05
+## go语言中文网(每日资讯)-2022-01-05
+
+
+一、Go语言中文网
+
+1. [发现一个很棒的 Go GitHub 项目](https://mp.weixin.qq.com/s/JAM_nhtSQrT6p351ZlSSpQ)
+
+2. [Go - 如何编写 ProtoBuf 插件（二）？](https://mp.weixin.qq.com/s/H6CXiTyCe_8_PefVj3U4HA)
+
+二、Go招聘
+
+1. [2022 年建议这样学 Go](https://mp.weixin.qq.com/s/zBzlhYDqaAt6kOFq32HocQ)
+
+三、小白debug
+
+1. [推荐几个可以写到简历上的Go方向优质开源项目（需花点心思研究）](https://mp.weixin.qq.com/s/n6O8vNluY3Gv_XBHLzmjiQ)
+
+四、幽鬼
+
+1. [Go：10 个与众不同的特性](https://mp.weixin.qq.com/s/nzm7VaP47Cj2v0nz4GqBfQ)
+
+五、腾讯云原生
+
+1. [TKE 用户故事 | 作业帮 Kubernetes 原生调度器优化实践](https://mp.weixin.qq.com/s/tQEbfumBkR2GW5YU3L_iRQ)
+
+六、脑子进煎鱼了
+
+1. [Go 泛型的 3 个核心设计，你学会了吗？](https://mp.weixin.qq.com/s/I7qysvddG4NDgtYIMMAE3g)
+
+2. [聊一聊 Go 中的零值，它有什么用？](https://mp.weixin.qq.com/s/DbHOvbL2XQPmRVm-IhcKdA)
+
+七、网管叨bi叨
+
+1. [数据结构--Go 语言中 Set 的最佳实现方案](https://mp.weixin.qq.com/s/boFPbDvWBT0nfVwsjk5PWw)
+
+八、Golang梦工厂
+
+1. [实用的编程模式｜Go 流水线编程模式](https://mp.weixin.qq.com/s/Q7gWpWSFOobOz6N-g3PPvA)
+
+九、Golang技术分享
+
+1. [在实现小工具的过程中学会 Go 反射](https://mp.weixin.qq.com/s/6_zhqUB3aQr-s_ftTQTR_g)
+
+十、码农桃花源
+
+1. [曹大带我学 Go（12）—— 面向火焰图编程](https://mp.weixin.qq.com/s/APXiPOLO6Ss84FZoC6JYUw)
  gocn_news-2022-01-05
 # go-news-set-2022-01-05
 ## gocn_news-2022-01-05
