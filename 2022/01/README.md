@@ -1,3 +1,17 @@
+ gocn_news-2022-01-05
+# go-news-set-2022-01-05
+## gocn_news-2022-01-05
+- 1.Rust 与 Go: 为何相得益彰 https://gocn.vip/topics/20929
+
+- 2.聊聊 GOLANG 中形形色色的同步原语 http://vearne.cc/archives/39631
+
+- 3.Go 泛型的这 3 个核心设计，你都知道吗？ https://segmentfault.com/a/1190000041227815
+
+- 4.Go 语言高效率 Web 开发四：分层领域模型和项目结构分层 https://juejin.cn/post/7049269149608083486
+
+- 5.Excelize 2.5.0 发布, 2022 年首个更新 https://mp.weixin.qq.com/s/yO1OkfOKFvUlZj6_XsIw-Q
+
+
  go语言中文网(每日资讯)-2022-01-04
 # go-news-set-2022-01-04
 ## go语言中文网(每日资讯)-2022-01-04
