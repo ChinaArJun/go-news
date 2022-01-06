@@ -1,3 +1,17 @@
+ gocn_news-2022-01-06
+# go-news-set-2022-01-06
+## gocn_news-2022-01-06
+- 1.Golang profiler 笔记 https://github.com/DataDog/go-profiler-notes/blob/main/README.md
+
+- 2.Bundling templates with embed https://osinet.fr/go/en/articles/bundling-templates-with-embed/
+
+- 3.Go 通过 Map/Filter/ForEach 等流式 API 高效处理数据 https://gocn.vip/topics/20922
+
+- 4.滴滴夜莺监控发布 v5 正式版，定位 Prometheus 企业版 https://n9e.gitee.io/
+
+- 5.Go 泛型的 3 个核心设计 https://mp.weixin.qq.com/s/I7qysvddG4NDgtYIMMAE3g
+
+
  go语言中文网(每日资讯)-2022-01-05
 # go-news-set-2022-01-05
 ## go语言中文网(每日资讯)-2022-01-05
@@ -46,6 +60,20 @@
 十、码农桃花源
 
 1. [曹大带我学 Go（12）—— 面向火焰图编程](https://mp.weixin.qq.com/s/APXiPOLO6Ss84FZoC6JYUw)
+ gopherDaily-2022-01-05
+# go-news-set-2022-01-05
+## gopherDaily-2022-01-05
+- 1.如何在Go中格式化或解析一个时间 - 阅读原文
+- 2.Go: 堆(heap)的使用成本 - 阅读原文
+- 3.关于BPF和eBPF的说明 - 阅读原文
+- 4.改善我的应用程序上的静态资产的加载时间 -  阅读原文
+- 5.油管视频：为什么Go是一种适合盲人和视力障碍者的语言？ - 阅读原文
+- 6.Go vs. node.js–哪个更适合Web开发 - 阅读原文
+- 7.激活谷歌生产：谷歌的网站可靠性工程(SRE)团队如何使用Go - 阅读原文
+- 8.快速、简单的全栈式Web开发入门套件，采用Go语言 - 阅读原文
+- 9.CentOS 9 Stream现已上市 - 阅读原文
+- 10.使用vcluster为每个人提供Kubernetes集群 - 阅读原文
+
  gocn_news-2022-01-05
 # go-news-set-2022-01-05
 ## gocn_news-2022-01-05
