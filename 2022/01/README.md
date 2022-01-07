@@ -1,3 +1,34 @@
+ gocn_news-2022-01-07
+# go-news-set-2022-01-07
+## gocn_news-2022-01-07
+- 1. 用 golang 在 tor 网络上安全的私有部署共享文件服务 https://github.com/R4yGM/garlicshare
+
+- 2. 一个极速的 golang 全栈 web 开发包 https://github.com/mikestefanello/pagoda
+
+- 3. ch：一个 clickhouse 客户端，比 rust 和 c++ 的都快 https://github.com/go-faster/ch
+
+- 4. 用 gosec 扫描 go 源码的漏洞  https://jcdan3.medium.com/scanning-go-source-for-vulnerabilities-5f29773ecc9d
+
+- 5. go 并发可视化 https://divan.dev/posts/go_concurrency_visualize/
+
+
+编辑: 阿章
+订阅新闻: http://tinyletter.com/gocn
+
+招聘专区: https://gocn.vip/jobs
+
+GOCN 归档  https://gocn.vip/topics/20933
+
+
+
+- 6.编辑: 阿章
+- 7.订阅新闻: http://tinyletter.com/gocn
+
+- 8.招聘专区: https://gocn.vip/jobs
+
+- 9.GOCN 归档  https://gocn.vip/topics/20933
+
+
  gocn_news-2022-01-06
 # go-news-set-2022-01-06
 ## gocn_news-2022-01-06
