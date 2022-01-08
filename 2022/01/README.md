@@ -1,3 +1,17 @@
+ gocn_news-2022-01-08
+# go-news-set-2022-01-08
+## gocn_news-2022-01-08
+- 1.Go 1.17.6/1.16.13 版本发布 https://groups.google.com/g/golang-announce/c/95ZD3rKn4DI/m/93cyN8F1BAAJ
+
+- 2.高效的 Go 错误处理 https://earthly.dev/blog/golang-errors/
+
+- 3.从零实现一个 RedisClient 了解 Redis 协议 https://mauricio.github.io/2022/01/07/redis-protocol.html
+
+- 4.Golang 简洁架构实战 https://zhuanlan.zhihu.com/p/454054072
+
+- 5.使用 Go 构建 linkerd 控制器 https://itnext.io/creating-a-linkerd-controller-in-golang-e588ad1c821a
+
+
  gocn_news-2022-01-07
 # go-news-set-2022-01-07
 ## gocn_news-2022-01-07
@@ -28,6 +42,21 @@ GOCN 归档  https://gocn.vip/topics/20933
 
 - 9.GOCN 归档  https://gocn.vip/topics/20933
 
+
+ gopherDaily-2022-01-07
+# go-news-set-2022-01-07
+## gopherDaily-2022-01-07
+- 1.我们如何在30个关键任务服务中节省了7万个内核：大规模、半自动化的Go GC调整 by Uber - 阅读原文
+- 2.Go 1.17.6和1.16.13发布 - 阅读原文
+- 3.Rust与Go: 为何相得益彰 - 阅读原文
+- 4.Kubernetes事件：深入指南和实例 - 阅读原文
+- 5.如何确保云计算操作系统Kubernetes的安全 - 阅读原文
+- 6.优化Docker镜像的大小以及为什么它很重要 - 阅读原文
+- 7.minio最新的NVMe基准测试：2.6Tbps+的读取速度 - 阅读原文
+- 8.用go编写的Tor网络上的私人和自我托管的文件共享服务 - 阅读原文
+- 9.与kubernetes的containerd运行时交互 - 阅读原文
+- 10.科学上网 by 左耳朵耗子叔 - 阅读原文
+- 11.RISC-V上的边缘人工智能 - 阅读原文
 
  gocn_news-2022-01-06
 # go-news-set-2022-01-06
