@@ -1,3 +1,34 @@
+ gocn_news-2022-01-09
+# go-news-set-2022-01-09
+## gocn_news-2022-01-09
+- 1.带你探究 Go 语言的 iota https://mp.weixin.qq.com/s/V5iJgcLhCYMZd5l8akfbVQ
+
+- 2.项目实战：使用 Fiber + Gorm 构建 REST API https://mp.weixin.qq.com/s/RqUOLP-OG_wOpCzxVTAl6w
+
+- 3.Effective Error Handling in Golang  https://earthly.dev/blog/golang-errors/
+
+- 4.为什么不在 golang 中构建一个 redis 客户端 https://mauricio.github.io/2022/01/07/redis-protocol.html
+
+- 5.ssh 隧道工具 rospo v.0.8.0 发布  https://github.com/ferama/rospo
+
+
+ gopherDaily-2022-01-08
+# go-news-set-2022-01-08
+## gopherDaily-2022-01-08
+- 1.Go语言中实现真正的宏 - 阅读原文
+- 2.我们如何使用RPC来共享数据库连接并扩展我们的多产品架构 - 阅读原文
+- 3.从头用Go创建一个redis客户端 - 阅读原文
+- 4.Go中有效的错误处理 - 阅读原文
+- 5.Phalanx：云原生分布式搜索引擎 - 阅读原文
+- 6.理解Kubernetes网络 - 阅读原文
+- 7.使用BumbleBee开始使用eBPF - 阅读原文
+- 8.面向新手的Kubernetes控制平面 - 阅读原文
+- 9.带有嵌入式ssh服务器的简单而可靠的ssh隧道 - 阅读原文
+- 10.Go与Java：你应该知道的差异和相似之处 - 阅读原文
+- 11.基础设施供应商如何启用Web3 - 阅读原文
+- 12.Kubernetes在即将发布的v1.24版本中移除dockershim - 阅读原文
+- 13.UUIDs很流行，但性能不好 - 阅读原文
+
  gocn_news-2022-01-08
 # go-news-set-2022-01-08
 ## gocn_news-2022-01-08
