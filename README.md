@@ -1,3 +1,32 @@
+ gocn_news-2022-01-11
+# go-news-set-2022-01-11
+## gocn_news-2022-01-11
+- 1.解读 Go 语言的 2021：稳定为王 https://mp.weixin.qq.com/s/9LKyPfhwldgZY7H4iS7sjg
+
+- 2.Go 泛型的 3 个核心设计 https://mp.weixin.qq.com/s/I7qysvddG4NDgtYIMMAE3g
+
+- 3.Golang 的 Ealstic 链接库 https://mp.weixin.qq.com/s/iHIxsEZf3w06GbO2sHSuRA
+
+- 4.动态调整 GOGC 优化 Go 的 GC 标记 CPU 占用 https://mp.weixin.qq.com/s/XR1KAeCW930i-Qxv6N2kaA
+
+- 5.系统架构性能问题诊断及优化思路 https://mp.weixin.qq.com/s/SZ9LC_SH3hi3WGE1Gn6C0A
+
+
+ gopherDaily-2022-01-10
+# go-news-set-2022-01-10
+## gopherDaily-2022-01-10
+- 1.解读Go语言的2021：稳定为王 - 阅读原文
+- 2.通过重新排序Go结构体字段来节省三分之一的内存 - 阅读原文
+- 3.谷歌Go团队希望从语言中删除的东西（如果他们可以的话） - 阅读原文
+- 4.kubernetes实例计算器 - 阅读原文
+- 5.使用Calico NetworkSets将Panorama的防火墙地址组扩展到你的Kubernetes集群中 - 阅读原文
+- 6.社区中关于Istio和服务网格的辩论 - 阅读原文
+- 7.我所知道的关于kubectl的一切有用信息 - 阅读原文
+- 8.OWASP DevSecOps指南 - 阅读原文
+- 9.使用Kubebuilder创建Kubernetes operator - 阅读原文
+- 10.理解Linux的文件权限 - 阅读原文
+- 11.使用Go（Fiber）实现六边形架构 - 阅读原文
+
  gocn_news-2022-01-10
 # go-news-set-2022-01-10
 ## gocn_news-2022-01-10
