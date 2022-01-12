@@ -1,3 +1,17 @@
+ gocn_news-2022-01-12
+# go-news-set-2022-01-12
+## gocn_news-2022-01-12
+- 1.Go 实现的自动保存 Git 项目中未提交代码 https://github.com/nikochiko/autosaved
+
+- 2.Go 中快速、简单的全栈 Web 开发入门工具包 https://github.com/mikestefanello/pagoda
+
+- 3.Golang Redis RESP3 客户端，自动流水线并支持客户端缓存 https://github.com/rueian/rueidis
+
+- 4.Runtime 不变性检查库 https://github.com/goodbadreviewer/immcheck
+
+- 5.消息最终一致性最易用的新架构 https://gocn.vip/topics/20945
+
+
  go语言中文网(每日资讯)-2022-01-11
 # go-news-set-2022-01-11
 ## go语言中文网(每日资讯)-2022-01-11
