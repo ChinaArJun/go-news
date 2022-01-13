@@ -1,3 +1,30 @@
+ gocn_news-2022-01-13
+# go-news-set-2022-01-13
+## gocn_news-2022-01-13
+- 1.Golang《基于 MIME 协议的邮件信息解析》部分实现 https://gocn.vip/topics/20948
+
+- 2.泛型可以拯救 Golang 笨拙的错误处理吗？ https://blog.dnmfarrell.com/post/can-generics-rescue-golangs-clunky-error-handling/
+
+- 3.更多的并行,并不等同更高的性能 https://convey.earth/conversation?id=44
+
+- 4.为什么 Go 有两种声明变量的方式,有什么区别,哪种好？https://mp.weixin.qq.com/s/ADwEhSA1kFOFqzIyWvAqsA
+
+- 5.wishlist: 一款多功能 ssh 目录客户端 https://github.com/charmbracelet/wishlist
+
+
+ gopherDaily-2022-01-12
+# go-news-set-2022-01-12
+## gopherDaily-2022-01-12
+- 1.Go项目技术负责人Russ Cox谈colors项目故意破坏对各语言包管理器依赖策略的影响 - 阅读原文
+- 2.asm: 提供优化的算法库，充分利用现代CPU的特性 - 阅读原文
+- 3.理解Go栈跟踪信息 - 阅读原文
+- 4.一图告诉你go 1.18中有哪些变化 - 阅读原文
+- 5.Go 分布式令牌桶限流 + 兜底保障 - 阅读原文
+- 6.eBPF 和 Wasm：探索服务网格数据平面的未来 - 阅读原文
+- 7.从Kubernetes yaml创建Helm chart - 阅读原文
+- 8.Kubernetes 深入研究: 日志管理 - 阅读原文
+- 9.camellia: 一个轻量级的、持久的、分层的键值存储，用Go语言编写 - 阅读原文
+
  gocn_news-2022-01-12
 # go-news-set-2022-01-12
 ## gocn_news-2022-01-12
