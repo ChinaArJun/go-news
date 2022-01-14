@@ -1,3 +1,17 @@
+ gocn_news-2022-01-14
+# go-news-set-2022-01-14
+## gocn_news-2022-01-14
+- 1.《Go 组件设计与实现》-netpoll 的总结 https://www.cnblogs.com/codexiaoyi/p/15798780.html
+
+- 2.Uber 對 Golang GC 的調整 https://blog.gslin.org/archives/2022/01/13/10503/uber-%!!(MISSING)e(MISSING)5%!!(MISSING)b(MISSING)0%!!(MISSING)d(MISSING)-golang-gc-%!!(MISSING)e(MISSING)7%!!(MISSING)a(MISSING)%!e(MISSING)8%!!(MISSING)a(MISSING)a%!!(MISSING)b(MISSING)f%!!(MISSING)e(MISSING)6%!b(MISSING)4/
+
+- 3.基于 etcd 实现大规模服务治理应用实战 https://mp.weixin.qq.com/s/zOZrCNZ9X6IyKxzRMeReWg
+
+- 4.勒索软件正在用 Go 重写，用于联合攻击 Windows、Linux 用户 专业人士 https://www.itpro.co.uk/security/ransomware/361965/ransomware-rewritten-golang-to-target-windows-linux-users
+
+- 5.再见 Kubernetes Ingress，是时候拥抱更强大的继任者 Gateway API 了 https://mp.weixin.qq.com/s/vVSjrAlRDlHwKgIZ6BLMgg
+
+
  gocn_news-2022-01-13
 # go-news-set-2022-01-13
 ## gocn_news-2022-01-13
