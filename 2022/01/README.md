@@ -1,3 +1,46 @@
+ gocn_news-2022-01-16
+# go-news-set-2022-01-16
+## gocn_news-2022-01-16
+- 1.Golang 1.18 官方 Tutorial: 开始使用泛型 https://juejin.cn/post/7053427624902656030
+
+- 2.使用 Go 语言从 0 到 1 实现一个 CNI 插件 https://mp.weixin.qq.com/s/lUsRww74DZlRU3vTYbfFbQ
+
+- 3.深入浅出 Golang 资源嵌入方案：前篇 https://mp.weixin.qq.com/s/1wlaGMXvk_uGGjAr7BjjlQ
+
+- 4.Go 静态编译机制 https://juejin.cn/post/7053450610386468894
+
+- 5.Golang 逃逸分析 https://juejin.cn/post/7052671831316103175
+
+
+ gopherDaily-2022-01-15
+# go-news-set-2022-01-15
+## gopherDaily-2022-01-15
+- 1.Go语言精进之路：为Gopher们准备的“知识年货” - 阅读原文
+- 2.解读编程语言的2021：Go与Rust走向「成熟」，Kotlin、wasm、Julia「无限生长」 - 阅读原文
+- 3.2022年，云原生领域有哪些值得关注的趋势？ - 阅读原文
+- 4.bintris: Go实现的移动端游戏 - 阅读原文
+- 5.mango: 为Go flag、pflag和cobra软件包提供的man page生成器 - 阅读原文
+- 6.Go播客：传统工作之外的Go应用 - 阅读原文
+- 7.Go官博：Go 1.18的两个新教程 - 阅读原文
+- 8.构建以人工智能驱动的语义搜索应用 - 阅读原文
+- 9.Go中的并发和并行系列 - 阅读原文
+- 10.Kubernetes调度–taints和容忍度 - 阅读原文
+
+ gopherDaily-2022-01-14
+# go-news-set-2022-01-14
+## gopherDaily-2022-01-14
+- 1.编写可维护的Go代码 - 阅读原文
+- 2.Go Explorer: 全新的、直观的、有趣的在线环境，用于学习、探索和试验Go编程语言 - 阅读原文
+- 3.当更多的并行性!=更多的性能时 - 阅读原文
+- 4.gocap: 列出你的依赖能力，监测依赖更新是否需要更多的能力 - 阅读原文
+- 5.使用Kubernetes API - 资源、kind和对象 - 阅读原文
+- 6.本地机器上的Kubernetes - 阅读原文
+- 7.LitmusChaos成为CNCF的孵化项目 - 阅读原文
+- 8.mr-plow: 最小的内存使用，云原生logstash的替代品 - 阅读原文
+- 9.服务发现与配置管理高可用最佳实践 - 阅读原文
+- 10.IoRing与io_uring：Windows和Linux实现的比较 -  阅读原文
+- 11.kong: 我们是如何获得12%!!(MISSING)的(MISSING)RPS增长和37%!!(MISSING)的(MISSING)延迟下降的？ - 阅读原文
+
  gocn_news-2022-01-14
 # go-news-set-2022-01-14
 ## gocn_news-2022-01-14
