@@ -1,3 +1,68 @@
+ go语言中文网(每日资讯)-2022-01-17
+# go-news-set-2022-01-17
+## go语言中文网(每日资讯)-2022-01-17
+
+
+一、Go语言中文网
+
+1. [从西安一码通崩溃，看千万级DAU系统该如何设计](https://mp.weixin.qq.com/s/_DMu74GojOCqMMM2o_qyGw)
+
+2. [Java 这些特性，Go 需要有吗？](https://mp.weixin.qq.com/s/afeO9axffurzAUJwLUsW9w)
+
+二、脑子进煎鱼了
+
+1. [为什么要开发 Go 这门新语言？](https://mp.weixin.qq.com/s/n4RRgT173L7Vx8um2y0BRg)
+
+三、网管叨bi叨
+
+1. [Go 语言里怎么正确实现枚举？答案藏着官方的源码里](https://mp.weixin.qq.com/s/CB1TBcxMf2XSvTqsslM_-A)
+
+四、Golang技术分享
+
+1. [写点规范的 Go 代码](https://mp.weixin.qq.com/s/IeqsBkVRs4xzVpYpW8GsSA)
+
+五、Go夜读
+
+1. [第 126 期 Go 自底向上性能优化实践：Ballast，iTLB-Cache-Miss，CPUWorker...](https://mp.weixin.qq.com/s/C-rKimsggBG-BYa9MsstsA)
+
+六、polarisxu
+
+1. [本地如何配置多个 GitHub/Gitee 账号？](https://mp.weixin.qq.com/s/ZCfjR8kKBHtqshpbnQ_Qzw)
+
+七、腾讯技术工程
+
+1. [新一代消息队列 Pulsar](https://mp.weixin.qq.com/s/wYb9UQWYJf8ay1DbLXaZDQ)
+
+八、云加社区
+
+1. [超实用教程！一探Golang怎样践行Clean Architecture？](https://mp.weixin.qq.com/s/_n6klBSG0ftX_-sdrzt6hw)
+
+九、幽鬼
+
+1. [Go 并行性和并发性：有什么不同？](https://mp.weixin.qq.com/s/sXvqNgMHiIcZojuxDuYGQw)
+
+十、微服务实践
+
+1. [带你十天轻松搞定 Go 微服务系列（一）](https://mp.weixin.qq.com/s/PFT4t_1CvIgqLQusRVYTHg)
+
+十一、Go招聘
+
+1. [让你在虎年如虎添翼的Go测试工具和技巧](https://mp.weixin.qq.com/s/x8h3GfsoNtdShal7MTgkZw)
+ gopherDaily-2022-01-17
+# go-news-set-2022-01-17
+## gopherDaily-2022-01-17
+- 1.我希望在Go 2.0中看到的内容 - 阅读原文
+- 2.编写可维护的Go代码(中文版) - 阅读原文
+- 3.Java程序员初识Go泛型 - 阅读原文
+- 4.潜心研究Go的HTTP服务器超时问题 - 阅读原文
+- 5.goes: 用于在Go中编写event-source应用程序的工具包 - 阅读原文
+- 6.Go播客：Go团队将如何衡量泛型的成功/失败 - 阅读原文
+- 7.用开放策略代理（OPA）构建更好的策略即代码 - 阅读原文
+- 8.Go实现的comment引擎 - 阅读原文
+- 9.依赖WASM而不是依赖C？- 阅读原文
+- 10.Prometheus 101 - 阅读原文
+- 11.一个Go程序员的Rust学习感悟 - 阅读原文
+
  gocn_news-2022-01-16
 # go-news-set-2022-01-16
 ## gocn_news-2022-01-16
