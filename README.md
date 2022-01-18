@@ -1,3 +1,17 @@
+ gocn_news-2022-01-18
+# go-news-set-2022-01-18
+## gocn_news-2022-01-18
+- 1.GoFrame 框架: 快速创建静态文件下载 Web 服务 https://my.oschina.net/u/4955601/blog/5400313
+
+- 2.Kubernetes HPA 基于 Prometheus 自定义指标的可控弹性伸缩 https://my.oschina.net/u/5110404/blog/5401779
+
+- 3.面试官提问三个 Go 接口的概念， 10 年 gopher 竟无言以对 https://colobu.com/2022/01/16/three-new-concepts-of-go-interface-since-1-18/
+
+- 4.chaos-mesh: K8s 的 Chaos 工程平台 https://github.com/chaos-mesh/chaos-mesh?hss_channel=tw-1211978787165896704
+
+- 5.关于 Go 代码结构的思考 https://gocn.vip/topics/20960
+
+
  go语言中文网(每日资讯)-2022-01-17
 # go-news-set-2022-01-17
 ## go语言中文网(每日资讯)-2022-01-17
