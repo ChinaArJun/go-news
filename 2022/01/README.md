@@ -1,3 +1,68 @@
+ go语言中文网(每日资讯)-2022-01-19
+# go-news-set-2022-01-19
+## go语言中文网(每日资讯)-2022-01-19
+
+
+一、Go语言中文网
+
+1. [知乎热议：认为 Go 是用过的最丑的编程语言。。。](https://mp.weixin.qq.com/s/XQ88u-3gnGWFVAMcGXrmRg)
+
+2. [Go每日一题: 空 struct{} 占多少空间？有什么用途](https://studygolang.com/interview/question)
+
+二、脑子进煎鱼了
+
+1. [Go1.18 新特性：多 Module 工作区模式](https://mp.weixin.qq.com/s/Aa9s_ORDVfzbj915aJD5_w)
+
+三、网管叨bi叨
+
+1. [会动的图解 | 既然IP层会分片，为什么TCP层也还要分段？](https://mp.weixin.qq.com/s/0boFt8cOAbmjH2IRr7XtYg)
+
+四、Golang技术分享
+
+1. [一文看懂 Go 泛型核心设计](https://mp.weixin.qq.com/s/TgczuxfygeHfWvlIsJfAOA)
+
+五、Go夜读
+
+1. [《The Tail At Scale》论文解读](https://mp.weixin.qq.com/s/9dZqGLWfbPQ8XBIEU0C2ag)
+
+六、polarisxu
+
+1. [Go 为什么选择 Gopher 作为吉祥物？](https://mp.weixin.qq.com/s/7m9gTMyrEitLoWQddMXvzw)
+
+七、云加社区
+
+1. [你真的了解MD5吗？](https://mp.weixin.qq.com/s/jIOtBLKktoQURcR9UZ3hJQ)
+
+八、幽鬼
+
+1. [BPF 和 Go: Linux 中的现代内省形式](https://mp.weixin.qq.com/s/q7utT-ObD5wpao7OcyeaKw)
+
+九、Go招聘
+
+1. [SOLID原则在Go中的设计](https://mp.weixin.qq.com/s/IbVKF0pUCq_4_-2NJbC8pw)
+
+十、k8s技术圈
+
+1. [APISIX Ingress 认证使用](https://mp.weixin.qq.com/s/Ynr6Pe1YhLboq9pJiF-nhA)
+
+十一、微服务实践
+
+1. [带你十天轻松搞定 Go 微服务系列（三）](https://mp.weixin.qq.com/s/ZAl64UdsWYfGn9n1TCX1_A)
+ gopherDaily-2022-01-19
+# go-news-set-2022-01-19
+## gopherDaily-2022-01-19
+- 1.在Go中以最小的内存占用进行大型流处理 - 阅读原文
+- 2.一个比”ldflags”更好的方法来为你的Go二进制文件添加构建版本 - 阅读原文
+- 3.通过测试学习Go语言：模板 - 阅读原文
+- 4.在Go二进制文件中嵌入静态文件 - 阅读原文
+- 5.使用Redis和Go的可扩展的事件流 - 阅读原文
+- 6.在Go中正确地关闭HTTP - 阅读原文
+- 7.用KEDA和Kafka在Kubernetes上进行自动缩放 - 阅读原文
+- 8.获得对任何Linux设备的无缝远程访问:用于边缘和云计算的集中式SSH - 阅读原文
+- 9.如何在Kubernetes中使用环境变量：在部署pod时使用和不使用secrets - 阅读原文
+- 10.全球负载均衡方案 - 阅读原文
+- 11.如何在Kali Linux中安装Go语言以进行Bug赏金搜索 - 阅读原文
+
  gocn_news-2022-01-19
 # go-news-set-2022-01-19
 ## gocn_news-2022-01-19
