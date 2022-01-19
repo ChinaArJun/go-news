@@ -1,3 +1,33 @@
+ gocn_news-2022-01-19
+# go-news-set-2022-01-19
+## gocn_news-2022-01-19
+- 1.Go1.18 新特性：多 Module 工作区模式 https://mp.weixin.qq.com/s/Aa9s_ORDVfzbj915aJD5_w
+
+- 2.Go 中的可视化 - 绘制股票信息 https://www.ardanlabs.com/blog/2022/01/visualizations-in-go.html
+
+- 3.带你彻底击溃跳表原理及其 Golang 实现！（内含图解）https://mp.weixin.qq.com/s/5wrHQz_LqeQn3NLuF8yu0A
+
+- 4.go-zero 对接分布式事务 dtm 保姆式教程 https://github.com/Mikaelemmmm/gozerodtm
+
+- 5.SOLID 原则在 Go 中的设计 https://mp.weixin.qq.com/s/IbVKF0pUCq_4_-2NJbC8pw
+
+
+ gopherDaily-2022-01-18
+# go-news-set-2022-01-18
+## gopherDaily-2022-01-18
+- 1.Go使用案例和使用Go的顶级公司列表 - 阅读原文
+- 2.在Go中实现分布式速率限制 - 阅读原文
+- 3.Go测试工具和技巧 - 阅读原文
+- 4.跳表原理及Go实现 - 阅读原文
+- 5.Dubbo为什么要用Go重写? - 阅读原文
+- 6.Go的可视化：绘制股票信息图 - 阅读原文
+- 7.如何使用Flux和GitOps原则部署Traefik代理服务器 - 阅读原文
+- 8.Kubernetes架构简介 - 阅读原文
+- 9.函数编程概念 - 阅读原文
+- 10.Kubernetes中，有状态正在崛起 - 阅读原文
+- 11.使用Go建立一个Linkerd控制器 - 阅读原文
+- 12.从零到一开发K8s Operator - 阅读原文
+
  gocn_news-2022-01-18
 # go-news-set-2022-01-18
 ## gocn_news-2022-01-18
