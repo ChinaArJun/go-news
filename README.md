@@ -1,3 +1,45 @@
+ go语言中文网(每日资讯)-2022-01-20
+# go-news-set-2022-01-20
+## go语言中文网(每日资讯)-2022-01-20
+
+
+一、Go语言中文网
+
+1. [项目实战：使用 Fiber + Gorm 构建 REST API](https://mp.weixin.qq.com/s/kTn4q9rucQT7p-a6JBy5nQ)
+
+2. [泛型版 singleflight：Go 中如何防止缓存击穿？](https://mp.weixin.qq.com/s/66MOgSoSH1gWOy7gR4bL6A)
+
+3. [Go每日一题 今日（2022-01-20）: init() 函数是什么时候执行的？](https://studygolang.com/interview/question/128372oeg00)
+
+二、网管叨bi叨
+
+1. [Go 触发 GC 的时机有哪些？能手动触发吗？](https://mp.weixin.qq.com/s/eg1fqxJkrTc-rzZXz5l9Iw)
+
+三、新亮笔记
+
+1. [Go - 使用工具生成易读的 Protocol 文档](https://mp.weixin.qq.com/s/Fhn4LXmsc8ye90qTkEyFqQ)
+
+四、polarisxu
+
+1. [我的 Rust GUI 开发之旅](https://mp.weixin.qq.com/s/HF_MvmXAvEvz71_A6WDNhg)
+
+2. [Go 读者提问：值为 nil 能调用函数吗？](https://mp.weixin.qq.com/s/5tUi3C7vkDczZzdswN0wyg)
+
+五、幽鬼
+
+1. [Go：panic 的输出你看懂了吗？](https://mp.weixin.qq.com/s/5tye8TJmdVrQUgYjswoisw)
+
+六、k8s技术圈
+
+1. [全面容器化之后，来电科技如何实现微服务治理？](https://mp.weixin.qq.com/s/YhmztPwVOvl4r71JtCosnQ)
+
+七、微服务实践
+
+1. [带你十天轻松搞定 Go 微服务系列（四）](https://mp.weixin.qq.com/s/OXl6EQKM9c4vhrdaRvEtJQ)
+
+八、Go招聘
+
+1. [腾讯TEG 存储部门寻Gopher，还有更多职位等你来](https://mp.weixin.qq.com/s/LApqfJ6fV_C3OMIzOouMww)
  gocn_news-2022-01-20
 # go-news-set-2022-01-20
 ## gocn_news-2022-01-20
