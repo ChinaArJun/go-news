@@ -1,3 +1,17 @@
+ gocn_news-2022-01-20
+# go-news-set-2022-01-20
+## gocn_news-2022-01-20
+- 1.从 CPU 角度理解 Go 中的结构体内存对齐 https://gocn.vip/topics/20967
+
+- 2.博客 Go beyond work https://changelog.com/gotime/212
+
+- 3.如何绘制随时间变化的 Go 测试覆盖率 https://osinet.fr/go/en/articles/plotting-go-test-coverage/
+
+- 4.Redix v5 一个简单的 KeyValue 存储系统 https://github.com/alash3al/redix?_v=5.0.0
+
+- 5.既然 IP 层会分片，为什么 TCP 层也还要分段 https://mp.weixin.qq.com/s/0boFt8cOAbmjH2IRr7XtYg
+
+
  go语言中文网(每日资讯)-2022-01-19
 # go-news-set-2022-01-19
 ## go语言中文网(每日资讯)-2022-01-19
