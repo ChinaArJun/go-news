@@ -1,3 +1,34 @@
+ gocn_news-2022-01-21
+# go-news-set-2022-01-21
+## gocn_news-2022-01-21
+- 1. stream: go 语言并发通信设计模式的泛型实现 https://github.com/devnw/stream
+
+- 2. 一个比” ldflags” 更好的方式来添加构建版本号到 go 二进制的方式： https://levelup.gitconnected.com/a-better-way-than-ldflags-to-add-a-build-version-to-your-go-binaries-2258ce419d2d
+
+- 3. 怎么处理 HTTP 错误” context canceld” https://www.reddit.com/r/golang/comments/s7o5ay/investigating_context_canceled_http_errors/
+
+- 4. qalam 一个易于使用的终端样式库 https://github.com/iskaa02/qalam
+
+- 5. go2.0 我想看到的 https://www.sethvargo.com/what-id-like-to-see-in-go-2/
+
+
+编辑: 阿章
+订阅新闻: http://tinyletter.com/gocn
+
+招聘专区: https://gocn.vip/jobs
+
+GOCN 归档  https://gocn.vip/topics/20971
+
+
+
+- 6.编辑: 阿章
+- 7.订阅新闻: http://tinyletter.com/gocn
+
+- 8.招聘专区: https://gocn.vip/jobs
+
+- 9.GOCN 归档  https://gocn.vip/topics/20971
+
+
  go语言中文网(每日资讯)-2022-01-21
 # go-news-set-2022-01-21
 ## go语言中文网(每日资讯)-2022-01-21
