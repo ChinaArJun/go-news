@@ -1,3 +1,47 @@
+ go语言中文网(每日资讯)-2022-01-21
+# go-news-set-2022-01-21
+## go语言中文网(每日资讯)-2022-01-21
+
+
+一、Go语言中文网
+
+1. [GitHub 发现了 studygolang 项目依赖的漏洞](https://mp.weixin.qq.com/s/dR8l4JYSG3bd7AK4QyFPNg)
+
+2. [gopher 们，如何配置多个 GitHub 账号？](https://mp.weixin.qq.com/s/G9F0qcCDwcR0AtyVW8CT_A)
+
+3. [Go每日一题 2022-01-21: new() 与 make() 的区别](https://studygolang.com/interview/question/1fmip1geg00)
+
+二、polarisxu
+
+1. [Go1.18 泛型的好、坏亦或丑？](https://mp.weixin.qq.com/s/5GhEuDb3K7UAPuVJ1-ee1A)
+
+三、Go招聘
+
+1. [你要的Go CheatSheet这里都有](https://mp.weixin.qq.com/s/02rA4KPSeHNYeqX7-jlUuQ)
+
+四、脑子进煎鱼了
+
+1. [Go timer 是如何被调度的？](https://mp.weixin.qq.com/s/OSE7A5GNNl8bkBezCyE80w)
+
+五、微服务实践
+
+1. [带你十天轻松搞定 Go 微服务系列（五）](https://mp.weixin.qq.com/s/IeqOg0oiyLB_aKJqSoP3gw)
+
+六、云原生技术爱好者社区
+
+1. [Prometheus+Grafana的思考和实践](https://mp.weixin.qq.com/s/8fnw1HnOupzgO8PA2TAkVw)
+
+七、小白debug
+
+1. [盘点几个虎年必学的Go测试工具和技巧](https://mp.weixin.qq.com/s/kQ7gVMGR5NBHkfrso1b39w)
+
+八、Go开发大全
+
+1. [Go 中分布式锁学习笔记](https://mp.weixin.qq.com/s/NcrwPJ-RrZOxIRjGhRt6Lw)
+
+九、腾讯云监控
+
+1. [Golang 高质量单元测试之 Table-Driven：从入门到真香](https://mp.weixin.qq.com/s/OX2we6WvIgXE_zTOijTs_g)
  go语言中文网(每日资讯)-2022-01-20
 # go-news-set-2022-01-20
 ## go语言中文网(每日资讯)-2022-01-20
