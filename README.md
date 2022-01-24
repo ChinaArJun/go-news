@@ -1,3 +1,80 @@
+ go语言中文网(每日资讯)-2022-01-24
+# go-news-set-2022-01-24
+## go语言中文网(每日资讯)-2022-01-24
+
+
+一、Go语言中文网
+
+1. [盘点那些 Go 测试工具和技巧](https://mp.weixin.qq.com/s/ttRsW4N1gkmto9YT3pKCrg)
+
+2. [Go 通过 Map/Filter/ForEach 等流式 API 高效处理数据](https://mp.weixin.qq.com/s/t3INtSfFSmv-nsJqLmdPew)
+
+3. [Go每日一题 今日（2022-01-24）](https://studygolang.com/interview/question/1nfpa8oeg00)
+
+二、脑子进煎鱼了
+
+1. [Go1.18 新特性：编译后的二进制文件，将包含更多信息](https://mp.weixin.qq.com/s/GWORgffT-xGNEwtOs_4llw)
+
+2. [看透 Go 对象内部细节的神器](https://mp.weixin.qq.com/s/vVvNHeonasgEnYw0SknqfQ)
+
+三、Gopher指北
+
+1. [一顿骚操作版本号比较性能提升300%!!(MISSING)](MISSING)(https://mp.weixin.qq.com/s/QQHSBgqaJT0CksJNzmmMTg)
+
+四、polarisxu
+
+1. [推荐一本对实际工作很有用的 Go 新图书](https://mp.weixin.qq.com/s/pBqNKjt75Ml13TQ1E8k72w)
+
+五、幽鬼
+
+1. [2022 年要考虑的 7 种 Docker 替代方案](https://mp.weixin.qq.com/s/NOKqE5yxeaDYuTsJnhBKfw)
+
+六、我的小碗汤
+
+1. [一款强大的Kubernetes API流量查看神器](https://mp.weixin.qq.com/s/Ykfkz3XZlVlE1FntvIK6Wg)
+
+七、分布式实验室
+
+1. [如何建设一个好用的监控告警平台？](https://mp.weixin.qq.com/s/Al1l0fJS2sQ1mdImVBICIg)
+
+八、k8s技术圈
+
+1. [Kubernetes 调度均衡器 Descheduler 使用](https://mp.weixin.qq.com/s/92gUxuTLXMJZA7F4n3FjTA)
+
+九、微服务实践
+
+1. [带你十天轻松搞定 Go 微服务系列（六）](https://mp.weixin.qq.com/s/WVjeyrdsge7Yd6uuzW-jKA)
+ gopherDaily-2022-01-22
+# go-news-set-2022-01-22
+## gopherDaily-2022-01-22
+- 1.Go性能剖析、跟踪和可观察性指南 - 阅读原文
+- 2.用于Go的任意精度小数工具包 by cockroachdb - 阅读原文
+- 3.Go的依赖注入 - 阅读原文
+- 4.使用Go泛型实现的单生产者和多读取者无锁ringbuffer - 阅读原文
+- 5.gogradle: 一个为Go提供全面支持的Gradle插件 - 阅读原文
+- 6.REST API设计的原则和最佳实践 - 阅读原文
+- 7.如何在Kubernetes集群中管理安全: Kubernetes中各层安全管理的最佳实践 - 阅读原文
+- 8.Kubernetes ImagePullBackOff：用实例讲解如何排除故障 - 阅读原文
+- 9.mizu: Kubernetes的API流量查看器，使您能够查看微服务之间的所有API通信 - 阅读原文
+- 10.生产数据存储的数据集成 - 阅读原文
+
+ gopherDaily-2022-01-21
+# go-news-set-2022-01-21
+## gopherDaily-2022-01-21
+- 1.Go播客：AI驱动的Go开发 - 阅读原文
+- 2.掌握Go泛型的实用方法 - 阅读原文
+- 3.Clusternet：一款开源的跨云多集群云原生管控利器！- 阅读原文
+- 4.在Go中构建一个基本的微服务注册中心 - 阅读原文
+- 5.宠物(pet)与牛(cattle): 2022年Kubernetes的未来 - 阅读原文
+- 6.Go Web应用程序中常见的反模式 - 阅读原文
+- 7.调试处于”未就绪”状态的Kubernetes节点 - 阅读原文
+- 8.组织Git：一个更好的Git流程 - 阅读原文
+- 9.如何用Let’s Encrypt和Cert Manager保护K8S Nginx的入口 - 阅读原文
+- 10.我的容器的文件在哪里？检查容器文件系统 - 阅读原文
+- 11.如何成为一名区块链工程师 - 阅读原文
+- 12.用Kubeadm在Openstack虚拟机上安装Kubernetes - 阅读原文
+- 13.英国GopherCon会议亮点 - 阅读原文
+
  gocn_news-2022-01-21
 # go-news-set-2022-01-21
 ## gocn_news-2022-01-21
