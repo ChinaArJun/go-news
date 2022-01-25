@@ -1,3 +1,61 @@
+ go语言中文网(每日资讯)-2022-01-25
+# go-news-set-2022-01-25
+## go语言中文网(每日资讯)-2022-01-25
+
+
+一、Go语言中文网
+
+1. [让 Go 的错误处理更加强大](https://mp.weixin.qq.com/s/LTZXAPvTHRTUcNH_v7ZSIg)
+
+2. [Go每日一题 今日（2022-01-25）](https://studygolang.com/interview/question/2jcteoseg00)
+
+二、后端研究所
+
+1. [图解|Linux内存背后的那些神秘往事](https://mp.weixin.qq.com/s/l_YdpyHht5Ayvrc7LFZNIA)
+
+三、网管叨bi叨
+
+1. [微服务架构下的熔断框架：hystrix-go](https://mp.weixin.qq.com/s/tNiN576dzdXaQezvwY92HA)
+
+四、我的小碗汤
+
+1. [使用Golang，25秒读取16GB文件](https://mp.weixin.qq.com/s/KztzSVasyIvHwILHvKv05Q)
+
+五、polarisxu
+
+1. [惊！golang 竟然可以让人内心平静？！](https://mp.weixin.qq.com/s/YaZ-O3bzVMHfeoMQFCHiZw)
+
+2. [Go 为什么不在语言层面支持 map 并发？](https://mp.weixin.qq.com/s/mULml2GWvne40xP9F6Lzow)
+
+六、云加社区
+
+1. [关于Go并发编程，你不得不知的“左膀右臂”——并发与通道！](https://mp.weixin.qq.com/s/YTJZrcOFIkLEavBjQ9lCPw)
+
+七、Go招聘
+
+1. [你希望在Go 2中看到什么？](https://mp.weixin.qq.com/s/_I6ffLOsYsX4Q-EE0UR1cA)
+
+八、幽鬼
+
+1. [Go 使用场景和用 Go 的顶级公司](https://mp.weixin.qq.com/s/V6rBYB9EfzoJwhJ_M-7-9g)
+
+九、微服务实践
+
+1. [带你十天轻松搞定 Go 微服务系列（七）](https://mp.weixin.qq.com/s/TNK6USlxUKQmrOjPtJIS1Q)
+ gopherDaily-2022-01-25
+# go-news-set-2022-01-25
+## gopherDaily-2022-01-25
+- 1.sonic：基于JIT技术的开源全场景高性能JSON库 - 阅读原文
+- 2.Go中的泛型介绍：类型参数、类型推导和约束条件 - 阅读原文
+- 3.不要编写clean code，而要编写正确的、可读的、符合惯用法、简单的和有表现力的代码 - 阅读原文
+- 4.Go linters的状态和它们之间的区别 - 阅读原文
+- 5.如何使用Go调用Kubernetes的API–类型和常用组件 - 阅读原文
+- 6.如何一步步提升Go内存缓存性能 - 阅读原文
+- 7.微软开源的go版本的Win32 IO相关实用程序 - 阅读原文
+- 8.用VueJs和Go构建视频聊天应用程序 - 阅读原文
+- 9.2022年Kubernetes的5个趋势 - 阅读原文
+- 10.以Go为后端，实现惊人的Ethereum dapps - 阅读原文
+
  go语言中文网(每日资讯)-2022-01-24
 # go-news-set-2022-01-24
 ## go语言中文网(每日资讯)-2022-01-24
