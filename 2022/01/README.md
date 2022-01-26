@@ -1,3 +1,47 @@
+ go语言中文网(每日资讯)-2022-01-26
+# go-news-set-2022-01-26
+## go语言中文网(每日资讯)-2022-01-26
+
+
+一、Go语言中文网
+
+1. [Rust vs. Go：两个团队成员都认为两者结合效果更好！](https://mp.weixin.qq.com/s/6klNKpkF8enZjY0Q5qfzeQ)
+
+2. [2022 年要考虑的 7 种 Docker 替代方案](https://mp.weixin.qq.com/s/_eYSHi4J-wsgzkNN9y3Bfw)
+
+3. [Go每日一题 今日（2022-01-26）](https://studygolang.com/interview/question/38poag8eg00)
+
+二、脑子进煎鱼了
+
+1. [Go1.18 新特性：新增好用的 Cut 方法](https://mp.weixin.qq.com/s/anYHPw46gONF1J_Mzg3cpg)
+
+三、Golang梦工厂
+
+1. [Go 语言里怎么正确实现枚举？](https://mp.weixin.qq.com/s/gmcjrYzmY6Lueg_VEAqILw)
+
+四、网管叨bi叨
+
+1. [推荐一个能在线上用的 Go Debug 库](https://mp.weixin.qq.com/s/oES1U14U4EFu4USy_nxFAg)
+
+五、腾讯云原生
+
+1. [云原生技术实践 | 16位专家视频讲解合集（抢新年限定红包封面）](https://mp.weixin.qq.com/s/7RoYOX9PBp79bwsLmTiOsQ)
+
+六、腾讯技术工程
+
+1. [交付架构师工作指引](https://mp.weixin.qq.com/s/eJ6M5iwMpdtPSQVkhaONoA)
+
+七、百度Geek说
+
+1. [百度爱番番实时CDP建设实践](https://mp.weixin.qq.com/s/VSZFiQCZxXWY5x169iC3qg)
+
+八、Go招聘
+
+1. [使用context、WaitGroup优雅处理goroutine](https://mp.weixin.qq.com/s/paWpRvvqKQz0-cTGo_vPDA)
+
+九、微服务实践
+
+1. [带你十天轻松搞定 Go 微服务系列（八、服务监控）](https://mp.weixin.qq.com/s/cp--0RS3NybMufBUsht8bw)
  go语言中文网(每日资讯)-2022-01-25
 # go-news-set-2022-01-25
 ## go语言中文网(每日资讯)-2022-01-25
