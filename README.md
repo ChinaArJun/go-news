@@ -1,3 +1,59 @@
+ go语言中文网(每日资讯)-2022-01-27
+# go-news-set-2022-01-27
+## go语言中文网(每日资讯)-2022-01-27
+
+
+一、Go语言中文网
+
+1. [惊！golang 竟然可以让人内心平静？！](https://mp.weixin.qq.com/s/kTXooItosuQne89r02_8Xw)
+
+2. [golang源码阅读：livego直播系统](https://mp.weixin.qq.com/s/DCzAIq3_pFxnOr1QbWTcWg)
+
+3. [Go每日一题 今日（2022-01-27）](https://studygolang.com/interview/question/4bsevo0eg00)
+
+二、脑子进煎鱼了
+
+1. [Go sync.Pool 浅析](https://mp.weixin.qq.com/s/X7xC7AlxoM6kepBtLLzOWA)
+
+三、Golang技术分享
+
+1. [Context 是怎么在 Go 语言中发挥关键作用的](https://mp.weixin.qq.com/s/8hR-TNhJ_N5NfaGhHZAdEQ)
+
+四、百度技术沙龙
+
+1. [服务网格在联通的落地实践](https://mp.weixin.qq.com/s/BRPY_iazJ8QEy1O8ho5G5Q)
+
+五、polarisxu
+
+1. [Rust 版 Memcached 来了](https://mp.weixin.qq.com/s/6X4fAWpsCgIrw2-_5m34sQ)
+
+六、专家极客圈
+
+1. [Pyroscope: 简单易用的持续分析 (Continuous profiling)服务器](https://mp.weixin.qq.com/s/HjLsnn9z_DDj2ICYSrGSGA)
+
+七、贝壳产品技术
+
+1. [贝壳IM群聊优化之路](https://mp.weixin.qq.com/s/ybzq5etos8Y7HE_p3Z95Sg)
+
+八、网管叨bi叨
+
+1. [五个值得放收藏夹吃灰的Go CheatSheet 站点](https://mp.weixin.qq.com/s/8Oo1s2NA7MoliBrIPkUuAw)
+
+九、CloudNativeCommunity
+
+1. [如何在产品中引入 eBPF 以增加可观察性](https://mp.weixin.qq.com/s/GR--h1FMXo2M6itjH_hxhA)
+
+十、Go招聘
+
+1. [Go的atomic.Value为什么不加锁也能保证数据线程安全？](https://mp.weixin.qq.com/s/vyysFFcs6lKSjKQxxQSD8w)
+
+十一、幽鬼
+
+1. [增加了一行代码，让我们提高了3000%!!(MISSING)的(MISSING)性能](https://mp.weixin.qq.com/s/CnAVL93AHOMtYtnAsqtOFA)
+
+十二、微服务实践
+
+1. [带你十天轻松搞定 Go 微服务系列（九、链路追踪）](https://mp.weixin.qq.com/s/gpF-2NQ6Umxn-VqkzRPQpw)
  go语言中文网(每日资讯)-2022-01-26
 # go-news-set-2022-01-26
 ## go语言中文网(每日资讯)-2022-01-26
