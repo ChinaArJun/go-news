@@ -1,3 +1,48 @@
+ go语言中文网(每日资讯)-2022-01-28
+# go-news-set-2022-01-28
+## go语言中文网(每日资讯)-2022-01-28
+
+
+一、Go语言中文网
+
+1. [从软件工程的角度比较 Swift、Go 和 Julia，我有了这些发现!](https://mp.weixin.qq.com/s/U_J_YNxOEMiLWWp1SsZxVQ)
+
+2. [Typora 宣布收费后，这款开源 Markdown 编辑器火了](https://mp.weixin.qq.com/s/3ESfy580qkjRcz5fvX44aA)
+
+3. [Go每日一题 今日（2022-01-28）](https://studygolang.com/interview/question/4cirqm8eg00)
+
+二、Go招聘
+
+1. [Pyroscope: 简单易用的持续分析 (Continuous profiling)服务器](https://mp.weixin.qq.com/s/2ggcolNpQK6hk21rMYdJSQ)
+
+三、小白debug
+
+1. [微服务难点剖析 | 服务拆的挺爽，问题是日志该怎么串联起来呢？](https://mp.weixin.qq.com/s/T_RVBs4Kw3baQY_JKrHTpQ)
+
+四、微服务实践
+
+1. [带你十天轻松搞定 Go 微服务之大结局（分布式事务）](https://mp.weixin.qq.com/s/M1Xx_UI-62JhWVRdSfbDMg)
+
+五、网管叨bi叨
+
+1. [系统设计面试的答题思维框架](https://mp.weixin.qq.com/s/ZIIdk6S-cjSN1dHtj-_Kfg)
+ gopherDaily-2022-01-28
+# go-news-set-2022-01-28
+## gopherDaily-2022-01-28
+- 1.Go垃圾收集器中的写障碍(write barrier)  - 阅读原文
+- 2.Go泛型入门教程 - 阅读原文
+- 3.关于Go并发编程，你不得不知的“左膀右臂”——并发与channel - 阅读原文
+- 4.Go最重要的特性是不可见 - 阅读原文
+- 5.如何在产品中引入eBPF以增加可观察性 - 阅读原文
+- 6.探索eBPF(第一部分) - 阅读原文
+- 7.Go并发模式 - 阅读原文
+- 8.Web3技术堆栈的雏形：Agoric, IPFS, Cosmos网络 - 阅读原文
+- 9.Docker desktop的网络是如何运作的 - 阅读原文
+- 10.图灵奖获得者Alfred Aho和Jeffrey Ullman讨论”抽象、算法和编译器” - 阅读原文
+- 11.撰写事件事后总结的最佳实践 - 阅读原文
+- 12.塑造元宇宙的9大趋势 - 阅读原文
+- 13.通过Sidecar Agent Injector与CSI Provider整合Kubernetes Vault的对比 - 阅读原文
+
  go语言中文网(每日资讯)-2022-01-27
 # go-news-set-2022-01-27
 ## go语言中文网(每日资讯)-2022-01-27
