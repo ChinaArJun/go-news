@@ -1,3 +1,44 @@
+ go语言中文网(每日资讯)-2022-01-29
+# go-news-set-2022-01-29
+## go语言中文网(每日资讯)-2022-01-29
+
+
+一、Go语言中文网
+
+1. [贝壳 Go 实现的 IM 群聊优化之路](https://mp.weixin.qq.com/s/51IP867iJJtcq7IDd_JQxQ)
+
+2. [Go 问题排查实战：一个死锁bug的始末](https://mp.weixin.qq.com/s/KqNHNs75CimBMX9cF2zwZw)
+
+3. [Go每日一题 今日（2022-01-29） ](https://studygolang.com/interview/question/4d3e0soeg00)
+
+二、polarisxu
+
+1. [终于来啦！2万个Go专属红包封面，送给你](https://mp.weixin.qq.com/s/fFrBIZLVmkjo_yyvmSJrhg)
+
+三、网管叨bi叨
+
+1. [​程序员防猝死（划水）指南](https://mp.weixin.qq.com/s/N931QNN2YNVzt0vH6uySpg)
+
+四、码农桃花源
+
+1. [内联函数和编译器对Go代码的优化](https://mp.weixin.qq.com/s/ujWkFUqJiY3DCWeKZeS8uw)
+
+五、专家极客圈
+
+1. [利用 gopackage 进行包的捕获、注入和分析](https://mp.weixin.qq.com/s/yfmzrUBgNA5ncSelrY5pIw)
+ gopherDaily-2022-01-29
+# go-news-set-2022-01-29
+## gopherDaily-2022-01-29
+- 1.将Typescript type checker移植到Go而不是Rust所引发的讨论 - 阅读原文
+- 2.对Go可执行二进制文件进行树状图分解，依赖的go包大小一目了然 - 阅读原文
+- 3.通过重组结构体节省内存 - 阅读原文
+- 4.在Go中模拟出站的http请求：你可能做错了 - 阅读原文
+- 5.当你对一个连续的剖析器进行剖析时会发生什么？by pyroscope - 阅读原文
+- 6.聊聊API安全的重要性及治理思路 - 阅读原文
+- 7.官宣发布v0.10版：Ent获得一个全新的迁移引擎 - 阅读原文
+- 8.如何在Kubernetes Pod中构建Docker镜像 - 阅读原文
+- 9.命令行常用工具的替代品 - 阅读原文
+
  go语言中文网(每日资讯)-2022-01-28
 # go-news-set-2022-01-28
 ## go语言中文网(每日资讯)-2022-01-28
