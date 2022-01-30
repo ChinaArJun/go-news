@@ -1,3 +1,28 @@
+ go语言中文网(每日资讯)-2022-01-30
+# go-news-set-2022-01-30
+## go语言中文网(每日资讯)-2022-01-30
+
+
+一、Go语言中文网
+
+1. [又一套Go专属红包封面！2万个，人人有份](https://mp.weixin.qq.com/s/wI8BEQ4PBdN571GZxZlEMQ)
+
+2. [Go语言爱好者周刊：第 130 期](https://mp.weixin.qq.com/s/f72wrnfgjzvhq0vuYkmjgg)
+
+3. [Go每日一题 今日（2022-01-30）](https://studygolang.com/interview/question/4d3n3roeg00)
+二、Go招聘
+
+1. [Gopher专属红包封面你值得拥有](https://mp.weixin.qq.com/s/PMY7r2ODOR-4bOrrRIttdw)
+
+三、幽鬼
+
+1. [GoLand 2021.3.3 发布：更好地支持泛型](https://mp.weixin.qq.com/s/InpCA5WTrvT-Jt7rfnEYzw)
+
+四、Golang Weekly
+
+1. [Awesome Go Weekly - Issue 297, Jan 27, 2022 | LibHunt](https://go.libhunt.com/newsletter/297)
+
+2. [Golang Weekly Issue 397: January 28, 2022](https://golangweekly.com/issues/397)
  go语言中文网(每日资讯)-2022-01-29
 # go-news-set-2022-01-29
 ## go语言中文网(每日资讯)-2022-01-29
