@@ -1,3 +1,17 @@
+ gopherDaily-2022-01-31
+# go-news-set-2022-01-31
+## gopherDaily-2022-01-31
+- 1.ql: 纯Go实现的嵌入式数据库 - 阅读原文
+- 2.用go和sqlite建立一个网络应用程序 - 阅读原文
+- 3.实现可自我修改的go程序 - 阅读原文
+- 4.使用Kubernetes API工作系列 - 阅读原文
+- 5.服务网格：再见sidecar - 阅读原文
+- 6.实现程序可观察性(第二部分) - 阅读原文
+- 7.通过Terraform模块配置Traefik来代理DigitalOcean Kubernetes上的Harbor Registry - 阅读原文
+- 8.vim命令速查表 - 阅读原文
+- 9.git：简明指南 - 阅读原文
+- 10.AI 工程师是做什么的？ - 阅读原文
+
  go语言中文网(每日资讯)-2022-01-30
 # go-news-set-2022-01-30
 ## go语言中文网(每日资讯)-2022-01-30
