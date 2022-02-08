@@ -1,3 +1,66 @@
+ go语言中文网(每日资讯)-2022-02-08
+# go-news-set-2022-02-08
+## go语言中文网(每日资讯)-2022-02-08
+
+
+一、Go语言中文网
+
+1. [Go爱好者这么卷。。。](https://mp.weixin.qq.com/s/JGgqGdETPbvEoOdzMLWI6A)
+
+2. [理解go中空结构体的应用和实现原理](https://mp.weixin.qq.com/s/YU45CYk7Q-Na2WISMrUYCQ)
+
+3. [Go每日一题 今日（2022-02-08）](https://studygolang.com/interview/question/60a1meceg00)
+
+二、网管叨bi叨
+
+1. [用gRPC建设微服务，Proto 怎么管理更合适](https://mp.weixin.qq.com/s/77TRANRUAEJ9vRNRVe3NKg)
+
+三、Go招聘
+
+1. [Go 不同的特性有这么多！！](https://mp.weixin.qq.com/s/63Ui3GPmMISklq47rrdorw)
+
+四、polarisxu
+
+1. [GoLand 发布新版](https://mp.weixin.qq.com/s/SYNqVjp1hViNuILevtoCnQ)
+
+五、Golang来啦
+
+1. [学妹力荐，从入门到精通 Go 语言必读的十本书（附电子书）](https://mp.weixin.qq.com/s/BGvFmQHY_kNSIPAnGNYHPA)
+
+六、幽鬼
+
+1. [VSCode 1.64 正式发布](https://mp.weixin.qq.com/s/3A2AIUmCrJGjm2W6BFMyBw)
+
+七、k8s技术圈
+
+1. [访问者模式在 Kubernetes 中的使用](https://mp.weixin.qq.com/s/Pd-W4-cdwb7Pbk2kXOfqWg)
+
+八、CloudNativeCommunity
+
+1. [Tetrate 推出免费的 Envoy 在线基础教程](https://mp.weixin.qq.com/s/gDmc6N6b5oQ0-k6kwPNdzw)
+
+九、微服务实践
+
+1. [微服务从代码到k8s部署应有尽有系列（二、网关）](https://mp.weixin.qq.com/s/iQF2cpMa6fXmeYT1xZg_Pg)
+
+十、Golang梦工厂
+
+1. [面试官：Context携带数据是线程安全的吗？](https://mp.weixin.qq.com/s/cNmEnYUB07OWICcNu7wGfA)
+ gopherDaily-2022-02-08
+# go-news-set-2022-02-08
+## gopherDaily-2022-02-08
+- 1.用Go和HCL构建你自己的DSL - 阅读原文
+- 2.以太坊2.0区块链fuzzing test和漏洞发现之旅 - 阅读原文
+- 3.以Go为例-探究并行与并发的区别 - 阅读原文
+- 4.当前Kubernetes发行版的比较 - 阅读原文
+- 5.将Kubernetes扩展到4千多个节点和20万个Pod by paypal - 阅读原文
+- 6.OpenTelemetry可观测性的未来(中文版) - 阅读原文
+- 7.2022年值得关注的8个企业架构趋势 by redhat - 阅读原文
+- 8.缺失的kubernetes类型系统 - 阅读原文
+- 9.八大Kubernetes安全最佳实践 - 阅读原文
+- 10.使用GitHub、GitHub Actions和Argo CD的Kubernetes CI/CD - 阅读原文
+- 11.以太坊上数字签名的魔力 - 阅读原文
+
  go语言中文网(每日资讯)-2022-02-07
 # go-news-set-2022-02-07
 ## go语言中文网(每日资讯)-2022-02-07
