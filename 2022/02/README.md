@@ -1,3 +1,55 @@
+ go语言中文网(每日资讯)-2022-02-09
+# go-news-set-2022-02-09
+## go语言中文网(每日资讯)-2022-02-09
+
+
+一、Go语言中文网
+
+1. [Go 使用场景和用 Go 的顶级公司](https://mp.weixin.qq.com/s/d4flRvQQB1Y1nOj6fU3A2Q)
+
+2. [浅谈Golang两种线程安全的map](https://mp.weixin.qq.com/s/H5HDrwhxZ_4v6Vf5xXUsIg)
+
+3. [Go切片与技巧（附图解）](https://mp.weixin.qq.com/s/IQRHWNUnxiaCDleayNVRVg)
+
+4. [Go每日一题 今日（2022-02-09）](https://studygolang.com/interview/question/8cremcoeg00)
+
+二、亚军进化史
+
+1. [Go技术日报(2022-02-08)——以Go为例-探究并行与并发的区别](https://mp.weixin.qq.com/s/Hw_rKUIWMuha39CeWcyzAA)
+
+三、阿里云云栖号
+
+1. [技术揭秘 | 实时数仓 Hologres 如何支持超大规模部署与运维](https://mp.weixin.qq.com/s/wU-yHNYTZm_ZPPO0TM7uTg)
+
+四、微服务实践
+
+1. [微服务从代码到k8s部署应有尽有系列（三、鉴权）](https://mp.weixin.qq.com/s/hWTjAgBe1QTAVUsmbEk_uw)
+
+五、polarisxu
+
+1. [Rust 项目实战：从头构建一个笔记命令行程序（1）](https://mp.weixin.qq.com/s/pQ3JorFmCZWURj3QsnO19A)
+
+六、Go招聘
+
+1. [Go 应用的持续性分析](https://mp.weixin.qq.com/s/2aLBsFDE_ZQIMWH14Qk3Fw)
+
+七、幽鬼
+
+1. [Go：基于 MongoDB 构建 REST API — Fiber 版](https://mp.weixin.qq.com/s/8k6SJ5NOV7E4UdWDrJ-EgA)
+ gopherDaily-2022-02-09
+# go-news-set-2022-02-09
+## gopherDaily-2022-02-09
+- 1.使用go泛型实现actor模型 - 阅读原文
+- 2.Go doc样式增强的提案 by Russ Cox - 阅读原文
+- 3.关于借鉴Linux内核CFS调度器优化Goroutine调度的想法 - 阅读原文
+- 4.初始化go struct的另类方法 - 阅读原文
+- 5.Go 1.18都有哪些功能特性 - 阅读原文
+- 6.为繁忙的gopher提供go泛型简明教程 - 阅读原文
+- 7.用M3O构建Go Micro服务 - 阅读原文
+- 8.管理工程团队对Kubernetes集群的访问 - 阅读原文
+- 9.为什么我们喜欢Go进行下一代应用开发 - 阅读原文
+- 10.建立一个Kubernetes集群(2022版本) - 阅读原文
+
  go语言中文网(每日资讯)-2022-02-08
 # go-news-set-2022-02-08
 ## go语言中文网(每日资讯)-2022-02-08
