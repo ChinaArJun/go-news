@@ -1,3 +1,51 @@
+ go语言中文网(每日资讯)-2022-02-10
+# go-news-set-2022-02-10
+## go语言中文网(每日资讯)-2022-02-10
+
+
+一、Go语言中文网
+
+1. [Go：基于 MongoDB 构建 REST API — Fiber 版](https://mp.weixin.qq.com/s/NWoUMwvN6ot7yLuDP0Heiw)
+
+2. [VSCode 1.64 正式发布](https://mp.weixin.qq.com/s/b_uu0dyW6kue-OaDgwcpfg)
+
+3. [Go每日一题 今日（2022-02-10）](https://studygolang.com/interview/question/8d2c8cceg00)
+
+二、脑子进煎鱼了
+
+1. [面试官：Context携带数据是线程安全的吗？](https://mp.weixin.qq.com/s/L1jCsSP55E1QCjBGfZFirw)
+
+三、Golang来啦
+
+1. [学到了！将缓冲 channel 当做 Mutex 来使用](https://mp.weixin.qq.com/s/DRE38mOYYqURMFVkqYPu3w)
+
+四、华仔聊技术
+
+1. [源码系列第1弹 | 带你快速攻略Kafka源码之旅入门篇](https://mp.weixin.qq.com/s/DuGJou6CAsFEvDHKKQz2dw)
+
+五、k8s技术圈
+
+1. [HTTP 缓存协议实战](https://mp.weixin.qq.com/s/op68-6GacxQ8sqHP-TKQAg)
+
+六、ServiceMesher
+
+1. [我做了一个 Istio Workshop，这是第一讲介绍](https://mp.weixin.qq.com/s/81iIeXZ8IEQlSeM4WWl1uQ)
+
+七、云加社区
+
+1. [CGO让Go与C手牵手，打破双方“壁垒”！](https://mp.weixin.qq.com/s/I9IvJnKeJY8IpVB4lcWXNA)
+
+八、幽鬼
+
+1. [2022年2月编程语言排行榜：Go要进前10了，Rust 啥时候进前20呀](https://mp.weixin.qq.com/s/G5E-1xCIUF6zYkpYKSr0EA)
+
+九、微服务实践
+
+1. [微服务从代码到k8s部署应有尽有系列（四、用户中心）](https://mp.weixin.qq.com/s/LtwxbEa9jnLwbkHkKuWkFw)
+
+十、Go招聘
+
+1. [互联网域名系统国家工程研究中心DDI寻Gopher，巴适得很哦](https://mp.weixin.qq.com/s/N1qo6nFnbv_3uFMIWEuAjQ)
  go语言中文网(每日资讯)-2022-02-09
 # go-news-set-2022-02-09
 ## go语言中文网(每日资讯)-2022-02-09
