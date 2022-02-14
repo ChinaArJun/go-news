@@ -1,3 +1,92 @@
+ go语言中文网(每日资讯)-2022-02-14
+# go-news-set-2022-02-14
+## go语言中文网(每日资讯)-2022-02-14
+
+
+一、Go语言中文网
+
+1. [Go 分布式令牌桶限流 + 兜底保障](https://mp.weixin.qq.com/s/sAYaIprZDCjVEJT4TNTzXg)
+
+2. [Golang 函数和 C 函数深度对比](https://mp.weixin.qq.com/s/hTsNu-KrMOLFk2j7fP5w1w)
+
+3. [Go每日一题 今日（2022-02-14）](https://studygolang.com/interview/question/a177jfkeg00)
+
+二、亚军进化史
+
+1. [Go技术日报(2022-02-13)——数据库存储选型经验总结](https://mp.weixin.qq.com/s/oIDil0piAt0PONkmUdTdmw)
+
+三、脑子进煎鱼了
+
+1. [Go1.18 新特性：被折腾 N 次的 TryLock](https://mp.weixin.qq.com/s/mHf2g7SIBRUC1a7UfDlwpw)
+
+2. [用 Go 写的文件传输工具 croc 了解一下](https://mp.weixin.qq.com/s/Cd-KERf8vO9HecS29WWwbA)
+
+四、网管叨bi叨
+
+1. [分享一个 Go 应用的可视化持续采样分析的开源方案](https://mp.weixin.qq.com/s/fSlEYH5YDC8zBFtSHnuncA)
+
+五、Golang来啦
+
+1. [浅析 unsafe.Pointer 与 uintptr](https://mp.weixin.qq.com/s/xyfCR57cd5mNRRsOKvrFRA)
+
+六、Golang梦工厂
+
+1. [Go语言切片面试真题8连问](https://mp.weixin.qq.com/s/Qo_DNAAcamXXwU9ihrY6jA)
+
+七、Golang技术分享
+
+1. [Go 中的那些语法糖](https://mp.weixin.qq.com/s/jN5E9p0BenF7yGof_4fOeg)
+
+八、polarisxu
+
+1. [跟着 Go 作者学泛型](https://mp.weixin.qq.com/s/cLxQrgNfydzCqIQ3lsdzYg)
+
+九、Go招聘
+
+1. [极限科技 - 招聘 Golang 后端开发工程师](https://mp.weixin.qq.com/s/j-J20iOMS56qrx63iCvSdQ)
+
+十、幽鬼
+
+1. [Go 语言中包的风格指南](https://mp.weixin.qq.com/s/pnZoYKAWbUGduvVVsxQDWA)
+
+十一、微服务实践
+
+1. [微服务从代码到k8s部署应有尽有系列（六、订单服务）](https://mp.weixin.qq.com/s/yzUqcLAVbUJ52IxQ5rFzGA)
+ gopherDaily-2022-02-13
+# go-news-set-2022-02-13
+## gopherDaily-2022-02-13
+- 1.Go中大量堆内存的进一步危险 - 阅读原文
+- 2.谷歌大神详解Kubernetes配置管理最佳方法 - 阅读原文
+- 3.Go究竟是否为空切片分配了底层数组 - 阅读原文
+- 4.保护你的Kubernetes集群的7个顶级开源工具 by mattermost - 阅读原文
+- 5.Go性能剖析实战 - 阅读原文
+- 6.如何用Goroutines和Channels实现并发性 - 阅读原文
+- 7.用Cilium和eBPF检测container逃逸(到主机)的情况 - 阅读原文
+- 8.使用GitOps、多个Argo实例和环境与Argo CD的规模化使用 - 阅读原文
+- 9.数据库存储选型经验总结 - 阅读原文
+- 10.聊聊veth数据流 - 阅读原文
+- 11.“一把梭：REST API 全用 POST” - 阅读原文
+- 12.多图汇总梳理VPC与三种K8s网络模型 - 阅读原文
+- 13.解析Kubernetes HPA(Horizontal pod autoscaling) - 阅读原文
+
+ gopherDaily-2022-02-11
+# go-news-set-2022-02-11
+## gopherDaily-2022-02-11
+- 1.Go 1.17.7 and 1.16.14发布 - 阅读原文
+- 2.期待已久的Go泛型 - 阅读原文
+- 3.将Go profiling与tracing联系起来 - 阅读原文
+- 4.元宇宙公司Roblox的18000台服务器整整瘫痪了三天：因BoltDB糟糕的设计 - 阅读原文
+- 5.学习Go中的泛型 - 阅读原文
+- 6.Go 1.18中profiling的改进 - 阅读原文
+- 7.用vscode运行/调试go代码 - 阅读原文
+- 8.Smart.go：用于访问磁盘低级别的S.M.A.R.T.信息的Go包 - 阅读原文
+- 9.基于eBPF的Kubernetes一站式可观测性系统 - 阅读原文
+- 10.Kubernetes - 基于角色的访问控制（RBAC）概述 - 阅读原文
+- 11.CNCF发布2021云原生发展状态报告 - 阅读原文
+- 12.测试分布式系统 - 阅读原文
+- 13.为什么我喜欢Go - 阅读原文
+- 14.pget: Go实现的最快的客户端下载工具 - 阅读原文
+
  go语言中文网(每日资讯)-2022-02-10
 # go-news-set-2022-02-10
 ## go语言中文网(每日资讯)-2022-02-10
