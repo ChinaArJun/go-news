@@ -1,3 +1,50 @@
+ go语言中文网(每日资讯)-2022-02-16
+# go-news-set-2022-02-16
+## go语言中文网(每日资讯)-2022-02-16
+
+一、Go语言中文网
+
+1. [带你十天轻松搞定 Go 微服务系列（一）](https://mp.weixin.qq.com/s/oRX-OUOP9Ak5R1MEHRU5gg)
+
+2. [体验 http3: 基于 nginx quic 分支](https://mp.weixin.qq.com/s/ynqqlSOIOSyp6USynEtrEg)
+
+3. [Go每日一题 今日（2022-02-16）](https://studygolang.com/interview/question/a2fma98eg00)
+
+二、亚军进化史
+
+1. [Go技术日报(2021-02-15)——Go为空切片分配了底层数组？](https://mp.weixin.qq.com/s/uTC2beV0aEdTBZVcpFD9hQ)
+
+三、脑子进煎鱼了
+
+1. [Go1.18 新特性：弃用 strings.Title 方法，换个新坑吧！](https://mp.weixin.qq.com/s/UiP-up751_Q3N0xzE2qkfA)
+
+四、k8s技术圈
+
+1. [无法拉取 gcr.io 镜像？用魔法来打败魔法](https://mp.weixin.qq.com/s/zfpvI24NPXPlSMfT83D6Mw)
+
+五、微服务实践
+
+1. [微服务从代码到k8s部署应有尽有系列（八、各种队列）](https://mp.weixin.qq.com/s/-OAtjaZlP419xOVqvNKtFg)
+
+六、Go招聘
+
+1. [两年刚需房，五年大平层，来这里一起朝九晚六策人生](https://mp.weixin.qq.com/s/_evCfqtLF6JLezHyEEQQqg)
+
+七、MoeLove
+
+1. [K8S 生态周报| Istio 即将发布重大安全更新，多个版本受影响](https://mp.weixin.qq.com/s/Z7XRxO3wTx8gb2-FQGxChA)
+
+八、Kubernetes技术栈
+
+1. [生产环境搭建高可用Harbor（包括恢复演练实操）](https://mp.weixin.qq.com/s/EAiC_zIdiA0kTdhMGM8QDw)
+
+九、Golang来啦
+
+1. [教妹子学 Go 并发原语：啥是 Semaphore ？](https://mp.weixin.qq.com/s/mXLJBmjMl05s-aMEcECeBw)
+
+十、字节跳动技术团队
+
+1. [如何使用高阶函数编程提升代码的简洁性](https://mp.weixin.qq.com/s/w1ebAgnzfDzoGG0sn6KGlQ)
  go语言中文网(每日资讯)-2022-02-15
 # go-news-set-2022-02-15
 ## go语言中文网(每日资讯)-2022-02-15
@@ -58,6 +105,20 @@
 十三、云加社区
 
 1. [10分钟搞懂！消息队列选型全方位对比](https://mp.weixin.qq.com/s/K6xj4LfplB16Q_DfQL75PA)
+ gopherDaily-2022-02-15
+# go-news-set-2022-02-15
+## gopherDaily-2022-02-15
+- 1.Go语言的版本控制历史 - 阅读原文
+- 2.完美逃逸Go gc机制的Go内存管理器 - 阅读原文
+- 3.Go语言的第一次提交（1972年）- 阅读原文
+- 4.我们如何用Go编写GitHub action - 阅读原文
+- 5.图解Go Context - 阅读原文
+- 6.Go区块链：第一部分：数字账户、签名和验证 - 阅读原文
+- 7.当太多的并发使你变慢时 - 阅读原文
+- 8.eBPF相关资源大全 - 阅读原文
+- 9.2021中国开源开发者报告 - 阅读原文
+- 10.Kubernetes与下一代PaaS - 阅读原文
+
  go语言中文网(每日资讯)-2022-02-14
 # go-news-set-2022-02-14
 ## go语言中文网(每日资讯)-2022-02-14
