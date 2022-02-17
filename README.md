@@ -1,3 +1,69 @@
+ go语言中文网(每日资讯)-2022-02-17
+# go-news-set-2022-02-17
+## go语言中文网(每日资讯)-2022-02-17
+
+
+一、Go语言中文网
+
+1. [带你十天轻松搞定 Go 微服务系列（二）](https://mp.weixin.qq.com/s/Gv1IZy2jIvhC0yExlrQtjA)
+
+2. [Go每日一题 今日（2022-02-17）](https://studygolang.com/interview/question/a2k0k20eg00)
+
+二、亚军进化史
+
+1. [Go技术日报(2022-02-16)——高阶函数编程提升代码简洁性](https://mp.weixin.qq.com/s/ceLVgjSj-7-R9eE_dD73FA)
+
+三、脑子进煎鱼了
+
+1. [一文完全掌握 Go math/rand](https://mp.weixin.qq.com/s/ihjoUuPSbySjBUVw70gYpQ)
+
+四、网管叨bi叨
+
+1. [Go 的 Contex 是线程安全的吗？](https://mp.weixin.qq.com/s/7L2H3ulyTk4hXQFbFfa79A)
+
+五、Golang技术分享
+
+1. [超全总结：Go 读文件的 10 种方法](https://mp.weixin.qq.com/s/ww27OPuD_Pse_KDNQWyjzA)
+
+2. [生产环境Go程序内存泄露，用pprof如何快速定位](https://mp.weixin.qq.com/s/PEpvCqpi9TPhVuPdn3nyAg)
+
+六、polarisxu
+
+1. [2022 年最佳 Go 图书？](https://mp.weixin.qq.com/s/7Jvhir7qd7WUDYFFYRfx8w)
+
+七、Go招聘
+
+1. [Go1.18 这个包确定没了](https://mp.weixin.qq.com/s/aojlehplyvP0wNCQLI129w)
+
+八、CloudNativeCommunity
+
+1. [在 Istio 中引入 Wasm 意味着什么？](https://mp.weixin.qq.com/s/gXBRBO4TPKcmUH0iwiCeNA)
+
+九、微服务实践
+
+1. [微服务从代码到k8s部署应有尽有系列（九、事务精讲）](https://mp.weixin.qq.com/s/cFxnz-Tu-n8MQo00VvPNzw)
+
+十、专家极客圈
+
+1. [Go正则表达式示例](https://mp.weixin.qq.com/s/1bcN5vMMKpAKAKXK6gPdAQ)
+
+十一、奇伢云存储
+
+1. [VSCode 阅读 Linux 代码怎么才不卡顿？这样做才能快的飞起！](https://mp.weixin.qq.com/s/pNdiDyAAOvMh7KfvNNj1Mg)
+ gopherDaily-2022-02-17
+# go-news-set-2022-02-17
+## gopherDaily-2022-02-17
+- 1.利用Google Cloud Build持续构建和部署Go应用程序 - 阅读原文
+- 2.在Go中实现优雅退出 - 阅读原文
+- 3.maintidx：衡量每个Go函数的可维护性指数 - 阅读原文
+- 4.使用Go建立一个自签名的服务器 - 阅读原文
+- 5.播客：Go与MLOps - 阅读原文
+- 6.Go module时代的Go包管理解析 - 阅读原文
+- 7.迎接Kraken：一个新的Go僵尸网络正在开发中 - 阅读原文
+- 8.为什么我能够在没有NET_BIND_SERVICE能力的情况下在我的容器中绑定一个特权端口？ - 阅读原文
+- 9.如何使用Cluster Mesh进行多区域Kubernetes Pod通信 - 阅读原文
+- 10.Kubernetes访问控制的十个要点 - 阅读原文
+
  go语言中文网(每日资讯)-2022-02-16
 # go-news-set-2022-02-16
 ## go语言中文网(每日资讯)-2022-02-16
