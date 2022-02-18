@@ -1,3 +1,57 @@
+ go语言中文网(每日资讯)-2022-02-18
+# go-news-set-2022-02-18
+## go语言中文网(每日资讯)-2022-02-18
+
+
+一、Go语言中文网
+
+1. [带你十天轻松搞定 Go 微服务系列（三）](https://mp.weixin.qq.com/s/7oEjgd_AQS-B2LQocQFr3w)
+
+2. [Go每日一题 今日（2022-02-18）](https://studygolang.com/interview/question/bpj2v40eg00)
+
+二、gopher梦工厂
+
+1. [【研发效率提升】goland+dlv远程调试](https://mp.weixin.qq.com/s/jPJLd87P9EP3Fb4ogId22A)
+
+三、进击云原生
+
+1. [高级 Kubernetes 部署策略](https://mp.weixin.qq.com/s/gnE0t3Jds4EKs3ywFTxEhw)
+
+四、亚军进化史
+
+1. [Go技术日报(2022-02-17)——微服务事务精讲](https://mp.weixin.qq.com/s/vQJvEFyK1m6txQXb1fS_aA)
+
+五、Go招聘
+
+1. [Go 为什么不支持可重入锁？](https://mp.weixin.qq.com/s/y3ZS-9FZ1gtfT0C47lh9jw)
+
+六、Golang梦工厂
+
+1. [Go 如何实现启动参数的加载](https://mp.weixin.qq.com/s/N8oOZ3ZwiD5AXqTffU-ToQ)
+
+七、Go生态
+
+1. [Golang 的 “omitempty” 关键字略解](https://mp.weixin.qq.com/s/4_Tyu0qBGlCOuSm0AN0_ZA)
+
+八、腾讯技术工程
+
+1. [一篇详文带你入门 Redis](https://mp.weixin.qq.com/s/-3fcK4WspGk6SEsaVrdx8A)
+
+九、分布式实验室
+
+1. [如何保证数据库缓存的最终一致性？](https://mp.weixin.qq.com/s/uZqHqh2R5jFo89EiLDdEIg)
+
+十、幽鬼
+
+1. [程序员技术选型：写Go还是Java？网友：Rust不香？](https://mp.weixin.qq.com/s/Xw6QKXWqueQfiQp5c1QumQ)
+
+十一、网管叨bi叨
+
+1. [Go1.18 新特性：多 Module 工作区模式](https://mp.weixin.qq.com/s/9hnNZUmeLcfruf16vMv14w)
+
+十二、微服务实践
+
+1. [微服务从代码到k8s部署应有尽有系列（十、错误处理）](https://mp.weixin.qq.com/s/CLvdA2LCBGiN2H0n1NUpKw)
  go语言中文网(每日资讯)-2022-02-17
 # go-news-set-2022-02-17
 ## go语言中文网(每日资讯)-2022-02-17
