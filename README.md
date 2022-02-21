@@ -1,3 +1,83 @@
+ go语言中文网(每日资讯)-2022-02-21
+# go-news-set-2022-02-21
+## go语言中文网(每日资讯)-2022-02-21
+
+
+一、Go语言中文网
+
+1. [带你十天轻松搞定 Go 微服务系列（五）](https://mp.weixin.qq.com/s/z-7bMjs-0yKVnkDncoBd1w)
+
+2. [Go每日一题 今日（2022-02-21）](https://studygolang.com/interview/question/ctq02j4eg00)
+
+二、脑子进煎鱼了
+
+1. [Go1.18 新特性：高效复制，strings, bytes 标准库新增 Clone API](https://mp.weixin.qq.com/s/QvyjBwKM12Ruz_stujVA7Q)
+
+2. [Go 如何实现启动参数的加载](https://mp.weixin.qq.com/s/S77H_49Py6EgKjBGcGFlzg)
+
+三、TonyBai
+
+1. [Go GC如何检测内存对象中是否包含指针](https://mp.weixin.qq.com/s/uVhRqQh0gwzUeP93UXJ5wA)
+
+四、飞雪无情
+
+1. [我的面试经验忠告，不要被框架所束缚](https://mp.weixin.qq.com/s/9pThsSMorQl-KaXwf_818g)
+
+五、polarisxu
+
+1. [Rust vs. Go：两个团队成员都认为两者结合效果更好！](https://mp.weixin.qq.com/s/QW3WvU0wzMmrq-Sa2qt96Q)
+
+六、CloudNativeCommunity
+
+1. [做到这7点，避免微服务落地失败](https://mp.weixin.qq.com/s/l1d-27GgcJO9uPBy2AlmlA)
+
+七、k8s技术圈
+
+1. [云原生 Kubernetes 分布式存储平台 Longhorn 初体验](https://mp.weixin.qq.com/s/BmX-kCkvyNzmG77l44bg5g)
+
+八、微服务实践
+
+1. [微服务从代码到k8s部署应有尽有系列（十一、日志收集）](https://mp.weixin.qq.com/s/rmzql6DxAd5fhcG5IJF5Fg)
+
+九、码农桃花源
+
+1. [你应该如何选择笔记软件？](https://mp.weixin.qq.com/s/cKEXl41pnmAskocn6CIWBA)
+
+十、李文周
+
+1. [Go单测从零到溜系列—6.编写可测试的代码](https://mp.weixin.qq.com/s/hzVIMDhPQXtWoBIj0Aueug)
+
+十一、Golang来啦
+
+1. [哇，14662 字解析 Go 语言 Context（附图）](https://mp.weixin.qq.com/s/Y6PegzJORKrHd4ZEQNEhAQ)
+
+十二、Golang梦工厂
+
+1. [探讨两种 option 编程模式的实现](https://mp.weixin.qq.com/s/fu68eQoCn-mBjSiojusYIA)
+
+十三、Golang技术分享
+
+1. [一个活跃在众多 Go 项目中的编程模式](https://mp.weixin.qq.com/s/dWY1ZzOl1TwpmM-rrF0m4Q)
+
+十四、董泽润的技术笔记
+
+1. [围观 Roblox 持续三天的故障](https://mp.weixin.qq.com/s/DHCM9fSTQ8QiOWeL7J2N_g)
+ gopherDaily-2022-02-21
+# go-news-set-2022-02-21
+## gopherDaily-2022-02-21
+- 1.文件驱动的Go单元测试 - 阅读原文
+- 2.Go开发者的AWS Lambda 101教程: API Gateway - 阅读原文
+- 3.分析并发的Goroutine - 阅读原文
+- 4.使用Go从头开始实现SMTP协议：从Gmail接收邮件 - 阅读原文
+- 5.关于Golang和Rust对比及语言的选择思考 - 阅读原文
+- 6.Argo CD中多租户的最佳实践 - 阅读原文
+- 7.使用Go建立一个雅虎财经爬虫 - 阅读原文
+- 8.Kubernetes：调试NetworkPolicy  - 阅读原文
+- 9.深入探讨容器与pod - 阅读原文
+- 10.做到这7点，避免微服务落地失败 - 阅读原文
+- 11.2021年Rust调查报告出炉 - 阅读原文
+- 12.GoF经典设计模式在Go中仍然有意义 - 阅读原文
+
  go语言中文网(每日资讯)-2022-02-18
 # go-news-set-2022-02-18
 ## go语言中文网(每日资讯)-2022-02-18
