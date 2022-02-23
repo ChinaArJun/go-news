@@ -1,3 +1,63 @@
+ go语言中文网(每日资讯)-2022-02-23
+# go-news-set-2022-02-23
+## go语言中文网(每日资讯)-2022-02-23
+一、Go语言中文网
+
+1. [rsc 大爆料：Go源码的那些有趣历史](https://mp.weixin.qq.com/s/xcbwhFarogiis35v0rFVqg)
+
+2. [带你十天轻松搞定 Go 微服务系列（七）](https://mp.weixin.qq.com/s/cBPZHvrKs_CwBdqd8BfImQ)
+
+3. [Go每日一题 今日（2022-02-23)](https://studygolang.com/interview/question/ctsvdtceg00)
+
+二、polarisxu
+
+1. [这个开源项目牛逼：牙医教你用450行Go代码写出一个编程语言](https://mp.weixin.qq.com/s/2_tVDqZWmc_ttOp9_MlVEQ)
+
+2. [真是头疼，Proto 代码到底放哪里？](https://mp.weixin.qq.com/s/26tJGafFlxwOmJxcuibuFg)
+
+三、幽鬼
+
+1. [如何哄女神欢心，这个Go开源项目说的一清二楚](https://mp.weixin.qq.com/s/UaACcQRZZBAA1u029g09wg)
+
+四、百度Geek说
+
+1. [Golang保姆级Debug教程](https://mp.weixin.qq.com/s/JZR1gaZTR0QtNhk_hQX3CA)
+
+五、k8s技术圈
+
+1. [通过 Kubernetes CSI 实现 Longhorn 卷快照备份、恢复、克隆与扩容功能](https://mp.weixin.qq.com/s/L7h6INpWJOUnpd9Vq7rMPw)
+
+六、微服务实践
+
+1. [微服务从代码到k8s部署应有尽有系列（十三、服务监控）](https://mp.weixin.qq.com/s/6Mvnah6UlG9EVZqeXzyZeg)
+
+七、Golang来啦
+
+1. [我的面试经验忠告，不要被框架所束缚](https://mp.weixin.qq.com/s/XS0HnRRFmqjml0jvibeM3Q)
+
+2. [Go 函数的 Map 型参数，会发生扩容后指向不同底层内存的事儿吗？](https://mp.weixin.qq.com/s/jfsaaIoTN5aWqI-iu_CcEw)
+
+八、腾讯云监控
+
+1. [【Golang 技术分享】关于 Go 并发编程，你不得不知的“左膀右臂”——并发与通道！](https://mp.weixin.qq.com/s/Wwnnx9BLw5Z-ksgJYAe-Vw)
+
+九、脑子进煎鱼了
+
+1. [网友：Go 你是 Google 的，Go：我不是。](https://mp.weixin.qq.com/s/F6JcFwYr0pzCDyqd2XNAaQ)
+ gopherDaily-2022-02-23
+# go-news-set-2022-02-23
+## gopherDaily-2022-02-23
+- 1.新proposal: 标准库增加arenas包，最高省15%!!(MISSING)c(MISSING)pu和mem使用 - 阅读原文
+- 2.lem: 一个用于断言预期逃逸分析结果和堆分配的Golang测试框架 - 阅读原文
+- 3.keploy: 将API调用自动转换为testcase的无代码测试框架 - 阅读原文
+- 4.pprof数据在线分析工具 - 阅读原文
+- 5.干货：我们是如何从头构建我们的API的 by Polar Signals - 阅读原文
+- 6.在阿里云Kubernetes上用MinIO安装私有S3存储 - 阅读原文
+- 7.让基于Linux的eBPF程序在Windows的eBPF中运行 - 阅读原文
+- 8.使用Go中的yaml.v3包来处理YAML文件 - 阅读原文
+- 9.容器101：attach与exec–有什么区别？ - 阅读原文
+- 10.Joel Spolsky谈用区块协议构建网络的问题 - 阅读原文
+
  go语言中文网(每日资讯)-2022-02-21
 # go-news-set-2022-02-21
 ## go语言中文网(每日资讯)-2022-02-21
