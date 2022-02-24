@@ -1,3 +1,34 @@
+ go语言中文网(每日资讯)-2022-02-24
+# go-news-set-2022-02-24
+## go语言中文网(每日资讯)-2022-02-24
+
+
+一、Go语言中文网
+
+1. [带你十天轻松搞定 Go 微服务系列（八、服务监控）](https://mp.weixin.qq.com/s/jKlUYWuK6NUIQaKPIZUsGQ)
+
+2. [Go每日一题 今日（2022-02-24](https://studygolang.com/interview/question/cttmb18eg00)
+二、亚军进化史
+
+1. [Go技术日报(2022-02-23)——Golang 简洁架构实战](https://mp.weixin.qq.com/s/yEDW8EsVsohgu0kT9TUiTA)
+
+2. [Go技术日报(2022-02-22)——细数 Context 使用场景](https://mp.weixin.qq.com/s/ZSMD0NHW59IteHIS6hIc6w)
+
+三、Golang来啦
+
+1. [Go 为什么不支持类和继承？](https://mp.weixin.qq.com/s/K2toW5dKebg4alK3WrVeqg)
+
+四、Go招聘
+
+1. [互联网出海电商SaaS-B轮，薪资对标一线，招聘各级别Gopher](https://mp.weixin.qq.com/s/IIVH_PwotuM6MST2UgLMHA)
+
+五、k8s技术圈
+
+1. [开源工具集Carvel在CI/CD流水线中的集成](https://mp.weixin.qq.com/s/TEchW7IWp6iNXHBQ44zKHg)
+
+六、微服务实践
+
+1. [微服务从代码到k8s部署应有尽有系列（十四、部署环境搭建）](https://mp.weixin.qq.com/s/qN3JHEKbSjVFGFduHmZXdQ)
  go语言中文网(每日资讯)-2022-02-23
 # go-news-set-2022-02-23
 ## go语言中文网(每日资讯)-2022-02-23
