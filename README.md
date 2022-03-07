@@ -1,3 +1,105 @@
+ go语言中文网(每日资讯)-2022-03-07
+# go-news-set-2022-03-07
+## go语言中文网(每日资讯)-2022-03-07
+
+
+一、Go语言中文网
+
+1. [微服务从代码到k8s部署应有尽有系列（六、订单服务）](https://mp.weixin.qq.com/s/QC0NzSZPKIaVajOuiOoB-A)
+
+二、亚军进化史
+
+1. [Go技术日报(2022-03-05/06)——Go 中的那些语法糖](https://mp.weixin.qq.com/s/4XtYtVUTHHDyIeqRgFrfZQ)
+
+三、捉虫大师
+
+1. [惨，给Go提的代码被批麻了](https://mp.weixin.qq.com/s/5kxj9B7mwmTDIYPflAVZbQ)
+
+四、云加社区
+
+1. [来，5W1H分析法帮你系统掌握缓存！（图文并茂）](https://mp.weixin.qq.com/s/q6T0mbvbTtt46C64638p2A)
+
+五、polarisxu
+
+1. [一文理解Go中的内存分配](https://mp.weixin.qq.com/s/UARz-SexNbF5pRQt7NveZQ)
+
+六、Go招聘
+
+1. [Go 原生并发原语和最佳实践](https://mp.weixin.qq.com/s/8SDm0ADq6BO9rj8Zcx6lZg)
+
+七、MoeLove
+
+1. [K8S 生态周报| Knative 进入 CNCF 孵化，K8S ingress-nginx 解决多实例问题](https://mp.weixin.qq.com/s/INxSawTXLkoKtsjvVDxDQQ)
+
+八、网管叨bi叨
+
+1. [图解算法基础--快速排序，附 Go 代码实现](https://mp.weixin.qq.com/s/R4oIaBO-mQjemwNtA6sjBA)
+
+九、微服务实践
+
+1. [构建 Go 应用 docker 镜像的十八种姿势](https://mp.weixin.qq.com/s/udpNP2LzF0bfn8w_wNcMYQ)
+
+十、码农桃花源
+
+1. [为什么你不应该接受有 race 的代码](https://mp.weixin.qq.com/s/0vz9uR8zIT64Gvv3qjTENQ)
+
+十一、奇伢云存储
+
+1. [Linux 存储系列｜请描述一下文件的 io 栈？](https://mp.weixin.qq.com/s/IrZF9lWweEs1rhxuvMUCKA)
+
+十二、Golang梦工厂
+
+1. [Go1.18 引入了新的 netip 网络库](https://mp.weixin.qq.com/s/ht_yoL23-GdAmOn_gQnwqw)
+
+十三、Golang技术分享
+
+1. [怎么选择 Go 文件读取方案](https://mp.weixin.qq.com/s/Z-19Yj8Je7Wb9bqvMR35Cg)
+ gopherDaily-2022-03-07
+# go-news-set-2022-03-07
+## gopherDaily-2022-03-07
+- 1.数据结构和算法的Go实现 - 阅读原文
+- 2.一个Nodejs程序员在7天内学会关于Go的一切 - 阅读原文
+- 3.开始一个新的Gin网络应用的坚实基础 -  阅读原文
+- 4.在Go中打印一个带有（逗号）千位分隔符的数字 - 阅读原文
+- 5.为你的Go项目提供Git Hooks - 阅读原文
+- 6.作为一名Java开发者，如何开始使用Go？ - 阅读原文
+- 7.支持大规模系统的设计模式和原则 - 阅读原文
+- 8.为基于OpenID连接的单点登录配置MinIO - 阅读原文
+- 9.Go中的可选函数参数 - 阅读原文
+- 10.简化K8S Operator构建的新模式 - 阅读原文
+- 11.现代C++速查表 - 阅读原文
+- 12.Kubernetes中的多调度器 - 阅读原文
+- 13.汇编语言编程的艺术 - 阅读原文
+
+ gopherDaily-2022-03-06
+# go-news-set-2022-03-06
+## gopherDaily-2022-03-06
+- 1.关于Go泛型的早期看法 - 阅读原文
+- 2.Gopher部落：2022年要做的事儿 - 阅读原文
+- 3.为什么我们迁移到Go - 阅读原文
+- 4.REST API设计的原则和最佳实践 - 阅读原文
+- 5.Playwright: 浏览器自动化库，用同一套API控制Chromium、Firefox和WebKit - 阅读原文
+- 6.一个轻量级云原生API网关 - 阅读原文
+- 7.经典旧文：如何实现拼写校正器 - 阅读原文
+- 8.netshoot：一个Docker + Kubernetes网络故障排除的“瑞士军刀” - 阅读原文
+- 9.区块链上的机器学习 - 阅读原文
+- 10.在基础设施和应用中使用Crossplane和Argo CD实现GitOps - 阅读原文
+
+ gopherDaily-2022-03-05
+# go-news-set-2022-03-05
+## gopherDaily-2022-03-05
+- 1.聊聊Go应用输出日志的工程实践 - 阅读原文
+- 2.Go Generics的实现原理 - 阅读原文
+- 3.Go 1.17.8和Go 1.16.15发布(主要是安全更新) - 阅读原文
+- 4.对于大型对象数组，Go的内置JSON编码器的速度最高可提升55%!!(MISSING)阅(MISSING)读原文
+- 5.使用NATS的分布式通信模式 - 阅读原文
+- 6.一个基于Go 1.18+泛型的Lodash风格的Go库（map, filter, contains, find…）- 阅读原文
+- 7.终极Go性能优化指南 - 阅读原文
+- 8.Filebase引入对IPFS的支持 - 阅读原文
+- 9.用Go构建命令行工具:Lolcat - 阅读原文
+- 10.使用Mantil、Go、JWT、AWS Lambda、SES和DynamoDB的用户注册示例 - 阅读原文
+- 11.为什么说KEDA改变了Kubernetes的扩展方式？ - 阅读原文
+
  go语言中文网(每日资讯)-2022-03-03
 # go-news-set-2022-03-03
 ## go语言中文网(每日资讯)-2022-03-03
