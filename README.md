@@ -1,3 +1,67 @@
+ go语言中文网(每日资讯)-2022-03-08
+# go-news-set-2022-03-08
+## go语言中文网(每日资讯)-2022-03-08
+
+
+一、Go语言中文网
+
+1. [这个开源项目牛逼：牙医教你用450行Go代码写出一个编程语言](https://mp.weixin.qq.com/s/-a5ZldMf4MkGMgXT6khdrQ)
+
+2. [微服务从代码到k8s部署应有尽有系列（七、支付服务）](https://mp.weixin.qq.com/s/1t4Mv1zeYsVHb6vu0-JpZA)
+
+3. [Go每日一题 今日（2022-03-08）](https://studygolang.com/interview/question/fpn747ceg00)
+
+二、亚军进化史
+
+1. [Go技术日报(2022-03-07)——Go 原生并发原语和最佳实践](https://mp.weixin.qq.com/s/Nxp59wVdOnuPXuPoJqmQYw)
+
+三、polarisxu
+
+1. [女神节：如何哄女神欢心，这个Go开源项目说的一清二楚](https://mp.weixin.qq.com/s/_rGrDo9g_329MGF_0a0piQ)
+
+四、Golang来啦
+
+1. [一个用go实现的有限状态机](https://mp.weixin.qq.com/s/pSQbxhTetUDQMSduik7F0w)
+
+2. [你应该知道的 Go WaitGroup 剖析](https://mp.weixin.qq.com/s/XVaCQTeJhM81Iyjou60hxQ)
+
+五、Gopher指北
+
+1. [除以零不会panic？](https://mp.weixin.qq.com/s/uG7KL0BEpzh1-BZs3dbZHA)
+
+六、腾讯云监控
+
+1. [【链路追踪】采样那些事儿](https://mp.weixin.qq.com/s/1oN4DV7sgpssUCan-Em0EA)
+
+七、Kubernetes技术栈
+
+1. [基于rancher的容器平台监控方案参考](https://mp.weixin.qq.com/s/ZewPk7IUd6SPY9JtsSzpkQ)
+
+八、脑子进煎鱼了
+
+1. [Go 在 1972 年提交了第一行代码？](https://mp.weixin.qq.com/s/xd3GFIzp-P8wlmJpqt8wWw)
+
+2. [推荐一款不错的 Go 持续分析工具](https://mp.weixin.qq.com/s/GrDFbTjXvC_uyXynceOpzw)
+
+九、云原生技术应用
+
+1. [运维,放过监控-也放过自己吧](https://mp.weixin.qq.com/s/t6dbfJyAcHC2B7C1lz44Rg)
+ gopherDaily-2022-03-08
+# go-news-set-2022-03-08
+## gopherDaily-2022-03-08
+- 1.创建分布式的、可扩展的、持久的和高可用性的软件–与Cadence合作  - 阅读原文
+- 2.Go中的内存管理 - 阅读原文
+- 3.使用Go的UTF-8字符串：len(s)是不够的 - 阅读原文
+- 4.用Go编写一个简单的内存键值数据库 - 阅读原文
+- 5.由Go的源代码中生成Typescript类型 - 阅读原文
+- 6.使用IntelliJ或Goland加速Golang开发的5个技巧 - 阅读原文
+- 7.使用Go建立一个负载均衡器 - 阅读原文
+- 8.带有ko的自动SBOMs - 阅读原文
+- 9.Oso：一个包含电池的框架，用于在你的应用程序中建立授权 - 阅读原文
+- 10.fgprof：一个取样的Go分析器，可以让你一起分析CPU上和CPU外（如I/O）的时间。 - 阅读原文
+- 11.顶级代码女神，编程界最有权势的女王 - 阅读原文
+- 12.图形化我这个包的泛型 - 阅读原文
+
  go语言中文网(每日资讯)-2022-03-07
 # go-news-set-2022-03-07
 ## go语言中文网(每日资讯)-2022-03-07
