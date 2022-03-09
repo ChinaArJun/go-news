@@ -1,3 +1,61 @@
+ go语言中文网(每日资讯)-2022-03-09
+# go-news-set-2022-03-09
+## go语言中文网(每日资讯)-2022-03-09
+
+
+一、Go语言中文网
+
+1. [Go 中 “omitempty” 的陷阱](https://mp.weixin.qq.com/s/WuCXo9yNWsRmb-n5jA_yWA)
+
+2. [TIOBE 3 月编程语言排行榜出炉：Elisp 竟然一直被拼写错了](https://mp.weixin.qq.com/s/FDpTxsYgbmP4l0I6SvlmFg)
+
+3. [Go每日一题 今日（2022-03-09）](https://studygolang.com/interview/question/he0pr9efk00)
+
+二、脑子进煎鱼了
+
+1. [写了 30 多个 Go 常用文件操作的示例，收藏这一篇就够了](https://mp.weixin.qq.com/s/FIRfPEYI0GK72ZtCETszjA)
+
+三、polarisxu
+
+1. [提升开发效率的 5 个开源工具~](https://mp.weixin.qq.com/s/c3XVKIE8fV96_Q4xsV_j0Q)
+
+四、gopher梦工厂
+
+1. [Go运行时metric指标详解\r\nGo运行时metric指标详解](https://mp.weixin.qq.com/s/4mFFbzrviLWViws8NbRzbA)
+
+五、Go招聘
+
+1. [小红书高薪诚聘Gopher](https://mp.weixin.qq.com/s/ASim7ttDqAm6NMWve8I5Pg)
+
+六、Golang来啦
+
+1. [Go 笔记之如何防止 goroutine 泄露](https://mp.weixin.qq.com/s/yh7HSSV7M-ZbankTNBHiGA)
+
+2. [Go 笔记之如何防止 goroutine 泄露（二）](https://mp.weixin.qq.com/s/TQL1dOwMGNu_Xvziv4RMbw)
+
+七、Kubernetes技术栈
+
+1. [多云搭建k3s集群（带wg管理UI）](https://mp.weixin.qq.com/s/48aPY6kohct5jJ3pEAaW7Q)
+
+八、Golang技术分享
+
+1. [Go1.18 新特性：高效复制，strings, bytes 标准库新增 Clone API](https://mp.weixin.qq.com/s/B5XjfDWXm_KY9N4nDkR3hg)
+
+九、小白debug
+
+1. [给32位系统装8g内存条能用吗？为什么？](https://mp.weixin.qq.com/s/UL4PrirfMIsoSAfD4E2enQ)
+
+十、幼麟实验室
+
+1. [【Go1.17】新版调用约定下的汇编函数](https://mp.weixin.qq.com/s/8rDqbcURApAoCJ-Uy37DyQ)
+
+十一、Go学堂
+
+1. [Go错误集锦 | 正确理解nil通道及其使用场景](https://mp.weixin.qq.com/s/IIruvES-U7ztudfQFGwOCA)
+
+十二、Go生态
+
+1. [使用Gin过程中的一些优化](https://mp.weixin.qq.com/s/fTFKKhRdMcJV9j0JOjxEyQ)
  go语言中文网(每日资讯)-2022-03-08
 # go-news-set-2022-03-08
 ## go语言中文网(每日资讯)-2022-03-08
