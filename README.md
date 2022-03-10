@@ -1,3 +1,39 @@
+ go语言中文网(每日资讯)-2022-03-10
+# go-news-set-2022-03-10
+## go语言中文网(每日资讯)-2022-03-10
+
+
+一、Go语言中文网
+
+1. [给 Go 提的代码没通过。。。](https://mp.weixin.qq.com/s/vlI1yb3O87axtVVjYqDqWA)
+
+二、脑子进煎鱼了
+
+1. [Go 设计哲学：少即是多，哪里来的？](https://mp.weixin.qq.com/s/-lId_C9o8jlSKTW_1542Eg)
+
+三、网管叨bi叨
+
+1. [Mysql 各种事务隔离级别对读写分离的影响](https://mp.weixin.qq.com/s/GCWZLYi3o_fpLIyuRC9S_A)
+
+2. [图解算法基础--快速排序，附 Java 代码实现](https://mp.weixin.qq.com/s/8QG7T3px6hsvSLCkRHvEsQ)
+
+四、Golang来啦
+
+1. [图解算法基础--快速排序，附 Go 代码实现](https://mp.weixin.qq.com/s/vDqlGlmo5IihRtPO-QQHjw)
+
+2. [Go语言中结构体打Tag是什么意思？](https://mp.weixin.qq.com/s/WzUhBXpH8bZV6QZQAIoWsg)
+
+五、Go生态
+
+1. [Go中main函数的初始化优化-依赖注入](https://mp.weixin.qq.com/s/TSmHhvJw7rmn87bZzZAYhA)
+
+六、腾讯技术工程
+
+1. [一致性 Hash 算法原理总结](https://mp.weixin.qq.com/s/WTz1KA9kOGrqFVTtALJzjQ)
+
+七、Go招聘
+
+1. [Go语言切片面试真题8连问](https://mp.weixin.qq.com/s/vwo2LDAOcS2c7CfJ4axLSw)
  go语言中文网(每日资讯)-2022-03-09
 # go-news-set-2022-03-09
 ## go语言中文网(每日资讯)-2022-03-09
