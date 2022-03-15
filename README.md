@@ -1,3 +1,77 @@
+ go语言中文网(每日资讯)-2022-03-15
+# go-news-set-2022-03-15
+## go语言中文网(每日资讯)-2022-03-15
+
+
+一、Go语言中文网
+
+1. [Go中main函数的初始化优化-依赖注入](https://mp.weixin.qq.com/s/6xMX1VLKGMytHE6OMeAuYQ)
+
+2. [详解 Go 中的 rune 类型](https://mp.weixin.qq.com/s/hcrq5fYaQ7FN_2oSMRNjcA)
+
+二、脑子进煎鱼了
+
+1. [探讨两种 option 编程模式的实现](https://mp.weixin.qq.com/s/_7ofuy2Wp__3B9esO_2oag)
+
+2. [探讨两种 option 编程模式的实现](https://mp.weixin.qq.com/s/_7ofuy2Wp__3B9esO_2oag)
+
+三、k8s技术圈
+
+1. [记 K8s 集群中 Flannel 的两个问题](https://mp.weixin.qq.com/s/4-OlUlzWf5FnBl2-HCUjrg)
+
+四、Go招聘
+
+1. [Go中fuzzing系统的原理分析](https://mp.weixin.qq.com/s/d8LslW77d8TiWzVkGoBGEw)
+
+五、专家极客圈
+
+1. [最常用的架构模式](https://mp.weixin.qq.com/s/M0anfBkjTJT8ixlMNEPfxg)
+
+六、Golang来啦
+
+1. [【译】Go 语言基础-类型](https://mp.weixin.qq.com/s/KyXlgqF83Bpf-he0H68aPw)
+
+七、TonyBai
+
+1. [聊聊Go语言的软件供应链安全](https://mp.weixin.qq.com/s/qo6wiRIJHyO5vgAJrQFfuw)
+
+八、CloudNativeCommunity
+
+1. [网易数帆云原生日志平台架构实践](https://mp.weixin.qq.com/s/jz0b5TSgGvqfswhX9lKcyg)
+ gopherDaily-2022-03-14
+# go-news-set-2022-03-14
+## gopherDaily-2022-03-14
+- 1.Go播客：聊聊Go中的log - 阅读原文
+- 2.网易X工行：云原生日志系统 Loggie 正式开源！ - 阅读原文
+- 3.使用Gin过程中的一些优化 - 阅读原文
+- 4.使用Zig可靠地交叉编译Go - 阅读原文
+- 5.Go今天值得学习吗？ - 阅读原文
+- 6.如何使用Atom在树莓派上远程编写Go应用程序 - 阅读原文
+- 7.开源的Mizu让你可以查看Kubernetes API流量 - 阅读原文
+- 8.用netgo进行网站访问日志分析 - 阅读原文
+- 9.用于监控Kubernetes集群或单机中x509证书到期的Prometheus Exporter - 阅读原文
+- 10.Kubernetes安全–Cilium集群范围内网络策略的好处 - 阅读原文
+- 11.用Kubernetes为Cgroup v2做准备的五件事 - 阅读原文
+- 12.Kubernetes资源模型如何使配置成为数据 - 阅读原文
+- 13.将curl命令转换为任意编程语言代码 - 阅读原文
+
+ gopherDaily-2022-03-12
+# go-news-set-2022-03-12
+## gopherDaily-2022-03-12
+- 1.Go语言map类型变量背后的那些事儿 - 阅读原文
+- 2.隔离有问题的Cgo代码 - 阅读原文
+- 3.字节跳动Go RPC框架Kitex性能优化实践 - 阅读原文
+- 4.调试Go中奇怪的http.Response Read()行为 - 阅读原文
+- 5.使用黑盒测试在Go中重写Bash脚本 - 阅读原文
+- 6.一次写入，随地存储：适用于Go的可扩展文件系统 - 阅读原文
+- 7.Go：你可能总是错过的实用函数 - 阅读原文
+- 8.syft: 从容器镜像和文件系统生成软件物料清单(SBOM)的工具和库 - 阅读原文
+- 9.如何用Go和Ebiten实现SDK的可视化 - 阅读原文
+- 10.Ballast：uber的一个自适应的负载测试框架 - 阅读原文
+- 11.如何用Go模板生成HTML - 阅读原文
+- 12.如何计算prometheus服务器所需的存储空间 - 阅读原文
+- 13.构建微服务架构的5种最佳技术 - 阅读原文
+
  go语言中文网(每日资讯)-2022-03-10
 # go-news-set-2022-03-10
 ## go语言中文网(每日资讯)-2022-03-10
