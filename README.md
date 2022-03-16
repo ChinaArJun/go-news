@@ -1,3 +1,68 @@
+ go语言中文网(每日资讯)-2022-03-16
+# go-news-set-2022-03-16
+## go语言中文网(每日资讯)-2022-03-16
+
+
+一、Go语言中文网
+
+1. [Go1.18 终于发布了：新特性学起来](https://mp.weixin.qq.com/s/tjHOd6jvGj7tpmf1K4wlYg)
+
+2. [Go1.18 这个包没了](https://mp.weixin.qq.com/s/0Gt6qCHcjp8D9fofKgLu1w)
+
+二、脑子进煎鱼了
+
+1. [Go 要违背初心吗？新提案：手动管理内存](https://mp.weixin.qq.com/s/UvPO9IHBqYRqK7mpYs1zrg)
+
+2. [还在自己写 Go 系统监控函数吗](https://mp.weixin.qq.com/s/DqMNNzpT91dwLk2KlzL3TA)
+
+三、网管叨bi叨
+
+1. [想不到吧，这些都是 Go 语言的语法糖](https://mp.weixin.qq.com/s/1WXuH55B0GL0QOU_i5IBXw)
+
+2. [存储架构｜聊聊 LSM Tree 强悍的设计](https://mp.weixin.qq.com/s/Xwyu4rZGHs5IgBeXkCOIAQ)
+
+四、Golang来啦
+
+1. [【收藏】开发常用的 10 个通用函数](https://mp.weixin.qq.com/s/DtJ9ElwSKfBhJ_dHVgHaVA)
+
+2. [开启 Go 泛型时代：第三方泛型库分享](https://mp.weixin.qq.com/s/Yx_hfsSTUVaIF5NLYEdZsg)
+
+五、Golang梦工厂
+
+1. [Go1.18 中strings, bytes 标准库新增 Clone API](https://mp.weixin.qq.com/s/vTZXjq71MZPv9VGoOY6jPg)
+
+六、Go夜读
+
+1. [Go 新版本发布的那些人和那些事](https://mp.weixin.qq.com/s/-AZTeAbxjhEQg-zHADcUlg)
+
+七、微服务实践
+
+1. [go-zero效率工具一览图](https://mp.weixin.qq.com/s/ZQ1TrmeqY_FZWGg6KfeAAg)
+
+八、polarisxu
+
+1. [谷歌有哪些项目使用了 Rust？](https://mp.weixin.qq.com/s/nm9lztb1CoxPQu7XPidIIA)
+
+九、Go招聘
+
+1. [Go 1.18 Release Note 抢鲜看](https://mp.weixin.qq.com/s/dwQdKKWV2vuHDiEHeHKP7w)
+ gopherDaily-2022-03-16
+# go-news-set-2022-03-16
+## gopherDaily-2022-03-16
+- 1.Go是否支持增量构建？我来告诉你！- 阅读原文
+- 2.Go 1.18版本正式发布了 - 阅读原文
+- 3.gopls v0.8.1发布，全面支持泛型 - 阅读原文
+- 4.Go泛型简介 - 阅读原文
+- 5.使用Caddy来管理Tailscale HTTPS证书 - 阅读原文
+- 6.用Go泛型来破解SUM类型 - 阅读原文
+- 7.用Go进行端到端测试的案例研究 - 阅读原文
+- 8.在Go中测试泛型 - 阅读原文
+- 9.使用eBPF监控kafka - 阅读原文
+- 10.ent: 版本化的迁移授权 - 阅读原文
+- 11.使用helm的13个最佳实践 - 阅读原文
+- 12.第一台RISC-V便携式计算机现已上市 - 阅读原文
+- 13.从本地访问远程主机上的minikube - 阅读原文
+
  go语言中文网(每日资讯)-2022-03-15
 # go-news-set-2022-03-15
 ## go语言中文网(每日资讯)-2022-03-15
