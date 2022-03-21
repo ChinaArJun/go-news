@@ -1,3 +1,109 @@
+ go语言中文网(每日资讯)-2022-03-21
+# go-news-set-2022-03-21
+## go语言中文网(每日资讯)-2022-03-21
+
+
+一、Go语言中文网
+
+1. [深入理解Go中的内存分配](https://mp.weixin.qq.com/s/bH1j7fpvR4MhbEq1CWRJNw)
+
+2. [深入理解Go的GC回收机制](https://mp.weixin.qq.com/s/cZVSx_L3tIhDG1dyO2klhA)
+
+二、TonyBai
+
+1. [Go是否支持增量构建？我来告诉你！](https://mp.weixin.qq.com/s/7noSsJUpZQIPyc3DxmlUaA)
+
+三、polarisxu
+
+1. [中美程序员对比：你认同吗？](https://mp.weixin.qq.com/s/Z35eunAqnCJSsOf6EbXsww)
+
+四、k8s技术圈
+
+1. [MySQL 在 Kubernetes IPVS 模式下引发的 TCP 超时问题](https://mp.weixin.qq.com/s/XQ2SlCYxvXPY0rRRO-CURA)
+
+五、进击云原生
+
+1. [再见 Jenkins：Drone 如何为工程团队简化 CI/CD](https://mp.weixin.qq.com/s/9TJgbAqkGYWrMmJzNU6FWQ)
+
+六、幽鬼
+
+1. [goutil/dump —— 打印漂亮且易于阅读的 Go 数据](https://mp.weixin.qq.com/s/fzcZOHDzBFXdtAaydhYJrA)
+
+七、Gopher指北
+
+1. [泛型来了，那什么时候适用泛型，什么时候适用接口？](https://mp.weixin.qq.com/s/R6tlhmbl7ELgBNpxKnAUOw)
+
+八、roseduan写字的地方
+
+1. [一个全新的 kv 存储引擎 — LotusDB](https://mp.weixin.qq.com/s/mvjtL1xc1VOkxfCk5XmYTw)
+
+九、MoeLove
+
+1. [K8S 生态周报| Argo Workflows 新版本发布，带来众多新特性](https://mp.weixin.qq.com/s/PJtTK6zrj12FJkdWZ-MnKQ)
+
+十、技术岁月
+
+1. [Golang 从零到一开发实现 RPC 框架](https://mp.weixin.qq.com/s/3u-ZsAAixjddNFy_wbSaUw)
+
+十一、Golang梦工厂
+
+1. [面试官：来说一说Go语言的函数调用惯例](https://mp.weixin.qq.com/s/Ekx9JpclqLaa4baB6V5rLw)
+
+十二、Golang技术分享
+
+1. [Go 1.18 二进制文件的信息嵌入](https://mp.weixin.qq.com/s/BYkOQZO73UTRAUiONnUrow)
+
+十三、Go生态
+
+1. [Go 工程化标准实践](https://mp.weixin.qq.com/s/ezQyI4053Uc-IByFaQPfow)
+ gopherDaily-2022-03-21
+# go-news-set-2022-03-21
+## gopherDaily-2022-03-21
+- 1.len(s)表达式的求值结果究竟是常量还是变量？我来告诉你 - 阅读原文
+- 2.Go Scheduler的幕后原理 - 阅读原文
+- 3.Go Vs. Python：什么时候选择什么？ - 阅读原文
+- 4.干货！分片数据库如何使其速度更快 - 阅读原文
+- 5.如何测试Gin web handler - 阅读原文
+- 6.Go：几种同步技术的基准测试比较 - 阅读原文
+- 7.欧洲的Go语言市场行情 - 阅读原文
+- 8.代理知识入门 by cloudflare - 阅读原文
+- 9.微服务失败的七种方式 - 阅读原文
+- 10.构建可观察服务的5种设计模式 by salesforce - 阅读原文
+- 11.通过Sidecar Agent Injector与CSI Provider集成Kubernetes Vault - 阅读原文
+
+ gopherDaily-2022-03-19
+# go-news-set-2022-03-19
+## gopherDaily-2022-03-19
+- 1.Go 1.18中的一些次要功能特性 - 阅读原文
+- 2.使用Go泛型实现Stream处理 - 阅读原文
+- 3.用Go进行端到端测试的案例研究 - 阅读原文
+- 4.腾讯开源Go实现的云原生成本优化开源项目Crane - 阅读原文
+- 5.一个好的错误信息应包含什么内容？ - 阅读原文
+- 6.Go实现的构建辅助工具mage发布新版，支持magefiles子目录 - 阅读原文
+- 7.跨越DDD从理论到工程落地的鸿沟 - 阅读原文
+- 8.gRPC Gateway一站式指南 - 阅读原文
+- 9.API版本管理的三种错误模式 - 阅读原文
+- 10.用VELERO备份和恢复Kubernetes资源 - 阅读原文
+
+ gopherDaily-2022-03-18
+# go-news-set-2022-03-18
+## gopherDaily-2022-03-18
+- 1.Go播客：Mastering Go - 阅读原文
+- 2.Go简明教程 - 阅读原文
+- 3.使用Go屏蔽工具来屏蔽你的敏感信息 - 阅读原文
+- 4.Fixtory: 一个测试fixture工厂，利用泛型初始化类型安全的、灵活的fixture - 阅读原文
+- 5.学习Go泛型的例子集合 - 阅读原文
+- 6.实现反向连接代理 - 阅读原文
+- 7.为什么要在2022年学习Go？- 阅读原文
+- 8.使用泛型实现的ClickHouse client - 阅读原文
+- 9.播客：与Ben Kurtz讨论Go恶意软件 - 阅读原文
+- 10.Podman初学者教程：手把手指南 - 阅读原文
+- 11.go-sql-spanner: Google Cloud Spanner的database/sql驱动 - 阅读原文
+- 12.网易数帆云原生日志平台架构实践 - 阅读原文
+- 13.用Tekton来生成软件物料清单（SBOM） - 阅读原文
+- 14.AWS无服务器架构模式和最佳实践 - 阅读原文
+- 15.在Kubernetes上设计和部署可扩展应用程序的原则 - 阅读原文
+
  go语言中文网(每日资讯)-2022-03-16
 # go-news-set-2022-03-16
 ## go语言中文网(每日资讯)-2022-03-16
