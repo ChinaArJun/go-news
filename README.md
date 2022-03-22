@@ -1,3 +1,51 @@
+ go语言中文网(每日资讯)-2022-03-22
+# go-news-set-2022-03-22
+## go语言中文网(每日资讯)-2022-03-22
+
+
+一、Go语言中文网
+
+1. [在腾讯，Go首次超越C++成为最热门语言](https://mp.weixin.qq.com/s/G7eX4Z3QM0NGeQKFDsmM1A)
+
+2. [微服务从代码到k8s部署应有尽有系列（十二、链路追踪）](https://mp.weixin.qq.com/s/Kn4Imkj4jFeL3QjwYVpuhA)
+
+二、云加社区
+
+1. [揭秘Golang网络框架netpoll的源码实现！](https://mp.weixin.qq.com/s/XMGdMwKnwq-SO2gKEU0Mnw)
+
+三、捉虫大师
+
+1. [祖传代码如何优化性能？](https://mp.weixin.qq.com/s/1kOq73_CSZvBXWEeh1DpXg)
+
+四、脑子进煎鱼了
+
+1. [Go 返回值命名还有存在的必要吗？](https://mp.weixin.qq.com/s/sokWS4tiQzT8VAicbBEWwA)
+
+2. [图解算法基础--快速排序，附 Go 代码实现](https://mp.weixin.qq.com/s/A5XEWwLHCkCXtIptofnI4Q)
+
+五、网管叨bi叨
+
+1. [想在研发群里装？先学会这几个排查K8s问题的办法](https://mp.weixin.qq.com/s/K-eekD5-tdlhorKvf9EVRQ)
+
+六、Golang技术分享
+
+1. [Go 要违背初心吗？新提案：手动管理内存](https://mp.weixin.qq.com/s/IP3ydwu9lncXYioZ7VWXXA)
+
+七、分布式实验室
+
+1. [一套可供参考的Go微服务开发方法论](https://mp.weixin.qq.com/s/RQxqi7jXag-LVWUCR4N9Gg)
+
+八、小白debug
+
+1. [​Mysql数据库查询好慢，除了索引，还能因为什么？](https://mp.weixin.qq.com/s/CMo0Ih1vXpFCOETvc1Tshw)
+
+九、InfoQ
+
+1. [Go语言专家曹大谈十年技术生涯：有理想，但不理想化](https://mp.weixin.qq.com/s/2wXNMd9fD3q5v9QNEUWa1A)
+
+十、Go招聘
+
+1. [如果你是一个Golang面试官，你会问哪些问题？](https://mp.weixin.qq.com/s/6h1aQ6epm4HuVseVj831QQ)
  go语言中文网(每日资讯)-2022-03-21
 # go-news-set-2022-03-21
 ## go语言中文网(每日资讯)-2022-03-21
