@@ -1,3 +1,55 @@
+ go语言中文网(每日资讯)-2022-03-23
+# go-news-set-2022-03-23
+## go语言中文网(每日资讯)-2022-03-23
+
+
+一、Go语言中文网
+
+1. [微服务从代码到k8s部署应有尽有系列（十三、服务监控）](https://mp.weixin.qq.com/s/L6rK5ccpPVjoEN91ctHuNw)
+
+二、亚军进化史
+
+1. [Go技术日报(2022-03-22)——Go 语言 JSON 库与 Cache 库 调研与选型](https://mp.weixin.qq.com/s/KLJ1bpyN5JpxwkGhK5_oWg)
+
+三、polarisxu
+
+1. [goutil/dump —— 打印漂亮且易于阅读的 Go 数据](https://mp.weixin.qq.com/s/19WitUiUA-56LYhIQFhoug)
+
+四、Go招聘
+
+1. [宠物医疗企业-谛宝诚-诚寻Gopher](https://mp.weixin.qq.com/s/qeKorl2c06PrAVyh1K_Rlw)
+
+五、网管叨bi叨
+
+1. [Go1.18 新特性：高效复制，strings, bytes 库新增 Clone 功能](https://mp.weixin.qq.com/s/E40ZZGpPvtAtdapojIE3qQ)
+
+六、gopher梦工厂
+
+1. [节约千台容器，Go程序性能瓶颈实战分析](https://mp.weixin.qq.com/s/JzJoM5i_e8SlsQiSfdLZpg)
+
+七、Golang来啦
+
+1. [Go 语言基础-包](https://mp.weixin.qq.com/s/8rP3IeEjjRiYnlhIgFYEpA)
+
+2. [【重要】这个布谷鸟的库有一个坑，请尽快更新！](https://mp.weixin.qq.com/s/Es5p48SUETJAkcaibeX1Sw)
+ gopherDaily-2022-03-22
+# go-news-set-2022-03-22
+## gopherDaily-2022-03-22
+- 1.腾讯2021研发大数据：Go语言热度首次超越C++ - 阅读原文
+- 2.通过测试学习Go泛型 - 阅读原文
+- 3.Scala和Go: 哪个更适合你？- 阅读原文
+- 4.什么是Go工作区，我如何使用它们？ - 阅读原文
+- 5.作为微服务的Kong插件：在Go中为Kong编写一个单插件服务器 - 阅读原文
+- 6.eBPF将如何解决服务网问题–告别边车 - 阅读原文
+- 7.NASA专家玛格丽特·汉密尔顿回忆起她作为编程先驱的生活 - 阅读原文
+- 8.什么是软件物料清单 - 阅读原文
+- 9.goroutine泄露检测工具 - 阅读原文
+- 10.在Kubernetes中使用Argo Rollouts最大限度地减少部署影响 - 阅读原文
+- 11.微服务设计模式 - 阅读原文
+- 12.用Wireshark解密你自己的HTTPS流量 - 阅读原文
+- 13.Podman 4.0使用新网络协议栈 - 阅读原文
+- 14.每个团队都应该知道的GitOps原则和工作流程 - 阅读原文
+
  go语言中文网(每日资讯)-2022-03-22
 # go-news-set-2022-03-22
 ## go语言中文网(每日资讯)-2022-03-22
