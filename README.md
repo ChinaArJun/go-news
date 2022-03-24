@@ -1,3 +1,62 @@
+ go语言中文网(每日资讯)-2022-03-24
+# go-news-set-2022-03-24
+## go语言中文网(每日资讯)-2022-03-24
+
+
+一、Go语言中文网
+
+1. [Go 中类型转换的那些事](https://mp.weixin.qq.com/s/0-updq-YURiBzC7FxZj5pw)
+
+二、Golang来啦
+
+1. [Go 语言基础 - if-else](https://mp.weixin.qq.com/s/jzbe-C9WT-i-Vxd20C3s6g)
+
+2. [golang map 变量保存的是实际值所在的地址吗](https://mp.weixin.qq.com/s/w0fqSsMVho2ixEMIc4jlpw)
+
+三、新亮笔记
+
+1. [架构笔记汇总](https://mp.weixin.qq.com/s/j8i08bhW_2W-7M_AKttGCw)
+
+四、飞雪无情
+
+1. [Go 团队在 GopherCon 2021 上的演讲：Go 1.18 泛型简介](https://mp.weixin.qq.com/s/cwq3suCkJ9mxNtbp80PfiA)
+
+五、polarisxu
+
+1. [思考：成为优秀Go工程师的三条路径](https://mp.weixin.qq.com/s/e2XbnO9lmUlqq1HTAsTHzQ)
+
+六、小白debug
+
+1. [写了 30 多个 Go 常用文件操作的示例，收藏这一篇就够了](https://mp.weixin.qq.com/s/1EufAhidCEH3bOz5dXcCwA)
+
+七、轩脉刃的刀光剑影
+
+1. [Redis的事件处理机制](https://mp.weixin.qq.com/s/KOzp9NoXVMu68OAH95kwkw)
+
+八、好未来技术
+
+1. [容器化后资源与成本优化实践](https://mp.weixin.qq.com/s/6j4YH9OtOVfSb3KLAb4x2w)
+
+九、Go招聘
+
+1. [Go语言 JSON 与 Cache 库 调研与选型](https://mp.weixin.qq.com/s/RP65tQRg35EcipdDxDrmDA)
+ gopherDaily-2022-03-24
+# go-news-set-2022-03-24
+## gopherDaily-2022-03-24
+- 1.Go社区主流Kakfa客户端简要对比 - 阅读原文
+- 2.Go官博：Go泛型简介 - 阅读原文
+- 3.bitly: 为什么我们用Go语言实现一切 - 阅读原文
+- 4.Go中更好的错误处理：理论和实践技巧 - 阅读原文
+- 5.使用Go实现clean架构 - 阅读原文
+- 6.Go中的日期和时间格式速查表 - 阅读原文
+- 7.Gomega Matcher: 在Go中开发自定义测试的指南 - 阅读原文
+- 8.Go的netip设计中的一个小缺陷 - 阅读原文
+- 9.使用Go构建Goven：一种可扩展的查询语言 - 阅读原文
+- 10.领域驱动设计实践–支付系统建模 - 阅读原文
+- 11.pingcap操作系统性能参数调优 - 阅读原文
+- 12.容器的简史：从1970年代到现在 - 阅读原文
+- 13.从CDN边缘到Fornax：迈向下一代边缘云平台 - 阅读原文
+
  go语言中文网(每日资讯)-2022-03-23
 # go-news-set-2022-03-23
 ## go语言中文网(每日资讯)-2022-03-23
