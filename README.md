@@ -1,3 +1,51 @@
+ go语言中文网(每日资讯)-2022-03-25
+# go-news-set-2022-03-25
+## go语言中文网(每日资讯)-2022-03-25
+
+
+一、Go语言中文网
+
+1. [一本 Go 新书，中文的](https://mp.weixin.qq.com/s/UDhbtLBsoM6WTp8JfKMVBg)
+
+2. [微服务从代码到k8s部署应有尽有系列（十四、部署环境搭建）](https://mp.weixin.qq.com/s/N6Rq8NA7pz_shkhlVJBJfQ)
+
+二、亚军进化史
+
+1. [Go技术日报(2022-03-23)——Go程序性能瓶颈实战分析](https://mp.weixin.qq.com/s/akwV9U5FNyUxZ258hLsCOA)
+
+三、多颗糖
+
+1. [《深入理解分布式系统》正式出版，聊聊背后的故事，文末送书！](https://mp.weixin.qq.com/s/2NHPHhNacHeusx2-HrZSnA)
+
+四、polarisxu
+
+1. [在 golang 中是如何对 epoll 进行封装的？](https://mp.weixin.qq.com/s/ey9Xb8B0WTg0nXAtya3SLQ)
+
+五、腾讯技术工程
+
+1. [深入揭秘 epoll 是如何实现 IO 多路复用的](https://mp.weixin.qq.com/s/9vVs2olnfoVEpoJCFWUmMQ)
+
+六、Go招聘
+
+1. [Go 要违背初心吗？新提案：手动管理内存](https://mp.weixin.qq.com/s/i8XM8Rwaiu7LcwAgXxSJgg)
+
+七、taowen
+
+1. [为什么真实世界的代码总是难以理解](https://mp.weixin.qq.com/s/dI_-GdcJUJYz7kbtWit5gw)
+
+八、网管叨bi叨
+
+1. [かいわ面试官 の 两个事务并发写，能保证数据唯一吗？](https://mp.weixin.qq.com/s/jfo_iov-ubPFF1bwTVPMmw)
+
+九、Golang来啦
+
+1. [Go 语言基础 - 循环语句](https://mp.weixin.qq.com/s/yG7DFomXgCR5uXsG2O8GlQ)
+
+2. [Go语言 JSON 与 Cache 库 调研与选型](https://mp.weixin.qq.com/s/TlCi9qUKAZKRJ2SlSLiXSA)
+
+十、小白debug
+
+1. [读书分享｜高效能人士要培养哪些习惯](https://mp.weixin.qq.com/s/xxT-_TyzU7NX9F2GG871HA)
  go语言中文网(每日资讯)-2022-03-24
 # go-news-set-2022-03-24
 ## go语言中文网(每日资讯)-2022-03-24
