@@ -1,3 +1,110 @@
+ go语言中文网(每日资讯)-2022-03-29
+# go-news-set-2022-03-29
+## go语言中文网(每日资讯)-2022-03-29
+
+
+一、Go语言中文网
+
+1. [WASM in Go 都出书了，值得学吗？](https://mp.weixin.qq.com/s/fz9W9CtY9JTzXBAsF8-NvQ)
+
+2. [浅谈 K8S 下 gRPC 负载均衡问题](https://mp.weixin.qq.com/s/QEuwyBRmlftTMonCJ8JjUQ)
+
+二、脑子进煎鱼了
+
+1. [太疯狂了，Go 程序说 nil 不是 nil...](https://mp.weixin.qq.com/s/NwlAMiioLXfhYQdcT7yT3w)
+
+2. [WASM in Go 真的有前途？都出书了](https://mp.weixin.qq.com/s/Dlj0U8eJmUwT97P5OrK6Gg)
+
+三、亚军进化史
+
+1. [Go技术日报(2022-03-25/27/28)——Go本地缓存选型对比及原理总结](https://mp.weixin.qq.com/s/hUtM8tjE0t9RChNAAlyMLg)
+
+四、Go招聘
+
+1. [Go内存泄漏排查两例](https://mp.weixin.qq.com/s/bGnQnN84opogyeMRwIPSHA)
+
+五、网管叨bi叨
+
+1. [Ballast，一种精准控制 Go GC 提高性能的方法](https://mp.weixin.qq.com/s/OVUsHNXGz_FicwkYgdCUdQ)
+
+六、章老师说
+
+1. [代码的艺术 2022版课件](https://mp.weixin.qq.com/s/Qzle5_pPwgvDXjCLgY2t3A)
+
+七、幽鬼
+
+1. [Go 泛型基准测试：性能更差还是更好？](https://mp.weixin.qq.com/s/j9eehOSdlbHnk7JL4sKfyg)
+
+八、轩脉刃的刀光剑影
+
+1. [Golang中常用的代码优化点](https://mp.weixin.qq.com/s/eHTzX9Xk3eUBnW2GG6KQlw)
+
+九、Golang来啦
+
+1. [Go 语言基础 - switch语句](https://mp.weixin.qq.com/s/5wlLsGl2jpcR9GZYzb4qSg)
+
+十、薯条的编程修养
+
+1. [计算密集型服务 性能优化实战始末](https://mp.weixin.qq.com/s/gGs0tOJqBvJKCzPuUWsPiA)
+
+十一、Go生态
+
+1. [Go 工程化规范设计](https://mp.weixin.qq.com/s/L2DXco7VHFgyMs8T6dx55A)
+
+十二、polarisxu
+
+1. [构建 Go 应用 docker 镜像的十八种姿势](https://mp.weixin.qq.com/s/cOsoCD1_XhG4QpcRVtWgYg)
+ gopherDaily-2022-03-29
+# go-news-set-2022-03-29
+## gopherDaily-2022-03-29
+- 1.关于Go的不寻常的标识符可见性的一些想法 - 阅读原文
+- 2.学习和实践Go及其相关技术的优秀文章和资源列表 - 阅读原文
+- 3.Go语言高性能编程手册 - 阅读原文
+- 4.Go+ 下个里程碑：超越cgo，无缝对接C语言 -  阅读原文
+- 5.速查表：如何在Go中读取用户输入 - 阅读原文
+- 6.用Fiber在Go中构建微服务 - 阅读原文
+- 7.将paxos和raft统一为一个协议: abstract-paxos - 阅读原文
+- 8.Docker标签：对docker镜像进行打标签和版本管理的最佳实践 - 阅读原文
+- 9.负载测试工具 Fortio - 阅读原文
+- 10.京东到家购物车日志优化实践 - 阅读原文
+
+ gopherDaily-2022-03-28
+# go-news-set-2022-03-28
+## gopherDaily-2022-03-28
+- 1.Go社区主流Kakfa客户端简要对比 - 阅读原文
+- 2.Go程序优化注意事项简要说明 - 阅读原文
+- 3.PDF不能被tokenized（修复rsc/pdf）-  阅读原文
+- 4.Facebook开源Go实体框架 Ent - 阅读原文
+- 5.Go本地缓存(bigcache/freecache/fastcache等)选型对比及原理总结 - 阅读原文
+- 6.将自己暴露为socks5代理的Wireguard客户端 - 阅读原文
+- 7.用Zap在Go中进行结构化日志记录 - 阅读原文
+- 8.揭开 kube-proxy 的神秘面纱 - 阅读原文
+- 9.如何用Gin处理表单(Form) - 阅读原文
+- 10.用Go编写的实验性计算机代数系统 - 阅读原文
+- 11.漫画图解：一台Linux服务器最多能支撑多少个TCP连接？ - 阅读原文
+- 12.为什么每个程序员都要写博客 - 阅读原文
+- 13.数据科学家的工作是什么？ - 阅读原文
+- 14.用Go制造有趣的声音 - 阅读原文
+- 15.开发者布道手册 - 阅读原文
+
+ gopherDaily-2022-03-26
+# go-news-set-2022-03-26
+## gopherDaily-2022-03-26
+- 1.Go泛型简介[译] - 阅读原文
+- 2.我们是如何分析并修复Go的内存泄漏的？ - 阅读原文
+- 3.实现一个玩具版的TLS 1.3 - 阅读原文
+- 4.我们在设计标识符时是如何使用Go 1.18泛型的？ - 阅读原文
+- 5.举例说明为什么我如此喜欢Go - 阅读原文
+- 6.学会使用map的capacity - 阅读原文
+- 7.切片的工作原理 - 阅读原文
+- 8.典型的迁移方法 - 阅读原文
+- 9.Kubebuilder框架的工作原理 - 阅读原文
+- 10.Kubernetes中需要注意的常见Pod错误 - 阅读原文
+- 11.Kubernetes ingress和service的故障排除 - 阅读原文
+- 12.在Kubernetes 1.24中Dockershim被废弃后，迁移到containerd和CRI-O - 阅读原文
+- 13.破解k8s网络策略 - 阅读原文
+- 14.ent: 宣布对TiDB的预览支持 - 阅读原文
+
  go语言中文网(每日资讯)-2022-03-25
 # go-news-set-2022-03-25
 ## go语言中文网(每日资讯)-2022-03-25
