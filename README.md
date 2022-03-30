@@ -1,3 +1,53 @@
+ go语言中文网(每日资讯)-2022-03-30
+# go-news-set-2022-03-30
+## go语言中文网(每日资讯)-2022-03-30
+
+
+一、Go语言中文网
+
+1. [goutil/dump —— 打印漂亮且易于阅读的 Go 数据](https://mp.weixin.qq.com/s/H77sB3d1wL_hXxxwcoFP7w)
+
+2. [Go+ 下个里程碑：超越 cgo，无缝对接 C 语言](https://mp.weixin.qq.com/s/CJT_MyZ4gQxB0elUBSj7wg)
+
+二、RememberGo
+
+1. [为什么用 Go 访问某网站始终会 503](https://mp.weixin.qq.com/s/-ER-qGoF79XtS3bnhYLdvg)
+
+三、k8s技术圈
+
+1. [使用 Terraform 在阿里云上部署 Web 服务](https://mp.weixin.qq.com/s/iAQ17qNBzCV6Av7a8BbofQ)
+
+四、GoOfficialBlog
+
+1. [Go 语言设计者 Robert Griesemer 深入介绍泛型](https://mp.weixin.qq.com/s/AGLq2va5b9vSPdo1MuY6lw)
+
+五、polarisxu
+
+1. [Go 1.18泛型性能更差还是更好？](https://mp.weixin.qq.com/s/E127ii51uj0WCOPT_BOekg)
+
+2. [Go 返回值命名还有存在的必要吗？](https://mp.weixin.qq.com/s/uzrgIDE3vN1wunTu4H1Siw)
+
+六、捉虫大师
+
+1. [参与开源项目很难吗？](https://mp.weixin.qq.com/s/QHFHtglQ0rB-FBcjv6ML8Q)
+
+七、云加社区
+
+1. [并发编程，为什么选Go？](https://mp.weixin.qq.com/s/IVAM7mejrUjp3Ol78S6KIw)
+
+八、多颗糖
+
+1. [Paxos vs. Raft：共识算法的相同点和不同点？](https://mp.weixin.qq.com/s/nDbVe3jEhDqWVtEPUffymg)
+
+九、小白debug
+
+1. [InnoDB原理篇：Change Buffer是如何提升索引性能的？](https://mp.weixin.qq.com/s/3tjXfEKNdXhB-IKdIG5Fpw)
+
+十、Golang来啦
+
+1. [Go1.18 泛型初探](https://mp.weixin.qq.com/s/ytAsPs4w62t8SR_NfO2OEg)
+
+2. [Go 新版1.18的安装配置以及对老项目的兼容](https://mp.weixin.qq.com/s/8Tbk6ukeot2na9wIqjWJ9g)
  go语言中文网(每日资讯)-2022-03-29
 # go-news-set-2022-03-29
 ## go语言中文网(每日资讯)-2022-03-29
