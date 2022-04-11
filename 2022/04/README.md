@@ -1,3 +1,69 @@
+ go语言中文网(每日资讯)-2022-04-11
+# go-news-set-2022-04-11
+## go语言中文网(每日资讯)-2022-04-11
+
+
+一、Go语言中文网
+
+1. [万字长文，教你用go开发区块链应用](https://mp.weixin.qq.com/s/cjftQIFqdTYHt3pqcbfzdQ)
+
+二、脑子进煎鱼了
+
+1. [新提案：增加标准库 Context 的取消 API](https://mp.weixin.qq.com/s/6JBUFQNlnZBS7rK9opzfpg)
+
+2. [Go语言切片原生支持并发吗？](https://mp.weixin.qq.com/s/VrwaPeez-yGqWIvvyyBPjg)
+
+三、网管叨bi叨
+
+1. [Go单测测试 — 数据库 CRUD 的 Mock 测试](https://mp.weixin.qq.com/s/D_MdLEbF63BWhYgMiyPZhw)
+
+四、roseduan写字的地方
+
+1. [LotusDB 设计与实现—2 WAL 日志](https://mp.weixin.qq.com/s/GkiWH3bCceHrKnFDSVlWEA)
+
+五、码农桃花源
+
+1. [IO 密集型服务 性能优化实战记录](https://mp.weixin.qq.com/s/83M0j8lIALdF-eOdD5GukA)
+
+六、Golang技术分享
+
+1. [如何更直观地理解 Go 调度过程](https://mp.weixin.qq.com/s/HXDMcQGEHMhcwgvciqPs8A)
+
+七、Go招聘
+
+1. [数字藏品交易平台-恩库招聘Gopher](https://mp.weixin.qq.com/s/TsTDAsF6NA1OZN0pX2Uqww)
+
+八、polarisxu
+
+1. [通过消息重排自动检测 Go 程序中的并发缺陷](https://mp.weixin.qq.com/s/Z-pbxWQW9UuQvNIf8AKg_g)
+
+九、腾讯技术工程
+
+1. [深入了解 Go 语言与并发编程](https://mp.weixin.qq.com/s/obFUsRnppgEsGkoo08nWeQ)
+
+十、微服务实践
+
+1. [微服务开发到部署视频教程全集](https://mp.weixin.qq.com/s/4RgBCKyQRzc0c7jiCmHGqw)
+
+十一、董泽润的技术笔记
+
+1. [每个 gopher 都需要了解的 Go AST](https://mp.weixin.qq.com/s/pCcNtUykXAwb-BN_prPGpA)
+ gopherDaily-2022-04-10
+# go-news-set-2022-04-10
+## gopherDaily-2022-04-10
+- 1.Go官博：来了解一下Go workspace - 阅读原文
+- 2.在Go中实现结构化配置 - 阅读原文
+- 3.在Go中使用静态类型的context by 可汗学院官博 - 阅读原文
+- 4.你应该阅读计算机科学学术论文 - 阅读原文
+- 5.Go Generics 101电子书发布 - 阅读原文
+- 6.用乒乓游戏了解Goroutines和channel - 阅读原文
+- 7.深入了解Go并发特性 - 阅读原文
+- 8.Go和事件驱动架构 - 阅读原文
+- 9.如何在结构体中使用Go泛型 - 阅读原文
+- 10.如何从头开始计算时间复杂度 - 阅读原文
+- 11.提升你的服务架构水平的四个想法 - 阅读原文
+- 12.2030，云计算市场将如何重新洗牌 - 阅读原文
+
  go语言中文网(每日资讯)-2022-04-07
 # go-news-set-2022-04-07
 ## go语言中文网(每日资讯)-2022-04-07
