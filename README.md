@@ -1,3 +1,61 @@
+ go语言中文网(每日资讯)-2022-04-12
+# go-news-set-2022-04-12
+## go语言中文网(每日资讯)-2022-04-12
+
+
+一、Go语言中文网
+
+1. [Go 验证 TCP SYN 超时重传机制](https://mp.weixin.qq.com/s/5ZDNQ8dRfVUK9EUr-iC5RA)
+
+二、Go夜读
+
+1. [Go 夜读第 131 期：gRPC-Go 基于 Polaris 北极星的服务治理实践](https://mp.weixin.qq.com/s/w_5USQJjuCjQayFAdWPNwg)
+
+三、k8s技术圈
+
+1. [使用 Thanos 集中管理多 Prometheus 实例数据](https://mp.weixin.qq.com/s/VRnf0BMZfWSM4QobsHSiYg)
+
+四、polarisxu
+
+1. [Go 工程化规范设计](https://mp.weixin.qq.com/s/1cy0vbiU5MZNVazvOsMf5Q)
+
+五、脑子进煎鱼了
+
+1. [如何更直观地理解 Go 调度过程](https://mp.weixin.qq.com/s/tA7rvCCBKHDcFLqmJMJQUw)
+
+六、Golang来啦
+
+1. [Go 1.18 的工作区模式](https://mp.weixin.qq.com/s/5wwg30wpq2uCuNQGm9G2SA)
+
+2. [Go 1.18 workspace 使用初体验](https://mp.weixin.qq.com/s/jgWvHpDY31iOnhctBIJCwg)
+
+七、许式伟
+
+1. [Go+ 两周年：我们遇到过的那些坑](https://mp.weixin.qq.com/s/lfLCH1YwVjxi6sZba_-tAA)
+
+八、字节跳动技术团队
+
+1. [从真实事故出发：golang 内存问题排查指北](https://mp.weixin.qq.com/s/HdSIC93HMbqvbQisCr186Q)
+
+九、幽鬼
+
+1. [Go：gRPC-Gateway 完全指南](https://mp.weixin.qq.com/s/uUj2eIoDnpss2RvzovhqKQ)
+ gopherDaily-2022-04-12
+# go-news-set-2022-04-12
+## gopherDaily-2022-04-12
+- 1.从真实事故出发：Go内存问题排查指北 - 阅读原文
+- 2.在Twitch打破单体架构：第一部分 - 阅读原文
+- 3.80倍的缓存性能提升 - 阅读原文
+- 4.为数以百万计的并发任务实现一个计时轮 - 阅读原文
+- 5.Go vs. Java：你应该选择哪个？- 阅读原文
+- 6.用Go构建一个带有设备代码授予的CLI应用程序 - 阅读原文
+- 7.如何使用GoReleaser来自动发布Go版本？ - 阅读原文
+- 8.详细panic/recover机制 - 阅读原文
+- 9.如何在Go中使用Bcrypt对密码进行正确的哈希和加盐处理 - 阅读原文
+- 10.如何从零开始搭建SRE？ - 阅读原文
+- 11.如何减少你的prometheus使用成本 - 阅读原文
+- 12.Go 1.18 和 Google Cloud - 阅读原文
+
  go语言中文网(每日资讯)-2022-04-11
 # go-news-set-2022-04-11
 ## go语言中文网(每日资讯)-2022-04-11
