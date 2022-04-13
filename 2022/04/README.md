@@ -1,3 +1,59 @@
+ go语言中文网(每日资讯)-2022-04-13
+# go-news-set-2022-04-13
+## go语言中文网(每日资讯)-2022-04-13
+
+
+一、Go语言中文网
+
+1. [Go：gRPC-Gateway 完全指南](https://mp.weixin.qq.com/s/pMXsG-rx_WAS8OJalLEh4A)
+
+2. [在docker环境导入私有仓库的问题](https://mp.weixin.qq.com/s/iHX6ty2XDUwxF-G_aWDEQw)
+
+二、脑子进煎鱼了
+
+1. [好物分享：快速找到 Goroutine 泄露的地方](https://mp.weixin.qq.com/s/E3Lgl9T8iQYl65T3e0vDTA)
+
+三、k8s技术圈
+
+1. [Thanos Ruler 组件的使用](https://mp.weixin.qq.com/s/o3Gr8X5Br3DsOATvXXlZBw)
+
+四、腾讯技术工程
+
+1. [腾讯网关 TGW 基础原理入门](https://mp.weixin.qq.com/s/w6oGa9YombLvRSzqxfiWrw)
+
+五、腾讯云原生
+
+1. [技术集锦 | 服务网格 &amp; Istio 技术原理及最佳实践系列](https://mp.weixin.qq.com/s/kt-iu8dCHpitfeiSy6stVQ)
+
+六、云加社区
+
+1. [Go 1.18新特性让多模块开发变得更简单！](https://mp.weixin.qq.com/s/CEcbl4OcTMO6ko3XQ_0PDQ)
+
+七、Go招聘
+
+1. [WASM in Go 真的有前途？都出书了](https://mp.weixin.qq.com/s/kBOtyZUg8AhiCYrFFexGLw)
+
+八、小白debug
+
+1. [Redis 缓存击穿（失效）、缓存穿透、缓存雪崩怎么解决？](https://mp.weixin.qq.com/s/5ox0qq1TMRCDBitpxuJyoA)
+
+九、犀利豆的技术空间
+
+1. [《SRE google 运维解密》读书笔记 （一）](https://mp.weixin.qq.com/s/CpYdqZ4XAW5vST8skm2g2Q)
+
+十、Go学堂
+
+1. [深入浅出Go泛型之泛型使用三步曲](https://mp.weixin.qq.com/s/1qtAMerSS3hqCLVlXf670Q)
+
+十一、CloudNativeCommunity
+
+1. [利用eBPF技术带来的可观测性的上帝视角：Kindling开源项目介绍](https://mp.weixin.qq.com/s/GWVjpUeInzrL3esftmlavQ)
+
+十二、Golang来啦
+
+1. [Go语言init函数你必须记住的六个特征](https://mp.weixin.qq.com/s/sko5Wr3t6usx4BHOl_zyrA)
+
+2. [Go错误集锦 | 通过示例理解数据竞争及竞争条件](https://mp.weixin.qq.com/s/BI_ZM__EdX6YH_E9yVOppg)
  go语言中文网(每日资讯)-2022-04-12
 # go-news-set-2022-04-12
 ## go语言中文网(每日资讯)-2022-04-12
